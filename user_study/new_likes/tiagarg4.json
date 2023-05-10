@@ -1,0 +1,2146 @@
+[
+      {
+            "author_id": "1327534237",
+            "created_at": "2023-04-26T03:00:01.000Z",
+            "id": "1651058520811266048",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/Fhb3wYaVxQ",
+                              "expanded_url": "https://twitter.com/GAAUDCOMPLEX/status/1651058520811266048/photo/1",
+                              "display_url": "pic.twitter.com/Fhb3wYaVxQ",
+                              "media_key": "3_1647358159642853377"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1651058520811266048"
+            ],
+            "public_metrics": {
+                  "retweet_count": 5711,
+                  "reply_count": 71,
+                  "like_count": 27388,
+                  "quote_count": 816,
+                  "impression_count": 1006726
+            },
+            "text": "https://t.co/Fhb3wYaVxQ"
+      },
+      {
+            "author_id": "1410283810822889474",
+            "created_at": "2023-04-25T09:41:49.000Z",
+            "id": "1650797249654587394",
+            "edit_history_tweet_ids": [
+                  "1650797249654587394"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 190
+            },
+            "text": "leher ne macha di keher"
+      },
+      {
+            "author_id": "1280351738453585920",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 15,
+                              "end": 21,
+                              "probability": 0.3802,
+                              "type": "Other",
+                              "normalized_text": "Ashokan"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-25T09:15:40.000Z",
+            "id": "1650790670758453248",
+            "edit_history_tweet_ids": [
+                  "1650790670758453248"
+            ],
+            "public_metrics": {
+                  "retweet_count": 4,
+                  "reply_count": 3,
+                  "like_count": 59,
+                  "quote_count": 0,
+                  "impression_count": 1679
+            },
+            "text": "Maybe the real Ashokan politics are the friends we made along the... oh wait"
+      },
+      {
+            "author_id": "355004582",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 74,
+                              "end": 81,
+                              "probability": 0.8568,
+                              "type": "Place",
+                              "normalized_text": "takshila"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 86,
+                              "end": 109,
+                              "url": "https://t.co/fEzlqopGMi",
+                              "expanded_url": "https://twitter.com/ananyaamdn/status/1650772087861297152",
+                              "display_url": "twitter.com/ananyaamdn/sta\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1650772087861297152"
+                  }
+            ],
+            "created_at": "2023-04-25T08:39:13.000Z",
+            "id": "1650781495236370432",
+            "edit_history_tweet_ids": [
+                  "1650781495236370432"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 22,
+                  "quote_count": 0,
+                  "impression_count": 1507
+            },
+            "text": "all friend groups please plan a grand collusion on Saturday at 7:30 pm in takshila pl https://t.co/fEzlqopGMi"
+      },
+      {
+            "author_id": "1281915721988091905",
+            "created_at": "2023-04-24T19:48:56.000Z",
+            "id": "1650587650083127296",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 37,
+                              "end": 60,
+                              "url": "https://t.co/vveNyJqGbv",
+                              "expanded_url": "https://twitter.com/politcult9/status/1650587650083127296/photo/1",
+                              "display_url": "pic.twitter.com/vveNyJqGbv",
+                              "media_key": "3_1650587643766341633"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650587650083127296"
+            ],
+            "public_metrics": {
+                  "retweet_count": 4,
+                  "reply_count": 0,
+                  "like_count": 43,
+                  "quote_count": 1,
+                  "impression_count": 1605
+            },
+            "text": "Photos taken moments before Disaster https://t.co/vveNyJqGbv"
+      },
+      {
+            "author_id": "1378763124996665345",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 13,
+                              "end": 24,
+                              "probability": 0.3859,
+                              "type": "Other",
+                              "normalized_text": "FC Pineapple"
+                        },
+                        {
+                              "start": 34,
+                              "end": 48,
+                              "probability": 0.4917,
+                              "type": "Other",
+                              "normalized_text": "Red Challengers"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-24T19:28:34.000Z",
+            "id": "1650582522529742849",
+            "edit_history_tweet_ids": [
+                  "1650582522529742849"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 15,
+                  "quote_count": 0,
+                  "impression_count": 326
+            },
+            "text": "Bros... Even FC Pineapple lost to Red Challengers at APL\ud83d\ude22\ud83d\ude22 doesn't mean we channel our anger into a gotcha email \ud83e\udd23\ud83d\ude4f"
+      },
+      {
+            "author_id": "1193534280774770688",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 10,
+                              "end": 11,
+                              "probability": 0.3308,
+                              "type": "Other",
+                              "normalized_text": "sg"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 48,
+                              "end": 71,
+                              "url": "https://t.co/8OUcwWcJiS",
+                              "expanded_url": "https://twitter.com/nokia_theater/status/1650580750138310658/photo/1",
+                              "display_url": "pic.twitter.com/8OUcwWcJiS",
+                              "media_key": "3_1650580696061321216"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-24T19:21:31.000Z",
+            "id": "1650580750138310658",
+            "edit_history_tweet_ids": [
+                  "1650580750138310658"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 15,
+                  "quote_count": 1,
+                  "impression_count": 671
+            },
+            "text": "member of sg caught doing their job, appalling. https://t.co/8OUcwWcJiS"
+      },
+      {
+            "author_id": "1193534280774770688",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1650567397315862529"
+                  }
+            ],
+            "created_at": "2023-04-24T19:03:08.000Z",
+            "id": "1650576122659102722",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 88,
+                              "end": 111,
+                              "url": "https://t.co/7BO9GvNp24",
+                              "expanded_url": "https://twitter.com/ComradeVT/status/1650567397315862529",
+                              "display_url": "twitter.com/ComradeVT/stat\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650576122659102722"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 533
+            },
+            "text": "guys this one was not us i promise damn funny though appreciate whoever this was my man https://t.co/7BO9GvNp24"
+      },
+      {
+            "author_id": "1650563894757449728",
+            "created_at": "2023-04-24T18:40:04.000Z",
+            "id": "1650570317872390146",
+            "edit_history_tweet_ids": [
+                  "1650570317872390146"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 22,
+                  "quote_count": 0,
+                  "impression_count": 1124
+            },
+            "text": "guys,,, some employers also please stalk our linkedins no"
+      },
+      {
+            "author_id": "1094164896663719938",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 4,
+                              "probability": 0.4245,
+                              "type": "Person",
+                              "normalized_text": "Leher"
+                        },
+                        {
+                              "start": 30,
+                              "end": 34,
+                              "probability": 0.4925,
+                              "type": "Organization",
+                              "normalized_text": "CSSEC"
+                        },
+                        {
+                              "start": 72,
+                              "end": 76,
+                              "probability": 0.5458,
+                              "type": "Person",
+                              "normalized_text": "leher"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 113,
+                              "end": 136,
+                              "url": "https://t.co/lrkzBTQZ3G",
+                              "expanded_url": "https://twitter.com/kri_xlsx/status/1650559101427126272/photo/1",
+                              "display_url": "pic.twitter.com/lrkzBTQZ3G",
+                              "media_key": "3_1650559076760453121"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-24T17:55:30.000Z",
+            "id": "1650559101427126272",
+            "edit_history_tweet_ids": [
+                  "1650559101427126272"
+            ],
+            "public_metrics": {
+                  "retweet_count": 4,
+                  "reply_count": 3,
+                  "like_count": 48,
+                  "quote_count": 2,
+                  "impression_count": 3503
+            },
+            "text": "Leher man seen colluding with CSSEC rep\u2026 there is no democracy, what if leher is able to protect its club status https://t.co/lrkzBTQZ3G"
+      },
+      {
+            "author_id": "1135424143493439490",
+            "created_at": "2023-04-24T16:39:07.000Z",
+            "id": "1650539877941882906",
+            "edit_history_tweet_ids": [
+                  "1650539877941882906"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 19,
+                  "quote_count": 0,
+                  "impression_count": 540
+            },
+            "text": "Engaging in some collusion, who wants to join?"
+      },
+      {
+            "author_id": "792362352",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 13,
+                              "probability": 0.9714,
+                              "type": "Person",
+                              "normalized_text": "Tucker Carlson"
+                        },
+                        {
+                              "start": 74,
+                              "end": 78,
+                              "probability": 0.6592,
+                              "type": "Person",
+                              "normalized_text": "Leher"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-24T16:35:21.000Z",
+            "id": "1650538932709339149",
+            "edit_history_tweet_ids": [
+                  "1650538932709339149"
+            ],
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 1,
+                  "like_count": 26,
+                  "quote_count": 0,
+                  "impression_count": 583
+            },
+            "text": "Tucker Carlson left fox news to focus on making conspiracy theories about Leher"
+      },
+      {
+            "author_id": "4238205012",
+            "created_at": "2023-04-22T16:06:19.000Z",
+            "id": "1649806851398160390",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 21,
+                              "end": 44,
+                              "url": "https://t.co/0MvMkJVO7P",
+                              "expanded_url": "https://twitter.com/harihar_goswami/status/1649806851398160390/photo/1",
+                              "display_url": "pic.twitter.com/0MvMkJVO7P",
+                              "media_key": "3_1649806837573722113"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1649806851398160390"
+            ],
+            "public_metrics": {
+                  "retweet_count": 665,
+                  "reply_count": 56,
+                  "like_count": 6141,
+                  "quote_count": 80,
+                  "impression_count": 195146
+            },
+            "text": "LADIES AND GENTLEMEN https://t.co/0MvMkJVO7P"
+      },
+      {
+            "author_id": "815182352385077248",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1649724981012725760"
+                  }
+            ],
+            "created_at": "2023-04-23T14:01:45.000Z",
+            "id": "1650137891199422464",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 133,
+                              "end": 156,
+                              "url": "https://t.co/cJp33RwWbK",
+                              "expanded_url": "https://twitter.com/vidharmi/status/1649724981012725760",
+                              "display_url": "twitter.com/vidharmi/statu\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650137891199422464"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 74,
+                  "quote_count": 1,
+                  "impression_count": 5504
+            },
+            "text": "Me being scared to go out in a city that I have lived for 18 years because it reminds me of a man I knew for 2 years all the time \ud83d\udc4d\ud83c\udffb https://t.co/cJp33RwWbK"
+      },
+      {
+            "author_id": "762799939395158016",
+            "created_at": "2023-04-23T17:21:37.000Z",
+            "id": "1650188185870163970",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/1ibH3ZnCDg",
+                              "expanded_url": "https://twitter.com/WholesomeMeme/status/1650188185870163970/photo/1",
+                              "display_url": "pic.twitter.com/1ibH3ZnCDg",
+                              "media_key": "3_1650188143327338496"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650188185870163970"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1323,
+                  "reply_count": 24,
+                  "like_count": 11560,
+                  "quote_count": 49,
+                  "impression_count": 426824
+            },
+            "text": "https://t.co/1ibH3ZnCDg"
+      },
+      {
+            "author_id": "1264992884316610562",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 13,
+                              "probability": 0.938,
+                              "type": "Person",
+                              "normalized_text": "olivia rodrigo"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 25,
+                              "end": 48,
+                              "url": "https://t.co/nM7xaiCV0F",
+                              "expanded_url": "https://twitter.com/thesadbaby/status/1650209170195447811/photo/1",
+                              "display_url": "pic.twitter.com/nM7xaiCV0F",
+                              "media_key": "3_1649944456194301953"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-23T18:45:00.000Z",
+            "id": "1650209170195447811",
+            "edit_history_tweet_ids": [
+                  "1650209170195447811"
+            ],
+            "public_metrics": {
+                  "retweet_count": 431,
+                  "reply_count": 3,
+                  "like_count": 2173,
+                  "quote_count": 14,
+                  "impression_count": 106329
+            },
+            "text": "olivia rodrigo / traitor https://t.co/nM7xaiCV0F"
+      },
+      {
+            "author_id": "3129806996",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1648767653673324544"
+                  }
+            ],
+            "created_at": "2023-04-20T09:32:26.000Z",
+            "id": "1648982950871207936",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 41,
+                              "end": 64,
+                              "url": "https://t.co/eEC3FmBhjC",
+                              "expanded_url": "https://twitter.com/mandycottncandy/status/1648982950871207936/photo/1",
+                              "display_url": "pic.twitter.com/eEC3FmBhjC",
+                              "media_key": "3_1648982941312196608"
+                        },
+                        {
+                              "start": 65,
+                              "end": 88,
+                              "url": "https://t.co/ZxBTbqZZMZ",
+                              "expanded_url": "https://twitter.com/nothingneuw/status/1648767653673324544",
+                              "display_url": "twitter.com/nothingneuw/st\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1648982950871207936"
+            ],
+            "public_metrics": {
+                  "retweet_count": 299,
+                  "reply_count": 37,
+                  "like_count": 2538,
+                  "quote_count": 81,
+                  "impression_count": 117346
+            },
+            "text": "never forget what they took away from us https://t.co/eEC3FmBhjC https://t.co/ZxBTbqZZMZ"
+      },
+      {
+            "author_id": "1379212119174836226",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 18,
+                              "end": 25,
+                              "probability": 0.8635,
+                              "type": "Other",
+                              "normalized_text": "WHATSAPP"
+                        },
+                        {
+                              "start": 49,
+                              "end": 53,
+                              "probability": 0.5808,
+                              "type": "Other",
+                              "normalized_text": "PIZZA"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-20T15:53:26.000Z",
+            "id": "1649078832463499264",
+            "edit_history_tweet_ids": [
+                  "1649078832463499264"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 211
+            },
+            "text": "IF I SEE ONE MORE WHATSAPP MESSAGE STARTING WITH PIZZA EMOJI\u2026"
+      },
+      {
+            "author_id": "2538322138",
+            "created_at": "2023-04-18T13:09:09.000Z",
+            "id": "1648312714421481473",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/NOI79A8twr",
+                              "expanded_url": "https://twitter.com/PicturesFoIder/status/1648312714421481473/photo/1",
+                              "display_url": "pic.twitter.com/NOI79A8twr",
+                              "media_key": "3_1648312709354762240"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1648312714421481473"
+            ],
+            "public_metrics": {
+                  "retweet_count": 16330,
+                  "reply_count": 65,
+                  "like_count": 80453,
+                  "quote_count": 699,
+                  "impression_count": 2744998
+            },
+            "text": "https://t.co/NOI79A8twr"
+      },
+      {
+            "author_id": "1273260969687429120",
+            "created_at": "2023-04-17T15:50:16.000Z",
+            "id": "1647990870501621760",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/VqXAWiYA7e",
+                              "expanded_url": "https://twitter.com/notgloh/status/1647990870501621760/photo/1",
+                              "display_url": "pic.twitter.com/VqXAWiYA7e",
+                              "media_key": "3_1647990863933448199"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1647990870501621760"
+            ],
+            "public_metrics": {
+                  "retweet_count": 3221,
+                  "reply_count": 32,
+                  "like_count": 15432,
+                  "quote_count": 242,
+                  "impression_count": 627246
+            },
+            "text": "https://t.co/VqXAWiYA7e"
+      },
+      {
+            "author_id": "2538322138",
+            "created_at": "2023-04-20T01:55:37.000Z",
+            "id": "1648867988123287552",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/KAV2wUIvgs",
+                              "expanded_url": "https://twitter.com/PicturesFoIder/status/1648867988123287552/photo/1",
+                              "display_url": "pic.twitter.com/KAV2wUIvgs",
+                              "media_key": "3_1648867982733606912"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1648867988123287552"
+            ],
+            "public_metrics": {
+                  "retweet_count": 59757,
+                  "reply_count": 177,
+                  "like_count": 295221,
+                  "quote_count": 1770,
+                  "impression_count": 8726655
+            },
+            "text": "https://t.co/KAV2wUIvgs"
+      },
+      {
+            "author_id": "1094164896663719938",
+            "created_at": "2023-04-20T03:43:00.000Z",
+            "id": "1648895013810749440",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 30,
+                              "end": 53,
+                              "url": "https://t.co/42DMh5KAYk",
+                              "expanded_url": "https://twitter.com/kri_xlsx/status/1648895013810749440/photo/1",
+                              "display_url": "pic.twitter.com/42DMh5KAYk",
+                              "media_key": "3_1648895002162917378"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1648895013810749440"
+            ],
+            "public_metrics": {
+                  "retweet_count": 3,
+                  "reply_count": 4,
+                  "like_count": 65,
+                  "quote_count": 3,
+                  "impression_count": 3571
+            },
+            "text": "What if I beat someone up huh https://t.co/42DMh5KAYk"
+      },
+      {
+            "author_id": "1647925825029943296",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 12,
+                              "end": 15,
+                              "probability": 0.5212,
+                              "type": "Other",
+                              "normalized_text": "nani"
+                        },
+                        {
+                              "start": 44,
+                              "end": 47,
+                              "probability": 0.9748,
+                              "type": "Other",
+                              "normalized_text": "ADHD"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 49,
+                              "end": 72,
+                              "url": "https://t.co/m4pU3vgrrV",
+                              "expanded_url": "https://twitter.com/Arsh1501/status/1648302101431480321/photo/1",
+                              "display_url": "pic.twitter.com/m4pU3vgrrV",
+                              "media_key": "3_1648302098793021445"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-18T12:26:59.000Z",
+            "id": "1648302101431480321",
+            "edit_history_tweet_ids": [
+                  "1648302101431480321"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 145
+            },
+            "text": "Whenever my nani tries to explain how i got ADHD https://t.co/m4pU3vgrrV"
+      },
+      {
+            "author_id": "1372449020677742597",
+            "created_at": "2023-04-17T19:09:19.000Z",
+            "id": "1648040962659352576",
+            "edit_history_tweet_ids": [
+                  "1648040962659352576"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 1,
+                  "impression_count": 480
+            },
+            "text": "The sheer look of shock that my friends and i give each other when the bill comes,,, like sure yes we totally did not order that 3rd LIIT that we did not need...."
+      },
+      {
+            "author_id": "1094164896663719938",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 54,
+                              "end": 64,
+                              "probability": 0.9668,
+                              "type": "Person",
+                              "normalized_text": "Andrew Tate"
+                        },
+                        {
+                              "start": 88,
+                              "end": 92,
+                              "probability": 0.295,
+                              "type": "Other",
+                              "normalized_text": "Macro"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-18T03:40:24.000Z",
+            "id": "1648169581977174017",
+            "edit_history_tweet_ids": [
+                  "1648169581977174017"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 285
+            },
+            "text": "I don\u2019t think we need policies to control people like Andrew Tate.\n- you guessed it, my Macro 8.30"
+      },
+      {
+            "author_id": "1276950699469873152",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 0,
+                              "probability": 0.4806,
+                              "type": "Other",
+                              "normalized_text": "j"
+                        },
+                        {
+                              "start": 7,
+                              "end": 12,
+                              "probability": 0.5286,
+                              "type": "Other",
+                              "normalized_text": "ashoka"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-17T12:16:13.000Z",
+            "id": "1647937005022740480",
+            "edit_history_tweet_ids": [
+                  "1647937005022740480"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 164
+            },
+            "text": "j need ashoka to have a gossip girl only for the spotted feature so i know where certain people when and i know which places to avoid\ud83d\ude1d"
+      },
+      {
+            "author_id": "1644885735927947266",
+            "created_at": "2023-04-15T21:37:08.000Z",
+            "id": "1647353388341002240",
+            "edit_history_tweet_ids": [
+                  "1647353388341002240"
+            ],
+            "public_metrics": {
+                  "retweet_count": 442,
+                  "reply_count": 55,
+                  "like_count": 2335,
+                  "quote_count": 86,
+                  "impression_count": 82338
+            },
+            "text": "the feminine urge to cry in his arms when he's the reason ur crying in the first place :)"
+      },
+      {
+            "author_id": "1434543125528137735",
+            "created_at": "2023-04-16T14:30:33.000Z",
+            "id": "1647608420479156225",
+            "edit_history_tweet_ids": [
+                  "1647608420479156225"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 838
+            },
+            "text": "why do i feel like yhe most awful person alive 3 days before my periods"
+      },
+      {
+            "author_id": "1628120201102503936",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 57,
+                              "end": 68,
+                              "probability": 0.9363,
+                              "type": "Other",
+                              "normalized_text": "Disdean List"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-14T19:17:37.000Z",
+            "id": "1646955887125487617",
+            "edit_history_tweet_ids": [
+                  "1646955887125487617"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 283
+            },
+            "text": "Grades so low that this semester I am gonna make to the \"Disdean List\""
+      },
+      {
+            "author_id": "1500080032806760448",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 11,
+                              "end": 16,
+                              "probability": 0.5772,
+                              "type": "Person",
+                              "normalized_text": "clairo"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-14T14:15:24.000Z",
+            "id": "1646879831764750338",
+            "edit_history_tweet_ids": [
+                  "1646879831764750338"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 256
+            },
+            "text": "feeling so clairo pretty girl today"
+      },
+      {
+            "author_id": "1321517897361940485",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 18,
+                              "end": 22,
+                              "probability": 0.7751,
+                              "type": "Other",
+                              "normalized_text": "sushi"
+                        },
+                        {
+                              "start": 28,
+                              "end": 33,
+                              "probability": 0.6703,
+                              "type": "Other",
+                              "normalized_text": "kimbap"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-14T14:02:02.000Z",
+            "id": "1646876468356558849",
+            "edit_history_tweet_ids": [
+                  "1646876468356558849"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 251
+            },
+            "text": "all those who say sushi and kimbap are the same should go to hell\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e"
+      },
+      {
+            "author_id": "1568728392186605568",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 4,
+                              "end": 8,
+                              "probability": 0.5122,
+                              "type": "Other",
+                              "normalized_text": "dhaba"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-14T12:32:48.000Z",
+            "id": "1646854014234136579",
+            "edit_history_tweet_ids": [
+                  "1646854014234136579"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 131
+            },
+            "text": "the dhaba and the whatever\u2026 my favourite line of the day"
+      },
+      {
+            "author_id": "2538322138",
+            "created_at": "2023-04-13T01:54:15.000Z",
+            "id": "1646330930494337025",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/PjqKcAU6TD",
+                              "expanded_url": "https://twitter.com/PicturesFoIder/status/1646330930494337025/photo/1",
+                              "display_url": "pic.twitter.com/PjqKcAU6TD",
+                              "media_key": "3_1646330926027112450"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1646330930494337025"
+            ],
+            "public_metrics": {
+                  "retweet_count": 12823,
+                  "reply_count": 408,
+                  "like_count": 108781,
+                  "quote_count": 1330,
+                  "impression_count": 2748251
+            },
+            "text": "https://t.co/PjqKcAU6TD"
+      },
+      {
+            "author_id": "1542794388517949440",
+            "created_at": "2023-04-13T08:32:10.000Z",
+            "id": "1646431068671864832",
+            "edit_history_tweet_ids": [
+                  "1646431068671864832"
+            ],
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 0,
+                  "like_count": 16,
+                  "quote_count": 0,
+                  "impression_count": 385
+            },
+            "text": "maybe if you weren\u2019t so hell bent on taking so many people we\u2019d have space to seat our parents inside the venue for convocation"
+      },
+      {
+            "author_id": "1186597971841830912",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 11,
+                              "end": 23,
+                              "probability": 0.5169,
+                              "type": "Other",
+                              "normalized_text": "power rangers"
+                        },
+                        {
+                              "start": 25,
+                              "end": 27,
+                              "probability": 0.3172,
+                              "type": "Other",
+                              "normalized_text": "spd"
+                        },
+                        {
+                              "start": 33,
+                              "end": 39,
+                              "probability": 0.8007,
+                              "type": "Other",
+                              "normalized_text": "samurai"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-12T19:00:05.000Z",
+            "id": "1646226698818711554",
+            "edit_history_tweet_ids": [
+                  "1646226698818711554"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 146
+            },
+            "text": "Missing my power rangers spd and samurai era"
+      },
+      {
+            "author_id": "792362352",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 1,
+                              "end": 6,
+                              "probability": 0.9641,
+                              "type": "Person",
+                              "normalized_text": "Hitler"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 40,
+                              "end": 63,
+                              "url": "https://t.co/3ph6I0OfXI",
+                              "expanded_url": "https://twitter.com/suyogj13/status/1646033756401307648/photo/1",
+                              "display_url": "pic.twitter.com/3ph6I0OfXI",
+                              "media_key": "3_1646033745630179328"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-12T06:13:24.000Z",
+            "id": "1646033756401307648",
+            "edit_history_tweet_ids": [
+                  "1646033756401307648"
+            ],
+            "public_metrics": {
+                  "retweet_count": 302,
+                  "reply_count": 145,
+                  "like_count": 2766,
+                  "quote_count": 396,
+                  "impression_count": 817966
+            },
+            "text": "\"Hitler was an evil man, but who isn't\" https://t.co/3ph6I0OfXI"
+      },
+      {
+            "author_id": "1117457338737127424",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 33,
+                              "end": 39,
+                              "probability": 0.5357,
+                              "type": "Other",
+                              "normalized_text": "marwari"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 148,
+                              "end": 171,
+                              "url": "https://t.co/eGJqcAVfwE",
+                              "expanded_url": "https://twitter.com/FilmUpdates/status/1645734498766815232",
+                              "display_url": "twitter.com/FilmUpdates/st\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1645734498766815232"
+                  }
+            ],
+            "created_at": "2023-04-11T10:45:01.000Z",
+            "id": "1645739727117774848",
+            "edit_history_tweet_ids": [
+                  "1645739727117774848"
+            ],
+            "public_metrics": {
+                  "retweet_count": 6,
+                  "reply_count": 3,
+                  "like_count": 71,
+                  "quote_count": 0,
+                  "impression_count": 3606
+            },
+            "text": "when you have not spoken to that marwari girl in school for years, and then one fine morning you see a post, that she is about to get married at 19 https://t.co/eGJqcAVfwE"
+      },
+      {
+            "author_id": "2475313866",
+            "created_at": "2023-04-11T07:34:48.000Z",
+            "id": "1645691853704970240",
+            "edit_history_tweet_ids": [
+                  "1645691853704970240"
+            ],
+            "public_metrics": {
+                  "retweet_count": 95,
+                  "reply_count": 30,
+                  "like_count": 1162,
+                  "quote_count": 22,
+                  "impression_count": 81028
+            },
+            "text": "I've always been a \"date\" type of person. I remember the date I first spoke to my boyfriend on the phone, when I broke up with a long-time partner, when someone I liked told me they liked me back, &amp; like clockwork, my body tells me it's that same date, w/o looking at a calendar."
+      },
+      {
+            "author_id": "1315290910133948418",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1351027665982156805"
+                  }
+            ],
+            "created_at": "2023-04-09T17:47:22.000Z",
+            "id": "1645121236413071365",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 5,
+                              "end": 28,
+                              "url": "https://t.co/ah8tsIw7aX",
+                              "expanded_url": "https://twitter.com/kuchtheeknahihe/status/1645121236413071365/photo/1",
+                              "display_url": "pic.twitter.com/ah8tsIw7aX",
+                              "media_key": "3_1645121229236600833"
+                        },
+                        {
+                              "start": 5,
+                              "end": 28,
+                              "url": "https://t.co/ah8tsIw7aX",
+                              "expanded_url": "https://twitter.com/kuchtheeknahihe/status/1645121236413071365/photo/1",
+                              "display_url": "pic.twitter.com/ah8tsIw7aX",
+                              "media_key": "3_1645121233686786048"
+                        },
+                        {
+                              "start": 29,
+                              "end": 52,
+                              "url": "https://t.co/nZC9VZMFPr",
+                              "expanded_url": "https://twitter.com/meItingbytwice/status/1351027665982156805",
+                              "display_url": "twitter.com/meItingbytwice\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1645121236413071365"
+            ],
+            "public_metrics": {
+                  "retweet_count": 180,
+                  "reply_count": 36,
+                  "like_count": 3027,
+                  "quote_count": 21,
+                  "impression_count": 121928
+            },
+            "text": "Them https://t.co/ah8tsIw7aX https://t.co/nZC9VZMFPr"
+      },
+      {
+            "author_id": "1275849875284881413",
+            "created_at": "2023-04-10T12:44:38.000Z",
+            "id": "1645407440232431619",
+            "edit_history_tweet_ids": [
+                  "1645407440232431619"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 15,
+                  "quote_count": 0,
+                  "impression_count": 471
+            },
+            "text": "\"DID YOU SLEEP WITH HIM JUST BECAUSE YOU WERE BORED?!\" \n\"YESSSSS!\""
+      },
+      {
+            "author_id": "1567518667503435778",
+            "created_at": "2023-04-08T17:41:54.000Z",
+            "id": "1644757473486598149",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 105,
+                              "end": 128,
+                              "url": "https://t.co/EuW3CdHPMI",
+                              "expanded_url": "https://twitter.com/mickeywon234/status/1644757473486598149/photo/1",
+                              "display_url": "pic.twitter.com/EuW3CdHPMI",
+                              "media_key": "3_1644757470160601089"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1644757473486598149"
+            ],
+            "public_metrics": {
+                  "retweet_count": 940,
+                  "reply_count": 26,
+                  "like_count": 4011,
+                  "quote_count": 83,
+                  "impression_count": 201001
+            },
+            "text": "after venting do you ever just sit back and think like \u201cI shoulda kept that to myself\u201d or are you normal https://t.co/EuW3CdHPMI"
+      },
+      {
+            "author_id": "1642711684681695237",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1644644270538895361"
+                  }
+            ],
+            "created_at": "2023-04-08T15:49:02.000Z",
+            "id": "1644729068170932225",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 55,
+                              "end": 78,
+                              "url": "https://t.co/FvJFXaJJyL",
+                              "expanded_url": "https://twitter.com/lunefa1ry/status/1644729068170932225/photo/1",
+                              "display_url": "pic.twitter.com/FvJFXaJJyL",
+                              "media_key": "3_1644729061976014848"
+                        },
+                        {
+                              "start": 79,
+                              "end": 102,
+                              "url": "https://t.co/6bPRaBRK7I",
+                              "expanded_url": "https://twitter.com/kh666ra/status/1644644270538895361",
+                              "display_url": "twitter.com/kh666ra/status\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1644729068170932225"
+            ],
+            "public_metrics": {
+                  "retweet_count": 63,
+                  "reply_count": 4,
+                  "like_count": 951,
+                  "quote_count": 1,
+                  "impression_count": 36395
+            },
+            "text": "me when i use public transport and the public is there https://t.co/FvJFXaJJyL https://t.co/6bPRaBRK7I"
+      },
+      {
+            "author_id": "720631278479904769",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 122,
+                              "end": 127,
+                              "probability": 0.7501,
+                              "type": "Other",
+                              "normalized_text": "ashoka"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-07T07:46:44.000Z",
+            "id": "1644245305162883072",
+            "edit_history_tweet_ids": [
+                  "1644245305162883072"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 16,
+                  "quote_count": 0,
+                  "impression_count": 1115
+            },
+            "text": "campus had such wholesome vibes yesterday ngl- saw people carrying/giving roses the entire day and it was all sooo cute!! ashoka could really do with more ideas like these &lt;3"
+      },
+      {
+            "author_id": "1094164896663719938",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643830591211864069"
+                  }
+            ],
+            "created_at": "2023-04-06T04:22:05.000Z",
+            "id": "1643831416348884993",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 71,
+                              "end": 94,
+                              "url": "https://t.co/kxBdosXEyR",
+                              "expanded_url": "https://twitter.com/kri_xlsx/status/1643830591211864069",
+                              "display_url": "twitter.com/kri_xlsx/statu\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1643831416348884993"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 365
+            },
+            "text": "Breaking down about how ppl in clubs don\u2019t work in front of full class https://t.co/kxBdosXEyR"
+      },
+      {
+            "author_id": "1094164896663719938",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 4,
+                              "probability": 0.6948,
+                              "type": "Other",
+                              "normalized_text": "Macro"
+                        },
+                        {
+                              "start": 76,
+                              "end": 81,
+                              "probability": 0.4559,
+                              "type": "Place",
+                              "normalized_text": "ashoka"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-06T04:18:48.000Z",
+            "id": "1643830591211864069",
+            "edit_history_tweet_ids": [
+                  "1643830591211864069"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 14,
+                  "quote_count": 1,
+                  "impression_count": 900
+            },
+            "text": "Macro 8.30 today 1 hour of discussion about how the clubs and soc system in ashoka is broken and why being a head of one is a thankless job- girl my fav class this sem I\u2019ve never been this active in class have sm to say"
+      },
+      {
+            "author_id": "1276220180",
+            "created_at": "2023-04-05T13:16:28.000Z",
+            "id": "1643603513568825344",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/luuzxT47aq",
+                              "expanded_url": "https://twitter.com/northstardoll/status/1643603513568825344/photo/1",
+                              "display_url": "pic.twitter.com/luuzxT47aq",
+                              "media_key": "3_1643603507172311042"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1643603513568825344"
+            ],
+            "public_metrics": {
+                  "retweet_count": 34203,
+                  "reply_count": 231,
+                  "like_count": 225090,
+                  "quote_count": 2688,
+                  "impression_count": 5070181
+            },
+            "text": "https://t.co/luuzxT47aq"
+      },
+      {
+            "author_id": "1628120201102503936",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1630399767225434113"
+                  }
+            ],
+            "created_at": "2023-04-04T14:24:04.000Z",
+            "id": "1643258134084067329",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 21,
+                              "end": 44,
+                              "url": "https://t.co/kBdgaUOKVv",
+                              "expanded_url": "https://twitter.com/wtfbhumika/status/1630399767225434113",
+                              "display_url": "twitter.com/wtfbhumika/sta\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1643258134084067329"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 9,
+                  "like_count": 100,
+                  "quote_count": 0,
+                  "impression_count": 8462
+            },
+            "text": "THIS GOT ACCEPTED!!! https://t.co/kBdgaUOKVv"
+      },
+      {
+            "author_id": "1542794388517949440",
+            "created_at": "2023-04-04T13:04:47.000Z",
+            "id": "1643238181775589379",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 207,
+                              "end": 230,
+                              "url": "https://t.co/FoUydja5oG",
+                              "expanded_url": "https://twitter.com/eatheritz/status/1643238181775589379/photo/1",
+                              "display_url": "pic.twitter.com/FoUydja5oG",
+                              "media_key": "3_1643238160237834240"
+                        },
+                        {
+                              "start": 207,
+                              "end": 230,
+                              "url": "https://t.co/FoUydja5oG",
+                              "expanded_url": "https://twitter.com/eatheritz/status/1643238181775589379/photo/1",
+                              "display_url": "pic.twitter.com/FoUydja5oG",
+                              "media_key": "3_1643238160208474115"
+                        },
+                        {
+                              "start": 207,
+                              "end": 230,
+                              "url": "https://t.co/FoUydja5oG",
+                              "expanded_url": "https://twitter.com/eatheritz/status/1643238181775589379/photo/1",
+                              "display_url": "pic.twitter.com/FoUydja5oG",
+                              "media_key": "3_1643238160195899394"
+                        },
+                        {
+                              "start": 207,
+                              "end": 230,
+                              "url": "https://t.co/FoUydja5oG",
+                              "expanded_url": "https://twitter.com/eatheritz/status/1643238181775589379/photo/1",
+                              "display_url": "pic.twitter.com/FoUydja5oG",
+                              "media_key": "3_1643238160216780800"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1643238181775589379"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 6,
+                  "like_count": 39,
+                  "quote_count": 0,
+                  "impression_count": 982
+            },
+            "text": "finally finished the conference, and i have a whole list of people to thank; starting with my beautiful co-president (and i wouldn\u2019t have had anyone else in her place) \u2014 but for now, i\u2019m going to take a nap https://t.co/FoUydja5oG"
+      },
+      {
+            "author_id": "1545099789741789185",
+            "created_at": "2023-04-03T17:05:06.000Z",
+            "id": "1642936272153985028",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/pD3eWefRg5",
+                              "expanded_url": "https://twitter.com/notyoursofc/status/1642936272153985028/photo/1",
+                              "display_url": "pic.twitter.com/pD3eWefRg5",
+                              "media_key": "3_1642936257364869138"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1642936272153985028"
+            ],
+            "public_metrics": {
+                  "retweet_count": 262,
+                  "reply_count": 9,
+                  "like_count": 1174,
+                  "quote_count": 11,
+                  "impression_count": 50564
+            },
+            "text": "https://t.co/pD3eWefRg5"
+      },
+      {
+            "author_id": "1200931203534082049",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 16,
+                              "end": 19,
+                              "probability": 0.5721,
+                              "type": "Other",
+                              "normalized_text": "Desi"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 77,
+                              "end": 100,
+                              "url": "https://t.co/NgdlJfnv4i",
+                              "expanded_url": "https://twitter.com/reereerantz/status/1642201671810809859",
+                              "display_url": "twitter.com/reereerantz/st\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1642201671810809859"
+                  }
+            ],
+            "created_at": "2023-04-02T02:57:43.000Z",
+            "id": "1642360634540183552",
+            "edit_history_tweet_ids": [
+                  "1642360634540183552"
+            ],
+            "public_metrics": {
+                  "retweet_count": 839,
+                  "reply_count": 45,
+                  "like_count": 9348,
+                  "quote_count": 81,
+                  "impression_count": 754268
+            },
+            "text": "I\u2019m sorry but a Desi woman at a  random wedding will outdo them both lmaoooo https://t.co/NgdlJfnv4i"
+      },
+      {
+            "author_id": "1557638496780570625",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 33,
+                              "probability": 0.6499,
+                              "type": "Other",
+                              "normalized_text": "Nita Mukesh Ambani Cultural Center"
+                        },
+                        {
+                              "start": 45,
+                              "end": 66,
+                              "probability": 0.5922,
+                              "type": "Other",
+                              "normalized_text": "Anna Delvey Foundation"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-03T13:08:20.000Z",
+            "id": "1642876690492960773",
+            "edit_history_tweet_ids": [
+                  "1642876690492960773"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 152
+            },
+            "text": "Nita Mukesh Ambani Cultural Center is giving Anna Delvey Foundation"
+      },
+      {
+            "author_id": "3940542629",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1642230816846626818"
+                  }
+            ],
+            "created_at": "2023-04-01T23:11:58.000Z",
+            "id": "1642303820611846144",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 15,
+                              "end": 38,
+                              "url": "https://t.co/nu52xCfesC",
+                              "expanded_url": "https://twitter.com/__transponster/status/1642230816846626818",
+                              "display_url": "twitter.com/__transponster\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1642303820611846144"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1554,
+                  "reply_count": 54,
+                  "like_count": 9651,
+                  "quote_count": 111,
+                  "impression_count": 446341
+            },
+            "text": "tom shanti tom https://t.co/nu52xCfesC"
+      },
+      {
+            "author_id": "792011650706530306",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 11,
+                              "end": 12,
+                              "probability": 0.4996,
+                              "type": "Other",
+                              "normalized_text": "of"
+                        },
+                        {
+                              "start": 14,
+                              "end": 20,
+                              "probability": 0.4031,
+                              "type": "Other",
+                              "normalized_text": "madness"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 26,
+                              "end": 49,
+                              "url": "https://t.co/sLrdtUhNYj",
+                              "expanded_url": "https://twitter.com/sprihaxx/status/1642449287677378561/photo/1",
+                              "display_url": "pic.twitter.com/sLrdtUhNYj",
+                              "media_key": "3_1642449284342874112"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-02T08:50:00.000Z",
+            "id": "1642449287677378561",
+            "edit_history_tweet_ids": [
+                  "1642449287677378561"
+            ],
+            "public_metrics": {
+                  "retweet_count": 6362,
+                  "reply_count": 96,
+                  "like_count": 29705,
+                  "quote_count": 845,
+                  "impression_count": 1022705
+            },
+            "text": "multiverse of madness omg https://t.co/sLrdtUhNYj"
+      },
+      {
+            "author_id": "721918907787931648",
+            "created_at": "2023-03-30T05:46:38.000Z",
+            "id": "1641315982239989760",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/iFt2M0k8AO",
+                              "expanded_url": "https://twitter.com/ScenesFilms/status/1641315982239989760/photo/1",
+                              "display_url": "pic.twitter.com/iFt2M0k8AO",
+                              "media_key": "3_1641315978746249216"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1641315982239989760"
+            ],
+            "public_metrics": {
+                  "retweet_count": 22885,
+                  "reply_count": 188,
+                  "like_count": 96711,
+                  "quote_count": 946,
+                  "impression_count": 5093200
+            },
+            "text": "https://t.co/iFt2M0k8AO"
+      },
+      {
+            "author_id": "1094164896663719938",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 14,
+                              "end": 22,
+                              "probability": 0.4974,
+                              "type": "Other",
+                              "normalized_text": "Haryanvis"
+                        },
+                        {
+                              "start": 83,
+                              "end": 86,
+                              "probability": 0.4581,
+                              "type": "Other",
+                              "normalized_text": "saha"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-30T03:59:15.000Z",
+            "id": "1641288956624134144",
+            "edit_history_tweet_ids": [
+                  "1641288956624134144"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 196
+            },
+            "text": "\u201cMexican food Haryanvis can\u2019t make. You have to train them to make Mexican food.\u201d\n-saha, 8.30 macro"
+      },
+      {
+            "author_id": "1498995800906809345",
+            "created_at": "2023-03-28T08:35:29.000Z",
+            "id": "1640633698419900416",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 63,
+                              "end": 86,
+                              "url": "https://t.co/WTZeH1rRAG",
+                              "expanded_url": "https://twitter.com/soumyasayso/status/1640633698419900416/photo/1",
+                              "display_url": "pic.twitter.com/WTZeH1rRAG",
+                              "media_key": "3_1640633691108958210"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1640633698419900416"
+            ],
+            "public_metrics": {
+                  "retweet_count": 20,
+                  "reply_count": 4,
+                  "like_count": 166,
+                  "quote_count": 6,
+                  "impression_count": 4980
+            },
+            "text": "me and who god, who will i recreate art pieces in museums with https://t.co/WTZeH1rRAG"
+      },
+      {
+            "author_id": "1503112094903947265",
+            "created_at": "2023-03-26T23:56:04.000Z",
+            "id": "1640140593903828996",
+            "edit_history_tweet_ids": [
+                  "1640140593903828996"
+            ],
+            "public_metrics": {
+                  "retweet_count": 944,
+                  "reply_count": 5,
+                  "like_count": 4677,
+                  "quote_count": 76,
+                  "impression_count": 117273
+            },
+            "text": "it\u2019s always \u201ci like the sound of your laugh\u201d and never \u201cshe\u2019d laughed, and if he could have bottled the sound and gotten drunk on it every night, he would have.\u201d"
+      },
+      {
+            "author_id": "2358930084",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 7,
+                              "probability": 0.792,
+                              "type": "Other",
+                              "normalized_text": "manchala"
+                        },
+                        {
+                              "start": 14,
+                              "end": 29,
+                              "probability": 0.7964,
+                              "type": "Other",
+                              "normalized_text": "hasee toh phasee"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-27T05:37:30.000Z",
+            "id": "1640226517467959296",
+            "edit_history_tweet_ids": [
+                  "1640226517467959296"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 167
+            },
+            "text": "manchala from hasee toh phasee is truly one of my favourite love songs \"khamoshiyon ki sooraton mein dhoondhe tera shor\" be serious!!!! that's love!!!!"
+      },
+      {
+            "author_id": "1545643138223443969",
+            "created_at": "2023-03-26T18:16:37.000Z",
+            "id": "1640055169219178496",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/Af8iTCfKMP",
+                              "expanded_url": "https://twitter.com/literallymecats/status/1640055169219178496/photo/1",
+                              "display_url": "pic.twitter.com/Af8iTCfKMP",
+                              "media_key": "3_1640055156242026496"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1640055169219178496"
+            ],
+            "public_metrics": {
+                  "retweet_count": 15426,
+                  "reply_count": 96,
+                  "like_count": 72515,
+                  "quote_count": 295,
+                  "impression_count": 1577171
+            },
+            "text": "https://t.co/Af8iTCfKMP"
+      },
+      {
+            "author_id": "1526941435513085953",
+            "created_at": "2023-03-26T16:46:25.000Z",
+            "id": "1640032466596663296",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/QCWHCVowz2",
+                              "expanded_url": "https://twitter.com/babyk33m_/status/1640032466596663296/photo/1",
+                              "display_url": "pic.twitter.com/QCWHCVowz2",
+                              "media_key": "3_1640032456102510593"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1640032466596663296"
+            ],
+            "public_metrics": {
+                  "retweet_count": 38,
+                  "reply_count": 16,
+                  "like_count": 630,
+                  "quote_count": 14,
+                  "impression_count": 26209
+            },
+            "text": "https://t.co/QCWHCVowz2"
+      },
+      {
+            "author_id": "1543040904101261313",
+            "created_at": "2023-03-24T11:06:11.000Z",
+            "id": "1639222071644258306",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 13,
+                              "end": 36,
+                              "url": "https://t.co/8MDeVvRycE",
+                              "expanded_url": "https://twitter.com/icarusnoor/status/1639222071644258306/photo/1",
+                              "display_url": "pic.twitter.com/8MDeVvRycE",
+                              "media_key": "3_1639222068259454977"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639222071644258306"
+            ],
+            "public_metrics": {
+                  "retweet_count": 311,
+                  "reply_count": 19,
+                  "like_count": 2032,
+                  "quote_count": 15,
+                  "impression_count": 58133
+            },
+            "text": "&gt;&gt;&gt; https://t.co/8MDeVvRycE"
+      },
+      {
+            "author_id": "721918907787931648",
+            "created_at": "2023-03-26T06:05:21.000Z",
+            "id": "1639871139332718593",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/3XyMQMzcmW",
+                              "expanded_url": "https://twitter.com/ScenesFilms/status/1639871139332718593/photo/1",
+                              "display_url": "pic.twitter.com/3XyMQMzcmW",
+                              "media_key": "3_1639871135293554690"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639871139332718593"
+            ],
+            "public_metrics": {
+                  "retweet_count": 4934,
+                  "reply_count": 67,
+                  "like_count": 22235,
+                  "quote_count": 313,
+                  "impression_count": 1125902
+            },
+            "text": "https://t.co/3XyMQMzcmW"
+      },
+      {
+            "author_id": "1619705188381761536",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 4,
+                              "end": 11,
+                              "probability": 0.6735,
+                              "type": "Other",
+                              "normalized_text": "banjaara"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-25T04:59:20.000Z",
+            "id": "1639492136029626373",
+            "edit_history_tweet_ids": [
+                  "1639492136029626373"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 152
+            },
+            "text": "can banjaara stop sending emails and jump scaring me because every time I look at my phone i'm like 'IS IT PROF BORAH' and it isn't, I go back to being anxious and waiting"
+      },
+      {
+            "author_id": "1538153792373334017",
+            "created_at": "2023-03-24T21:45:03.000Z",
+            "id": "1639382844442042370",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/jNgDKYsyae",
+                              "expanded_url": "https://twitter.com/cat_auras/status/1639382844442042370/photo/1",
+                              "display_url": "pic.twitter.com/jNgDKYsyae",
+                              "media_key": "3_1639382838771318786"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639382844442042370"
+            ],
+            "public_metrics": {
+                  "retweet_count": 11692,
+                  "reply_count": 227,
+                  "like_count": 105425,
+                  "quote_count": 398,
+                  "impression_count": 2789809
+            },
+            "text": "https://t.co/jNgDKYsyae"
+      },
+      {
+            "author_id": "1628120201102503936",
+            "created_at": "2023-03-24T11:58:58.000Z",
+            "id": "1639235353046564870",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 32,
+                              "end": 55,
+                              "url": "https://t.co/UN5gP9KWeo",
+                              "expanded_url": "https://twitter.com/wtfbhumika/status/1639235353046564870/photo/1",
+                              "display_url": "pic.twitter.com/UN5gP9KWeo",
+                              "media_key": "3_1639235350596820993"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639235353046564870"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 138
+            },
+            "text": "Professors to undergraduate TAs https://t.co/UN5gP9KWeo"
+      },
+      {
+            "author_id": "1628120201102503936",
+            "created_at": "2023-03-24T14:47:41.000Z",
+            "id": "1639277813088890886",
+            "edit_history_tweet_ids": [
+                  "1639277813088890886"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 160
+            },
+            "text": "Posting a dummy assignment for the exam on Classroom as a TA and not returning the grades for  hours is such a power move."
+      },
+      {
+            "author_id": "1035945632",
+            "created_at": "2023-03-23T07:06:07.000Z",
+            "id": "1638799269023952896",
+            "edit_history_tweet_ids": [
+                  "1638799269023952896"
+            ],
+            "public_metrics": {
+                  "retweet_count": 13469,
+                  "reply_count": 99,
+                  "like_count": 48301,
+                  "quote_count": 688,
+                  "impression_count": 1943362
+            },
+            "text": "\u2018I overplayed my part\u2019, \u2018I cared too much\u2019 no. you were simply being you: gentle &amp; thoughtful. someone was using you for their own benefit and you\u2019re trying to understand how you messed it up? you didn\u2019t. they didn\u2019t value you the way you valued them, and that\u2019s never your fault."
+      },
+      {
+            "author_id": "1510258954034900995",
+            "created_at": "2023-03-22T19:27:09.000Z",
+            "id": "1638623365119504384",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 39,
+                              "end": 62,
+                              "url": "https://t.co/3ElzBtqPpq",
+                              "expanded_url": "https://twitter.com/degrawdonut/status/1638623365119504384/photo/1",
+                              "display_url": "pic.twitter.com/3ElzBtqPpq",
+                              "media_key": "3_1638623357879869441"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1638623365119504384"
+            ],
+            "public_metrics": {
+                  "retweet_count": 196,
+                  "reply_count": 24,
+                  "like_count": 1528,
+                  "quote_count": 22,
+                  "impression_count": 43431
+            },
+            "text": "only this can fix my academic life now https://t.co/3ElzBtqPpq"
+      },
+      {
+            "author_id": "1017156369747767296",
+            "created_at": "2023-03-21T04:36:23.000Z",
+            "id": "1638036810894020613",
+            "edit_history_tweet_ids": [
+                  "1638036810894020613"
+            ],
+            "public_metrics": {
+                  "retweet_count": 5162,
+                  "reply_count": 245,
+                  "like_count": 36100,
+                  "quote_count": 875,
+                  "impression_count": 2205710
+            },
+            "text": "do u ever miss someone so much that u kinda just get mad at them? like why aren't you hanging out with me? why aren't you fighting your way through every obstacle to see me rn? do u hate me? do u want me to die????? explain this"
+      },
+      {
+            "author_id": "1094164896663719938",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 6,
+                              "probability": 0.4932,
+                              "type": "Other",
+                              "normalized_text": "Layoffs"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-21T04:25:57.000Z",
+            "id": "1638034186253778945",
+            "edit_history_tweet_ids": [
+                  "1638034186253778945"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 463
+            },
+            "text": "Layoffs are good\n- my 8.30am macro class"
+      },
+      {
+            "author_id": "1372440714764722176",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 65,
+                              "end": 76,
+                              "probability": 0.8243,
+                              "type": "Other",
+                              "normalized_text": "Google drive"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-19T19:48:09.000Z",
+            "id": "1637541486865555456",
+            "edit_history_tweet_ids": [
+                  "1637541486865555456"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 429
+            },
+            "text": "I genuinely, with everything in my heart, hate the new layout of Google drive and docs\nIT IS SO UGLY"
+      },
+      {
+            "author_id": "1490684785756237824",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 4,
+                              "probability": 0.6057,
+                              "type": "Other",
+                              "normalized_text": "Bazaz"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-17T12:36:13.000Z",
+            "id": "1636708012977971202",
+            "edit_history_tweet_ids": [
+                  "1636708012977971202"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 392
+            },
+            "text": "Bazaz dating advice was by far the best"
+      }
+]

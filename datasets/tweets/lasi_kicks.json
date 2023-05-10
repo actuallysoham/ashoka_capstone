@@ -1,0 +1,537 @@
+[
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 60
+            },
+            "id": "1646023076889632768",
+            "created_at": "2023-04-12T05:30:57.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 43,
+                              "end": 66,
+                              "url": "https://t.co/ysDnFgeAM8",
+                              "expanded_url": "https://twitter.com/Superspy_6_/status/1645860049724624924",
+                              "display_url": "twitter.com/Superspy_6_/st\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1646023076889632768"
+            ],
+            "text": "still the most infuriating shit in my life https://t.co/ysDnFgeAM8",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1645860049724624924"
+                  }
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 39
+            },
+            "id": "1640739756114956295",
+            "created_at": "2023-03-28T15:36:55.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 27,
+                              "end": 50,
+                              "url": "https://t.co/lXlJUEmR8x",
+                              "expanded_url": "https://twitter.com/orngejuicefan/status/1640628661211615232",
+                              "display_url": "twitter.com/orngejuicefan/\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1640739756114956295"
+            ],
+            "text": "Well this just made my day https://t.co/lXlJUEmR8x",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1640628661211615232"
+                  }
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 38
+            },
+            "id": "1634130991236407297",
+            "created_at": "2023-03-10T09:56:03.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 25,
+                              "end": 48,
+                              "url": "https://t.co/r3x18rk5SK",
+                              "expanded_url": "https://twitter.com/lasi_kicks/status/1634130991236407297/photo/1",
+                              "display_url": "pic.twitter.com/r3x18rk5SK",
+                              "media_key": "3_1634130936328515591"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1634130991236407297"
+            ],
+            "text": "Zack Snyder's Spider-Man https://t.co/r3x18rk5SK",
+            "author_id": "860233030413111296"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 17
+            },
+            "id": "1633187489019199489",
+            "created_at": "2023-03-07T19:26:55.000Z",
+            "edit_history_tweet_ids": [
+                  "1633187489019199489"
+            ],
+            "text": "What the fuck am I doing with my life fucking hell.",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1633186858246209538"
+                  }
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 26
+            },
+            "id": "1633186858246209538",
+            "created_at": "2023-03-07T19:24:24.000Z",
+            "edit_history_tweet_ids": [
+                  "1633186858246209538"
+            ],
+            "text": "Update: I got rejected.",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1632600272458457088"
+                  }
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 41
+            },
+            "id": "1632600272458457088",
+            "created_at": "2023-03-06T04:33:31.000Z",
+            "edit_history_tweet_ids": [
+                  "1632600272458457088"
+            ],
+            "text": "Okay so just had the first job interview of my life and fuck I hated that.",
+            "author_id": "860233030413111296"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 26
+            },
+            "id": "1631405448820826112",
+            "created_at": "2023-03-02T21:25:43.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 21,
+                              "end": 36,
+                              "probability": 0.746,
+                              "type": "Other",
+                              "normalized_text": "Dil to Pagal Hai"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1631405448820826112"
+            ],
+            "text": "Was listening to the Dil to Pagal Hai soundtrack at 3 am and gotta say, it's one of the best Bollywood soundtracks of all time.",
+            "author_id": "860233030413111296"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 42
+            },
+            "id": "1630076812372918274",
+            "created_at": "2023-02-27T05:26:12.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 5,
+                              "end": 7,
+                              "probability": 0.8522,
+                              "type": "Other",
+                              "normalized_text": "MCU"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 50,
+                              "end": 73,
+                              "url": "https://t.co/QBVhFcIH3m",
+                              "expanded_url": "https://twitter.com/scarlazywitch/status/1629479208568381440",
+                              "display_url": "twitter.com/scarlazywitch/\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1630076812372918274"
+            ],
+            "text": "Damn MCU fights used to be fucking beautiful huh? https://t.co/QBVhFcIH3m",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1629479208568381440"
+                  }
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 14
+            },
+            "id": "1623916610586284034",
+            "created_at": "2023-02-10T05:27:45.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 12,
+                              "end": 35,
+                              "url": "https://t.co/IrCHFrz3yT",
+                              "expanded_url": "https://twitter.com/GodzillaMendoza/status/1623825265661976579",
+                              "display_url": "twitter.com/GodzillaMendoz\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1623916610586284034"
+            ],
+            "text": "LESGOOOOOOO https://t.co/IrCHFrz3yT",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1623825265661976579"
+                  }
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 36
+            },
+            "id": "1621759125477806081",
+            "created_at": "2023-02-04T06:34:40.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 79,
+                              "end": 102,
+                              "url": "https://t.co/KjGXGHt2rD",
+                              "expanded_url": "https://twitter.com/CBR/status/1620909483009478657",
+                              "display_url": "twitter.com/CBR/status/162\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1621759125477806081"
+            ],
+            "text": "Having a brown guy be the smartest man on earth might be the best casting ever https://t.co/KjGXGHt2rD",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1620909483009478657"
+                  }
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 30
+            },
+            "id": "1620735907036016640",
+            "created_at": "2023-02-01T10:48:46.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 28,
+                              "end": 37,
+                              "probability": 0.9028,
+                              "type": "Person",
+                              "normalized_text": "JK Simmons"
+                        },
+                        {
+                              "start": 46,
+                              "end": 48,
+                              "probability": 0.7776,
+                              "type": "Person",
+                              "normalized_text": "JJJ"
+                        },
+                        {
+                              "start": 75,
+                              "end": 88,
+                              "probability": 0.9704,
+                              "type": "Person",
+                              "normalized_text": "Bruce Campbell"
+                        },
+                        {
+                              "start": 93,
+                              "end": 95,
+                              "probability": 0.7726,
+                              "type": "Person",
+                              "normalized_text": "JJJ"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 135,
+                              "end": 158,
+                              "url": "https://t.co/fAyzNh3781",
+                              "expanded_url": "https://twitter.com/dailyshemp/status/1620445161330458625",
+                              "display_url": "twitter.com/dailyshemp/sta\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1620735907036016640"
+            ],
+            "text": "As beautiful and perfect as JK Simmons was as JJJ, this makes me wanna see Bruce Campbell as JJJ as it looks like he'd fucking kill it https://t.co/fAyzNh3781",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1620445161330458625"
+                  }
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 39
+            },
+            "id": "1620710664707915777",
+            "created_at": "2023-02-01T09:08:28.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 31,
+                              "end": 54,
+                              "url": "https://t.co/ovIeHloI2V",
+                              "expanded_url": "https://twitter.com/Pollos_Hernandy/status/1620474403875340288",
+                              "display_url": "twitter.com/Pollos_Hernand\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1620710664707915777"
+            ],
+            "text": "God I really hope this is true https://t.co/ovIeHloI2V",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1620474403875340288"
+                  }
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 32
+            },
+            "id": "1620468870258782208",
+            "created_at": "2023-01-31T17:07:40.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 61,
+                              "end": 70,
+                              "probability": 0.6671,
+                              "type": "Other",
+                              "normalized_text": "peacemaker"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 84,
+                              "end": 107,
+                              "url": "https://t.co/K8SDpNckSF",
+                              "expanded_url": "https://twitter.com/DiscussingFilm/status/1620467998682386432",
+                              "display_url": "twitter.com/DiscussingFilm\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1620468870258782208"
+            ],
+            "text": "ok yeah this seems like something he'd make. works in line w peacemaker kinda stuff https://t.co/K8SDpNckSF",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1620467998682386432"
+                  }
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 6
+            },
+            "id": "1620468247589191680",
+            "created_at": "2023-01-31T17:05:11.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 18,
+                              "end": 33,
+                              "probability": 0.5526,
+                              "type": "Person",
+                              "normalized_text": "MORRISON LESGOOO"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 35,
+                              "end": 58,
+                              "url": "https://t.co/cONSjHPSn1",
+                              "expanded_url": "https://twitter.com/DiscussingFilm/status/1620467631701790721",
+                              "display_url": "twitter.com/DiscussingFilm\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1620468247589191680"
+            ],
+            "text": "WE'RE DOING GRANT MORRISON LESGOOO https://t.co/cONSjHPSn1",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1620467631701790721"
+                  }
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 14
+            },
+            "id": "1620468160548990976",
+            "created_at": "2023-01-31T17:04:50.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 31,
+                              "end": 54,
+                              "url": "https://t.co/tz1GWKUyyt",
+                              "expanded_url": "https://twitter.com/DiscussingFilm/status/1620467451099242497",
+                              "display_url": "twitter.com/DiscussingFilm\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1620468160548990976"
+            ],
+            "text": "Was expecting a casting but ok https://t.co/tz1GWKUyyt",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1620467451099242497"
+                  }
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 2
+            },
+            "id": "1620468094711009281",
+            "created_at": "2023-01-31T17:04:35.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 9,
+                              "end": 32,
+                              "url": "https://t.co/VvMJVpTDYp",
+                              "expanded_url": "https://twitter.com/DiscussingFilm/status/1620467203043909632",
+                              "display_url": "twitter.com/DiscussingFilm\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1620468094711009281"
+            ],
+            "text": "LFGGGGGG https://t.co/VvMJVpTDYp",
+            "author_id": "860233030413111296",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1620467203043909632"
+                  }
+            ]
+      }
+]

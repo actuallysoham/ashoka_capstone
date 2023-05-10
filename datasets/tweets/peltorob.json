@@ -1,0 +1,18 @@
+[
+      {
+            "id": "1613458206021545986",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 101
+            },
+            "author_id": "1407574179054903299",
+            "created_at": "2023-01-12T08:49:47.000Z",
+            "edit_history_tweet_ids": [
+                  "1613458206021545986"
+            ],
+            "text": "\u201cBro gpt-4 has 1 trillion parameters bro\u201d"
+      }
+]

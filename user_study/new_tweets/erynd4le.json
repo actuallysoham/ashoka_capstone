@@ -1,0 +1,342 @@
+[
+      {
+            "text": "everyone stop listening to tyler the creator immediately",
+            "edit_history_tweet_ids": [
+                  "1652019933151371265"
+            ],
+            "id": "1652019933151371265",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 621
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-04-28T18:40:19.000Z"
+      },
+      {
+            "text": "why r some seniors just dumb as bricks i do not understand how u have graduated like this",
+            "edit_history_tweet_ids": [
+                  "1651590281727442946"
+            ],
+            "id": "1651590281727442946",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 405
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-04-27T14:13:02.000Z"
+      },
+      {
+            "text": "why my roommate asked me if i have adhd extremely seriously",
+            "edit_history_tweet_ids": [
+                  "1650956355770142720"
+            ],
+            "id": "1650956355770142720",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 35,
+                              "end": 38,
+                              "probability": 0.8893,
+                              "type": "Other",
+                              "normalized_text": "adhd"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 619
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-04-25T20:14:03.000Z"
+      },
+      {
+            "text": "good morning i have once again forgotten how much work i have",
+            "edit_history_tweet_ids": [
+                  "1649864155317547009"
+            ],
+            "id": "1649864155317547009",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 373
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-04-22T19:54:02.000Z"
+      },
+      {
+            "text": "why do ppl post things that do not belong to them",
+            "edit_history_tweet_ids": [
+                  "1649148442177048576"
+            ],
+            "id": "1649148442177048576",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 436
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-04-20T20:30:02.000Z"
+      },
+      {
+            "text": "i can step outside my room naked but not without eyeliner",
+            "edit_history_tweet_ids": [
+                  "1648296203661221888"
+            ],
+            "id": "1648296203661221888",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 668
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-04-18T12:03:33.000Z"
+      },
+      {
+            "text": "the current job market my worst enemy fr",
+            "edit_history_tweet_ids": [
+                  "1647291288948195328"
+            ],
+            "id": "1647291288948195328",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 251
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-04-15T17:30:23.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 47,
+                              "end": 70,
+                              "url": "https://t.co/ClllMZSASt",
+                              "expanded_url": "https://twitter.com/culturaltutor/status/1645654872883077120",
+                              "display_url": "twitter.com/culturaltutor/\u2026"
+                        }
+                  ]
+            },
+            "text": "thinking about how i stared at this for 30 min https://t.co/ClllMZSASt",
+            "edit_history_tweet_ids": [
+                  "1646076639288393729"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1645654872883077120"
+                  }
+            ],
+            "id": "1646076639288393729",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 515
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-04-12T09:03:48.000Z"
+      },
+      {
+            "text": "it is my fault for doing 1000000 jobs at the same time",
+            "edit_history_tweet_ids": [
+                  "1645494000131112960"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1645493322352558082"
+                  }
+            ],
+            "id": "1645494000131112960",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 105
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-04-10T18:28:36.000Z"
+      },
+      {
+            "text": "thought i was going to have an easy sem \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "edit_history_tweet_ids": [
+                  "1645493322352558082"
+            ],
+            "id": "1645493322352558082",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 201
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-04-10T18:25:54.000Z"
+      },
+      {
+            "text": "he is still under house arrest calm down guys",
+            "edit_history_tweet_ids": [
+                  "1642032492143349761"
+            ],
+            "id": "1642032492143349761",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 186
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-04-01T05:13:48.000Z"
+      },
+      {
+            "text": "one day when i\u2019m really rich i will spend all my money on typography courses",
+            "edit_history_tweet_ids": [
+                  "1641727584001212416"
+            ],
+            "id": "1641727584001212416",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 418
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-03-31T09:02:12.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 25,
+                              "end": 48,
+                              "url": "https://t.co/sDp4Z1YUyi",
+                              "expanded_url": "https://twitter.com/OddFuturePage/status/1641089110218514432",
+                              "display_url": "twitter.com/OddFuturePage/\u2026"
+                        }
+                  ]
+            },
+            "text": "i\u2019m going TO FUCKINH SOB https://t.co/sDp4Z1YUyi",
+            "edit_history_tweet_ids": [
+                  "1641156595244756992"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1641089110218514432"
+                  }
+            ],
+            "id": "1641156595244756992",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 481
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-03-29T19:13:18.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 12,
+                              "end": 35,
+                              "url": "https://t.co/GiO8X7KR22",
+                              "expanded_url": "https://twitter.com/OddFuturePage/status/1640926758873755649",
+                              "display_url": "twitter.com/OddFuturePage/\u2026"
+                        }
+                  ]
+            },
+            "text": "masterpiece https://t.co/GiO8X7KR22",
+            "edit_history_tweet_ids": [
+                  "1641155847240945664"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1640926758873755649"
+                  }
+            ],
+            "id": "1641155847240945664",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 170
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-03-29T19:10:19.000Z"
+      },
+      {
+            "text": "\u201cgogi or goli - pick your poison\u201d - chanchal bajoria 2023",
+            "edit_history_tweet_ids": [
+                  "1640698297429168134"
+            ],
+            "id": "1640698297429168134",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 1,
+                              "end": 4,
+                              "probability": 0.4163,
+                              "type": "Other",
+                              "normalized_text": "gogi"
+                        },
+                        {
+                              "start": 9,
+                              "end": 12,
+                              "probability": 0.5564,
+                              "type": "Other",
+                              "normalized_text": "goli"
+                        },
+                        {
+                              "start": 16,
+                              "end": 24,
+                              "probability": 0.5036,
+                              "type": "Other",
+                              "normalized_text": "pick your"
+                        },
+                        {
+                              "start": 36,
+                              "end": 51,
+                              "probability": 0.7286,
+                              "type": "Person",
+                              "normalized_text": "chanchal bajoria"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 203
+            },
+            "author_id": "1333043597575274496",
+            "created_at": "2023-03-28T12:52:11.000Z"
+      }
+]

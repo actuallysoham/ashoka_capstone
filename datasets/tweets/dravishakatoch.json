@@ -1,0 +1,2989 @@
+[
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 77,
+                              "end": 100,
+                              "url": "https://t.co/yI5mS4VeHz",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1644670148362784768/photo/1",
+                              "display_url": "pic.twitter.com/yI5mS4VeHz",
+                              "media_key": "3_1644670138111729664"
+                        }
+                  ]
+            },
+            "id": "1644670148362784768",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 5,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 1731
+            },
+            "edit_history_tweet_ids": [
+                  "1644670148362784768"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-04-08T11:54:54.000Z",
+            "text": "Are we supposed to use the emergency exit and jump on the wing for rescue? \ud83d\ude2b https://t.co/yI5mS4VeHz"
+      },
+      {
+            "id": "1644548416767397889",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 15,
+                              "end": 20,
+                              "probability": 0.9493,
+                              "type": "Place",
+                              "normalized_text": "Bombay"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 11,
+                  "like_count": 16,
+                  "quote_count": 0,
+                  "impression_count": 3398
+            },
+            "edit_history_tweet_ids": [
+                  "1644548416767397889"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-04-08T03:51:11.000Z",
+            "text": "Going to be in Bombay soon, any folks I shouldn\u2019t miss meeting there? \n\nAlways up for coffee chats minus the coffee. \ud83c\udf3b"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 43,
+                              "end": 66,
+                              "url": "https://t.co/zw53ThHiPu",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1644371765274230784/photo/1",
+                              "display_url": "pic.twitter.com/zw53ThHiPu",
+                              "media_key": "3_1644371755929317376"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 33,
+                              "end": 40,
+                              "probability": 0.859,
+                              "type": "Other",
+                              "normalized_text": "LinkedIn"
+                        }
+                  ]
+            },
+            "id": "1644371765274230784",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 36,
+                  "quote_count": 0,
+                  "impression_count": 2868
+            },
+            "edit_history_tweet_ids": [
+                  "1644371765274230784"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-04-07T16:09:14.000Z",
+            "text": "Just another day of scrolling on LinkedIn\u2026 https://t.co/zw53ThHiPu"
+      },
+      {
+            "id": "1644187141558386698",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 184,
+                              "end": 186,
+                              "probability": 0.6487,
+                              "type": "Other",
+                              "normalized_text": "NFS"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 28,
+                  "quote_count": 0,
+                  "impression_count": 1700
+            },
+            "edit_history_tweet_ids": [
+                  "1644187141558386698"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-04-07T03:55:36.000Z",
+            "text": "It\u2019s a random Friday and missing the times when I used to wake up at 5 am, go to the stables, get the horses ready and train under my ustaad. \n\nCome home by 7, have breakfast and play NFS. Cut down to the day, watch my favourite shows, go to play football in the evening."
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 8,
+                              "end": 17,
+                              "username": "LinkedIn",
+                              "id": "13058772"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 204,
+                              "end": 227,
+                              "url": "https://t.co/Zr0mSL9SGI",
+                              "expanded_url": "https://www.linkedin.com/posts/dravisha_are-women-interrupted-more-in-meetings-than-activity-7049717520609468417-9tT4?utm_source=share&utm_medium=member_ios",
+                              "display_url": "linkedin.com/posts/dravisha\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1643958403121954816/s3PAPIEi?format=jpg&name=orig",
+                                          "width": 1170,
+                                          "height": 1170
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1643958403121954816/s3PAPIEi?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "Dravisha Katoch on LinkedIn: Are women interrupted more in meetings than men? It\u2019s not just a feeling\u2026",
+                              "description": "Are women interrupted more in meetings than men? It\u2019s not just a feeling for us all women, surprisingly it\u2019s backed by data too! And often so, women put\u2026",
+                              "unwound_url": "https://www.linkedin.com/posts/dravisha_are-women-interrupted-more-in-meetings-than-activity-7049717520609468417-9tT4?utm_source=share&utm_medium=member_ios"
+                        }
+                  ]
+            },
+            "id": "1643958402635419648",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 1218
+            },
+            "edit_history_tweet_ids": [
+                  "1643958402635419648"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-04-06T12:46:41.000Z",
+            "text": "Back on @LinkedIn after 2 years. Help your girl out with some eyeballs!\n\nRead my latest on women and meetings (something interesting, I promise). Maybe drop a comment if you found it worth your time? :)\n\nhttps://t.co/Zr0mSL9SGI"
+      },
+      {
+            "id": "1643913700355772417",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 18,
+                  "quote_count": 1,
+                  "impression_count": 1104
+            },
+            "edit_history_tweet_ids": [
+                  "1643913700355772417"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-04-06T09:49:03.000Z",
+            "text": "Unpopular opinion: Not everything at all times needs a framework. Be it marketing or life. \n\nBe crazy sometimes, do stuff you feel like, and go out of the box often."
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 199,
+                              "end": 222,
+                              "url": "https://t.co/rBMBBckoQF",
+                              "expanded_url": "https://link.zomato.com/xqzv/awards?id=3975997453962999",
+                              "display_url": "link.zomato.com/xqzv/awards?id\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1643890886248652801/0IFDgyUZ?format=jpg&name=orig",
+                                          "width": 1008,
+                                          "height": 700
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1643890886248652801/0IFDgyUZ?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "Zomato Restaurant Awards 2023",
+                              "description": "Vote for your favourite restaurants & help them win \ud83c\udfc6",
+                              "unwound_url": "https://link.zomato.com/xqzv/awards?id=3975997453962999"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 42,
+                              "end": 49,
+                              "probability": 0.6038,
+                              "type": "Place",
+                              "normalized_text": "Sorbetto"
+                        },
+                        {
+                              "start": 91,
+                              "end": 99,
+                              "probability": 0.9609,
+                              "type": "Place",
+                              "normalized_text": "Bengaluru"
+                        }
+                  ]
+            },
+            "id": "1643890843609366528",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 2,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 798
+            },
+            "edit_history_tweet_ids": [
+                  "1643890843609366528"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-04-06T08:18:13.000Z",
+            "text": "Blr folks, pls 2 help.  \n\nMy vote goes to Sorbetto for the Best in Ice-Creams category, in Bengaluru. You can vote for them via the link too :)\n\nIf you haven't tried them yet, now is the time &lt;3\n\nhttps://t.co/rBMBBckoQF"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 83,
+                              "end": 106,
+                              "url": "https://t.co/R7nAUAoj2Z",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1584967293486125056",
+                              "display_url": "twitter.com/dravishakatoch\u2026"
+                        }
+                  ]
+            },
+            "id": "1643528995621961730",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 415
+            },
+            "edit_history_tweet_ids": [
+                  "1643528995621961730"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1584967293486125056"
+                  },
+                  {
+                        "type": "replied_to",
+                        "id": "1643516192374816769"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-04-05T08:20:22.000Z",
+            "text": "Have solid non-growth reccos on this tweet in case you\u2019re looking for great reads: https://t.co/R7nAUAoj2Z"
+      },
+      {
+            "id": "1643516192374816769",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 5,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 2033
+            },
+            "edit_history_tweet_ids": [
+                  "1643516192374816769"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-04-05T07:29:29.000Z",
+            "text": "Trying to up my growth knowledge. What are some great newsletter/blogs/folks that share 0 to 1 growth stories of great brands out there?"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 9,
+                              "end": 18,
+                              "username": "Calendly",
+                              "id": "1263380605"
+                        }
+                  ]
+            },
+            "id": "1643492286783950848",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 444
+            },
+            "edit_history_tweet_ids": [
+                  "1643492286783950848"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-04-05T05:54:30.000Z",
+            "text": "Idk, but @Calendly seems like god now. \n\nWas spending so much time b/f on figuring a time that works for both, but thankfully, no more."
+      },
+      {
+            "id": "1643111432861667329",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 100,
+                              "end": 104,
+                              "probability": 0.9907,
+                              "type": "Place",
+                              "normalized_text": "Delhi"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 5,
+                  "like_count": 19,
+                  "quote_count": 0,
+                  "impression_count": 2053
+            },
+            "edit_history_tweet_ids": [
+                  "1643111432861667329"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-04-04T04:41:07.000Z",
+            "text": "Is it just me or folks aren\u2019t fully recovering  too with this weird flu in the air? \n\nEspecially in Delhi. Ugh! Take care everyone. \u2615\ufe0f"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 8,
+                              "end": 21,
+                              "username": "googlephotos",
+                              "id": "289431709"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 50,
+                              "end": 73,
+                              "url": "https://t.co/wSwAyRgedE",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1642049480290897921/photo/1",
+                              "display_url": "pic.twitter.com/wSwAyRgedE",
+                              "media_key": "3_1642049470652379136"
+                        }
+                  ]
+            },
+            "id": "1642049480290897921",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 1133
+            },
+            "edit_history_tweet_ids": [
+                  "1642049480290897921"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-04-01T06:21:18.000Z",
+            "text": "Thanks, @googlephotos. Guess I just grew shorter. https://t.co/wSwAyRgedE"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 68,
+                              "end": 91,
+                              "url": "https://t.co/X2yXGEQAa9",
+                              "expanded_url": "https://twitter.com/getbasis/status/1641681440235716608",
+                              "display_url": "twitter.com/getbasis/statu\u2026"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 4,
+                              "probability": 0.7373,
+                              "type": "Other",
+                              "normalized_text": "Minty"
+                        }
+                  ]
+            },
+            "id": "1641704440213409792",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 727
+            },
+            "edit_history_tweet_ids": [
+                  "1641704440213409792"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1641681440235716608"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-31T07:30:14.000Z",
+            "text": "Minty is a treat to chat..for all things finance, give her a try? \u2728 https://t.co/X2yXGEQAa9"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 37,
+                              "end": 48,
+                              "username": "googlemaps",
+                              "id": "31311757"
+                        }
+                  ]
+            },
+            "id": "1641334972429770758",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 2,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 718
+            },
+            "edit_history_tweet_ids": [
+                  "1641334972429770758"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-30T07:02:06.000Z",
+            "text": "The live location sharing feature on @googlemaps has to be their best latest launches. \n\nCoupled with alerts for every time they reach/leave the location you\u2019ve added."
+      },
+      {
+            "id": "1641124643103973376",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 25,
+                              "end": 34,
+                              "probability": 0.5091,
+                              "type": "Other",
+                              "normalized_text": "North Star"
+                        },
+                        {
+                              "start": 65,
+                              "end": 73,
+                              "probability": 0.9677,
+                              "type": "Other",
+                              "normalized_text": "Instagram"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 910
+            },
+            "edit_history_tweet_ids": [
+                  "1641124643103973376"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-29T17:06:20.000Z",
+            "text": "I\u2019m curious - what\u2019s the North Star metric for movie accounts on Instagram? \n\nMovie streams across platforms?"
+      },
+      {
+            "id": "1641123430857854976",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 32,
+                              "end": 37,
+                              "probability": 0.5366,
+                              "type": "Organization",
+                              "normalized_text": "Google"
+                        },
+                        {
+                              "start": 77,
+                              "end": 84,
+                              "probability": 0.6886,
+                              "type": "Other",
+                              "normalized_text": "Synonyms"
+                        },
+                        {
+                              "start": 143,
+                              "end": 144,
+                              "probability": 0.5363,
+                              "type": "Other",
+                              "normalized_text": "Em"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 3,
+                  "like_count": 53,
+                  "quote_count": 0,
+                  "impression_count": 3196
+            },
+            "edit_history_tweet_ids": [
+                  "1641123430857854976"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-29T17:01:31.000Z",
+            "text": "Me: I\u2019m a growth marketer. \n\nMy Google search history:\n\nIs it up to or upto \nSynonyms of awesome \nDoes full stop come inside or after bracket \nEm dash copy paste"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 26,
+                              "end": 33,
+                              "username": "OpenAI",
+                              "id": "4398626122"
+                        }
+                  ]
+            },
+            "id": "1639864018709135360",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 1015
+            },
+            "edit_history_tweet_ids": [
+                  "1639864018709135360"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-26T05:37:03.000Z",
+            "text": "Chat GPT is mom approved. @OpenAI has truly won now. XD\n\nTaught her how to use it today and she\u2019s on a spree making kindergarten orientation programs and what not for her kids."
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 26,
+                              "end": 49,
+                              "url": "https://t.co/iBt2M28QZc",
+                              "expanded_url": "https://hindustanherald.com/the-dark-side-of-indias-startup-funding-frenzy-funding-festivals/",
+                              "display_url": "hindustanherald.com/the-dark-side-\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1639283298823225345/KRx4Fby0?format=jpg&name=orig",
+                                          "width": 1200,
+                                          "height": 675
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1639283298823225345/KRx4Fby0?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "The Dark Side Of India\u2019s Startup Funding Frenzy: Funding Festivals",
+                              "description": "India's startup ecosystem has seen a proliferation of events that purport to connect founders to prospective investors in exchange for",
+                              "unwound_url": "https://hindustanherald.com/the-dark-side-of-indias-startup-funding-frenzy-funding-festivals/"
+                        }
+                  ]
+            },
+            "id": "1639510035511545857",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 7,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 1744
+            },
+            "edit_history_tweet_ids": [
+                  "1639510035511545857"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-25T06:10:27.000Z",
+            "text": "Worth a read. Thoughts? \n\nhttps://t.co/iBt2M28QZc"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 196,
+                              "end": 219,
+                              "url": "https://t.co/IPDY5RfWw9",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1639501011785244673/photo/1",
+                              "display_url": "pic.twitter.com/IPDY5RfWw9",
+                              "media_key": "3_1639500997453303808"
+                        },
+                        {
+                              "start": 220,
+                              "end": 243,
+                              "url": "https://t.co/t7Vg3DVJMu",
+                              "expanded_url": "https://twitter.com/tanmayrauth/status/1639489581442531333",
+                              "display_url": "twitter.com/tanmayrauth/st\u2026"
+                        }
+                  ]
+            },
+            "id": "1639501011785244673",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 16,
+                  "quote_count": 5,
+                  "impression_count": 3535
+            },
+            "edit_history_tweet_ids": [
+                  "1639501011785244673"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1639489581442531333"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-25T05:34:36.000Z",
+            "text": "post a picture of some landscape from a place where you've been, where the main requirement is that you NOT appear in it. just a picture, no description.\n\nlet\u2019s travel virtually around the world. https://t.co/IPDY5RfWw9 https://t.co/t7Vg3DVJMu"
+      },
+      {
+            "id": "1639107682773893120",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 7,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 2608
+            },
+            "edit_history_tweet_ids": [
+                  "1639107682773893120"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-24T03:31:39.000Z",
+            "text": "Most cab drivers are stuck with paying 12-15k fixed cost to big players who rent cars to them. \n\nIt\u2019s high-risk but this makes their livelihood very difficult + barely make ends meet.\n\nHow to solve for this and make it easy for them to rent and earn easily?"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 41,
+                              "end": 53,
+                              "username": "letsblinkit",
+                              "id": "2357514276"
+                        }
+                  ]
+            },
+            "id": "1638435078849306625",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 1349
+            },
+            "edit_history_tweet_ids": [
+                  "1638435078849306625"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-22T06:58:58.000Z",
+            "text": "Want to take a minute and appreciate the @letsblinkit team creating and running ads. Simply love them!"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 6,
+                              "end": 29,
+                              "url": "https://t.co/8HMAuSOTxG",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1638102632547106817/photo/1",
+                              "display_url": "pic.twitter.com/8HMAuSOTxG",
+                              "media_key": "3_1638102623059611649"
+                        }
+                  ]
+            },
+            "id": "1638102632547106817",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 21,
+                  "quote_count": 0,
+                  "impression_count": 2764
+            },
+            "edit_history_tweet_ids": [
+                  "1638102632547106817"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-21T08:57:56.000Z",
+            "text": "Wild. https://t.co/8HMAuSOTxG"
+      },
+      {
+            "id": "1638085685394698240",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 218
+            },
+            "edit_history_tweet_ids": [
+                  "1638085685394698240"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1638085683201064961"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-21T07:50:36.000Z",
+            "text": "This is of course, ideal, but customer journeys can be way complex. \n\nThe point is identifying the pillars of your growth ecosystem and building it to support growth is key instead of just focusing on one aspect to drive it."
+      },
+      {
+            "id": "1638085683201064961",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 231
+            },
+            "edit_history_tweet_ids": [
+                  "1638085683201064961"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1638085681040982016"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-21T07:50:35.000Z",
+            "text": "They're now mildly active, you now engage them with offers/discounts/community activities (value-led) \u21fe they're now very active. \n\nFinally, after engaging with your emails, activities, notifications, they understand your product in depth and convert for whatever you're selling."
+      },
+      {
+            "id": "1638085681040982016",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 44,
+                              "end": 46,
+                              "probability": 0.7329,
+                              "type": "Organization",
+                              "normalized_text": "SEO"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 128
+            },
+            "edit_history_tweet_ids": [
+                  "1638085681040982016"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1638085678616702976"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-21T07:50:35.000Z",
+            "text": "Example: A user that lands on your blog via SEO, knows you exist.\n\nForgets about it, you retarget them with an ad, they get curious. Still don't download the app.\n\nDays later, they see a social media post on your page that went viral on your page, get curious, download the app."
+      },
+      {
+            "id": "1638085678616702976",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 3,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 1321
+            },
+            "edit_history_tweet_ids": [
+                  "1638085678616702976"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-21T07:50:34.000Z",
+            "text": "Growth isn't just about customer acquisition, it's about creating a sustainable ecosystem that creates a pull to continuously drive your north star metric from as many directions you can build. \n\nIt's a mindset, a process, a commitment to constant experimentation &amp; optimisation."
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 22,
+                              "end": 45,
+                              "url": "https://t.co/KMYVwo6gUP",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1637851704904552448/photo/1",
+                              "display_url": "pic.twitter.com/KMYVwo6gUP",
+                              "media_key": "3_1637851695509037069"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 4,
+                              "probability": 0.9404,
+                              "type": "Place",
+                              "normalized_text": "Delhi"
+                        }
+                  ]
+            },
+            "id": "1637851704904552448",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 29,
+                  "quote_count": 0,
+                  "impression_count": 1534
+            },
+            "edit_history_tweet_ids": [
+                  "1637851704904552448"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-20T16:20:50.000Z",
+            "text": "Delhi weather today \ud83e\udd0c https://t.co/KMYVwo6gUP"
+      },
+      {
+            "id": "1637700607774433280",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 16,
+                  "quote_count": 0,
+                  "impression_count": 1811
+            },
+            "edit_history_tweet_ids": [
+                  "1637700607774433280"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-20T06:20:26.000Z",
+            "text": "The best part about working in Growth is being able to see the numbers flip, especially on a Monday.\n\nTell me a better Monday motivation, I'll wait."
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 53,
+                              "end": 76,
+                              "url": "https://t.co/HZVR89YRf1",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1637006470813462530/photo/1",
+                              "display_url": "pic.twitter.com/HZVR89YRf1",
+                              "media_key": "3_1637006460860375041"
+                        }
+                  ]
+            },
+            "id": "1637006470813462530",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 1255
+            },
+            "edit_history_tweet_ids": [
+                  "1637006470813462530"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-18T08:22:11.000Z",
+            "text": "I died reading this. What\u2019s up with 5 star hotels? \ud83e\udd23 https://t.co/HZVR89YRf1"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 13,
+                              "end": 36,
+                              "url": "https://t.co/LpbMsQVH7G",
+                              "expanded_url": "https://www.bloomberg.com/news/articles/2023-03-16/pornhub-parent-company-to-be-bought-by-new-private-equity-fund",
+                              "display_url": "bloomberg.com/news/articles/\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1636449429740716032/82q5Lm33?format=jpg&name=orig",
+                                          "width": 1200,
+                                          "height": 785
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1636449429740716032/82q5Lm33?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "Pornhub Parent Company Is Acquired by Canadian Private Equity Fund",
+                              "description": "The company that owns pornographic video-streaming platform Pornhub is being acquired by a new private equity firm based in the Canadian capital of Ottawa.",
+                              "unwound_url": "https://www.bloomberg.com/news/articles/2023-03-16/pornhub-parent-company-to-be-bought-by-new-private-equity-fund"
+                        }
+                  ]
+            },
+            "id": "1636540526945275904",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 860
+            },
+            "edit_history_tweet_ids": [
+                  "1636540526945275904"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-17T01:30:41.000Z",
+            "text": "What the\u2026.\ud83e\udd2f\n\nhttps://t.co/LpbMsQVH7G"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 44,
+                              "end": 67,
+                              "url": "https://t.co/oJzQkYQVPr",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1636352634574741511/photo/1",
+                              "display_url": "pic.twitter.com/oJzQkYQVPr",
+                              "media_key": "3_1636352626127429632"
+                        }
+                  ]
+            },
+            "id": "1636352634574741511",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 1726
+            },
+            "edit_history_tweet_ids": [
+                  "1636352634574741511"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-16T13:04:04.000Z",
+            "text": "How to write lead gen messages, level: 1000 https://t.co/oJzQkYQVPr"
+      },
+      {
+            "id": "1636348331764105217",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 234
+            },
+            "edit_history_tweet_ids": [
+                  "1636348331764105217"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1636348167129276417"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-16T12:46:58.000Z",
+            "text": "Send motivation, thanks."
+      },
+      {
+            "id": "1636348167129276417",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 969
+            },
+            "edit_history_tweet_ids": [
+                  "1636348167129276417"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-16T12:46:19.000Z",
+            "text": "I\u2019m on my no swiggy streak this month and oh gosh, it\u2019s so difficult. \ud83d\ude29"
+      },
+      {
+            "id": "1636000430173093888",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 573
+            },
+            "edit_history_tweet_ids": [
+                  "1636000430173093888"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-15T13:44:32.000Z",
+            "text": "Reminder: A great product can do wonders with great marketing. \n\nNever the other way round."
+      },
+      {
+            "id": "1635950569780305921",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 6,
+                  "like_count": 24,
+                  "quote_count": 1,
+                  "impression_count": 2744
+            },
+            "edit_history_tweet_ids": [
+                  "1635950569780305921"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-15T10:26:24.000Z",
+            "text": "When was the last time you went on a solo date to celebrate a small win?\n\nDon't think we do it often, but it's so needed!\ud83e\udd0c\ud83c\udffd"
+      },
+      {
+            "id": "1635855088140025862",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 9,
+                  "like_count": 37,
+                  "quote_count": 0,
+                  "impression_count": 3913
+            },
+            "edit_history_tweet_ids": [
+                  "1635855088140025862"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-15T04:07:00.000Z",
+            "text": "Yesterday was my day 1 of strength training. A big win. (Sorry, didn\u2019t click any clich\u00e9 gym photos)\n\nHave always been so conscious of my body and shy to work out in a gym but that ended yesterday. \n\nCan\u2019t wait to see what\u2019s ahead and keep at it daily. \ud83d\udcaa"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 81,
+                              "end": 104,
+                              "url": "https://t.co/1PWxsaRQVI",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1633142665599660032/photo/1",
+                              "display_url": "pic.twitter.com/1PWxsaRQVI",
+                              "media_key": "3_1633142547509018625"
+                        }
+                  ]
+            },
+            "id": "1633142665599660032",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 16,
+                  "quote_count": 0,
+                  "impression_count": 1626
+            },
+            "edit_history_tweet_ids": [
+                  "1633142665599660032"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-07T16:28:48.000Z",
+            "text": "There are nice days and then there are days when I read messages like this &lt;3 https://t.co/1PWxsaRQVI"
+      },
+      {
+            "id": "1633138331520495616",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 8,
+                              "end": 16,
+                              "probability": 0.5522,
+                              "type": "Other",
+                              "normalized_text": "backspace"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 340
+            },
+            "edit_history_tweet_ids": [
+                  "1633138331520495616"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1633133274473336832"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-07T16:11:35.000Z",
+            "text": "Only to backspace everything after 3 hours to start afresh."
+      },
+      {
+            "id": "1633133274473336832",
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 4,
+                  "like_count": 24,
+                  "quote_count": 0,
+                  "impression_count": 1663
+            },
+            "edit_history_tweet_ids": [
+                  "1633133274473336832"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-07T15:51:29.000Z",
+            "text": "Writing copy is an art. I'll write the first draft, stare at it for 1 hour, make 50 changes and stare at it for the next 2 hours until it makes complete sense."
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 11,
+                              "end": 34,
+                              "url": "https://t.co/1vEjj04N2d",
+                              "expanded_url": "https://twitter.com/BeeBhavya/status/1632733252980211712",
+                              "display_url": "twitter.com/BeeBhavya/stat\u2026"
+                        }
+                  ]
+            },
+            "id": "1633043430296403971",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 863
+            },
+            "edit_history_tweet_ids": [
+                  "1633043430296403971"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1632733252980211712"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-07T09:54:28.000Z",
+            "text": "\ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f\ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f https://t.co/1vEjj04N2d"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 72,
+                              "end": 83,
+                              "username": "AshokaUniv",
+                              "id": "804100399"
+                        },
+                        {
+                              "start": 146,
+                              "end": 160,
+                              "username": "JaideepPrabhu",
+                              "id": "98484648"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 190,
+                              "end": 213,
+                              "url": "https://t.co/uSnaCMady8",
+                              "expanded_url": "https://twitter.com/getplumhq/status/1630917050322542593",
+                              "display_url": "twitter.com/getplumhq/stat\u2026"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.8488,
+                              "type": "Other",
+                              "normalized_text": "Jugaad"
+                        }
+                  ]
+            },
+            "id": "1631241869064806401",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 4,
+                  "like_count": 19,
+                  "quote_count": 0,
+                  "impression_count": 3674
+            },
+            "edit_history_tweet_ids": [
+                  "1631241869064806401"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1630917050322542593"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-02T10:35:43.000Z",
+            "text": "Jugaad is definitely a skill. Spent 4 months learning it in a course at @AshokaUniv and don\u2019t regret it a bit. One of my bests so far. \n\nI\u2019m sure @JaideepPrabhu would love to weigh in here! https://t.co/uSnaCMady8"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 29,
+                              "end": 41,
+                              "username": "INDmoneyApp",
+                              "id": "1050070254406103040"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 42,
+                              "end": 65,
+                              "url": "https://t.co/SP7eeQogyN",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1631209496197619713/photo/1",
+                              "display_url": "pic.twitter.com/SP7eeQogyN",
+                              "media_key": "3_1631209486429093888"
+                        }
+                  ]
+            },
+            "id": "1631209496197619713",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 4,
+                  "like_count": 136,
+                  "quote_count": 0,
+                  "impression_count": 15853
+            },
+            "edit_history_tweet_ids": [
+                  "1631209496197619713"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-02T08:27:04.000Z",
+            "text": "It\u2019s okay. It happens. Hugs. @INDmoneyApp https://t.co/SP7eeQogyN"
+      },
+      {
+            "id": "1630910994368303106",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 65,
+                              "end": 70,
+                              "probability": 0.9549,
+                              "type": "Place",
+                              "normalized_text": "Canada"
+                        },
+                        {
+                              "start": 75,
+                              "end": 81,
+                              "probability": 0.971,
+                              "type": "Place",
+                              "normalized_text": "Germany"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 1,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 2300
+            },
+            "edit_history_tweet_ids": [
+                  "1630910994368303106"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-03-01T12:40:56.000Z",
+            "text": "Any folks who can give a kid some guidance on undergrad scene in Canada or Germany? \n\nMajor: Psychology. \n\nNeeds to learn about the process, some decent colleges, financials needed, etc."
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 18,
+                              "end": 41,
+                              "url": "https://t.co/QNT4FjNpGb",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1630449535989469184/photo/1",
+                              "display_url": "pic.twitter.com/QNT4FjNpGb",
+                              "media_key": "3_1630449362538229760"
+                        },
+                        {
+                              "start": 18,
+                              "end": 41,
+                              "url": "https://t.co/QNT4FjNpGb",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1630449535989469184/photo/1",
+                              "display_url": "pic.twitter.com/QNT4FjNpGb",
+                              "media_key": "3_1630449362542407682"
+                        }
+                  ]
+            },
+            "id": "1630449535989469184",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 760
+            },
+            "edit_history_tweet_ids": [
+                  "1630449535989469184"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1629333413319802882"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-28T06:07:16.000Z",
+            "text": "My day is made. \ud83d\ude4f https://t.co/QNT4FjNpGb"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 23,
+                              "end": 33,
+                              "username": "Techstars",
+                              "id": "14277276"
+                        },
+                        {
+                              "start": 34,
+                              "end": 49,
+                              "username": "StartupWeekend",
+                              "id": "7315022"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 66,
+                              "end": 95,
+                              "probability": 0.9707,
+                              "type": "Organization",
+                              "normalized_text": "Delhi Technological University"
+                        }
+                  ]
+            },
+            "id": "1629333413319802882",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 5,
+                  "like_count": 37,
+                  "quote_count": 0,
+                  "impression_count": 3183
+            },
+            "edit_history_tweet_ids": [
+                  "1629333413319802882"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-25T04:12:11.000Z",
+            "text": "Invited as a mentor at @Techstars @StartupWeekend this weekend to Delhi Technological University. \n\nSuper nostalgic. Startup weekend was my first ever competition I participated in 2018.\n\nCan\u2019t wait to help some amazing teams build some great pitches, business model canvases."
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 170,
+                              "end": 193,
+                              "url": "https://t.co/VbnIDM5KxR",
+                              "expanded_url": "https://twitter.com/barandbench/status/1628993181319860224",
+                              "display_url": "twitter.com/barandbench/st\u2026"
+                        }
+                  ]
+            },
+            "id": "1629035329914040321",
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 2,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 2111
+            },
+            "edit_history_tweet_ids": [
+                  "1629035329914040321"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628993181319860224"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-24T08:27:43.000Z",
+            "text": "2023 and we still look at menstrual leaves as a disincentive for orgs to hire women? \n\nSo anguished. Next, someone will show up and reason this for maternity leaves too? https://t.co/VbnIDM5KxR"
+      },
+      {
+            "id": "1628752884631486464",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 8,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 3414
+            },
+            "edit_history_tweet_ids": [
+                  "1628752884631486464"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-23T13:45:23.000Z",
+            "text": "What are some of your favourite questions to ask towards the end of interview?"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 3,
+                              "end": 26,
+                              "url": "https://t.co/u7JuhOaHov",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1628298479650095106/photo/1",
+                              "display_url": "pic.twitter.com/u7JuhOaHov",
+                              "media_key": "3_1628298464055693312"
+                        }
+                  ]
+            },
+            "id": "1628298479650095106",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 732
+            },
+            "edit_history_tweet_ids": [
+                  "1628298479650095106"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1628298360154390529"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-22T07:39:44.000Z",
+            "text": "\ud83e\udee3\ud83d\ude36 https://t.co/u7JuhOaHov"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 80,
+                              "end": 103,
+                              "url": "https://t.co/zDXFGxihgm",
+                              "expanded_url": "https://twitter.com/i/web/status/1628298360154390529",
+                              "display_url": "twitter.com/i/web/status/1\u2026"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 4,
+                              "end": 10,
+                              "probability": 0.9797,
+                              "type": "Other",
+                              "normalized_text": "Twitter"
+                        },
+                        {
+                              "start": 28,
+                              "end": 36,
+                              "probability": 0.9648,
+                              "type": "Other",
+                              "normalized_text": "Instagram"
+                        },
+                        {
+                              "start": 55,
+                              "end": 61,
+                              "probability": 0.896,
+                              "type": "Other",
+                              "normalized_text": "twitter"
+                        }
+                  ]
+            },
+            "id": "1628298360154390529",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 6,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 4063
+            },
+            "edit_history_tweet_ids": [
+                  "1628298299404066817",
+                  "1628298360154390529"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-22T07:39:16.000Z",
+            "text": "Did Twitter just copy-paste Instagram\u2019s heart emoji on twitter DMs? \n\nBad move. https://t.co/zDXFGxihgm"
+      },
+      {
+            "id": "1627950430755094528",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 1485
+            },
+            "edit_history_tweet_ids": [
+                  "1627950430755094528"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1627931548636037120"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-21T08:36:43.000Z",
+            "text": "Yes, I have a park right in front of my balcony, location isn't a deterrent. Just need all the motivation to go and walk, lol."
+      },
+      {
+            "id": "1627931548636037120",
+            "public_metrics": {
+                  "retweet_count": 3,
+                  "reply_count": 45,
+                  "like_count": 82,
+                  "quote_count": 0,
+                  "impression_count": 18003
+            },
+            "edit_history_tweet_ids": [
+                  "1627931548636037120"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-21T07:21:41.000Z",
+            "text": "Who has successfully transitioned their morning routine to include either walking or exercising?\n\nTips would be greatly appreciated."
+      },
+      {
+            "id": "1627524813857374208",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 1135
+            },
+            "edit_history_tweet_ids": [
+                  "1627524813857374208"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-20T04:25:28.000Z",
+            "text": "\u2018twas an amazing week! \ud83e\udef6"
+      },
+      {
+            "id": "1627366810814382082",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 4,
+                              "end": 11,
+                              "probability": 0.6268,
+                              "type": "Other",
+                              "normalized_text": "Ambition"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 664
+            },
+            "edit_history_tweet_ids": [
+                  "1627366810814382082"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1627365604578721792"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-19T17:57:37.000Z",
+            "text": "Not Ambition box though."
+      },
+      {
+            "id": "1627365604578721792",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 29,
+                              "end": 33,
+                              "probability": 0.9525,
+                              "type": "Place",
+                              "normalized_text": "India"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 7,
+                  "like_count": 24,
+                  "quote_count": 0,
+                  "impression_count": 4798
+            },
+            "edit_history_tweet_ids": [
+                  "1627365604578721792"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-19T17:52:49.000Z",
+            "text": "Who\u2019s building Blind but for India and all major sectors?"
+      },
+      {
+            "id": "1626850017947570177",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 7,
+                  "like_count": 38,
+                  "quote_count": 0,
+                  "impression_count": 3648
+            },
+            "edit_history_tweet_ids": [
+                  "1626850017947570177"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-18T07:44:04.000Z",
+            "text": "At what point do you feel content with your achievements, career? \n\nI accomplish a win, I\u2019m immediately in action mode to chase the next. \n\nAs a young woman in the startup ecosystem, the hunger to be the best in what you do is so real. Sometimes toxic. \n\nHow do you deal with it?"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 64,
+                              "end": 87,
+                              "url": "https://t.co/ZgWTI1l1ix",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1626589692862017536/photo/1",
+                              "display_url": "pic.twitter.com/ZgWTI1l1ix",
+                              "media_key": "16_1626589682317557761"
+                        }
+                  ]
+            },
+            "id": "1626589692862017536",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 872
+            },
+            "edit_history_tweet_ids": [
+                  "1626589692862017536"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-17T14:29:38.000Z",
+            "text": "We can\u2019t be friends if you name your attachments abc __def_ghi. https://t.co/ZgWTI1l1ix"
+      },
+      {
+            "id": "1626565512019976194",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 289
+            },
+            "edit_history_tweet_ids": [
+                  "1626565512019976194"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1626544015985496064"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-17T12:53:32.000Z",
+            "text": "Discount coupons work too :)"
+      },
+      {
+            "id": "1626544015985496064",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 27,
+                              "end": 29,
+                              "probability": 0.35,
+                              "type": "Other",
+                              "normalized_text": "Con"
+                        },
+                        {
+                              "start": 31,
+                              "end": 35,
+                              "probability": 0.8703,
+                              "type": "Place",
+                              "normalized_text": "Delhi"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 5,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 1833
+            },
+            "edit_history_tweet_ids": [
+                  "1626544015985496064"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-17T11:28:07.000Z",
+            "text": "Who can help with some TiE Con'Delhi passes? Tx. &lt;3"
+      },
+      {
+            "id": "1626092466024906753",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 20,
+                              "probability": 0.83,
+                              "type": "Other",
+                              "normalized_text": "Korporate Kindess 101"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 5,
+                  "like_count": 39,
+                  "quote_count": 0,
+                  "impression_count": 3934
+            },
+            "edit_history_tweet_ids": [
+                  "1626092466024906753"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-16T05:33:49.000Z",
+            "text": "Korporate Kindess 101: If they ask you to set a meeting at 11, set it for 11:10. \n\nFollow for more tips. Tx."
+      },
+      {
+            "id": "1625884775138607104",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 368
+            },
+            "edit_history_tweet_ids": [
+                  "1625884775138607104"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1625866260708745217"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-15T15:48:32.000Z",
+            "text": "P.S. It\u2019s free :)"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 80,
+                              "end": 91,
+                              "username": "c_omposeai",
+                              "id": "1307050711486660608"
+                        },
+                        {
+                              "start": 104,
+                              "end": 118,
+                              "username": "MicrosoftEdge",
+                              "id": "19315174"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 190,
+                              "end": 213,
+                              "url": "https://t.co/0F8iPjbxPe",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1625866260708745217/photo/1",
+                              "display_url": "pic.twitter.com/0F8iPjbxPe",
+                              "media_key": "3_1625865571064741888"
+                        }
+                  ]
+            },
+            "id": "1625866260708745217",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 5,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 2296
+            },
+            "edit_history_tweet_ids": [
+                  "1625866260708745217"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-15T14:34:58.000Z",
+            "text": "I don't know about you, but I dread writing redundant emails. \n\nHave been using @c_omposeai add-on with @microsoftedge since months and clearly one of my top 5 favourite productivity tools. https://t.co/0F8iPjbxPe"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 250,
+                              "end": 273,
+                              "url": "https://t.co/AQ3q1CzSEk",
+                              "expanded_url": "https://bit.ly/3S42sVN",
+                              "display_url": "bit.ly/3S42sVN",
+                              "status": 200,
+                              "title": "Supreme Court to hear PIL seeking menstrual pain leave on February 24",
+                              "description": "The Supreme Court on Wednesday agreed to hear a public interest litigation (PIL) seeking menstrual pain leave\u00a0for female students and working women across",
+                              "unwound_url": "https://www.barandbench.com/news/supreme-court-to-hear-pil-seeking-menstrual-pain-leave-on-february-24"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 3,
+                              "end": 6,
+                              "probability": 0.6151,
+                              "type": "Other",
+                              "normalized_text": "TEDx"
+                        },
+                        {
+                              "start": 138,
+                              "end": 142,
+                              "probability": 0.968,
+                              "type": "Place",
+                              "normalized_text": "Japan"
+                        }
+                  ]
+            },
+            "id": "1625806818223226880",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 1507
+            },
+            "edit_history_tweet_ids": [
+                  "1625806818223226880"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1594366581974634496"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-15T10:38:46.000Z",
+            "text": "My TEDx talk is on my journey dealing with secondary dysmenorrhea in my life so far and the need for menstrual leaves when countries like Japan have them legalised since 1947.\n\nGlad to see some action rolling on Indian grounds. Hope all goes well. \n\nhttps://t.co/AQ3q1CzSEk"
+      },
+      {
+            "id": "1625772036361687041",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 5,
+                  "like_count": 76,
+                  "quote_count": 0,
+                  "impression_count": 7803
+            },
+            "edit_history_tweet_ids": [
+                  "1625772036361687041"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-15T08:20:33.000Z",
+            "text": "Hit a career milestone today. \ud83c\udfaf\n\nMore deets coming out soon in the upcoming weeks. Excited! &lt;3"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 9,
+                              "end": 32,
+                              "url": "https://t.co/wxIpN2ptUK",
+                              "expanded_url": "https://twitter.com/ashnimehta_/status/1625169065412026368",
+                              "display_url": "twitter.com/ashnimehta_/st\u2026"
+                        }
+                  ]
+            },
+            "id": "1625701130331369475",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 1286
+            },
+            "edit_history_tweet_ids": [
+                  "1625701130331369475"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1625169065412026368"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-15T03:38:48.000Z",
+            "text": "I swear. https://t.co/wxIpN2ptUK"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 5,
+                              "end": 28,
+                              "url": "https://t.co/NlN9WfWq4C",
+                              "expanded_url": "https://twitter.com/lukedimarco/status/1625575355246338057",
+                              "display_url": "twitter.com/lukedimarco/st\u2026"
+                        }
+                  ]
+            },
+            "id": "1625586311490068480",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 424
+            },
+            "edit_history_tweet_ids": [
+                  "1625586311490068480"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1625575355246338057"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-14T20:02:33.000Z",
+            "text": "TIL. https://t.co/NlN9WfWq4C"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 185,
+                              "end": 194,
+                              "username": "getbasis",
+                              "id": "999338233480826880"
+                        }
+                  ]
+            },
+            "id": "1625218189587259392",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 625
+            },
+            "edit_history_tweet_ids": [
+                  "1625218189587259392"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-13T19:39:46.000Z",
+            "text": "Just one of those nights where you want to ship a go-live and every possible log will fall on the road to make sure it doesn't happen. \n\nAlso, watch out! Something's coming up soon for @getbasis. \ud83d\udc40"
+      },
+      {
+            "id": "1623736286610853888",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 569
+            },
+            "edit_history_tweet_ids": [
+                  "1623736286610853888"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1623735406922698752"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-09T17:31:12.000Z",
+            "text": "woman* I\u2019m so furious ugh."
+      },
+      {
+            "id": "1623735406922698752",
+            "public_metrics": {
+                  "retweet_count": 5,
+                  "reply_count": 8,
+                  "like_count": 41,
+                  "quote_count": 0,
+                  "impression_count": 6054
+            },
+            "edit_history_tweet_ids": [
+                  "1623735406922698752"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-09T17:27:43.000Z",
+            "text": "We\u2019re in 2022 and firms still have 1 week of paternity leave for men while women have far more. \n\nAren\u2019t we over the fact that raising a baby is a not just a women\u2019s job???"
+      },
+      {
+            "id": "1623709834129596419",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 51,
+                              "end": 56,
+                              "probability": 0.6402,
+                              "type": "Other",
+                              "normalized_text": "Swiggy"
+                        },
+                        {
+                              "start": 62,
+                              "end": 65,
+                              "probability": 0.6202,
+                              "type": "Organization",
+                              "normalized_text": "Uber"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 20,
+                  "quote_count": 0,
+                  "impression_count": 2184
+            },
+            "edit_history_tweet_ids": [
+                  "1623709834129596419"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-09T15:46:06.000Z",
+            "text": "How did everyone live back in the old days without Swiggy and Uber? \n\nI have no clue. \n\nIt\u2019s so bad to a point, I know I\u2019m going to keep a separate budget for those two lol."
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 59,
+                              "end": 82,
+                              "url": "https://t.co/jKmNVHLd93",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1623676346974228480/photo/1",
+                              "display_url": "pic.twitter.com/jKmNVHLd93",
+                              "media_key": "16_1623676015678754816"
+                        }
+                  ]
+            },
+            "id": "1623676346974228480",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 16,
+                  "quote_count": 0,
+                  "impression_count": 2694
+            },
+            "edit_history_tweet_ids": [
+                  "1623676346974228480"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-09T13:33:02.000Z",
+            "text": "Not my best day this week. Can't wait to kill it tomorrow. https://t.co/jKmNVHLd93"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 79,
+                              "end": 102,
+                              "url": "https://t.co/A7AIHsQOwV",
+                              "expanded_url": "https://answers.microsoft.com/en-us/windows/forum/all/how-to-import-passwords-from-chrome-to-edge/265b40ee-d568-470f-bad6-e6d56c86c7c5",
+                              "display_url": "answers.microsoft.com/en-us/windows/\u2026",
+                              "status": 200,
+                              "unwound_url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=a81d90ac-aa75-4cf8-b14c-58bf348528fe&redirect_uri=https%3A%2F%2Fanswers.microsoft.com&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DelW195Oda3Hk3TBg-o7gizlxcJFrq81Qkq6WxSF9pRAQiuMNgwTzDFIY_HY6eNyCX4D4J6khAaCII5L-cpLFK0vPz2VukJPH82wsER-yo92K8mu1MmejoNePsUgAync03KKuoBfbwM_8muflawOm3w2l8uTWH4jX-GNsJsL46YdAsgkwjU1ULAc0cA6ORZLHq8F3FtnqfsqkH6tQ3Xiw-HeO4BzXNNJQV8cNL6iCmHbsUGRNEEfiliUmpFLtZ-CoxXyW_mAbfV4W82dQ1SeigcPsjHUTFOBPxpcgFuE6OZ0a1eJdLvWsW0ppbMHfjF6BAm6RBwTTTmo-bIJttKoMk7-vQ03bUljmtWnVniB_HhWg6SEQvPFKcsqd7Zk1HUa1&response_mode=form_post&nonce=638158608254508874.NjVhMGE5NzQtMjg2Yy00YmJiLTkyYjgtZjAzNzBhODNlZDZhZDUzMGUxZmYtZTg4NS00ZGZkLTg4YmQtM2RlZWE4MDc4ZjE5&nopa=2&prompt=none&x-client-SKU=ID_NET472&x-client-ver=6.17.0.0"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 49,
+                              "end": 54,
+                              "probability": 0.783,
+                              "type": "Other",
+                              "normalized_text": "chrome"
+                        }
+                  ]
+            },
+            "id": "1623675879238037504",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 1695
+            },
+            "edit_history_tweet_ids": [
+                  "1623675879238037504"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1623576457959337985"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-09T13:31:10.000Z",
+            "text": "Lot of you asking how to transfer passwords from chrome to edge, here ya go: \n\nhttps://t.co/A7AIHsQOwV"
+      },
+      {
+            "id": "1623576457959337985",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 30,
+                              "end": 35,
+                              "probability": 0.5089,
+                              "type": "Other",
+                              "normalized_text": "chrome"
+                        },
+                        {
+                              "start": 58,
+                              "end": 67,
+                              "probability": 0.598,
+                              "type": "Other",
+                              "normalized_text": "chrome web"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 2765
+            },
+            "edit_history_tweet_ids": [
+                  "1623576457959337985"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1623380326440656896"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-09T06:56:06.000Z",
+            "text": "And oh, you can have the same chrome add-ons on edge too, chrome web store works perfectly with it."
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 27,
+                              "end": 50,
+                              "url": "https://t.co/nULJbYHUef",
+                              "expanded_url": "https://twitter.com/bdicroce/status/1622209605861269506",
+                              "display_url": "twitter.com/bdicroce/statu\u2026"
+                        }
+                  ]
+            },
+            "id": "1623380326440656896",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 4873
+            },
+            "edit_history_tweet_ids": [
+                  "1623380326440656896"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1622209605861269506"
+                  },
+                  {
+                        "type": "replied_to",
+                        "id": "1623379684770848769"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-08T17:56:45.000Z",
+            "text": "Another favourite feature: https://t.co/nULJbYHUef"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 9,
+                              "end": 32,
+                              "url": "https://t.co/nX0Emls5jL",
+                              "expanded_url": "https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/",
+                              "display_url": "blogs.microsoft.com/blog/2023/02/0\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1644124250532634625/P57YN7uY?format=jpg&name=orig",
+                                          "width": 1024,
+                                          "height": 576
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1644124250532634625/P57YN7uY?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web - The Official Microsoft Blog",
+                              "description": "To empower people to unlock the joy of discovery, feel the wonder of creation and better harness the world\u2019s knowledge, today we\u2019re improving how the world benefits from the web by reinventing the tools billions of people use every day, the search engine and the browser. Today, we\u2019re launching an all new, AI-powered Bing search...",
+                              "unwound_url": "https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/"
+                        }
+                  ]
+            },
+            "id": "1623379684770848769",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 19,
+                  "quote_count": 0,
+                  "impression_count": 3613
+            },
+            "edit_history_tweet_ids": [
+                  "1623379684770848769"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1623379681096630272"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-08T17:54:12.000Z",
+            "text": "Context: https://t.co/nX0Emls5jL"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 11,
+                              "end": 25,
+                              "username": "MicrosoftEdge",
+                              "id": "19315174"
+                        },
+                        {
+                              "start": 217,
+                              "end": 222,
+                              "username": "bing",
+                              "id": "14874480"
+                        },
+                        {
+                              "start": 240,
+                              "end": 250,
+                              "username": "Microsoft",
+                              "id": "74286565"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 42,
+                              "end": 47,
+                              "probability": 0.9677,
+                              "type": "Other",
+                              "normalized_text": "Chrome"
+                        }
+                  ]
+            },
+            "id": "1623379681096630272",
+            "public_metrics": {
+                  "retweet_count": 13,
+                  "reply_count": 36,
+                  "like_count": 362,
+                  "quote_count": 4,
+                  "impression_count": 44404
+            },
+            "edit_history_tweet_ids": [
+                  "1623379681096630272"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-08T17:54:11.000Z",
+            "text": "Shifted to @MicrosoftEdge a year ago from Chrome. Best decision ever. \n\nMy RAM is happy, it auto applies best coupons from across the internet on any shopping platform and it\u2019s blazing fast. \n\nCan\u2019t wait to switch to @bing now. Excited for @Microsoft!"
+      },
+      {
+            "id": "1623274551303110657",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 410
+            },
+            "edit_history_tweet_ids": [
+                  "1623274551303110657"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1623274545946976257"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-08T10:56:26.000Z",
+            "text": "You can't build equity into the system to bridge the gender gap where performance is judged with billable hours."
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 160,
+                              "end": 183,
+                              "url": "https://t.co/yJt54htW6Y",
+                              "expanded_url": "https://www.barandbench.com/columns/stop-tokenism-start-retention-how-law-firms-can-mark-womens-day-better",
+                              "display_url": "barandbench.com/columns/stop-t\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1623274546299297793/fJKk0ZnU?format=jpg&name=orig",
+                                          "width": 1200,
+                                          "height": 675
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1623274546299297793/fJKk0ZnU?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "Stop tokenism, start retention: How law firms can mark Women\u2019s Day better",
+                              "description": "What are the challenges women face in law firms and what kind of support is required to ensure that they not only have a place at the leadership table but an effective voice that is heard at that table?",
+                              "unwound_url": "https://www.barandbench.com/columns/stop-tokenism-start-retention-how-law-firms-can-mark-womens-day-better"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 153,
+                              "end": 157,
+                              "probability": 0.9761,
+                              "type": "Place",
+                              "normalized_text": "India"
+                        }
+                  ]
+            },
+            "id": "1623274545946976257",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 919
+            },
+            "edit_history_tweet_ids": [
+                  "1623274545946976257"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-08T10:56:25.000Z",
+            "text": "\u201cFor the longest time, a lawyer\u2019s value to a firm has been judged based on what she/he bills \u2013 a day, a month, a year.\u201d\n\nWhat's up with the law firms in India? https://t.co/yJt54htW6Y"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 151,
+                              "end": 174,
+                              "url": "https://t.co/lnE51emRQ3",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1623233809784381440/photo/1",
+                              "display_url": "pic.twitter.com/lnE51emRQ3",
+                              "media_key": "3_1623233798443012097"
+                        }
+                  ]
+            },
+            "id": "1623233809784381440",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 3,
+                  "like_count": 33,
+                  "quote_count": 0,
+                  "impression_count": 1994
+            },
+            "edit_history_tweet_ids": [
+                  "1623233809784381440"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-08T08:14:33.000Z",
+            "text": "Not regretting my current work view at all. \n\nKinda want to ask, how many peacocks and peahens can you spot but I\u2019ll let that be for another day, lol. https://t.co/lnE51emRQ3"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 7,
+                              "end": 21,
+                              "username": "peakadulthood",
+                              "id": "1457984189135941634"
+                        }
+                  ]
+            },
+            "id": "1623198941893505025",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 65,
+                  "like_count": 69,
+                  "quote_count": 2,
+                  "impression_count": 27951
+            },
+            "edit_history_tweet_ids": [
+                  "1623198941893505025"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-08T05:55:59.000Z",
+            "text": "A very @peakadulthood problem to have. Where do you keep all your passwords? \n\nHaven\u2019t found a solution yet. I keep changing them every time I forget. \ud83e\udd21"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 13,
+                              "end": 36,
+                              "url": "https://t.co/J6tayl87ki",
+                              "expanded_url": "https://twitter.com/abouelatta_ali/status/1399508712830681091",
+                              "display_url": "twitter.com/abouelatta_ali\u2026"
+                        }
+                  ]
+            },
+            "id": "1623166443599831041",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 1354
+            },
+            "edit_history_tweet_ids": [
+                  "1623166443599831041"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1399508712830681091"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-08T03:46:51.000Z",
+            "text": "Comments \ud83c\udfaf\ud83c\udfaf\ud83c\udfaf https://t.co/J6tayl87ki"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 110,
+                              "end": 119,
+                              "username": "getbasis",
+                              "id": "999338233480826880"
+                        }
+                  ]
+            },
+            "id": "1622840040329187328",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 2,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 1333
+            },
+            "edit_history_tweet_ids": [
+                  "1622840040329187328"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-07T06:09:51.000Z",
+            "text": "Any solid offline marketing agencies we shouldn't miss speaking with to drill down on offline activations for @getbasis?\n\nWould love some tags, RTs, and reccos! Thank you :)"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 44,
+                              "end": 67,
+                              "url": "https://t.co/afSVLX5lWh",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1615012011099959296",
+                              "display_url": "twitter.com/dravishakatoch\u2026"
+                        }
+                  ]
+            },
+            "id": "1621356612970766338",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 289
+            },
+            "edit_history_tweet_ids": [
+                  "1621356612970766338"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1615012011099959296"
+                  },
+                  {
+                        "type": "replied_to",
+                        "id": "1621355809891553281"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-03T03:55:14.000Z",
+            "text": "14. 5 simple ways to work more efficiently: https://t.co/afSVLX5lWh"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 34,
+                              "end": 57,
+                              "url": "https://t.co/G1nZixdJT1",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1619210631890206720",
+                              "display_url": "twitter.com/dravishakatoch\u2026"
+                        }
+                  ]
+            },
+            "id": "1621355809891553281",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 350
+            },
+            "edit_history_tweet_ids": [
+                  "1621355809891553281"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1619210631890206720"
+                  },
+                  {
+                        "type": "replied_to",
+                        "id": "1549001873276882949"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-03T03:52:03.000Z",
+            "text": "13. A mini introduction about me: https://t.co/G1nZixdJT1"
+      },
+      {
+            "id": "1621353429376593920",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 55,
+                              "end": 76,
+                              "probability": 0.9498,
+                              "type": "Other",
+                              "normalized_text": "Anthropology of Humour"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 6,
+                  "like_count": 31,
+                  "quote_count": 1,
+                  "impression_count": 4570
+            },
+            "edit_history_tweet_ids": [
+                  "1621353429376593920"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-03T03:42:35.000Z",
+            "text": "Random confession: I took a course back in college on \u2018Anthropology of Humour\u2019 to level up my lame humour. \n\nDrop one random confession from you too in the comments maybe?"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 80,
+                              "end": 103,
+                              "url": "https://t.co/asbIcjenKR",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1621153723060994049/photo/1",
+                              "display_url": "pic.twitter.com/asbIcjenKR",
+                              "media_key": "3_1621153714500411392"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 25,
+                              "end": 32,
+                              "probability": 0.6494,
+                              "type": "Person",
+                              "normalized_text": "Dravisha"
+                        }
+                  ]
+            },
+            "id": "1621153723060994049",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 41,
+                  "quote_count": 0,
+                  "impression_count": 2515
+            },
+            "edit_history_tweet_ids": [
+                  "1621153723060994049"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-02T14:29:01.000Z",
+            "text": "Found this photo of baby Dravisha out of nowhere today. \n\nHow to reverse age? \ud83e\udd72 https://t.co/asbIcjenKR"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 41,
+                              "end": 50,
+                              "username": "getbasis",
+                              "id": "999338233480826880"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 124,
+                              "end": 147,
+                              "url": "https://t.co/zdg3M1Bsgd",
+                              "expanded_url": "https://twitter.com/getbasis/status/1621141523135102979",
+                              "display_url": "twitter.com/getbasis/statu\u2026"
+                        }
+                  ]
+            },
+            "id": "1621150088491048961",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 600
+            },
+            "edit_history_tweet_ids": [
+                  "1621150088491048961"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1621141523135102979"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-02-02T14:14:35.000Z",
+            "text": "In case you still haven\u2019t followed us at @getbasis, you\u2019re missing out on a bunch. \n\nThere\u2019s a lot cooking \ud83c\udf72, coming very \ud83d\udd1c https://t.co/zdg3M1Bsgd"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 136,
+                              "end": 146,
+                              "username": "0orja_k23",
+                              "id": "1380697919372685313"
+                        }
+                  ]
+            },
+            "id": "1620381653112860676",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 6,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 3622
+            },
+            "edit_history_tweet_ids": [
+                  "1620381653112860676"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-31T11:21:05.000Z",
+            "text": "Any reccos on great over the ear, wireless headphone? \n\nRequirements: Durable, decent quality and under \u20b95k. \n\nWould love some help for @0orja_k23!"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 17,
+                              "end": 27,
+                              "username": "Pallet_HQ",
+                              "id": "1177943690985295873"
+                        }
+                  ]
+            },
+            "id": "1620306309978664963",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 634
+            },
+            "edit_history_tweet_ids": [
+                  "1620306309978664963"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1620273850301947904"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-31T06:21:42.000Z",
+            "text": "Can you help me? @Pallet_HQ \ud83d\udc40"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 85,
+                              "end": 108,
+                              "url": "https://t.co/Q3YdoBdJqB",
+                              "expanded_url": "https://twitter.com/mango_sax/status/1620135833234997252",
+                              "display_url": "twitter.com/mango_sax/stat\u2026"
+                        }
+                  ]
+            },
+            "id": "1620273850301947904",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 6,
+                  "like_count": 39,
+                  "quote_count": 0,
+                  "impression_count": 5098
+            },
+            "edit_history_tweet_ids": [
+                  "1620273850301947904"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1620135833234997252"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-31T04:12:43.000Z",
+            "text": "Brb, going to open a talent pool soon and help folks get hired in less than 20 days. https://t.co/Q3YdoBdJqB"
+      },
+      {
+            "id": "1620096719093645319",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 725
+            },
+            "edit_history_tweet_ids": [
+                  "1620096719093645319"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1615385846362042369"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-30T16:28:52.000Z",
+            "text": "This was CRAZY. 20 leads in less than 20 days and closed on an offer \u2014 @omang_agarwal\u2019s now off the market. \n\nToo proud of him! Thank you to everyone who reached out and engaged with this thread to spread the word. \ud83c\udf3b"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 12,
+                              "end": 35,
+                              "url": "https://t.co/hfWgdUKUkx",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1620028414773313537/photo/1",
+                              "display_url": "pic.twitter.com/hfWgdUKUkx",
+                              "media_key": "3_1620028403088003073"
+                        }
+                  ]
+            },
+            "id": "1620028414773313537",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 1001
+            },
+            "edit_history_tweet_ids": [
+                  "1620028414773313537"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1620025137709080579"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-30T11:57:27.000Z",
+            "text": "Next steps: https://t.co/hfWgdUKUkx"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 12,
+                              "end": 35,
+                              "url": "https://t.co/eIxcxsWRk9",
+                              "expanded_url": "https://twitter.com/dravishakatoch/status/1620025137709080579/photo/1",
+                              "display_url": "pic.twitter.com/eIxcxsWRk9",
+                              "media_key": "3_1620025129421148161"
+                        }
+                  ]
+            },
+            "id": "1620025137709080579",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 5,
+                  "like_count": 18,
+                  "quote_count": 0,
+                  "impression_count": 5326
+            },
+            "edit_history_tweet_ids": [
+                  "1620025137709080579"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-30T11:44:26.000Z",
+            "text": "Thoughts? \ud83e\udd14 https://t.co/eIxcxsWRk9"
+      },
+      {
+            "id": "1619727965767729153",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 16,
+                  "quote_count": 0,
+                  "impression_count": 1141
+            },
+            "edit_history_tweet_ids": [
+                  "1619727965767729153"
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-29T16:03:34.000Z",
+            "text": "Mistakes happen. To err is human. \n\nIt\u2019s all about how you fix them."
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 130,
+                              "end": 141,
+                              "username": "AshokaUniv",
+                              "id": "804100399"
+                        }
+                  ]
+            },
+            "id": "1619210663263612928",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 18,
+                  "quote_count": 0,
+                  "impression_count": 3402
+            },
+            "edit_history_tweet_ids": [
+                  "1619210663263612928"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1619210659312586753"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-28T05:48:00.000Z",
+            "text": "5.2. Realised engineering isn\u2019t for me post 2 years but wanted to continue with my interest in CS &amp; Entrepreneurship.\n\nJoined @AshokaUniv and graduated in 2022! Worked alongside all these 5 years in college and here I am :D"
+      },
+      {
+            "id": "1619210659312586753",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 16,
+                  "quote_count": 0,
+                  "impression_count": 3222
+            },
+            "edit_history_tweet_ids": [
+                  "1619210659312586753"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1619210655185403904"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-28T05:47:59.000Z",
+            "text": "5.1. Followed \u2014 you make \u2018you\u2019 and not the building you study in. \n\nEnded up in a tier 3 engineering college, made the most of my time there; got invited to many international conferences."
+      },
+      {
+            "id": "1619210655185403904",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 17,
+                  "quote_count": 0,
+                  "impression_count": 2994
+            },
+            "edit_history_tweet_ids": [
+                  "1619210655185403904"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1619210651188219904"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-28T05:47:58.000Z",
+            "text": "5. I decided to take the road not taken with my studies. Most of the folks thought I\u2019m making a huge mistake but I always prioritised my health and sleep over tuitions/coachings in my 12th. \n\nComputer Science was always my first choice but never chased entrances or IITs."
+      },
+      {
+            "id": "1619210651188219904",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 19,
+                  "quote_count": 0,
+                  "impression_count": 3039
+            },
+            "edit_history_tweet_ids": [
+                  "1619210651188219904"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1619210646931013632"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-28T05:47:57.000Z",
+            "text": "4. I\u2019m a big foodie (don\u2019t know where all of it goes but yes), and a traveler (traveled solo to 6+ countries on my own).\n\nThese are the only two places where I empty my bank account. Always have loved meeting new folks, and keep meeting them in whichever city I am!"
+      },
+      {
+            "id": "1619210646931013632",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 20,
+                  "quote_count": 0,
+                  "impression_count": 3184
+            },
+            "edit_history_tweet_ids": [
+                  "1619210646931013632"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1619210642828988417"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-28T05:47:56.000Z",
+            "text": "3.1. I source my strength, resilience and sportsmanship from sports. \n\nThere was a point in life when I used to train for 12 hours a day under my coach for Basketball and those were the days that taught me most of these values."
+      },
+      {
+            "id": "1619210642828988417",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 75,
+                              "end": 83,
+                              "probability": 0.4036,
+                              "type": "Other",
+                              "normalized_text": "badminton"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 20,
+                  "quote_count": 0,
+                  "impression_count": 3276
+            },
+            "edit_history_tweet_ids": [
+                  "1619210642828988417"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1619210638722752512"
+                  }
+            ],
+            "author_id": "874769729998659584",
+            "created_at": "2023-01-28T05:47:55.000Z",
+            "text": "3. Sports has been a huge part of building who I am, from playing states - badminton, zonals - chess to being a professional horse rider, skater, and nationals - basketball, I\u2019ve loved playing each and every sport."
+      }
+]

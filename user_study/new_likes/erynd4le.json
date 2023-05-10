@@ -1,0 +1,3375 @@
+[
+      {
+            "id": "1651464117075730432",
+            "created_at": "2023-04-27T05:51:42.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 17,
+                              "end": 21,
+                              "probability": 0.633,
+                              "type": "Other",
+                              "normalized_text": "olive"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 26,
+                              "end": 49,
+                              "url": "https://t.co/Rz4HiydL75",
+                              "expanded_url": "https://twitter.com/funkysoupboy/status/1651464117075730432/photo/1",
+                              "display_url": "pic.twitter.com/Rz4HiydL75",
+                              "media_key": "3_1651464110092034048"
+                        },
+                        {
+                              "start": 50,
+                              "end": 73,
+                              "url": "https://t.co/8Jt8UVV8Iy",
+                              "expanded_url": "https://twitter.com/am3thystb1tch/status/1651205541199314944",
+                              "display_url": "twitter.com/am3thystb1tch/\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1651205541199314944"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1651464117075730432"
+            ],
+            "text": "anyway say hi to olive !! https://t.co/Rz4HiydL75 https://t.co/8Jt8UVV8Iy",
+            "public_metrics": {
+                  "retweet_count": 32,
+                  "reply_count": 26,
+                  "like_count": 454,
+                  "quote_count": 8,
+                  "impression_count": 19299
+            },
+            "author_id": "1250913940281925633"
+      },
+      {
+            "id": "1650707915748134913",
+            "created_at": "2023-04-25T03:46:50.000Z",
+            "edit_history_tweet_ids": [
+                  "1650707915748134913"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 32,
+                              "end": 55,
+                              "url": "https://t.co/YWq5vBS4c1",
+                              "expanded_url": "https://twitter.com/Komaniecki_R/status/1650707915748134913/photo/1",
+                              "display_url": "pic.twitter.com/YWq5vBS4c1",
+                              "media_key": "3_1650707913437052928"
+                        },
+                        {
+                              "start": 32,
+                              "end": 55,
+                              "url": "https://t.co/YWq5vBS4c1",
+                              "expanded_url": "https://twitter.com/Komaniecki_R/status/1650707915748134913/photo/1",
+                              "display_url": "pic.twitter.com/YWq5vBS4c1",
+                              "media_key": "3_1650707913533431809"
+                        }
+                  ]
+            },
+            "text": "It is so over // we are so back https://t.co/YWq5vBS4c1",
+            "public_metrics": {
+                  "retweet_count": 569,
+                  "reply_count": 5,
+                  "like_count": 4737,
+                  "quote_count": 13,
+                  "impression_count": 92087
+            },
+            "author_id": "1056049750577999874"
+      },
+      {
+            "id": "1650891459875282945",
+            "created_at": "2023-04-25T15:56:10.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 13,
+                              "probability": 0.9302,
+                              "type": "Person",
+                              "normalized_text": "Hunter Schafer"
+                        },
+                        {
+                              "start": 19,
+                              "end": 30,
+                              "probability": 0.932,
+                              "type": "Person",
+                              "normalized_text": "Dominic Fike"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 58,
+                              "end": 81,
+                              "url": "https://t.co/MjDoHZo0ZH",
+                              "expanded_url": "https://twitter.com/i/web/status/1650891459875282945",
+                              "display_url": "twitter.com/i/web/status/1\u2026"
+                        },
+                        {
+                              "start": 82,
+                              "end": 105,
+                              "url": "https://t.co/UwWtwu1rsQ",
+                              "expanded_url": "https://twitter.com/ThePopTingz/status/1650891459875282945/photo/1",
+                              "display_url": "pic.twitter.com/UwWtwu1rsQ",
+                              "media_key": "3_1650890014497165312"
+                        },
+                        {
+                              "start": 82,
+                              "end": 105,
+                              "url": "https://t.co/UwWtwu1rsQ",
+                              "expanded_url": "https://twitter.com/ThePopTingz/status/1650891459875282945/photo/1",
+                              "display_url": "pic.twitter.com/UwWtwu1rsQ",
+                              "media_key": "3_1650890014497054722"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650890021036085251",
+                  "1650891459875282945"
+            ],
+            "text": "Hunter Schafer and Dominic Fike have seemingly broken up. https://t.co/MjDoHZo0ZH https://t.co/UwWtwu1rsQ",
+            "public_metrics": {
+                  "retweet_count": 543,
+                  "reply_count": 582,
+                  "like_count": 17743,
+                  "quote_count": 3505,
+                  "impression_count": 6103647
+            },
+            "author_id": "1359293410847383558"
+      },
+      {
+            "id": "1650975471956377602",
+            "created_at": "2023-04-25T21:30:00.000Z",
+            "edit_history_tweet_ids": [
+                  "1650975471956377602"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/QMkm7803Hx",
+                              "expanded_url": "https://twitter.com/contextdogs/status/1650975471956377602/photo/1",
+                              "display_url": "pic.twitter.com/QMkm7803Hx",
+                              "media_key": "3_1650917916739510281"
+                        }
+                  ]
+            },
+            "text": "https://t.co/QMkm7803Hx",
+            "public_metrics": {
+                  "retweet_count": 634,
+                  "reply_count": 9,
+                  "like_count": 8238,
+                  "quote_count": 26,
+                  "impression_count": 176292
+            },
+            "author_id": "1408480800438374406"
+      },
+      {
+            "id": "1650942137863913477",
+            "created_at": "2023-04-25T19:17:33.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 12,
+                              "end": 17,
+                              "probability": 0.6407,
+                              "type": "Other",
+                              "normalized_text": "bhondu"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 19,
+                              "end": 42,
+                              "url": "https://t.co/19cECVJVgO",
+                              "expanded_url": "https://twitter.com/fasc1nate/status/1650793178016956417",
+                              "display_url": "twitter.com/fasc1nate/stat\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1650793178016956417"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1650942137863913477"
+            ],
+            "text": "he looks so bhondu https://t.co/19cECVJVgO",
+            "public_metrics": {
+                  "retweet_count": 26,
+                  "reply_count": 21,
+                  "like_count": 702,
+                  "quote_count": 3,
+                  "impression_count": 35127
+            },
+            "author_id": "833414867398823936"
+      },
+      {
+            "id": "1651175134076497920",
+            "created_at": "2023-04-26T10:43:23.000Z",
+            "edit_history_tweet_ids": [
+                  "1651175134076497920"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 18,
+                              "end": 41,
+                              "url": "https://t.co/48DsR3Sop1",
+                              "expanded_url": "https://twitter.com/ShouldHaveCat/status/1651175134076497920/photo/1",
+                              "display_url": "pic.twitter.com/48DsR3Sop1",
+                              "media_key": "3_1651175120751271937"
+                        }
+                  ]
+            },
+            "text": "carnivorous plant https://t.co/48DsR3Sop1",
+            "public_metrics": {
+                  "retweet_count": 39590,
+                  "reply_count": 397,
+                  "like_count": 334343,
+                  "quote_count": 570,
+                  "impression_count": 8662337
+            },
+            "author_id": "1310275768191193088"
+      },
+      {
+            "id": "1650958419677835266",
+            "created_at": "2023-04-25T20:22:15.000Z",
+            "edit_history_tweet_ids": [
+                  "1650958306775560218",
+                  "1650958419677835266"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 107,
+                              "end": 130,
+                              "url": "https://t.co/rV2qIu7zof",
+                              "expanded_url": "https://twitter.com/i/web/status/1650958419677835266",
+                              "display_url": "twitter.com/i/web/status/1\u2026"
+                        },
+                        {
+                              "start": 131,
+                              "end": 154,
+                              "url": "https://t.co/8Lhb7awf2Y",
+                              "expanded_url": "https://twitter.com/Culture_Crit/status/1650958419677835266/photo/1",
+                              "display_url": "pic.twitter.com/8Lhb7awf2Y",
+                              "media_key": "3_1650958379588677665"
+                        },
+                        {
+                              "start": 131,
+                              "end": 154,
+                              "url": "https://t.co/8Lhb7awf2Y",
+                              "expanded_url": "https://twitter.com/Culture_Crit/status/1650958419677835266/photo/1",
+                              "display_url": "pic.twitter.com/8Lhb7awf2Y",
+                              "media_key": "3_1650958379618033664"
+                        }
+                  ]
+            },
+            "text": "\"Beauty will lead                       \"The state\n     you to God.\"                              is God.\" https://t.co/rV2qIu7zof https://t.co/8Lhb7awf2Y",
+            "public_metrics": {
+                  "retweet_count": 1930,
+                  "reply_count": 286,
+                  "like_count": 16772,
+                  "quote_count": 95,
+                  "impression_count": 749416
+            },
+            "author_id": "1257792281614200834"
+      },
+      {
+            "id": "1650903757662846976",
+            "created_at": "2023-04-25T16:45:02.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 4,
+                              "end": 7,
+                              "probability": 0.4539,
+                              "type": "Other",
+                              "normalized_text": "urdu"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 36,
+                              "end": 59,
+                              "url": "https://t.co/HvPx1Dgrna",
+                              "expanded_url": "https://twitter.com/mahrugarita/status/1650903757662846976/photo/1",
+                              "display_url": "pic.twitter.com/HvPx1Dgrna",
+                              "media_key": "3_1650903755033022465"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650903757662846976"
+            ],
+            "text": "why urdu compliments hit different: https://t.co/HvPx1Dgrna",
+            "public_metrics": {
+                  "retweet_count": 64,
+                  "reply_count": 6,
+                  "like_count": 1126,
+                  "quote_count": 11,
+                  "impression_count": 29871
+            },
+            "author_id": "1136632884859736064"
+      },
+      {
+            "id": "1650502395363721217",
+            "created_at": "2023-04-24T14:10:10.000Z",
+            "edit_history_tweet_ids": [
+                  "1650502395363721217"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/a1Woufn9y5",
+                              "expanded_url": "https://twitter.com/faeslily/status/1650502395363721217/photo/1",
+                              "display_url": "pic.twitter.com/a1Woufn9y5",
+                              "media_key": "3_1650502389189820416"
+                        },
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/a1Woufn9y5",
+                              "expanded_url": "https://twitter.com/faeslily/status/1650502395363721217/photo/1",
+                              "display_url": "pic.twitter.com/a1Woufn9y5",
+                              "media_key": "3_1650502392297791491"
+                        }
+                  ]
+            },
+            "text": "https://t.co/a1Woufn9y5",
+            "public_metrics": {
+                  "retweet_count": 1877,
+                  "reply_count": 52,
+                  "like_count": 9293,
+                  "quote_count": 187,
+                  "impression_count": 241176
+            },
+            "author_id": "1481795693735985160"
+      },
+      {
+            "id": "1650973853848354825",
+            "created_at": "2023-04-25T21:23:35.000Z",
+            "edit_history_tweet_ids": [
+                  "1650973853848354825"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 58,
+                              "end": 81,
+                              "url": "https://t.co/39yymztY7T",
+                              "expanded_url": "https://twitter.com/Culture_Crit/status/1650973853848354825/photo/1",
+                              "display_url": "pic.twitter.com/39yymztY7T",
+                              "media_key": "3_1650973251034660865"
+                        }
+                  ]
+            },
+            "text": "Please never forget what architects were once capable of. https://t.co/39yymztY7T",
+            "public_metrics": {
+                  "retweet_count": 14384,
+                  "reply_count": 1547,
+                  "like_count": 120464,
+                  "quote_count": 832,
+                  "impression_count": 7331070
+            },
+            "author_id": "1257792281614200834"
+      },
+      {
+            "id": "1651132525144682496",
+            "created_at": "2023-04-26T07:54:05.000Z",
+            "edit_history_tweet_ids": [
+                  "1651132525144682496"
+            ],
+            "text": "It sucks being the daughter of an overachieving mother who topped her entire university, and then only inheriting the IQ of the classmate she helped tutor because he was flunking all his classes (my dad)",
+            "public_metrics": {
+                  "retweet_count": 248,
+                  "reply_count": 90,
+                  "like_count": 6104,
+                  "quote_count": 74,
+                  "impression_count": 235915
+            },
+            "author_id": "1273666733396488193"
+      },
+      {
+            "id": "1651143522458951681",
+            "created_at": "2023-04-26T08:37:47.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 41,
+                              "end": 43,
+                              "probability": 0.5528,
+                              "type": "Other",
+                              "normalized_text": "wuz"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1651143522458951681"
+            ],
+            "text": "3rd year of uni ending and i still dunno wuz goin on in dis bitch",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 286
+            },
+            "author_id": "843847505343258625"
+      },
+      {
+            "id": "1650442146606903296",
+            "created_at": "2023-04-24T10:10:46.000Z",
+            "edit_history_tweet_ids": [
+                  "1650442146606903296"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 45,
+                              "end": 68,
+                              "url": "https://t.co/XCM9wj2G7P",
+                              "expanded_url": "https://twitter.com/stonedbonnet/status/1650442146606903296/photo/1",
+                              "display_url": "pic.twitter.com/XCM9wj2G7P",
+                              "media_key": "3_1650442140533637120"
+                        }
+                  ]
+            },
+            "text": "queering the map never fails to devastate me https://t.co/XCM9wj2G7P",
+            "public_metrics": {
+                  "retweet_count": 1512,
+                  "reply_count": 29,
+                  "like_count": 13893,
+                  "quote_count": 417,
+                  "impression_count": 239917
+            },
+            "author_id": "865596306718420992"
+      },
+      {
+            "id": "1650972995069050887",
+            "created_at": "2023-04-25T21:20:10.000Z",
+            "edit_history_tweet_ids": [
+                  "1650972995069050887"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/qMEE1cxmZx",
+                              "expanded_url": "https://twitter.com/PicturesFoIder/status/1650972995069050887/photo/1",
+                              "display_url": "pic.twitter.com/qMEE1cxmZx",
+                              "media_key": "3_1650972978904195072"
+                        }
+                  ]
+            },
+            "text": "https://t.co/qMEE1cxmZx",
+            "public_metrics": {
+                  "retweet_count": 52092,
+                  "reply_count": 502,
+                  "like_count": 439787,
+                  "quote_count": 1018,
+                  "impression_count": 13229762
+            },
+            "author_id": "2538322138"
+      },
+      {
+            "id": "1650887173489451012",
+            "created_at": "2023-04-25T15:39:08.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 23,
+                              "end": 34,
+                              "probability": 0.6925,
+                              "type": "Other",
+                              "normalized_text": "Cotton Candy"
+                        },
+                        {
+                              "start": 223,
+                              "end": 229,
+                              "probability": 0.9401,
+                              "type": "Other",
+                              "normalized_text": "youtube"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 279,
+                              "end": 302,
+                              "url": "https://t.co/GyYOfO50Xy",
+                              "expanded_url": "https://twitter.com/gazpachomachine/status/1650887173489451012/photo/1",
+                              "display_url": "pic.twitter.com/GyYOfO50Xy",
+                              "media_key": "3_1650887168389271553"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650887173489451012"
+            ],
+            "text": "Shower Food Review 37: Cotton Candy - For some reason this was the most highly requested Shower Food Review. Perhaps people wanted to see me accidentally get it wet and have it dissolve, like that sad raccoon in that viral youtube video. But I am not a raccoon. I am a man. 4/10 https://t.co/GyYOfO50Xy",
+            "public_metrics": {
+                  "retweet_count": 17602,
+                  "reply_count": 328,
+                  "like_count": 255058,
+                  "quote_count": 814,
+                  "impression_count": 9224034
+            },
+            "author_id": "702866773104828416"
+      },
+      {
+            "id": "1651072611538067456",
+            "created_at": "2023-04-26T03:56:00.000Z",
+            "edit_history_tweet_ids": [
+                  "1651072611538067456"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 20,
+                              "end": 43,
+                              "url": "https://t.co/WAo4lJRVau",
+                              "expanded_url": "https://twitter.com/kevinabstract/status/1651072611538067456/photo/1",
+                              "display_url": "pic.twitter.com/WAo4lJRVau",
+                              "media_key": "3_1651072597654896640"
+                        },
+                        {
+                              "start": 20,
+                              "end": 43,
+                              "url": "https://t.co/WAo4lJRVau",
+                              "expanded_url": "https://twitter.com/kevinabstract/status/1651072611538067456/photo/1",
+                              "display_url": "pic.twitter.com/WAo4lJRVau",
+                              "media_key": "3_1651072597667483648"
+                        }
+                  ]
+            },
+            "text": "4 years, thank you. https://t.co/WAo4lJRVau",
+            "public_metrics": {
+                  "retweet_count": 934,
+                  "reply_count": 157,
+                  "like_count": 8730,
+                  "quote_count": 150,
+                  "impression_count": 259024
+            },
+            "author_id": "491710556"
+      },
+      {
+            "id": "1650953378866819091",
+            "created_at": "2023-04-25T20:02:13.000Z",
+            "edit_history_tweet_ids": [
+                  "1650953378866819091"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/N02VkwztvS",
+                              "expanded_url": "https://twitter.com/PicturesFoIder/status/1650953378866819091/photo/1",
+                              "display_url": "pic.twitter.com/N02VkwztvS",
+                              "media_key": "3_1650953374458605571"
+                        }
+                  ]
+            },
+            "text": "https://t.co/N02VkwztvS",
+            "public_metrics": {
+                  "retweet_count": 39480,
+                  "reply_count": 584,
+                  "like_count": 281573,
+                  "quote_count": 2366,
+                  "impression_count": 9832289
+            },
+            "author_id": "2538322138"
+      },
+      {
+            "id": "1650886854542077953",
+            "created_at": "2023-04-25T15:37:52.000Z",
+            "edit_history_tweet_ids": [
+                  "1650886854542077953"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/Zrk557KS1Y",
+                              "expanded_url": "https://twitter.com/nonewgirlcontxt/status/1650886854542077953/photo/1",
+                              "display_url": "pic.twitter.com/Zrk557KS1Y",
+                              "media_key": "3_1650886847164235777"
+                        }
+                  ]
+            },
+            "text": "https://t.co/Zrk557KS1Y",
+            "public_metrics": {
+                  "retweet_count": 10806,
+                  "reply_count": 25,
+                  "like_count": 42007,
+                  "quote_count": 644,
+                  "impression_count": 1831491
+            },
+            "author_id": "711700902"
+      },
+      {
+            "id": "1650889662867857409",
+            "created_at": "2023-04-25T15:49:02.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 17,
+                              "end": 25,
+                              "probability": 0.9637,
+                              "type": "Other",
+                              "normalized_text": "Instagram"
+                        },
+                        {
+                              "start": 169,
+                              "end": 173,
+                              "probability": 0.9431,
+                              "type": "Place",
+                              "normalized_text": "India"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650889662867857409"
+            ],
+            "text": "I found a guy on Instagram whose entire profile is dedicated to him making flower bouquets for his girlfriend.\nThis is the kind of healthy masculinity you won't find in India.",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 106
+            },
+            "author_id": "891308500659257344"
+      },
+      {
+            "id": "1650551772463738895",
+            "created_at": "2023-04-24T17:26:22.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 10,
+                              "probability": 0.9687,
+                              "type": "Person",
+                              "normalized_text": "Frank Ocean"
+                        },
+                        {
+                              "start": 15,
+                              "end": 20,
+                              "probability": 0.8771,
+                              "type": "Other",
+                              "normalized_text": "Blonde"
+                        },
+                        {
+                              "start": 60,
+                              "end": 72,
+                              "probability": 0.911,
+                              "type": "Other",
+                              "normalized_text": "Billboard 200"
+                        },
+                        {
+                              "start": 84,
+                              "end": 92,
+                              "probability": 0.41,
+                              "type": "Other",
+                              "normalized_text": "Coachella"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 136,
+                              "end": 159,
+                              "url": "https://t.co/yccrgcESre",
+                              "expanded_url": "https://twitter.com/chartdata/status/1650551772463738895/photo/1",
+                              "display_url": "pic.twitter.com/yccrgcESre",
+                              "media_key": "3_1650551695351459848"
+                        },
+                        {
+                              "start": 136,
+                              "end": 159,
+                              "url": "https://t.co/yccrgcESre",
+                              "expanded_url": "https://twitter.com/chartdata/status/1650551772463738895/photo/1",
+                              "display_url": "pic.twitter.com/yccrgcESre",
+                              "media_key": "3_1650551730482847744"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650551772463738895"
+            ],
+            "text": "Frank Ocean's 'Blonde' returns to the top 40 on this week's Billboard 200 following Coachella. Its highest rank since original release. https://t.co/yccrgcESre",
+            "public_metrics": {
+                  "retweet_count": 487,
+                  "reply_count": 113,
+                  "like_count": 9636,
+                  "quote_count": 257,
+                  "impression_count": 1254244
+            },
+            "author_id": "744260935527735296"
+      },
+      {
+            "id": "1650491846114639873",
+            "created_at": "2023-04-24T13:28:15.000Z",
+            "edit_history_tweet_ids": [
+                  "1650491846114639873"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 54,
+                              "end": 77,
+                              "url": "https://t.co/wREW9ptPhT",
+                              "expanded_url": "https://twitter.com/libbyszenik/status/1650491846114639873/photo/1",
+                              "display_url": "pic.twitter.com/wREW9ptPhT",
+                              "media_key": "3_1650491843098865666"
+                        }
+                  ]
+            },
+            "text": "WHAT'S A GIRL GOTTA DO TO BE HELD LIKE THIS?? DIE???? https://t.co/wREW9ptPhT",
+            "public_metrics": {
+                  "retweet_count": 10898,
+                  "reply_count": 143,
+                  "like_count": 78438,
+                  "quote_count": 1226,
+                  "impression_count": 2447755
+            },
+            "author_id": "1397872909364830222"
+      },
+      {
+            "id": "1650767943221882880",
+            "created_at": "2023-04-25T07:45:22.000Z",
+            "edit_history_tweet_ids": [
+                  "1650767943221882880"
+            ],
+            "text": "I\u2019ve been left alone in the house for the last 48 hours and I\u2019ve lived entirely on toast.\n\nI am only a man.",
+            "public_metrics": {
+                  "retweet_count": 336,
+                  "reply_count": 617,
+                  "like_count": 11678,
+                  "quote_count": 36,
+                  "impression_count": 851209
+            },
+            "author_id": "92727851"
+      },
+      {
+            "id": "1650491035280179206",
+            "created_at": "2023-04-24T13:25:02.000Z",
+            "edit_history_tweet_ids": [
+                  "1650491035280179206"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/5tnvOh11Ch",
+                              "expanded_url": "https://twitter.com/contextdogs/status/1650491035280179206/photo/1",
+                              "display_url": "pic.twitter.com/5tnvOh11Ch",
+                              "media_key": "3_1650491031882743812"
+                        }
+                  ]
+            },
+            "text": "https://t.co/5tnvOh11Ch",
+            "public_metrics": {
+                  "retweet_count": 697,
+                  "reply_count": 11,
+                  "like_count": 11279,
+                  "quote_count": 45,
+                  "impression_count": 346206
+            },
+            "author_id": "1408480800438374406"
+      },
+      {
+            "id": "1650816897427054592",
+            "created_at": "2023-04-25T10:59:53.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1650516591002415112"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1650816897427054592"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 16,
+                              "end": 39,
+                              "url": "https://t.co/acRKQMreHE",
+                              "expanded_url": "https://twitter.com/thechosenberg/status/1650516591002415112",
+                              "display_url": "twitter.com/thechosenberg/\u2026"
+                        }
+                  ]
+            },
+            "text": "time to lose it https://t.co/acRKQMreHE",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 252
+            },
+            "author_id": "1379212119174836226"
+      },
+      {
+            "id": "1650596200532549632",
+            "created_at": "2023-04-24T20:22:55.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 30,
+                              "probability": 0.5584,
+                              "type": "Person",
+                              "normalized_text": "liberandu"
+                        },
+                        {
+                              "start": 34,
+                              "end": 35,
+                              "probability": 0.4754,
+                              "type": "Other",
+                              "normalized_text": "sg"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650596200532549632"
+            ],
+            "text": "ug24 u would\u2019ve loved liberandu\u2019s sg campaign in 2019 (can other 4th yrs pls confirm that wasn\u2019t a crazy fever dream)",
+            "public_metrics": {
+                  "retweet_count": 3,
+                  "reply_count": 6,
+                  "like_count": 70,
+                  "quote_count": 2,
+                  "impression_count": 7676
+            },
+            "author_id": "1641852711271268387"
+      },
+      {
+            "id": "1650578139183996932",
+            "created_at": "2023-04-24T19:11:09.000Z",
+            "edit_history_tweet_ids": [
+                  "1650578139183996932"
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 56,
+                              "end": 71,
+                              "username": "kartikablenews",
+                              "id": "1099174007981649921"
+                        }
+                  ]
+            },
+            "text": "it takes a village to raise a child cos ur mom is a hoe @kartikablenews",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 200
+            },
+            "author_id": "1450497743558873091"
+      },
+      {
+            "id": "1650157176449810432",
+            "created_at": "2023-04-23T15:18:23.000Z",
+            "edit_history_tweet_ids": [
+                  "1650157176449810432"
+            ],
+            "text": "yes yes my salary is 50 lpa, (Ls per annum)",
+            "public_metrics": {
+                  "retweet_count": 14,
+                  "reply_count": 17,
+                  "like_count": 196,
+                  "quote_count": 1,
+                  "impression_count": 11490
+            },
+            "author_id": "831899703868588032"
+      },
+      {
+            "id": "1650317604823740417",
+            "created_at": "2023-04-24T01:55:53.000Z",
+            "edit_history_tweet_ids": [
+                  "1650317604823740417"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/cq8CfGntMs",
+                              "expanded_url": "https://twitter.com/girlbloggerbarb/status/1650317604823740417/photo/1",
+                              "display_url": "pic.twitter.com/cq8CfGntMs",
+                              "media_key": "3_1650317600801411072"
+                        }
+                  ]
+            },
+            "text": "https://t.co/cq8CfGntMs",
+            "public_metrics": {
+                  "retweet_count": 7860,
+                  "reply_count": 118,
+                  "like_count": 31945,
+                  "quote_count": 851,
+                  "impression_count": 1828491
+            },
+            "author_id": "1644072935508811778"
+      },
+      {
+            "id": "1650086716840062976",
+            "created_at": "2023-04-23T10:38:25.000Z",
+            "edit_history_tweet_ids": [
+                  "1650086716840062976"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 37,
+                              "end": 60,
+                              "url": "https://t.co/RCOgrzvwCZ",
+                              "expanded_url": "https://twitter.com/myspideyswift/status/1650086716840062976/photo/1",
+                              "display_url": "pic.twitter.com/RCOgrzvwCZ",
+                              "media_key": "3_1650086593753907202"
+                        }
+                  ]
+            },
+            "text": "IS THE PERSON WHO TOOK THIS OKAY???? https://t.co/RCOgrzvwCZ",
+            "public_metrics": {
+                  "retweet_count": 10054,
+                  "reply_count": 86,
+                  "like_count": 188964,
+                  "quote_count": 484,
+                  "impression_count": 3477587
+            },
+            "author_id": "1459992964969766913"
+      },
+      {
+            "id": "1649804654052794368",
+            "created_at": "2023-04-22T15:57:36.000Z",
+            "edit_history_tweet_ids": [
+                  "1649804654052794368"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 13,
+                              "end": 36,
+                              "url": "https://t.co/rIz95tgVl1",
+                              "expanded_url": "https://twitter.com/PlaceInMikey/status/1649804654052794368/photo/1",
+                              "display_url": "pic.twitter.com/rIz95tgVl1",
+                              "media_key": "3_1649804649652948993"
+                        }
+                  ]
+            },
+            "text": "me everyday: https://t.co/rIz95tgVl1",
+            "public_metrics": {
+                  "retweet_count": 1621,
+                  "reply_count": 7,
+                  "like_count": 6545,
+                  "quote_count": 20,
+                  "impression_count": 118864
+            },
+            "author_id": "1538534569351299072"
+      },
+      {
+            "id": "1650167043767844866",
+            "created_at": "2023-04-23T15:57:36.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 17,
+                              "end": 30,
+                              "probability": 0.5717,
+                              "type": "Other",
+                              "normalized_text": "blue eyeshadow"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 38,
+                              "end": 61,
+                              "url": "https://t.co/gi5vdLD1qk",
+                              "expanded_url": "https://twitter.com/peachcrisis/status/1650167043767844866/photo/1",
+                              "display_url": "pic.twitter.com/gi5vdLD1qk",
+                              "media_key": "3_1650167029423566854"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650167043767844866"
+            ],
+            "text": "eid day 2 is for blue eyeshadow &lt;3 https://t.co/gi5vdLD1qk",
+            "public_metrics": {
+                  "retweet_count": 62,
+                  "reply_count": 49,
+                  "like_count": 1897,
+                  "quote_count": 12,
+                  "impression_count": 49097
+            },
+            "author_id": "1267451484913971203"
+      },
+      {
+            "id": "1650352240438263808",
+            "created_at": "2023-04-24T04:13:30.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 2,
+                              "probability": 0.4846,
+                              "type": "Organization",
+                              "normalized_text": "SZA"
+                        },
+                        {
+                              "start": 20,
+                              "end": 30,
+                              "probability": 0.8593,
+                              "type": "Person",
+                              "normalized_text": "Frank Ocean"
+                        },
+                        {
+                              "start": 42,
+                              "end": 50,
+                              "probability": 0.9516,
+                              "type": "Other",
+                              "normalized_text": "Instagram"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 60,
+                              "end": 83,
+                              "url": "https://t.co/ge9hH5WHsK",
+                              "expanded_url": "https://twitter.com/blahnded/status/1650352240438263808/photo/1",
+                              "display_url": "pic.twitter.com/ge9hH5WHsK",
+                              "media_key": "3_1650352229222678528"
+                        },
+                        {
+                              "start": 60,
+                              "end": 83,
+                              "url": "https://t.co/ge9hH5WHsK",
+                              "expanded_url": "https://twitter.com/blahnded/status/1650352240438263808/photo/1",
+                              "display_url": "pic.twitter.com/ge9hH5WHsK",
+                              "media_key": "3_1650352229222699009"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650352240438263808"
+            ],
+            "text": "SZA showing off her Frank Ocean shirt via Instagram stories https://t.co/ge9hH5WHsK",
+            "public_metrics": {
+                  "retweet_count": 1656,
+                  "reply_count": 47,
+                  "like_count": 23295,
+                  "quote_count": 243,
+                  "impression_count": 680975
+            },
+            "author_id": "815435619207970816"
+      },
+      {
+            "id": "1650197002230312961",
+            "created_at": "2023-04-23T17:56:39.000Z",
+            "edit_history_tweet_ids": [
+                  "1650197002230312961"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 46,
+                              "end": 69,
+                              "url": "https://t.co/nve9zpavf6",
+                              "expanded_url": "https://twitter.com/kaavya_potato/status/1650197002230312961/photo/1",
+                              "display_url": "pic.twitter.com/nve9zpavf6",
+                              "media_key": "3_1650196990595039232"
+                        },
+                        {
+                              "start": 70,
+                              "end": 93,
+                              "url": "https://t.co/8CznKIvmWX",
+                              "expanded_url": "https://twitter.com/garliccnaan/status/1649444393827590144",
+                              "display_url": "twitter.com/garliccnaan/st\u2026"
+                        }
+                  ]
+            },
+            "text": "i\u2019m sorry i just felt the need to doodle this https://t.co/nve9zpavf6 https://t.co/8CznKIvmWX",
+            "public_metrics": {
+                  "retweet_count": 493,
+                  "reply_count": 33,
+                  "like_count": 5561,
+                  "quote_count": 14,
+                  "impression_count": 229512
+            },
+            "author_id": "1206510381868281857"
+      },
+      {
+            "id": "1649730926589378560",
+            "created_at": "2023-04-22T11:04:38.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1649083128261255171"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1649730926589378560"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 5,
+                              "end": 28,
+                              "url": "https://t.co/0jPGOkF9RD",
+                              "expanded_url": "https://twitter.com/mgcsheaven/status/1649730926589378560/photo/1",
+                              "display_url": "pic.twitter.com/0jPGOkF9RD",
+                              "media_key": "3_1649730920692293633"
+                        },
+                        {
+                              "start": 29,
+                              "end": 52,
+                              "url": "https://t.co/zf7ugX5r57",
+                              "expanded_url": "https://twitter.com/PopBase/status/1649083128261255171",
+                              "display_url": "twitter.com/PopBase/status\u2026"
+                        }
+                  ]
+            },
+            "text": "this https://t.co/0jPGOkF9RD https://t.co/zf7ugX5r57",
+            "public_metrics": {
+                  "retweet_count": 4104,
+                  "reply_count": 34,
+                  "like_count": 22859,
+                  "quote_count": 425,
+                  "impression_count": 1196491
+            },
+            "author_id": "1393184523811184641"
+      },
+      {
+            "id": "1649832339386540032",
+            "created_at": "2023-04-22T17:47:36.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 9,
+                              "probability": 0.4931,
+                              "type": "Other",
+                              "normalized_text": "Asap Rocky"
+                        },
+                        {
+                              "start": 14,
+                              "end": 18,
+                              "probability": 0.9418,
+                              "type": "Place",
+                              "normalized_text": "Paris"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 32,
+                              "end": 55,
+                              "url": "https://t.co/oZpZezrHC9",
+                              "expanded_url": "https://twitter.com/StreetFashion01/status/1649832339386540032/photo/1",
+                              "display_url": "pic.twitter.com/oZpZezrHC9",
+                              "media_key": "3_1649832331476074497"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1649832339386540032"
+            ],
+            "text": "Asap Rocky in Paris Yesterday!\ud83d\udda4 https://t.co/oZpZezrHC9",
+            "public_metrics": {
+                  "retweet_count": 888,
+                  "reply_count": 24,
+                  "like_count": 10941,
+                  "quote_count": 61,
+                  "impression_count": 445713
+            },
+            "author_id": "2875648066"
+      },
+      {
+            "id": "1649386056536539137",
+            "created_at": "2023-04-21T12:14:14.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 36,
+                              "end": 40,
+                              "probability": 0.4804,
+                              "type": "Other",
+                              "normalized_text": "whale"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 70,
+                              "end": 93,
+                              "url": "https://t.co/1za9Axm9e0",
+                              "expanded_url": "https://twitter.com/MsAdrianBlack/status/1649386056536539137/photo/1",
+                              "display_url": "pic.twitter.com/1za9Axm9e0",
+                              "media_key": "3_1649385967294246916"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1649386056536539137"
+            ],
+            "text": "19th-century illustration depicting whale bus travel by the year 2000 https://t.co/1za9Axm9e0",
+            "public_metrics": {
+                  "retweet_count": 1336,
+                  "reply_count": 63,
+                  "like_count": 6952,
+                  "quote_count": 249,
+                  "impression_count": 701562
+            },
+            "author_id": "1301144769029177347"
+      },
+      {
+            "id": "1649919224641634304",
+            "created_at": "2023-04-22T23:32:51.000Z",
+            "edit_history_tweet_ids": [
+                  "1649919224641634304"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 19,
+                              "end": 42,
+                              "url": "https://t.co/2Hn7Z64r1h",
+                              "expanded_url": "https://twitter.com/Exulansista/status/1649919224641634304/photo/1",
+                              "display_url": "pic.twitter.com/2Hn7Z64r1h",
+                              "media_key": "3_1649919222657720320"
+                        }
+                  ]
+            },
+            "text": "Colors of the sky. https://t.co/2Hn7Z64r1h",
+            "public_metrics": {
+                  "retweet_count": 50652,
+                  "reply_count": 564,
+                  "like_count": 391001,
+                  "quote_count": 1069,
+                  "impression_count": 10434017
+            },
+            "author_id": "884117508730617857"
+      },
+      {
+            "id": "1649905905960472577",
+            "created_at": "2023-04-22T22:39:56.000Z",
+            "edit_history_tweet_ids": [
+                  "1649905905960472577"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/CRis3iVIM8",
+                              "expanded_url": "https://twitter.com/contextdogs/status/1649905905960472577/photo/1",
+                              "display_url": "pic.twitter.com/CRis3iVIM8",
+                              "media_key": "3_1649905902080741376"
+                        }
+                  ]
+            },
+            "text": "https://t.co/CRis3iVIM8",
+            "public_metrics": {
+                  "retweet_count": 1010,
+                  "reply_count": 22,
+                  "like_count": 16191,
+                  "quote_count": 48,
+                  "impression_count": 489857
+            },
+            "author_id": "1408480800438374406"
+      },
+      {
+            "id": "1649683998556442624",
+            "created_at": "2023-04-22T07:58:09.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1649630673341394945"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1649683998556442624"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 13,
+                              "end": 36,
+                              "url": "https://t.co/1O5e1lOJkQ",
+                              "expanded_url": "https://twitter.com/feministcmslut/status/1649630673341394945",
+                              "display_url": "twitter.com/feministcmslut\u2026"
+                        }
+                  ]
+            },
+            "text": "brockhampton https://t.co/1O5e1lOJkQ",
+            "public_metrics": {
+                  "retweet_count": 10,
+                  "reply_count": 5,
+                  "like_count": 117,
+                  "quote_count": 0,
+                  "impression_count": 4850
+            },
+            "author_id": "1312574339049373696"
+      },
+      {
+            "id": "1650070769068830720",
+            "created_at": "2023-04-23T09:35:02.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1650068802460344320"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1650070769068830720"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 42,
+                              "end": 65,
+                              "url": "https://t.co/sX8SyJVnbD",
+                              "expanded_url": "https://twitter.com/triptiidimrii/status/1650070769068830720/photo/1",
+                              "display_url": "pic.twitter.com/sX8SyJVnbD",
+                              "media_key": "3_1650070764199215104"
+                        },
+                        {
+                              "start": 66,
+                              "end": 89,
+                              "url": "https://t.co/9CGQnF7Ugj",
+                              "expanded_url": "https://twitter.com/manmarziiyaan/status/1650068802460344320",
+                              "display_url": "twitter.com/manmarziiyaan/\u2026"
+                        }
+                  ]
+            },
+            "text": "when they posted this\u2026 lives were changed https://t.co/sX8SyJVnbD https://t.co/9CGQnF7Ugj",
+            "public_metrics": {
+                  "retweet_count": 165,
+                  "reply_count": 14,
+                  "like_count": 2133,
+                  "quote_count": 30,
+                  "impression_count": 86189
+            },
+            "author_id": "1414901340191432707"
+      },
+      {
+            "id": "1649842454915366913",
+            "created_at": "2023-04-22T18:27:48.000Z",
+            "edit_history_tweet_ids": [
+                  "1649842454915366913"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 14,
+                              "end": 37,
+                              "url": "https://t.co/Y65Jv7SYIl",
+                              "expanded_url": "https://twitter.com/InternetH0F/status/1649842454915366913/photo/1",
+                              "display_url": "pic.twitter.com/Y65Jv7SYIl",
+                              "media_key": "3_1649842441246199808"
+                        },
+                        {
+                              "start": 14,
+                              "end": 37,
+                              "url": "https://t.co/Y65Jv7SYIl",
+                              "expanded_url": "https://twitter.com/InternetH0F/status/1649842454915366913/photo/1",
+                              "display_url": "pic.twitter.com/Y65Jv7SYIl",
+                              "media_key": "3_1649842446782668801"
+                        },
+                        {
+                              "start": 14,
+                              "end": 37,
+                              "url": "https://t.co/Y65Jv7SYIl",
+                              "expanded_url": "https://twitter.com/InternetH0F/status/1649842454915366913/photo/1",
+                              "display_url": "pic.twitter.com/Y65Jv7SYIl",
+                              "media_key": "3_1649842449785708545"
+                        },
+                        {
+                              "start": 14,
+                              "end": 37,
+                              "url": "https://t.co/Y65Jv7SYIl",
+                              "expanded_url": "https://twitter.com/InternetH0F/status/1649842454915366913/photo/1",
+                              "display_url": "pic.twitter.com/Y65Jv7SYIl",
+                              "media_key": "3_1649842453329895427"
+                        }
+                  ]
+            },
+            "text": "no way bro \ud83d\ude2d\ud83d\ude2d https://t.co/Y65Jv7SYIl",
+            "public_metrics": {
+                  "retweet_count": 21290,
+                  "reply_count": 786,
+                  "like_count": 295170,
+                  "quote_count": 912,
+                  "impression_count": 18197555
+            },
+            "author_id": "1486473049146904576"
+      },
+      {
+            "id": "1649890830499434496",
+            "created_at": "2023-04-22T21:40:02.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 29,
+                              "end": 34,
+                              "probability": 0.6322,
+                              "type": "Person",
+                              "normalized_text": "ashoka"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 36,
+                              "end": 59,
+                              "url": "https://t.co/YTE28semjR",
+                              "expanded_url": "https://twitter.com/vidsthatgohard/status/1649632239083290624",
+                              "display_url": "twitter.com/vidsthatgohard\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1649632239083290624"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1649890830499434496"
+            ],
+            "text": "why this look like yassified ashoka https://t.co/YTE28semjR",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 17,
+                  "quote_count": 0,
+                  "impression_count": 754
+            },
+            "author_id": "1450497743558873091"
+      },
+      {
+            "id": "1649909404412805120",
+            "created_at": "2023-04-22T22:53:50.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 7,
+                              "probability": 0.6617,
+                              "type": "Other",
+                              "normalized_text": "kuchella"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 61,
+                              "end": 84,
+                              "url": "https://t.co/CviqUX5BLz",
+                              "expanded_url": "https://twitter.com/KALIUCHIS/status/1649909404412805120/photo/1",
+                              "display_url": "pic.twitter.com/CviqUX5BLz",
+                              "media_key": "3_1649909391590825987"
+                        },
+                        {
+                              "start": 61,
+                              "end": 84,
+                              "url": "https://t.co/CviqUX5BLz",
+                              "expanded_url": "https://twitter.com/KALIUCHIS/status/1649909404412805120/photo/1",
+                              "display_url": "pic.twitter.com/CviqUX5BLz",
+                              "media_key": "3_1649909391603437568"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1649909404412805120"
+            ],
+            "text": "kuchella &amp; then this sold out tour\ud83d\ude2e\u200d\ud83d\udca8\ud83e\udee1\ncya soon kuchis ! https://t.co/CviqUX5BLz",
+            "public_metrics": {
+                  "retweet_count": 5204,
+                  "reply_count": 419,
+                  "like_count": 72672,
+                  "quote_count": 1068,
+                  "impression_count": 2504402
+            },
+            "author_id": "598946691"
+      },
+      {
+            "id": "1649890212041101315",
+            "created_at": "2023-04-22T21:37:34.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 47,
+                              "end": 53,
+                              "probability": 0.9856,
+                              "type": "Other",
+                              "normalized_text": "wattpad"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1649890212041101315"
+            ],
+            "text": "i\u2019d like to come out to u all tonight as an ex wattpad writer",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 4,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 385
+            },
+            "author_id": "1379212119174836226"
+      },
+      {
+            "id": "1649771678220574722",
+            "created_at": "2023-04-22T13:46:34.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 12,
+                              "end": 15,
+                              "probability": 0.28,
+                              "type": "Other",
+                              "normalized_text": "Musk"
+                        },
+                        {
+                              "start": 71,
+                              "end": 88,
+                              "probability": 0.5515,
+                              "type": "Other",
+                              "normalized_text": "Prytula Foundation"
+                        },
+                        {
+                              "start": 129,
+                              "end": 135,
+                              "probability": 0.948,
+                              "type": "Place",
+                              "normalized_text": "Ukraine"
+                        },
+                        {
+                              "start": 167,
+                              "end": 170,
+                              "probability": 0.3141,
+                              "type": "Other",
+                              "normalized_text": "Musk"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1649771678220574722"
+            ],
+            "text": "I think Mr. Musk should give my blue check to charity. I recommend the Prytula Foundation, which provides lifesaving services in Ukraine. It's only $8, so perhaps Mr. Musk could add a bit more.",
+            "public_metrics": {
+                  "retweet_count": 31772,
+                  "reply_count": 27194,
+                  "like_count": 304350,
+                  "quote_count": 3769,
+                  "impression_count": 31588664
+            },
+            "author_id": "2233154425"
+      },
+      {
+            "id": "1649423905780531200",
+            "created_at": "2023-04-21T14:44:38.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1649395089234440193"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1649423905780531200"
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 0,
+                              "end": 11,
+                              "username": "omnirodent",
+                              "id": "1028313430812319745"
+                        }
+                  ]
+            },
+            "text": "@omnirodent Both football teams's players are some of the nicest people on campus so it's very telling that you of all people think they're annoying \ud83e\uddd0",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 121
+            },
+            "author_id": "1099174007981649921"
+      },
+      {
+            "id": "1649408501834285057",
+            "created_at": "2023-04-21T13:43:26.000Z",
+            "edit_history_tweet_ids": [
+                  "1649408501834285057"
+            ],
+            "text": "any econ/biz./fin. majors in/based out of b'lore looking for (more-than-well) paid summer internships, pls dm me asap! RT for visibility",
+            "public_metrics": {
+                  "retweet_count": 4,
+                  "reply_count": 4,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 1477
+            },
+            "author_id": "1500080032806760448"
+      },
+      {
+            "id": "1649107417345720320",
+            "created_at": "2023-04-20T17:47:01.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 10,
+                              "probability": 0.4006,
+                              "type": "Organization",
+                              "normalized_text": "frank ocean"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 78,
+                              "end": 101,
+                              "url": "https://t.co/dQGOoklB5i",
+                              "expanded_url": "https://twitter.com/lvnarboymusic/status/1649107417345720320/photo/1",
+                              "display_url": "pic.twitter.com/dQGOoklB5i",
+                              "media_key": "3_1649107414518751233"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1649107417345720320"
+            ],
+            "text": "frank ocean: \u201crollin marijuana thats a cheap vacation my everyday shit\u201d \n\nme: https://t.co/dQGOoklB5i",
+            "public_metrics": {
+                  "retweet_count": 657,
+                  "reply_count": 7,
+                  "like_count": 4132,
+                  "quote_count": 17,
+                  "impression_count": 196273
+            },
+            "author_id": "1388034604259446786"
+      },
+      {
+            "id": "1649131438564864003",
+            "created_at": "2023-04-20T19:22:28.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 7,
+                              "probability": 0.5881,
+                              "type": "Person",
+                              "normalized_text": "Basquiat"
+                        },
+                        {
+                              "start": 11,
+                              "end": 16,
+                              "probability": 0.6383,
+                              "type": "Person",
+                              "normalized_text": "Warhol"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 41,
+                              "end": 64,
+                              "url": "https://t.co/jp8p9bWEYO",
+                              "expanded_url": "https://twitter.com/pussymargiela/status/1649131438564864003/photo/1",
+                              "display_url": "pic.twitter.com/jp8p9bWEYO",
+                              "media_key": "3_1649131433720524800"
+                        },
+                        {
+                              "start": 41,
+                              "end": 64,
+                              "url": "https://t.co/jp8p9bWEYO",
+                              "expanded_url": "https://twitter.com/pussymargiela/status/1649131438564864003/photo/1",
+                              "display_url": "pic.twitter.com/jp8p9bWEYO",
+                              "media_key": "3_1649131433674305548"
+                        },
+                        {
+                              "start": 41,
+                              "end": 64,
+                              "url": "https://t.co/jp8p9bWEYO",
+                              "expanded_url": "https://twitter.com/pussymargiela/status/1649131438564864003/photo/1",
+                              "display_url": "pic.twitter.com/jp8p9bWEYO",
+                              "media_key": "3_1649131433682665472"
+                        },
+                        {
+                              "start": 41,
+                              "end": 64,
+                              "url": "https://t.co/jp8p9bWEYO",
+                              "expanded_url": "https://twitter.com/pussymargiela/status/1649131438564864003/photo/1",
+                              "display_url": "pic.twitter.com/jp8p9bWEYO",
+                              "media_key": "3_1649131433674276864"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1649131438564864003"
+            ],
+            "text": "Basquiat x Warhol exhibition went crazy. https://t.co/jp8p9bWEYO",
+            "public_metrics": {
+                  "retweet_count": 605,
+                  "reply_count": 11,
+                  "like_count": 4331,
+                  "quote_count": 59,
+                  "impression_count": 221964
+            },
+            "author_id": "42671433"
+      },
+      {
+            "id": "1649115859967721476",
+            "created_at": "2023-04-20T18:20:34.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 3,
+                              "end": 13,
+                              "probability": 0.9742,
+                              "type": "Person",
+                              "normalized_text": "Frank Ocean"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1649115859967721476"
+            ],
+            "text": "If Frank Ocean dropped an album in 2023 it would have the potential to sell over a million units first week",
+            "public_metrics": {
+                  "retweet_count": 56,
+                  "reply_count": 120,
+                  "like_count": 2056,
+                  "quote_count": 232,
+                  "impression_count": 395092
+            },
+            "author_id": "808817646636531712"
+      },
+      {
+            "id": "1649106167896096768",
+            "created_at": "2023-04-20T17:42:03.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1649015995812438016"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1649106167896096768"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 89,
+                              "end": 112,
+                              "url": "https://t.co/jhpdNqRwee",
+                              "expanded_url": "https://twitter.com/funnylookinglad/status/1649106167896096768/photo/1",
+                              "display_url": "pic.twitter.com/jhpdNqRwee",
+                              "media_key": "3_1649105334940884992"
+                        },
+                        {
+                              "start": 89,
+                              "end": 112,
+                              "url": "https://t.co/jhpdNqRwee",
+                              "expanded_url": "https://twitter.com/funnylookinglad/status/1649106167896096768/photo/1",
+                              "display_url": "pic.twitter.com/jhpdNqRwee",
+                              "media_key": "3_1649106094277689344"
+                        },
+                        {
+                              "start": 89,
+                              "end": 112,
+                              "url": "https://t.co/jhpdNqRwee",
+                              "expanded_url": "https://twitter.com/funnylookinglad/status/1649106167896096768/photo/1",
+                              "display_url": "pic.twitter.com/jhpdNqRwee",
+                              "media_key": "3_1649106094281854977"
+                        },
+                        {
+                              "start": 89,
+                              "end": 112,
+                              "url": "https://t.co/jhpdNqRwee",
+                              "expanded_url": "https://twitter.com/funnylookinglad/status/1649106167896096768/photo/1",
+                              "display_url": "pic.twitter.com/jhpdNqRwee",
+                              "media_key": "3_1649106094286069760"
+                        },
+                        {
+                              "start": 113,
+                              "end": 136,
+                              "url": "https://t.co/x9Nio7xUxc",
+                              "expanded_url": "https://twitter.com/bri_says_helloo/status/1649015995812438016",
+                              "display_url": "twitter.com/bri_says_hello\u2026"
+                        }
+                  ]
+            },
+            "text": "in another life, i think i would have really liked just doing laundry and taxes with you https://t.co/jhpdNqRwee https://t.co/x9Nio7xUxc",
+            "public_metrics": {
+                  "retweet_count": 32,
+                  "reply_count": 4,
+                  "like_count": 193,
+                  "quote_count": 6,
+                  "impression_count": 8810
+            },
+            "author_id": "356504783"
+      },
+      {
+            "id": "1649114953368862722",
+            "created_at": "2023-04-20T18:16:58.000Z",
+            "edit_history_tweet_ids": [
+                  "1649114953368862722"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 69,
+                              "end": 92,
+                              "url": "https://t.co/rXNmxJljs5",
+                              "expanded_url": "https://twitter.com/peachcrisis/status/1649114953368862722/photo/1",
+                              "display_url": "pic.twitter.com/rXNmxJljs5",
+                              "media_key": "3_1649114946658242560"
+                        }
+                  ]
+            },
+            "text": "i\u2019m obsessed with this photo i need the photographer\u2019s @ immediately https://t.co/rXNmxJljs5",
+            "public_metrics": {
+                  "retweet_count": 817,
+                  "reply_count": 14,
+                  "like_count": 8502,
+                  "quote_count": 31,
+                  "impression_count": 239273
+            },
+            "author_id": "1267451484913971203"
+      },
+      {
+            "id": "1648644314472525826",
+            "created_at": "2023-04-19T11:06:49.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 75,
+                              "end": 78,
+                              "probability": 0.6241,
+                              "type": "Other",
+                              "normalized_text": "lino"
+                        },
+                        {
+                              "start": 141,
+                              "end": 147,
+                              "probability": 0.6101,
+                              "type": "Other",
+                              "normalized_text": "origami"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1648644314472525826"
+            ],
+            "text": "idk what your definition of love is but last year i said i wanted to learn lino art and my boyfriend bought me a lino kit. I wanted to learn origami and he bought me pack of really nice origami paper. this year I was learning to sew by hand and he gifted me a sewing machine \ud83e\udd79",
+            "public_metrics": {
+                  "retweet_count": 27,
+                  "reply_count": 11,
+                  "like_count": 921,
+                  "quote_count": 21,
+                  "impression_count": 37699
+            },
+            "author_id": "1057627055624310791"
+      },
+      {
+            "id": "1648708522908033032",
+            "created_at": "2023-04-19T15:21:58.000Z",
+            "edit_history_tweet_ids": [
+                  "1648708522908033032"
+            ],
+            "text": "Tomorrow is 4/20 so please be very careful if you choose to smoke, eat, or inject any marijuanas",
+            "public_metrics": {
+                  "retweet_count": 177,
+                  "reply_count": 172,
+                  "like_count": 2019,
+                  "quote_count": 12,
+                  "impression_count": 181309
+            },
+            "author_id": "1356434353623093249"
+      },
+      {
+            "id": "1648305972136345601",
+            "created_at": "2023-04-18T12:42:22.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 1,
+                              "end": 13,
+                              "probability": 0.9541,
+                              "type": "Other",
+                              "normalized_text": "See You Again"
+                        },
+                        {
+                              "start": 19,
+                              "end": 23,
+                              "probability": 0.7649,
+                              "type": "Person",
+                              "normalized_text": "Tyler"
+                        },
+                        {
+                              "start": 26,
+                              "end": 36,
+                              "probability": 0.6418,
+                              "type": "Other",
+                              "normalized_text": "The Creator"
+                        },
+                        {
+                              "start": 42,
+                              "end": 51,
+                              "probability": 0.5364,
+                              "type": "Person",
+                              "normalized_text": "Kali Uchis"
+                        },
+                        {
+                              "start": 78,
+                              "end": 79,
+                              "probability": 0.6424,
+                              "type": "Place",
+                              "normalized_text": "US"
+                        },
+                        {
+                              "start": 81,
+                              "end": 87,
+                              "probability": 0.9377,
+                              "type": "Other",
+                              "normalized_text": "Spotify"
+                        },
+                        {
+                              "start": 195,
+                              "end": 199,
+                              "probability": 0.7398,
+                              "type": "Person",
+                              "normalized_text": "Tyler"
+                        },
+                        {
+                              "start": 228,
+                              "end": 234,
+                              "probability": 0.9513,
+                              "type": "Other",
+                              "normalized_text": "Spotify"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 237,
+                              "end": 260,
+                              "url": "https://t.co/K7KQ4dC8IR",
+                              "expanded_url": "https://twitter.com/OddFuturePage/status/1648305972136345601/photo/1",
+                              "display_url": "pic.twitter.com/K7KQ4dC8IR",
+                              "media_key": "3_1648305814619209728"
+                        },
+                        {
+                              "start": 237,
+                              "end": 260,
+                              "url": "https://t.co/K7KQ4dC8IR",
+                              "expanded_url": "https://twitter.com/OddFuturePage/status/1648305972136345601/photo/1",
+                              "display_url": "pic.twitter.com/K7KQ4dC8IR",
+                              "media_key": "3_1648305814808002566"
+                        },
+                        {
+                              "start": 237,
+                              "end": 260,
+                              "url": "https://t.co/K7KQ4dC8IR",
+                              "expanded_url": "https://twitter.com/OddFuturePage/status/1648305972136345601/photo/1",
+                              "display_url": "pic.twitter.com/K7KQ4dC8IR",
+                              "media_key": "3_1648305814606688256"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1648305972136345601"
+            ],
+            "text": "\"See You Again\" by Tyler, The Creator and Kali Uchis enters the Top 20 on the US Spotify chart for the first time ever at #14 with 824K streams, over 5 years after release.\n\nCurrently sitting as Tyler's most popular song on his Spotify. https://t.co/K7KQ4dC8IR",
+            "public_metrics": {
+                  "retweet_count": 275,
+                  "reply_count": 20,
+                  "like_count": 3930,
+                  "quote_count": 58,
+                  "impression_count": 152768
+            },
+            "author_id": "1287023690"
+      },
+      {
+            "id": "1647661436225871872",
+            "created_at": "2023-04-16T18:01:13.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1646791255546789890"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1647661436225871872"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 145,
+                              "end": 168,
+                              "url": "https://t.co/eDfDwVWOci",
+                              "expanded_url": "https://twitter.com/Wesley_Kibande/status/1646791255546789890",
+                              "display_url": "twitter.com/Wesley_Kibande\u2026"
+                        }
+                  ]
+            },
+            "text": "Man's charged for r@pe because of which his wife wants a divorce. internet really is depicting him like some hero and his wife a gold digger \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e https://t.co/eDfDwVWOci",
+            "public_metrics": {
+                  "retweet_count": 68,
+                  "reply_count": 38,
+                  "like_count": 422,
+                  "quote_count": 8,
+                  "impression_count": 50647
+            },
+            "author_id": "1096472337959006210"
+      },
+      {
+            "id": "1648183455338094597",
+            "created_at": "2023-04-18T04:35:32.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 8,
+                              "end": 20,
+                              "probability": 0.5274,
+                              "type": "Place",
+                              "normalized_text": "Supreme Court"
+                        },
+                        {
+                              "start": 69,
+                              "end": 81,
+                              "probability": 0.5188,
+                              "type": "Other",
+                              "normalized_text": "AbKiBaarPyaar"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 83,
+                              "end": 106,
+                              "url": "https://t.co/Xk4ADBH3UF",
+                              "expanded_url": "https://twitter.com/mehtahansal/status/1648183455338094597/photo/1",
+                              "display_url": "pic.twitter.com/Xk4ADBH3UF",
+                              "media_key": "3_1648183442138603521"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 68,
+                              "end": 82,
+                              "tag": "AbKiBaarPyaar"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1648183455338094597"
+            ],
+            "text": "Come on Supreme Court! Pave the path. Legalise same-sex marriages.\n\n#AbKiBaarPyaar https://t.co/Xk4ADBH3UF",
+            "public_metrics": {
+                  "retweet_count": 199,
+                  "reply_count": 118,
+                  "like_count": 2826,
+                  "quote_count": 31,
+                  "impression_count": 327456
+            },
+            "author_id": "29385549"
+      },
+      {
+            "id": "1648165220370481153",
+            "created_at": "2023-04-18T03:23:04.000Z",
+            "edit_history_tweet_ids": [
+                  "1648165220370481153"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 81,
+                              "end": 104,
+                              "url": "https://t.co/wevX1WXxaG",
+                              "expanded_url": "https://twitter.com/arundhatikatju/status/1648165220370481153/photo/1",
+                              "display_url": "pic.twitter.com/wevX1WXxaG",
+                              "media_key": "3_1648164991520890882"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 63,
+                              "end": 80,
+                              "tag": "marriageequality"
+                        }
+                  ]
+            },
+            "text": "Equality before the law, and the equal protection of the laws. #marriageequality https://t.co/wevX1WXxaG",
+            "public_metrics": {
+                  "retweet_count": 532,
+                  "reply_count": 193,
+                  "like_count": 6556,
+                  "quote_count": 118,
+                  "impression_count": 717524
+            },
+            "author_id": "15777325"
+      },
+      {
+            "id": "1647768472464531457",
+            "created_at": "2023-04-17T01:06:32.000Z",
+            "edit_history_tweet_ids": [
+                  "1647768472464531457"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/9fGYafuEWx",
+                              "expanded_url": "https://twitter.com/TweetsOfCats/status/1647768472464531457/photo/1",
+                              "display_url": "pic.twitter.com/9fGYafuEWx",
+                              "media_key": "3_1647768463513878529"
+                        }
+                  ]
+            },
+            "text": "https://t.co/9fGYafuEWx",
+            "public_metrics": {
+                  "retweet_count": 16994,
+                  "reply_count": 244,
+                  "like_count": 197148,
+                  "quote_count": 511,
+                  "impression_count": 5584715
+            },
+            "author_id": "1467075696463917056"
+      },
+      {
+            "id": "1647784027405910018",
+            "created_at": "2023-04-17T02:08:21.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 10,
+                              "probability": 0.9696,
+                              "type": "Person",
+                              "normalized_text": "Frank Ocean"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 24,
+                              "end": 47,
+                              "url": "https://t.co/RxOS6PgdRl",
+                              "expanded_url": "https://twitter.com/hiphoph0f/status/1647784027405910018/photo/1",
+                              "display_url": "pic.twitter.com/RxOS6PgdRl",
+                              "media_key": "3_1647784024444633090"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1647784027405910018"
+            ],
+            "text": "Frank Ocean to his fans https://t.co/RxOS6PgdRl",
+            "public_metrics": {
+                  "retweet_count": 723,
+                  "reply_count": 22,
+                  "like_count": 5128,
+                  "quote_count": 57,
+                  "impression_count": 188298
+            },
+            "author_id": "1432424853924106244"
+      },
+      {
+            "id": "1647802957172293632",
+            "created_at": "2023-04-17T03:23:34.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 21,
+                              "end": 31,
+                              "probability": 0.946,
+                              "type": "Person",
+                              "normalized_text": "Frank Ocean"
+                        },
+                        {
+                              "start": 35,
+                              "end": 43,
+                              "probability": 0.3423,
+                              "type": "Other",
+                              "normalized_text": "Coachella"
+                        },
+                        {
+                              "start": 89,
+                              "end": 97,
+                              "probability": 0.972,
+                              "type": "Other",
+                              "normalized_text": "Instagram"
+                        },
+                        {
+                              "start": 117,
+                              "end": 123,
+                              "probability": 0.9404,
+                              "type": "Other",
+                              "normalized_text": "Android"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 131,
+                              "end": 154,
+                              "url": "https://t.co/mBRAVcIhZ3",
+                              "expanded_url": "https://twitter.com/OddFuturePage/status/1647802957172293632/photo/1",
+                              "display_url": "pic.twitter.com/mBRAVcIhZ3",
+                              "media_key": "3_1647802953560907779"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1647802957172293632"
+            ],
+            "text": "POV: you're watching Frank Ocean's Coachella performance through a random shitty quality Instagram LIVE filmed by an Android user. https://t.co/mBRAVcIhZ3",
+            "public_metrics": {
+                  "retweet_count": 902,
+                  "reply_count": 62,
+                  "like_count": 12703,
+                  "quote_count": 124,
+                  "impression_count": 462642
+            },
+            "author_id": "1287023690"
+      },
+      {
+            "id": "1647723468534824961",
+            "created_at": "2023-04-16T22:07:42.000Z",
+            "edit_history_tweet_ids": [
+                  "1647723468534824961"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/suJdQGAcsH",
+                              "expanded_url": "https://twitter.com/notgloh/status/1647723468534824961/photo/1",
+                              "display_url": "pic.twitter.com/suJdQGAcsH",
+                              "media_key": "3_1647723464709554177"
+                        }
+                  ]
+            },
+            "text": "https://t.co/suJdQGAcsH",
+            "public_metrics": {
+                  "retweet_count": 5274,
+                  "reply_count": 17,
+                  "like_count": 28077,
+                  "quote_count": 115,
+                  "impression_count": 991344
+            },
+            "author_id": "1273260969687429120"
+      },
+      {
+            "id": "1647986787376304128",
+            "created_at": "2023-04-17T15:34:02.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 84,
+                              "end": 100,
+                              "probability": 0.9834,
+                              "type": "Organization",
+                              "normalized_text": "Ashoka University"
+                        },
+                        {
+                              "start": 138,
+                              "end": 158,
+                              "probability": 0.6466,
+                              "type": "Organization",
+                              "normalized_text": "Department of English"
+                        },
+                        {
+                              "start": 233,
+                              "end": 234,
+                              "probability": 0.6022,
+                              "type": "Place",
+                              "normalized_text": "MA"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1647986787376304128"
+            ],
+            "text": "It gives me immense pleasure to announce that in all probability, I will be joining Ashoka University this year as a PhD candidate in the Department of English.                As a first generation graduate student in my family (BA, MA), I feel grateful and honoured.",
+            "public_metrics": {
+                  "retweet_count": 3,
+                  "reply_count": 18,
+                  "like_count": 215,
+                  "quote_count": 0,
+                  "impression_count": 15366
+            },
+            "author_id": "1423354181075673091"
+      },
+      {
+            "id": "1647939051507564545",
+            "created_at": "2023-04-17T12:24:21.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 72,
+                              "end": 77,
+                              "probability": 0.399,
+                              "type": "Other",
+                              "normalized_text": "chapla"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 0,
+                              "end": 11,
+                              "username": "ra_helllll",
+                              "id": "1145990968400732160"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1647937804792414208"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1647939051507564545"
+            ],
+            "text": "@ra_helllll ma new tactic is js being earnest.. hv left d life of being chapla behind",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 62
+            },
+            "author_id": "1379212119174836226"
+      },
+      {
+            "id": "1647939183531499522",
+            "created_at": "2023-04-17T12:24:53.000Z",
+            "edit_history_tweet_ids": [
+                  "1647939183531499522"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 24,
+                              "end": 47,
+                              "url": "https://t.co/RxhOV7oSIz",
+                              "expanded_url": "https://twitter.com/ra_helllll/status/1647939183531499522/photo/1",
+                              "display_url": "pic.twitter.com/RxhOV7oSIz",
+                              "media_key": "3_1647939173775450117"
+                        }
+                  ]
+            },
+            "text": "no context leaked chats https://t.co/RxhOV7oSIz",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 19,
+                  "quote_count": 0,
+                  "impression_count": 863
+            },
+            "author_id": "1145990968400732160"
+      },
+      {
+            "id": "1647729473947594752",
+            "created_at": "2023-04-16T22:31:34.000Z",
+            "edit_history_tweet_ids": [
+                  "1647729473947594752"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/Ak0EqECwY4",
+                              "expanded_url": "https://twitter.com/ShouldHaveCat/status/1647729473947594752/photo/1",
+                              "display_url": "pic.twitter.com/Ak0EqECwY4",
+                              "media_key": "3_1647729468289568770"
+                        }
+                  ]
+            },
+            "text": "https://t.co/Ak0EqECwY4",
+            "public_metrics": {
+                  "retweet_count": 22253,
+                  "reply_count": 626,
+                  "like_count": 260008,
+                  "quote_count": 1215,
+                  "impression_count": 8245446
+            },
+            "author_id": "1310275768191193088"
+      },
+      {
+            "id": "1647556729171857408",
+            "created_at": "2023-04-16T11:05:09.000Z",
+            "edit_history_tweet_ids": [
+                  "1647556729171857408"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/A1W1iAETwf",
+                              "expanded_url": "https://twitter.com/dox_gay/status/1647556729171857408/photo/1",
+                              "display_url": "pic.twitter.com/A1W1iAETwf",
+                              "media_key": "3_1647556727091462145"
+                        }
+                  ]
+            },
+            "text": "https://t.co/A1W1iAETwf",
+            "public_metrics": {
+                  "retweet_count": 721,
+                  "reply_count": 7,
+                  "like_count": 5158,
+                  "quote_count": 61,
+                  "impression_count": 183041
+            },
+            "author_id": "1196622249526206464"
+      },
+      {
+            "id": "1647683202637504521",
+            "created_at": "2023-04-16T19:27:42.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1647682929680691201"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1647683202637504521"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 30,
+                              "end": 53,
+                              "url": "https://t.co/T381tOhp1R",
+                              "expanded_url": "https://twitter.com/lodukiing/status/1647683202637504521/photo/1",
+                              "display_url": "pic.twitter.com/T381tOhp1R",
+                              "media_key": "16_1647683186237878273"
+                        }
+                  ]
+            },
+            "text": "me after every thc discount \ud83d\ude02 https://t.co/T381tOhp1R",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 151
+            },
+            "author_id": "1379212119174836226"
+      },
+      {
+            "id": "1647682929680691201",
+            "created_at": "2023-04-16T19:26:37.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1647682804346417156"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1647682929680691201"
+            ],
+            "text": "when dat libcaf AC hits\ud83e\udd24",
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 3,
+                  "like_count": 15,
+                  "quote_count": 0,
+                  "impression_count": 372
+            },
+            "author_id": "1379212119174836226"
+      },
+      {
+            "id": "1647682804346417156",
+            "created_at": "2023-04-16T19:26:07.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 13,
+                              "end": 18,
+                              "probability": 0.5164,
+                              "type": "Other",
+                              "normalized_text": "ashoka"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1647682804346417156"
+            ],
+            "text": "gng to start ashoka tweeting so i hv sum engagement atleast.. my most viral tweet recently has had 4 likes.. remembering when i used to get 100+ likes here \ud83e\udd15",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 422
+            },
+            "author_id": "1379212119174836226"
+      },
+      {
+            "id": "1647485225675509760",
+            "created_at": "2023-04-16T06:21:01.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 49,
+                              "end": 59,
+                              "probability": 0.9482,
+                              "type": "Person",
+                              "normalized_text": "Frank Ocean"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 108,
+                              "end": 131,
+                              "url": "https://t.co/NKwPTfaSlo",
+                              "expanded_url": "https://twitter.com/antaxoxo_/status/1647485225675509760/video/1",
+                              "display_url": "pic.twitter.com/NKwPTfaSlo",
+                              "media_key": "7_1647485210982744065"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1647485225675509760"
+            ],
+            "text": "nun just up thinking about how i won\u2019t be seeing Frank Ocean live. i\u2019m ngl i feel physically sick right now https://t.co/NKwPTfaSlo",
+            "public_metrics": {
+                  "retweet_count": 178,
+                  "reply_count": 7,
+                  "like_count": 897,
+                  "quote_count": 5,
+                  "impression_count": 92664
+            },
+            "author_id": "1167827984"
+      },
+      {
+            "id": "1647683619408736256",
+            "created_at": "2023-04-16T19:29:22.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1647683257809379334"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1647683619408736256"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 57,
+                              "end": 80,
+                              "url": "https://t.co/eEQa3nrmAD",
+                              "expanded_url": "https://twitter.com/lodukiing/status/1647683619408736256/photo/1",
+                              "display_url": "pic.twitter.com/eEQa3nrmAD",
+                              "media_key": "16_1647683608658755591"
+                        }
+                  ]
+            },
+            "text": "when i don\u2019t get expelled for entering campus at 8:21 pm https://t.co/eEQa3nrmAD",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 205
+            },
+            "author_id": "1379212119174836226"
+      },
+      {
+            "id": "1647683257809379334",
+            "created_at": "2023-04-16T19:27:55.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 18,
+                              "end": 23,
+                              "probability": 0.5395,
+                              "type": "Other",
+                              "normalized_text": "jindal"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1647683257809379334"
+            ],
+            "text": "gng to infiltrate jindal twtr",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 270
+            },
+            "author_id": "1379212119174836226"
+      },
+      {
+            "id": "1647683417578799104",
+            "created_at": "2023-04-16T19:28:33.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1647683257809379334"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1647683417578799104"
+            ],
+            "text": "love being in jail \u2764\ufe0f",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 75
+            },
+            "author_id": "1379212119174836226"
+      },
+      {
+            "id": "1647683372708143114",
+            "created_at": "2023-04-16T19:28:23.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1647683257809379334"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1647683372708143114"
+            ],
+            "text": "sex in yellow box is too good",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 61
+            },
+            "author_id": "1379212119174836226"
+      },
+      {
+            "id": "1647023635742224386",
+            "created_at": "2023-04-14T23:46:49.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 13,
+                              "probability": 0.4465,
+                              "type": "Organization",
+                              "normalized_text": "Arctic monkeys"
+                        },
+                        {
+                              "start": 64,
+                              "end": 82,
+                              "probability": 0.8656,
+                              "type": "Other",
+                              "normalized_text": "the end of the road"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1647023635742224386"
+            ],
+            "text": "Arctic monkeys are sad announce that their 8th and final album \u201cthe end of the road\u201d is being released on February 28th 2024. The band will no longer make or produce music after that. There will be no tour, promo, or merch.",
+            "public_metrics": {
+                  "retweet_count": 22,
+                  "reply_count": 37,
+                  "like_count": 310,
+                  "quote_count": 67,
+                  "impression_count": 27115
+            },
+            "author_id": "1647021813854093316"
+      },
+      {
+            "id": "1647612839526268930",
+            "created_at": "2023-04-16T14:48:06.000Z",
+            "edit_history_tweet_ids": [
+                  "1647612839526268930"
+            ],
+            "text": "holy shit imagine sliding into the DMs of over 200 women and getting rejected by everyone i wouldve offed myself dawg",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 614
+            },
+            "author_id": "1028313430812319745"
+      },
+      {
+            "id": "1647243434409836544",
+            "created_at": "2023-04-15T14:20:13.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 12,
+                              "end": 21,
+                              "probability": 0.9779,
+                              "type": "Person",
+                              "normalized_text": "Ed Sheeran"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1647243434409836544"
+            ],
+            "text": "My favorite Ed Sheeran song is the one where he\u2019s like \u201cpersonally, I\u2019m a multimillionaire super star, but I really miss the shitty town I grew up in. Here\u2019s a list of how shitty all my extremely poor friends are doing right now.\u201d",
+            "public_metrics": {
+                  "retweet_count": 1287,
+                  "reply_count": 102,
+                  "like_count": 35435,
+                  "quote_count": 206,
+                  "impression_count": 2465536
+            },
+            "author_id": "319272601"
+      },
+      {
+            "id": "1647282795666890755",
+            "created_at": "2023-04-15T16:56:38.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1646898100588490752"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1647282795666890755"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/NTNuDoVQju",
+                              "expanded_url": "https://twitter.com/grrlcroosh/status/1647282795666890755/photo/1",
+                              "display_url": "pic.twitter.com/NTNuDoVQju",
+                              "media_key": "3_1647282791413952512"
+                        },
+                        {
+                              "start": 24,
+                              "end": 47,
+                              "url": "https://t.co/nyHPyLFYnH",
+                              "expanded_url": "https://twitter.com/MrBlackOG/status/1646898100588490752",
+                              "display_url": "twitter.com/MrBlackOG/stat\u2026"
+                        }
+                  ]
+            },
+            "text": "https://t.co/NTNuDoVQju https://t.co/nyHPyLFYnH",
+            "public_metrics": {
+                  "retweet_count": 2247,
+                  "reply_count": 12,
+                  "like_count": 15587,
+                  "quote_count": 17,
+                  "impression_count": 620529
+            },
+            "author_id": "1378735259186049030"
+      },
+      {
+            "id": "1647316831814963201",
+            "created_at": "2023-04-15T19:11:53.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 10,
+                              "end": 10,
+                              "probability": 0.4311,
+                              "type": "Other",
+                              "normalized_text": "8"
+                        },
+                        {
+                              "start": 32,
+                              "end": 34,
+                              "probability": 0.7238,
+                              "type": "Other",
+                              "normalized_text": "rnb"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 79,
+                              "end": 102,
+                              "url": "https://t.co/WAlP14ybAI",
+                              "expanded_url": "https://twitter.com/SebastianAvenue/status/1645863079807275017",
+                              "display_url": "twitter.com/SebastianAvenu\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1645863079807275017"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1647316831814963201"
+            ],
+            "text": "i love an 8 bar rap verse in an rnb song so much ( wharf talk seeyouagain etc) https://t.co/WAlP14ybAI",
+            "public_metrics": {
+                  "retweet_count": 1022,
+                  "reply_count": 178,
+                  "like_count": 25456,
+                  "quote_count": 44,
+                  "impression_count": 2823956
+            },
+            "author_id": "166747718"
+      },
+      {
+            "id": "1647324990134517760",
+            "created_at": "2023-04-15T19:44:18.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1647287881222832137"
+                  },
+                  {
+                        "type": "replied_to",
+                        "id": "1647324451749392386"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1647324990134517760"
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 0,
+                              "end": 3,
+                              "username": "UW",
+                              "id": "27103822"
+                        },
+                        {
+                              "start": 4,
+                              "end": 15,
+                              "username": "uw_ischool",
+                              "id": "748143452"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 176,
+                              "end": 199,
+                              "url": "https://t.co/q0ddTbes5H",
+                              "expanded_url": "https://twitter.com/joyopal/status/1647287881222832137",
+                              "display_url": "twitter.com/joyopal/status\u2026"
+                        }
+                  ]
+            },
+            "text": "@UW @uw_ischool It's a bittersweet moment, as I think of the wonderful colleagues and friends I've made over the years, all of whom are also joining top grad schools with me:\n\nhttps://t.co/q0ddTbes5H",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 2664
+            },
+            "author_id": "1268939226231562242"
+      },
+      {
+            "id": "1647324451749392386",
+            "created_at": "2023-04-15T19:42:09.000Z",
+            "edit_history_tweet_ids": [
+                  "1647324451749392386"
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 128,
+                              "end": 131,
+                              "username": "UW",
+                              "id": "27103822"
+                        },
+                        {
+                              "start": 133,
+                              "end": 144,
+                              "username": "uw_ischool",
+                              "id": "748143452"
+                        }
+                  ]
+            },
+            "text": "Major personal update: \n\nAfter a bit of hard work and a whole lot of extreme good luck, I'm happy to share that I'll be joining @UW (@uw_ischool) to start my PhD this Fall!\n\nIt has been an extremely rewarding journey so far and I look forward to the next phase!",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 28,
+                  "like_count": 208,
+                  "quote_count": 0,
+                  "impression_count": 18397
+            },
+            "author_id": "1268939226231562242"
+      },
+      {
+            "id": "1646695342589485056",
+            "created_at": "2023-04-14T02:02:18.000Z",
+            "edit_history_tweet_ids": [
+                  "1646695342589485056"
+            ],
+            "text": "I have a child that identifies as non-binary.\n\nThey might identity that way their entire life. Or it might be a phase they go through.\n\nEither way, my role as a parent is unconditional love, understanding and support.\n\nIf it's important to them I will follow them anywhere.",
+            "public_metrics": {
+                  "retweet_count": 7971,
+                  "reply_count": 4778,
+                  "like_count": 113967,
+                  "quote_count": 914,
+                  "impression_count": 5052534
+            },
+            "author_id": "3198211826"
+      },
+      {
+            "id": "1646574645137604609",
+            "created_at": "2023-04-13T18:02:41.000Z",
+            "edit_history_tweet_ids": [
+                  "1646574645137604609"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/L3J1VUNr78",
+                              "expanded_url": "https://twitter.com/Smartguyy/status/1646574645137604609/photo/1",
+                              "display_url": "pic.twitter.com/L3J1VUNr78",
+                              "media_key": "3_1646574640813203457"
+                        },
+                        {
+                              "start": 24,
+                              "end": 47,
+                              "url": "https://t.co/S8IiepGasR",
+                              "expanded_url": "https://twitter.com/iraqiacore/status/1645475993832783896",
+                              "display_url": "twitter.com/iraqiacore/sta\u2026"
+                        }
+                  ]
+            },
+            "text": "https://t.co/L3J1VUNr78 https://t.co/S8IiepGasR",
+            "public_metrics": {
+                  "retweet_count": 894,
+                  "reply_count": 7,
+                  "like_count": 8438,
+                  "quote_count": 59,
+                  "impression_count": 418050
+            },
+            "author_id": "1430845450731536385"
+      },
+      {
+            "id": "1646579891314257921",
+            "created_at": "2023-04-13T18:23:32.000Z",
+            "edit_history_tweet_ids": [
+                  "1646579891314257921"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 11,
+                              "end": 34,
+                              "url": "https://t.co/6FrYg1jhCK",
+                              "expanded_url": "https://twitter.com/stribs/status/1645210142982516739/video/1",
+                              "display_url": "pic.twitter.com/6FrYg1jhCK",
+                              "media_key": "7_1645209762768797697"
+                        }
+                  ]
+            },
+            "text": "incroyable https://t.co/6FrYg1jhCK",
+            "public_metrics": {
+                  "retweet_count": 1571,
+                  "reply_count": 34,
+                  "like_count": 7961,
+                  "quote_count": 146,
+                  "impression_count": 532015
+            },
+            "author_id": "304932002"
+      },
+      {
+            "id": "1647253341402025984",
+            "created_at": "2023-04-15T14:59:35.000Z",
+            "edit_history_tweet_ids": [
+                  "1647253341402025984"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 20,
+                              "end": 43,
+                              "url": "https://t.co/RLOCmp8zfm",
+                              "expanded_url": "https://twitter.com/dotinglyricism/status/1647253341402025984/photo/1",
+                              "display_url": "pic.twitter.com/RLOCmp8zfm",
+                              "media_key": "3_1647253178155425793"
+                        }
+                  ]
+            },
+            "text": "claude monet blues. https://t.co/RLOCmp8zfm",
+            "public_metrics": {
+                  "retweet_count": 10573,
+                  "reply_count": 29,
+                  "like_count": 56128,
+                  "quote_count": 174,
+                  "impression_count": 2066897
+            },
+            "author_id": "706746472050458624"
+      },
+      {
+            "id": "1646655142249500674",
+            "created_at": "2023-04-13T23:22:33.000Z",
+            "edit_history_tweet_ids": [
+                  "1646655142249500674"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/6G6WZXWWZZ",
+                              "expanded_url": "https://twitter.com/briosm0m/status/1646655142249500674/photo/1",
+                              "display_url": "pic.twitter.com/6G6WZXWWZZ",
+                              "media_key": "3_1646655115368202240"
+                        }
+                  ]
+            },
+            "text": "https://t.co/6G6WZXWWZZ",
+            "public_metrics": {
+                  "retweet_count": 29,
+                  "reply_count": 1,
+                  "like_count": 208,
+                  "quote_count": 5,
+                  "impression_count": 7589
+            },
+            "author_id": "1432281327789920263"
+      },
+      {
+            "id": "1647214682644836352",
+            "created_at": "2023-04-15T12:25:58.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 205,
+                              "end": 221,
+                              "probability": 0.5744,
+                              "type": "Other",
+                              "normalized_text": "Imposter syndrome"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1647214678320504832"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1647214682644836352"
+            ],
+            "text": "The same person -- upon receiving criticism about their upper caste position for writing an article about our casteless university -- chooses to address this issue by omitting their surname in the byline. Imposter syndrome should definitely be real for some people. (3/3)",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 20,
+                  "quote_count": 0,
+                  "impression_count": 1511
+            },
+            "author_id": "955759213"
+      },
+      {
+            "id": "1647214678320504832",
+            "created_at": "2023-04-15T12:25:57.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1647214676126896128"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1647214678320504832"
+            ],
+            "text": "The same person -- who harassed several people online, tried soliciting sexual details from women, and then lied about being forgiven by them -- has the gall to bemoan the fact that universities called their application \"superficial\". (2/3)",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 19,
+                  "quote_count": 0,
+                  "impression_count": 1767
+            },
+            "author_id": "955759213"
+      },
+      {
+            "id": "1647214676126896128",
+            "created_at": "2023-04-15T12:25:57.000Z",
+            "edit_history_tweet_ids": [
+                  "1647214676126896128"
+            ],
+            "text": "I tend to refrain from tweeting about my university or its crowd but it's sickening to see individuals here get away with their constant, problematic moral ambiguity. (1/3)",
+            "public_metrics": {
+                  "retweet_count": 3,
+                  "reply_count": 1,
+                  "like_count": 44,
+                  "quote_count": 0,
+                  "impression_count": 5413
+            },
+            "author_id": "955759213"
+      },
+      {
+            "id": "1646876626603642881",
+            "created_at": "2023-04-14T14:02:39.000Z",
+            "edit_history_tweet_ids": [
+                  "1646876626603642881"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 13,
+                              "end": 36,
+                              "url": "https://t.co/1s23g7Ptwm",
+                              "expanded_url": "https://twitter.com/cosyluv/status/1646876626603642881/photo/1",
+                              "display_url": "pic.twitter.com/1s23g7Ptwm",
+                              "media_key": "3_1646876604893634562"
+                        }
+                  ]
+            },
+            "text": "this the one https://t.co/1s23g7Ptwm",
+            "public_metrics": {
+                  "retweet_count": 16267,
+                  "reply_count": 43,
+                  "like_count": 69336,
+                  "quote_count": 449,
+                  "impression_count": 2405900
+            },
+            "author_id": "1208397496411668481"
+      },
+      {
+            "id": "1647156738830000129",
+            "created_at": "2023-04-15T08:35:43.000Z",
+            "edit_history_tweet_ids": [
+                  "1647156738830000129"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 11,
+                              "end": 34,
+                              "url": "https://t.co/LkRZTLbtJO",
+                              "expanded_url": "https://twitter.com/pratitty1/status/1647156738830000129/photo/1",
+                              "display_url": "pic.twitter.com/LkRZTLbtJO",
+                              "media_key": "3_1647156726242615298"
+                        },
+                        {
+                              "start": 11,
+                              "end": 34,
+                              "url": "https://t.co/LkRZTLbtJO",
+                              "expanded_url": "https://twitter.com/pratitty1/status/1647156738830000129/photo/1",
+                              "display_url": "pic.twitter.com/LkRZTLbtJO",
+                              "media_key": "3_1647156726238527490"
+                        }
+                  ]
+            },
+            "text": "!!!!!! wtf https://t.co/LkRZTLbtJO",
+            "public_metrics": {
+                  "retweet_count": 3,
+                  "reply_count": 6,
+                  "like_count": 28,
+                  "quote_count": 9,
+                  "impression_count": 10287
+            },
+            "author_id": "1454062737051381762"
+      },
+      {
+            "id": "1646887855417880577",
+            "created_at": "2023-04-14T14:47:17.000Z",
+            "edit_history_tweet_ids": [
+                  "1646887855417880577"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 9,
+                              "end": 32,
+                              "url": "https://t.co/Jr4BcC05E7",
+                              "expanded_url": "https://twitter.com/thechosenberg/status/1646887855417880577/photo/1",
+                              "display_url": "pic.twitter.com/Jr4BcC05E7",
+                              "media_key": "3_1646887850682531840"
+                        }
+                  ]
+            },
+            "text": "Discuss: https://t.co/Jr4BcC05E7",
+            "public_metrics": {
+                  "retweet_count": 207,
+                  "reply_count": 153,
+                  "like_count": 3740,
+                  "quote_count": 81,
+                  "impression_count": 244268
+            },
+            "author_id": "1092887565806563328"
+      },
+      {
+            "id": "1646397877470502912",
+            "created_at": "2023-04-13T06:20:17.000Z",
+            "edit_history_tweet_ids": [
+                  "1646397877470502912"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/IJJRqjhtV3",
+                              "expanded_url": "https://twitter.com/musicstruggles1/status/1646397877470502912/photo/1",
+                              "display_url": "pic.twitter.com/IJJRqjhtV3",
+                              "media_key": "3_1646397874035359745"
+                        }
+                  ]
+            },
+            "text": "https://t.co/IJJRqjhtV3",
+            "public_metrics": {
+                  "retweet_count": 2637,
+                  "reply_count": 65,
+                  "like_count": 33864,
+                  "quote_count": 267,
+                  "impression_count": 968398
+            },
+            "author_id": "1407627638273888258"
+      },
+      {
+            "id": "1647057156888223747",
+            "created_at": "2023-04-15T02:00:01.000Z",
+            "edit_history_tweet_ids": [
+                  "1647057156888223747"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/YZcEzfRGAD",
+                              "expanded_url": "https://twitter.com/WholesomeMeme/status/1647057156888223747/photo/1",
+                              "display_url": "pic.twitter.com/YZcEzfRGAD",
+                              "media_key": "3_1647051289690357774"
+                        }
+                  ]
+            },
+            "text": "https://t.co/YZcEzfRGAD",
+            "public_metrics": {
+                  "retweet_count": 517,
+                  "reply_count": 15,
+                  "like_count": 13914,
+                  "quote_count": 39,
+                  "impression_count": 366127
+            },
+            "author_id": "762799939395158016"
+      },
+      {
+            "id": "1646891058809167873",
+            "created_at": "2023-04-14T15:00:00.000Z",
+            "edit_history_tweet_ids": [
+                  "1646891058809167873"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/gf4OURFnpP",
+                              "expanded_url": "https://twitter.com/WholesomeMeme/status/1646891058809167873/photo/1",
+                              "display_url": "pic.twitter.com/gf4OURFnpP",
+                              "media_key": "3_1646712892857647108"
+                        }
+                  ]
+            },
+            "text": "https://t.co/gf4OURFnpP",
+            "public_metrics": {
+                  "retweet_count": 558,
+                  "reply_count": 51,
+                  "like_count": 8210,
+                  "quote_count": 150,
+                  "impression_count": 325744
+            },
+            "author_id": "762799939395158016"
+      },
+      {
+            "id": "1646819093042049024",
+            "created_at": "2023-04-14T10:14:02.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1645852448446205967"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1646819093042049024"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 41,
+                              "end": 64,
+                              "url": "https://t.co/OHPOhqcGNM",
+                              "expanded_url": "https://twitter.com/stfuvibesyaar/status/1646819093042049024/photo/1",
+                              "display_url": "pic.twitter.com/OHPOhqcGNM",
+                              "media_key": "3_1646819083910873088"
+                        },
+                        {
+                              "start": 65,
+                              "end": 88,
+                              "url": "https://t.co/kPY3gFDCj4",
+                              "expanded_url": "https://twitter.com/sir_benedictx/status/1645852448446205967",
+                              "display_url": "twitter.com/sir_benedictx/\u2026"
+                        }
+                  ]
+            },
+            "text": "for those who didn't follow me back then https://t.co/OHPOhqcGNM https://t.co/kPY3gFDCj4",
+            "public_metrics": {
+                  "retweet_count": 192,
+                  "reply_count": 17,
+                  "like_count": 1708,
+                  "quote_count": 3,
+                  "impression_count": 64605
+            },
+            "author_id": "906171290951680000"
+      },
+      {
+            "id": "1646250477586202626",
+            "created_at": "2023-04-12T20:34:34.000Z",
+            "edit_history_tweet_ids": [
+                  "1646250477586202626"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 102,
+                              "end": 125,
+                              "url": "https://t.co/lWec8K1Vo2",
+                              "expanded_url": "https://twitter.com/Culture_Crit/status/1646250477586202626/photo/1",
+                              "display_url": "pic.twitter.com/lWec8K1Vo2",
+                              "media_key": "3_1646249049685622784"
+                        }
+                  ]
+            },
+            "text": "I want to go back to a time when artists carved stone so perfectly that they were accused of alchemy. https://t.co/lWec8K1Vo2",
+            "public_metrics": {
+                  "retweet_count": 1672,
+                  "reply_count": 237,
+                  "like_count": 15372,
+                  "quote_count": 123,
+                  "impression_count": 924214
+            },
+            "author_id": "1257792281614200834"
+      }
+]

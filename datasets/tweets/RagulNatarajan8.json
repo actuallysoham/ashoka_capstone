@@ -1,0 +1,140 @@
+[
+      {
+            "author_id": "1070361701487304704",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 141
+            },
+            "text": "Accurate\ud83d\ude05 https://t.co/0Zpema3qb8",
+            "edit_history_tweet_ids": [
+                  "1638140574405652481"
+            ],
+            "id": "1638140574405652481",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 10,
+                              "end": 33,
+                              "url": "https://t.co/0Zpema3qb8",
+                              "expanded_url": "https://twitter.com/RagulNatarajan8/status/1638140574405652481/photo/1",
+                              "display_url": "pic.twitter.com/0Zpema3qb8",
+                              "media_key": "3_1638140570777395201"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-21T11:28:42.000Z"
+      },
+      {
+            "author_id": "1070361701487304704",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 206
+            },
+            "text": "Okk, y'all are making me feel guilty for doing this https://t.co/a64oZjEUUG",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1610924748615155714"
+                  },
+                  {
+                        "type": "replied_to",
+                        "id": "1621796017715974144"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1622216978768494593"
+            ],
+            "id": "1622216978768494593",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 52,
+                              "end": 75,
+                              "url": "https://t.co/a64oZjEUUG",
+                              "expanded_url": "https://twitter.com/Jackbmeyer/status/1610924748615155714?t=0WcHh6NcChWnV3eNUGDJpw&s=19",
+                              "display_url": "twitter.com/Jackbmeyer/sta\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-05T12:54:01.000Z"
+      },
+      {
+            "author_id": "1070361701487304704",
+            "public_metrics": {
+                  "retweet_count": 3,
+                  "reply_count": 3,
+                  "like_count": 26,
+                  "quote_count": 0,
+                  "impression_count": 1399
+            },
+            "text": "Don't want to be a data scientist or economist or political scientist, but a secret multidisciplinary fourth thing",
+            "edit_history_tweet_ids": [
+                  "1621796017715974144"
+            ],
+            "id": "1621796017715974144",
+            "created_at": "2023-02-04T09:01:16.000Z"
+      },
+      {
+            "author_id": "1070361701487304704",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 334
+            },
+            "text": "God really gives me his toughest battles (data scraping)",
+            "edit_history_tweet_ids": [
+                  "1619329925894541313"
+            ],
+            "id": "1619329925894541313",
+            "created_at": "2023-01-28T13:41:54.000Z"
+      },
+      {
+            "author_id": "1070361701487304704",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 268
+            },
+            "text": "I made this when I was 19 https://t.co/wxOS1n4GdY https://t.co/PjXBMHJdLr",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1613652392909897730"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1618972948806914050"
+            ],
+            "id": "1618972948806914050",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 26,
+                              "end": 49,
+                              "url": "https://t.co/wxOS1n4GdY",
+                              "expanded_url": "https://twitter.com/RagulNatarajan8/status/1618972948806914050/photo/1",
+                              "display_url": "pic.twitter.com/wxOS1n4GdY",
+                              "media_key": "3_1618972945040445441"
+                        },
+                        {
+                              "start": 50,
+                              "end": 73,
+                              "url": "https://t.co/PjXBMHJdLr",
+                              "expanded_url": "https://twitter.com/Culture_Crit/status/1613652392909897730",
+                              "display_url": "twitter.com/Culture_Crit/s\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-01-27T14:03:24.000Z"
+      }
+]

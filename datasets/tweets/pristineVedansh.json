@@ -1,0 +1,45 @@
+[
+      {
+            "edit_history_tweet_ids": [
+                  "1610904210903814145"
+            ],
+            "author_id": "765777317650202625",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 61
+            },
+            "text": "Hey everyone, if you're on the hunt for a new gig, we've got some openings on our website that you might be interested in. We're looking for some rad people to join our team. Apply at https://t.co/IHGToTmGN6",
+            "created_at": "2023-01-05T07:41:07.000Z",
+            "id": "1610904210903814145",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 184,
+                              "end": 207,
+                              "url": "https://t.co/IHGToTmGN6",
+                              "expanded_url": "https://careers.nocapmeta.in/jobs",
+                              "display_url": "careers.nocapmeta.in/jobs",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1610904211197415425/b4bkg2s5?format=png&name=orig",
+                                          "width": 1200,
+                                          "height": 600
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1610904211197415425/b4bkg2s5?format=png&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "Careers - NoCap Meta Private Limited",
+                              "description": "#8 Jobs - Mumbai",
+                              "unwound_url": "https://careers.nocapmeta.in/jobs"
+                        }
+                  ]
+            }
+      }
+]

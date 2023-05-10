@@ -1,0 +1,35 @@
+[
+      {
+            "edit_history_tweet_ids": [
+                  "1616308362794397699"
+            ],
+            "created_at": "2023-01-20T05:35:17.000Z",
+            "author_id": "1245383145987248128",
+            "text": "Great thread! https://t.co/7tYIg9XkOi",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1616236740271824898"
+                  }
+            ],
+            "id": "1616308362794397699",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 14,
+                              "end": 37,
+                              "url": "https://t.co/7tYIg9XkOi",
+                              "expanded_url": "https://twitter.com/RomeenSheth/status/1616236740271824898",
+                              "display_url": "twitter.com/RomeenSheth/st\u2026"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 156
+            }
+      }
+]

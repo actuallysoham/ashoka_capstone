@@ -1,0 +1,562 @@
+[
+      {
+            "text": "\"would you love me if i was a worm?\"\n\nyes, if i was a worm as well \ud83d\ude4f",
+            "id": "1651546953904455680",
+            "created_at": "2023-04-27T11:20:52.000Z",
+            "edit_history_tweet_ids": [
+                  "1651546953904455680"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 524
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "hands down, one of my favourite courses i have taken at Ashoka over the course of 3 years. \n\n@BenWinokur's Ethics of Belief https://t.co/cx1Fg18KuF",
+            "id": "1651471606043267073",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 56,
+                              "end": 61,
+                              "probability": 0.5192,
+                              "type": "Other",
+                              "normalized_text": "Ashoka"
+                        },
+                        {
+                              "start": 107,
+                              "end": 122,
+                              "probability": 0.8167,
+                              "type": "Other",
+                              "normalized_text": "Ethics of Belief"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 93,
+                              "end": 104,
+                              "username": "BenWinokur",
+                              "id": "1161371513561473024"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 124,
+                              "end": 147,
+                              "url": "https://t.co/cx1Fg18KuF",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1651465749951664129",
+                              "display_url": "twitter.com/thevisahan/sta\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-27T06:21:28.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1651465749951664129"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1651471606043267073"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 502
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "\"i'm gonna rate moong dal on a scale of 100\"\n\n-@BenWinokur https://t.co/DNZZ44K2L9",
+            "id": "1651465749951664129",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 16,
+                              "end": 24,
+                              "probability": 0.5864,
+                              "type": "Other",
+                              "normalized_text": "moong dal"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 47,
+                              "end": 58,
+                              "username": "BenWinokur",
+                              "id": "1161371513561473024"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 59,
+                              "end": 82,
+                              "url": "https://t.co/DNZZ44K2L9",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1651465749951664129/photo/1",
+                              "display_url": "pic.twitter.com/DNZZ44K2L9",
+                              "media_key": "3_1651465746981978114"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-27T05:58:12.000Z",
+            "edit_history_tweet_ids": [
+                  "1651465749951664129"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 19,
+                  "quote_count": 1,
+                  "impression_count": 1216
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "the only place Arsenal have won in the recent past is on Ted Lasso",
+            "id": "1651181487335817219",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 15,
+                              "end": 21,
+                              "probability": 0.975,
+                              "type": "Organization",
+                              "normalized_text": "Arsenal"
+                        },
+                        {
+                              "start": 57,
+                              "end": 65,
+                              "probability": 0.9683,
+                              "type": "Person",
+                              "normalized_text": "Ted Lasso"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-26T11:08:38.000Z",
+            "edit_history_tweet_ids": [
+                  "1651181487335817219"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 4,
+                  "quote_count": 1,
+                  "impression_count": 1024
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "graduating this year and unhappy with your placement/not placed?\n\nDM, might have something in store for y'all\n\nRT for karma \ud83d\ude4f",
+            "id": "1650978428366082049",
+            "created_at": "2023-04-25T21:41:45.000Z",
+            "edit_history_tweet_ids": [
+                  "1650978428366082049"
+            ],
+            "public_metrics": {
+                  "retweet_count": 11,
+                  "reply_count": 1,
+                  "like_count": 25,
+                  "quote_count": 0,
+                  "impression_count": 6979
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "cc: @sprintoHQ",
+            "id": "1650435098737795075",
+            "created_at": "2023-04-24T09:42:45.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1650435096250552320"
+                  }
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 4,
+                              "end": 14,
+                              "username": "sprintoHQ",
+                              "id": "1177489104532996096"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1650435098737795075"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 130
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "how does one become GDPR-compliant as a service provider from India?\n\nand does SOC-2 compliance qualify as GDPR compliant?\n\ndoes anyone have any idea/experience?",
+            "id": "1650435096250552320",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 20,
+                              "end": 23,
+                              "probability": 0.6368,
+                              "type": "Other",
+                              "normalized_text": "GDPR"
+                        },
+                        {
+                              "start": 62,
+                              "end": 66,
+                              "probability": 0.9622,
+                              "type": "Place",
+                              "normalized_text": "India"
+                        },
+                        {
+                              "start": 79,
+                              "end": 83,
+                              "probability": 0.834,
+                              "type": "Other",
+                              "normalized_text": "SOC-2"
+                        },
+                        {
+                              "start": 107,
+                              "end": 110,
+                              "probability": 0.6435,
+                              "type": "Other",
+                              "normalized_text": "GDPR"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-24T09:42:45.000Z",
+            "edit_history_tweet_ids": [
+                  "1650435096250552320"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 891
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "https://t.co/9NzP8cHXHi",
+            "id": "1649323806769692672",
+            "created_at": "2023-04-21T08:06:53.000Z",
+            "edit_history_tweet_ids": [
+                  "1649323806769692672"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 464
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/9NzP8cHXHi",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1649323806769692672/photo/1",
+                              "display_url": "pic.twitter.com/9NzP8cHXHi",
+                              "media_key": "3_1649323804147982338"
+                        }
+                  ]
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "damn, MBA parties begin hella early https://t.co/tjxPS6Q4Pc",
+            "id": "1649303651742281728",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 6,
+                              "end": 8,
+                              "probability": 0.4526,
+                              "type": "Other",
+                              "normalized_text": "MBA"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 36,
+                              "end": 59,
+                              "url": "https://t.co/tjxPS6Q4Pc",
+                              "expanded_url": "https://twitter.com/tanishka_goel/status/1649257920058765312",
+                              "display_url": "twitter.com/tanishka_goel/\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-21T06:46:47.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1649257920058765312"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1649303651742281728"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 999
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "why is everyone in the rh commons talking about market sizes?",
+            "id": "1647010066984304640",
+            "created_at": "2023-04-14T22:52:54.000Z",
+            "edit_history_tweet_ids": [
+                  "1647010066984304640"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 502
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "TIL the 2029 Asian Winter Games is hosted by Saudi Arabia",
+            "id": "1646849047204970496",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 13,
+                              "end": 30,
+                              "probability": 0.7889,
+                              "type": "Other",
+                              "normalized_text": "Asian Winter Games"
+                        },
+                        {
+                              "start": 45,
+                              "end": 56,
+                              "probability": 0.945,
+                              "type": "Place",
+                              "normalized_text": "Saudi Arabia"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-14T12:13:04.000Z",
+            "edit_history_tweet_ids": [
+                  "1646849047204970496"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 285
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "thank you @vistaar_ashoka for letting me know the existence of this banger. \n\nhttps://t.co/zV3c4s1Evf",
+            "id": "1644338346645413889",
+            "created_at": "2023-04-07T13:56:26.000Z",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 10,
+                              "end": 25,
+                              "username": "vistaar_ashoka",
+                              "id": "1330444526209490944"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 78,
+                              "end": 101,
+                              "url": "https://t.co/zV3c4s1Evf",
+                              "expanded_url": "https://open.spotify.com/track/5UE0kl2navyYw282JOOUgr?si=ovQFKlELQbGzqSlhQv1sEQ&dd=1",
+                              "display_url": "open.spotify.com/track/5UE0kl2n\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1644338347094196225/bs71kncD?format=jpg&name=orig",
+                                          "width": 640,
+                                          "height": 640
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1644338347094196225/bs71kncD?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "The Paisa Song (shinchan paisa paisa)",
+                              "description": "cozea \u00b7 Song \u00b7 1990",
+                              "unwound_url": "https://open.spotify.com/track/5UE0kl2navyYw282JOOUgr?si=ovQFKlELQbGzqSlhQv1sEQ&dd=1"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1644338346645413889"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 249
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "i wanna get whatever elon sir is on",
+            "id": "1642953636505620480",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 21,
+                              "end": 24,
+                              "probability": 0.8348,
+                              "type": "Person",
+                              "normalized_text": "elon"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-03T18:14:06.000Z",
+            "edit_history_tweet_ids": [
+                  "1642953636505620480"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 2,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 536
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "DMs open! https://t.co/dgHtFK6gHp",
+            "id": "1642886611426836497",
+            "created_at": "2023-04-03T13:47:46.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1642884733351624706"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1642886611426836497"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 726
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 10,
+                              "end": 33,
+                              "url": "https://t.co/dgHtFK6gHp",
+                              "expanded_url": "https://twitter.com/kunksed/status/1642884733351624706",
+                              "display_url": "twitter.com/kunksed/status\u2026"
+                        }
+                  ]
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "y'all today's my 2 year anniversary with @StoaHQ \n\nhbd to us fr fr",
+            "id": "1641336528516382720",
+            "created_at": "2023-03-30T07:08:17.000Z",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 41,
+                              "end": 48,
+                              "username": "StoaHQ",
+                              "id": "1310578301119864833"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1641336528516382720"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 28,
+                  "quote_count": 0,
+                  "impression_count": 1519
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "hot take of the day. https://t.co/dXG76dsjVC",
+            "id": "1641135211235639308",
+            "created_at": "2023-03-29T17:48:19.000Z",
+            "edit_history_tweet_ids": [
+                  "1641135211235639308"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 868
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 21,
+                              "end": 44,
+                              "url": "https://t.co/dXG76dsjVC",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1641135211235639308/photo/1",
+                              "display_url": "pic.twitter.com/dXG76dsjVC",
+                              "media_key": "3_1641135207305871360"
+                        }
+                  ]
+            },
+            "author_id": "3117347938"
+      },
+      {
+            "text": "lafda between two people i look up to on Twitter. \n\nvery interesting lafda tho, both seem to make sense to me. \n\nlet's see.",
+            "id": "1640391827802198016",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 41,
+                              "end": 47,
+                              "probability": 0.9731,
+                              "type": "Other",
+                              "normalized_text": "Twitter"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-27T16:34:23.000Z",
+            "edit_history_tweet_ids": [
+                  "1640391827802198016"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 6,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 1556
+            },
+            "author_id": "3117347938"
+      }
+]

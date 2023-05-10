@@ -1,0 +1,977 @@
+[
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1642461198309548032"
+                  }
+            ],
+            "id": "1642690074239201281",
+            "text": "This makes me happy. People embracing their own languages, which are often considered low-prestige or relegated to mere \"dialects\" of Hindi, rather than feeling forced to speak English or Hindi on important platforms. https://t.co/QjPNDtnMeA",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1642690074239201281"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 17,
+                  "quote_count": 0,
+                  "impression_count": 644
+            },
+            "created_at": "2023-04-03T00:46:48.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 218,
+                              "end": 241,
+                              "url": "https://t.co/QjPNDtnMeA",
+                              "expanded_url": "https://twitter.com/RamanDhaka/status/1642461198309548032",
+                              "display_url": "twitter.com/RamanDhaka/sta\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1641897546053308458",
+            "text": "When my life is going well, my sleep takes a hit. That is, when I am looking forward to my days, I can't stay asleep long enough because my body keeps waking me up due to the excitement. \n\n(and when life isn't going well, there's an altogether different set of sleep problems)",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1641897546053308458"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 190
+            },
+            "created_at": "2023-03-31T20:17:34.000Z"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1638927738684985346"
+                  }
+            ],
+            "id": "1639386907862876161",
+            "text": "I'm surprised how this country claims to have free speech at all https://t.co/mPDmD7KVkm",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1639386907862876161"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 149
+            },
+            "created_at": "2023-03-24T22:01:11.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 65,
+                              "end": 88,
+                              "url": "https://t.co/mPDmD7KVkm",
+                              "expanded_url": "https://twitter.com/AroonDeep/status/1638927738684985346",
+                              "display_url": "twitter.com/AroonDeep/stat\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 3,
+                              "probability": 0.5282,
+                              "type": "Other",
+                              "normalized_text": "Urdu"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 277,
+                              "end": 300,
+                              "url": "https://t.co/HAuCSLKguZ",
+                              "expanded_url": "https://twitter.com/swati_gs/status/1637716107388948481",
+                              "display_url": "twitter.com/swati_gs/statu\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1637716107388948481"
+                  }
+            ],
+            "id": "1638899900048867331",
+            "text": "Urdu poetry on love is gory because love itself is violent and gory. The pain of love is as real as physical pain, and the choice of metaphors beautifully captures that.\n\nBut that's difficult to appreciate for someone who does not experience love and has a heart full of hate. https://t.co/HAuCSLKguZ",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1638899900048867331"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 472
+            },
+            "created_at": "2023-03-23T13:46:00.000Z"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1638844825729466368"
+                  }
+            ],
+            "id": "1638874762645577728",
+            "text": "Was Hindi invented or discovered? \ud83e\udd14 https://t.co/pNRwPuKp7S",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1638874762645577728"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 331
+            },
+            "created_at": "2023-03-23T12:06:06.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 36,
+                              "end": 59,
+                              "url": "https://t.co/pNRwPuKp7S",
+                              "expanded_url": "https://twitter.com/qaummunist/status/1638844825729466368",
+                              "display_url": "twitter.com/qaummunist/sta\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 29,
+                              "end": 32,
+                              "probability": 0.8165,
+                              "type": "Person",
+                              "normalized_text": "Faiz"
+                        }
+                  ]
+            },
+            "id": "1638403325191241729",
+            "text": "A lot of people seem to view Faiz exclusively as a revolutionary poet. But his poetry on love and sorrow is just as powerful. Although there have been enough romantic poets and fewer revolutionary poets, so his image seems well-justified.",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1638403325191241729"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 359
+            },
+            "created_at": "2023-03-22T04:52:47.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 65,
+                              "end": 70,
+                              "probability": 0.894,
+                              "type": "Place",
+                              "normalized_text": "Punjab"
+                        },
+                        {
+                              "start": 96,
+                              "end": 102,
+                              "probability": 0.9039,
+                              "type": "Place",
+                              "normalized_text": "England"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 105,
+                              "end": 128,
+                              "url": "https://t.co/PTOQidnDlq",
+                              "expanded_url": "https://twitter.com/KananBehis/status/1638392235778621441/photo/1",
+                              "display_url": "pic.twitter.com/PTOQidnDlq",
+                              "media_key": "3_1638391920064954368"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1638387386047422466"
+                  }
+            ],
+            "id": "1638392235778621441",
+            "text": "At same time, the author acknowledges that Urdu is as foreign to Punjab as Norman-French was to England. https://t.co/PTOQidnDlq",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1638392235778621441"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 89
+            },
+            "created_at": "2023-03-22T04:08:43.000Z"
+      },
+      {
+            "id": "1638387386047422466",
+            "text": "\"Punjabi and Hindi are not distinct languages but sister dialects\" is a take I'm seeing for the first time. But sure, why not. It makes just as much sense as Hindi and Bhojpuri being sister dialects. https://t.co/s7LFVGjhsB",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1638387386047422466"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 505
+            },
+            "created_at": "2023-03-22T03:49:27.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 200,
+                              "end": 223,
+                              "url": "https://t.co/s7LFVGjhsB",
+                              "expanded_url": "https://twitter.com/KananBehis/status/1638387386047422466/photo/1",
+                              "display_url": "pic.twitter.com/s7LFVGjhsB",
+                              "media_key": "3_1638387034342535169"
+                        }
+                  ]
+            }
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1638206839828680704"
+                  }
+            ],
+            "id": "1638365594104807426",
+            "text": "\u062d\u0646\u0627 \u0633\u06d2 \u06cc\u0627\u0631 \u06a9\u0627 \u067e\u0646\u062c\u06c1 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2 \u06af\u0644 \u06a9\u06d2 \u0631\u0646\u06af \n\u06c1\u0645\u0627\u0631\u06d2 \u0627\u0646 \u0646\u06d2 \u06a9\u0644\u06cc\u062c\u0648\u06ba \u0645\u06cc\u06ba \u06c1\u0627\u062a\u06be \u0688\u0627\u0644\u0627 \u06c1\u06d2 \n- \u0645\u06cc\u0631 \u062a\u0642\u06cc \u0645\u06cc\u0631 \n\n\u0939\u093f\u0928\u093e \u0938\u0947 \u092f\u093e\u0930 \u0915\u093e \u092a\u0902\u091c\u093e \u0928\u0939\u0940\u0902 \u0939\u0948 \u0917\u0941\u0932 \u0915\u0947 \u0930\u0902\u0917 \n\u0939\u092e\u093e\u0930\u0947 \u0909\u0928\u0928\u0947 \u0915\u0932\u0947\u091c\u094b\u0902 \u092e\u0947\u0902 \u0939\u093e\u0925 \u0921\u093e\u0932\u093e \u0939\u0948\n- \u092e\u0940\u0930 \u0924\u0915\u093c\u0940 \u092e\u0940\u0930 https://t.co/lU6fRd2M5d",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1638365594104807426"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 147
+            },
+            "created_at": "2023-03-22T02:22:51.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 180,
+                              "end": 203,
+                              "url": "https://t.co/lU6fRd2M5d",
+                              "expanded_url": "https://twitter.com/mardood_/status/1638206839828680704",
+                              "display_url": "twitter.com/mardood_/statu\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1638042819800514565",
+            "text": "For some reason I've been finding harder to sleep in silence. Please drop your favorite music to sleep to. \ud83d\udc47",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1638042819800514565"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 175
+            },
+            "created_at": "2023-03-21T05:00:16.000Z"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1636917633693151232"
+                  }
+            ],
+            "id": "1637063117392707584",
+            "text": "\u091c\u092e \u0917\u092f\u093e \u0916\u093c\u0942\u0901 \u0915\u092b\u093c-\u090f-\u0915\u093c\u093e\u0924\u093f\u0932 \u092a\u0947 \u0924\u093f\u0930\u093e '\u092e\u0940\u0930' \u091c\u093c\u093f-\u092c\u0938 \n\u0909\u0928 \u0928\u0947 \u0930\u094b \u0930\u094b \u0926\u093f\u092f\u093e \u0915\u0932 \u0939\u093e\u0925 \u0915\u094b \u0927\u094b\u0924\u0947 \u0927\u094b\u0924\u0947 https://t.co/cVpGk9WoKf",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1637063117392707584"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 115
+            },
+            "created_at": "2023-03-18T12:07:17.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 84,
+                              "end": 107,
+                              "url": "https://t.co/cVpGk9WoKf",
+                              "expanded_url": "https://twitter.com/blueglasstulips/status/1636917633693151232",
+                              "display_url": "twitter.com/blueglasstulip\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 35,
+                              "end": 38,
+                              "probability": 0.8695,
+                              "type": "Other",
+                              "normalized_text": "Meer"
+                        }
+                  ]
+            },
+            "id": "1637049858753216512",
+            "text": "Woke up with a strong urge to read Meer. So that's how I'm starting my day.",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1637049858753216512"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 119
+            },
+            "created_at": "2023-03-18T11:14:35.000Z"
+      },
+      {
+            "id": "1635426236531965956",
+            "text": "\u092b\u093f\u0930\u0924\u0947 \u0939\u0948\u0902 '\u092e\u0940\u0930' \u0916\u093c\u094d\u0935\u093e\u0930 \u0915\u094b\u0908 \u092a\u0942\u091b\u0924\u093e \u0928\u0939\u0940\u0902 \n\u0907\u0938 \u0906\u0936\u093f\u0915\u093c\u0940 \u092e\u0947\u0902 \u0907\u091c\u093c\u094d\u091c\u093c\u0924-\u090f-\u0938\u093e\u0926\u093e\u0924 \u092d\u0940 \u0917\u0908 \n\n\u067e\u06be\u0631\u062a\u06d2 \u06c1\u06cc\u06ba \u0645\u06cc\u0631\u0614 \u062e\u0648\u0627\u0631 \u06a9\u0648\u0626\u06cc \u067e\u0648\u0686\u06be\u062a\u0627 \u0646\u06c1\u06cc\u06ba \n\u0627\u0633 \u0639\u0627\u0634\u0642\u06cc \u0645\u06cc\u06ba \u0639\u0632\u062a \u0633\u0627\u062f\u0627\u062a \u0628\u06be\u06cc \u06af\u0626\u06cc\n\n\u0916\u093c\u094d\u0935\u093e\u0930/\u062e\u0648\u0627\u0631 = dejected\n\u0938\u093e\u0926\u093e\u0924/\u0633\u0627\u062f\u0627\u062a = gentlemen",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1635426236531965956"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 68
+            },
+            "created_at": "2023-03-13T23:42:54.000Z"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1613197525208686592"
+                  }
+            ],
+            "id": "1634077901443219457",
+            "text": "Bilkul sahi baat hai. Har baar yahi lagta hai. https://t.co/UMFSMMeCJb",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1634077901443219457"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 96
+            },
+            "created_at": "2023-03-10T06:25:06.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 47,
+                              "end": 70,
+                              "url": "https://t.co/UMFSMMeCJb",
+                              "expanded_url": "https://twitter.com/Javedakhtarjadu/status/1613197525208686592",
+                              "display_url": "twitter.com/Javedakhtarjad\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 77,
+                              "end": 80,
+                              "probability": 0.4549,
+                              "type": "Other",
+                              "normalized_text": "Holi"
+                        },
+                        {
+                              "start": 220,
+                              "end": 223,
+                              "probability": 0.5795,
+                              "type": "Other",
+                              "normalized_text": "Holi"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 227,
+                              "end": 250,
+                              "url": "https://t.co/u4oNkKRUBw",
+                              "expanded_url": "https://youtu.be/gMbIeIabWNU",
+                              "display_url": "youtu.be/gMbIeIabWNU",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1633354341275844609/zeoNVLLX?format=jpg&name=orig",
+                                          "width": 1280,
+                                          "height": 720
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1633354341275844609/zeoNVLLX?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "Holi Mubarak",
+                              "description": "'Story\u092c\u093e\u091c\u093c\u0940', \u0936\u0939\u0930 \u0915\u093e \u0935\u094b \u0928\u0941\u0915\u094d\u0915\u0921\u093c \u0939\u0948 \u091c\u0939\u093e\u0901 \u0939\u092e\u093e\u0930\u0947, \u0906\u092a\u0915\u0947, \u0938\u092c\u0915\u0947 \u0915\u093f\u0938\u094d\u0938\u0947 \u092c\u0948\u0920\u0915\u0930 \u092b\u0941\u0930\u094d\u0938\u0924 \u0938\u0947 \u0917\u092a\u094d\u092a\u0947 \u092e\u093e\u0930\u0924\u0947 \u0939\u0948\u0902\u0964 \u091c\u0939\u093e\u0901 \u0939\u0930 \u0915\u093f\u0938\u0940 \u0915\u0947 \u092a\u093e\u0938 \u092c\u0924\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0924\u092e\u093e\u092e \u0915\u093f\u0938\u094d\u0938\u0947 \u0915\u0939\u093e\u0928\u093f\u092f\u093e\u0901 \u0939\u0948\u0902\u0964 ...",
+                              "unwound_url": "https://www.youtube.com/watch?v=gMbIeIabWNU&feature=youtu.be"
+                        }
+                  ]
+            },
+            "id": "1633354339149291521",
+            "text": "If you have three minutes, I recommend watching this video. I watch it every Holi since I first saw it. Unfortunately, it becomes more and more relevant every year with increasing radicalization around festivals.\n\nHappy Holi!\n\nhttps://t.co/u4oNkKRUBw",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1633354339149291521"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 122
+            },
+            "created_at": "2023-03-08T06:29:55.000Z"
+      },
+      {
+            "id": "1631860543136104448",
+            "text": "What a noble thought https://t.co/qaYRR39R4y",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1631860543136104448"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 132
+            },
+            "created_at": "2023-03-04T03:34:06.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 21,
+                              "end": 44,
+                              "url": "https://t.co/qaYRR39R4y",
+                              "expanded_url": "https://twitter.com/KananBehis/status/1631860543136104448/photo/1",
+                              "display_url": "pic.twitter.com/qaYRR39R4y",
+                              "media_key": "3_1631860393961463808"
+                        }
+                  ]
+            }
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 17,
+                              "end": 21,
+                              "probability": 0.6409,
+                              "type": "Other",
+                              "normalized_text": "Farsi"
+                        },
+                        {
+                              "start": 38,
+                              "end": 39,
+                              "probability": 0.9674,
+                              "type": "Place",
+                              "normalized_text": "LA"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 42,
+                              "end": 65,
+                              "url": "https://t.co/Aq0mAPkN2R",
+                              "expanded_url": "https://twitter.com/KananBehis/status/1631860273282945025/photo/1",
+                              "display_url": "pic.twitter.com/Aq0mAPkN2R",
+                              "media_key": "3_1631859953475653632"
+                        }
+                  ]
+            },
+            "id": "1631860273282945025",
+            "text": "Came across some Farsi calligraphy in LA. https://t.co/Aq0mAPkN2R",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1631860273282945025"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 178
+            },
+            "created_at": "2023-03-04T03:33:02.000Z"
+      },
+      {
+            "id": "1628844835305299968",
+            "text": "In my mind, binge-watching movies/TV shows is a waste of time but reading (even fiction) is a good thing that needs to be done more often. Admittedly, the former is much more passive and easier. But if I'm just consuming stories, is this distinction in judgement sensible?",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1628844835305299968"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 354
+            },
+            "created_at": "2023-02-23T19:50:45.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 34,
+                              "end": 43,
+                              "probability": 0.7443,
+                              "type": "Other",
+                              "normalized_text": "Devanagari"
+                        },
+                        {
+                              "start": 189,
+                              "end": 191,
+                              "probability": 0.7793,
+                              "type": "Other",
+                              "normalized_text": "LTR"
+                        },
+                        {
+                              "start": 197,
+                              "end": 199,
+                              "probability": 0.7986,
+                              "type": "Other",
+                              "normalized_text": "RTL"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 278,
+                              "end": 301,
+                              "url": "https://t.co/fLrmewSyLI",
+                              "expanded_url": "https://twitter.com/KananBehis/status/1626106277641474049/photo/1",
+                              "display_url": "pic.twitter.com/fLrmewSyLI",
+                              "media_key": "3_1626105054313988096"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1626104944783925250"
+                  }
+            ],
+            "id": "1626106277641474049",
+            "text": "Then when I switch to using Hindi/Devanagari, it does that again at a couple more places, again picking the correct equivalent characters (which looks a bit weird here because of mixing of LTR and RTL scripts). I'm amused that it can switch so smoothly between the two scripts. https://t.co/fLrmewSyLI",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1626106277641474049"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 140
+            },
+            "created_at": "2023-02-16T06:28:42.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 32,
+                              "end": 38,
+                              "probability": 0.8424,
+                              "type": "Other",
+                              "normalized_text": "ChatGPT"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 217,
+                              "end": 240,
+                              "url": "https://t.co/BONnkSEK2C",
+                              "expanded_url": "https://twitter.com/KananBehis/status/1626104944783925250/photo/1",
+                              "display_url": "pic.twitter.com/BONnkSEK2C",
+                              "media_key": "3_1626103283877281792"
+                        }
+                  ]
+            },
+            "id": "1626104944783925250",
+            "text": "Some interesting phenomena with ChatGPT. I start talking to it in Urdu, and then ask it if it knows Hindi as well. It (accidentally?) replaces some of the Urdu characters with the CORRECT Devanagari characters. \n\n1/2 https://t.co/BONnkSEK2C",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1626104944783925250"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 9,
+                  "quote_count": 1,
+                  "impression_count": 665
+            },
+            "created_at": "2023-02-16T06:23:25.000Z"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1625883016391458817"
+                  }
+            ],
+            "id": "1625962338737332224",
+            "text": "There are anchors at weddings now? The world is moving too fast for me to keep up. https://t.co/IkSjs7pWjt",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1625962338737332224"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 456
+            },
+            "created_at": "2023-02-15T20:56:45.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 83,
+                              "end": 106,
+                              "url": "https://t.co/IkSjs7pWjt",
+                              "expanded_url": "https://twitter.com/AnantikaMehra/status/1625883016391458817",
+                              "display_url": "twitter.com/AnantikaMehra/\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 53,
+                              "end": 66,
+                              "probability": 0.9808,
+                              "type": "Person",
+                              "normalized_text": "Patrick Massot"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 68,
+                              "end": 91,
+                              "url": "https://t.co/8FpY4H2oof",
+                              "expanded_url": "https://twitter.com/KananBehis/status/1625961194782855168/photo/1",
+                              "display_url": "pic.twitter.com/8FpY4H2oof",
+                              "media_key": "3_1625961079909289985"
+                        }
+                  ]
+            },
+            "id": "1625961194782855168",
+            "text": "A simplified history of mathematics communication by Patrick Massot https://t.co/8FpY4H2oof",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1625961194782855168"
+            ],
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 426
+            },
+            "created_at": "2023-02-15T20:52:12.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 184,
+                              "end": 202,
+                              "probability": 0.8489,
+                              "type": "Person",
+                              "normalized_text": "Stephan Wojtowytsch"
+                        },
+                        {
+                              "start": 208,
+                              "end": 222,
+                              "probability": 0.9657,
+                              "type": "Person",
+                              "normalized_text": "Jonathan Siegel"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 226,
+                              "end": 249,
+                              "url": "https://t.co/I07J52moLo",
+                              "expanded_url": "https://arxiv.org/abs/2302.05515",
+                              "display_url": "arxiv.org/abs/2302.05515",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1625371286892580866/6ruIb2IH?format=jpg&name=orig",
+                                          "width": 1000,
+                                          "height": 1000
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1625371286892580866/6ruIb2IH?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "Achieving acceleration despite very noisy gradients",
+                              "description": "We present a novel momentum-based first order optimization method (AGNES) which provably achieves acceleration for convex minimization, even if the stochastic noise in the gradient estimates is...",
+                              "unwound_url": "https://arxiv.org/abs/2302.05515"
+                        }
+                  ]
+            },
+            "id": "1625371285256826880",
+            "text": "Here's (a preprint of) my first paper.  A new accelerated stochastic gradient descent algorithm. Check it out if it interests you. Read the abstract to see if it does. Joint work with Stephan Wojtowytsch and Jonathan Siegel.\n\nhttps://t.co/I07J52moLo",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1625371285256826880"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 495
+            },
+            "created_at": "2023-02-14T05:48:07.000Z"
+      },
+      {
+            "id": "1625364026736926721",
+            "text": "Not only I spoke (for two minutes, essentially an elevator pitch) about my work in front of big shot mathematicians, including two Fields medalists, I also managed to make the room laugh. Feels surreal. \ud83d\ude31\ud83d\ude31",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1625364026736926721"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 449
+            },
+            "created_at": "2023-02-14T05:19:16.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 49,
+                              "end": 52,
+                              "probability": 0.5194,
+                              "type": "Person",
+                              "normalized_text": "Musk"
+                        }
+                  ]
+            },
+            "id": "1625340491733807104",
+            "text": "Why are the first 6 tweets on my feed replies of Musk to random things? Seems like some poor soul was actually bullied into boosting his view count.",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1625340491733807104"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 97
+            },
+            "created_at": "2023-02-14T03:45:45.000Z"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1622432983352487936"
+                  }
+            ],
+            "id": "1622500436820254720",
+            "text": "There are certain people that I want to convey this message to https://t.co/bAkNvDJca4",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1622500436820254720"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 115
+            },
+            "created_at": "2023-02-06T07:40:23.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 63,
+                              "end": 86,
+                              "url": "https://t.co/bAkNvDJca4",
+                              "expanded_url": "https://twitter.com/karunaparikh/status/1622432983352487936",
+                              "display_url": "twitter.com/karunaparikh/s\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1622486935359918082",
+            "text": "Something is in the making and I'm excited about it",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1622486935359918082"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 122
+            },
+            "created_at": "2023-02-06T06:46:44.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 6,
+                              "probability": 0.9786,
+                              "type": "Other",
+                              "normalized_text": "Spotify"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 144,
+                              "end": 167,
+                              "url": "https://t.co/FDiKks2yT6",
+                              "expanded_url": "https://twitter.com/KananBehis/status/1620262326497865728/photo/1",
+                              "display_url": "pic.twitter.com/FDiKks2yT6",
+                              "media_key": "3_1620261739060142082"
+                        }
+                  ]
+            },
+            "id": "1620262326497865728",
+            "text": "Spotify shows different parts of the lyrics for this song in 3 different scripts. \n\nQuite interesting! But poor those who can't read all three. https://t.co/FDiKks2yT6",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1620262326497865728"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 473
+            },
+            "created_at": "2023-01-31T03:26:56.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 134,
+                              "end": 137,
+                              "probability": 0.7532,
+                              "type": "Person",
+                              "normalized_text": "Abel"
+                        },
+                        {
+                              "start": 143,
+                              "end": 148,
+                              "probability": 0.6866,
+                              "type": "Person",
+                              "normalized_text": "Galois"
+                        },
+                        {
+                              "start": 212,
+                              "end": 217,
+                              "probability": 0.5091,
+                              "type": "Person",
+                              "normalized_text": "Galois"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 228,
+                              "end": 251,
+                              "url": "https://t.co/SrRRyPp1C9",
+                              "expanded_url": "https://twitter.com/AlgebraFact/status/1611393462040989696",
+                              "display_url": "twitter.com/AlgebraFact/st\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1611393462040989696"
+                  }
+            ],
+            "id": "1611402935124234240",
+            "text": "My favourite mathematical fact. Even after years, the story of how it was discovered and the stories of the people who discovered it (Abel and Galois) never fail to amuse me.\n\nI'm hoping someone makes a movie on Galois one day. https://t.co/SrRRyPp1C9",
+            "author_id": "1204330140571848710",
+            "edit_history_tweet_ids": [
+                  "1611402935124234240"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 151
+            },
+            "created_at": "2023-01-06T16:42:52.000Z"
+      }
+]

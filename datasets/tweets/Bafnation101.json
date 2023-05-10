@@ -1,0 +1,2558 @@
+[
+      {
+            "created_at": "2023-04-11T13:30:10.000Z",
+            "edit_history_tweet_ids": [
+                  "1645781286848729090"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 5,
+                              "end": 22,
+                              "probability": 0.6586,
+                              "type": "Person",
+                              "normalized_text": "millie bobby brown"
+                        }
+                  ]
+            },
+            "id": "1645781286848729090",
+            "author_id": "1475475557932404736",
+            "text": "wdym millie bobby brown is engaged at 19???  what",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 63
+            }
+      },
+      {
+            "created_at": "2023-04-10T17:20:19.000Z",
+            "edit_history_tweet_ids": [
+                  "1645476816763617291"
+            ],
+            "id": "1645476816763617291",
+            "author_id": "1475475557932404736",
+            "text": "you know your dad misses you when he starts texting you with emojis",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 40
+            }
+      },
+      {
+            "created_at": "2023-04-09T08:57:58.000Z",
+            "edit_history_tweet_ids": [
+                  "1644988009094459394"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 18,
+                              "end": 24,
+                              "probability": 0.9249,
+                              "type": "Product",
+                              "normalized_text": "iPhones"
+                        }
+                  ]
+            },
+            "id": "1644988009094459394",
+            "author_id": "1475475557932404736",
+            "text": "u realise j how g iPhones r sometimes when ur in a hurry to finish the acc hunt n r able to copy paste text/open links from screenshots",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 50
+            }
+      },
+      {
+            "created_at": "2023-04-08T22:57:30.000Z",
+            "edit_history_tweet_ids": [
+                  "1644836898739822596"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 31,
+                              "end": 38,
+                              "probability": 0.983,
+                              "type": "Other",
+                              "normalized_text": "Snapchat"
+                        }
+                  ]
+            },
+            "id": "1644836898739822596",
+            "author_id": "1475475557932404736",
+            "text": "Once in 2 months I\u2019ll remember Snapchat exists and every time there\u2019s a new fucking UI update",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 93
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 10,
+                              "end": 33,
+                              "url": "https://t.co/YJxmeNhlzB",
+                              "expanded_url": "https://twitter.com/Mavs_FFL/status/1644702892169871364",
+                              "display_url": "twitter.com/Mavs_FFL/statu\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-08T15:44:31.000Z",
+            "edit_history_tweet_ids": [
+                  "1644727931347013632"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1644702892169871364"
+                  }
+            ],
+            "id": "1644727931347013632",
+            "author_id": "1475475557932404736",
+            "text": "Good only https://t.co/YJxmeNhlzB",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 104
+            }
+      },
+      {
+            "created_at": "2023-04-08T06:31:06.000Z",
+            "edit_history_tweet_ids": [
+                  "1644588661458210816"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 34,
+                              "end": 41,
+                              "probability": 0.8841,
+                              "type": "Other",
+                              "normalized_text": "LinkedIn"
+                        }
+                  ]
+            },
+            "id": "1644588661458210816",
+            "author_id": "1475475557932404736",
+            "text": "Want 2 vomit every time I open my LinkedIn feed",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 55
+            }
+      },
+      {
+            "created_at": "2023-04-06T21:07:21.000Z",
+            "edit_history_tweet_ids": [
+                  "1644084400311906304"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 27,
+                              "end": 37,
+                              "probability": 0.3463,
+                              "type": "Other",
+                              "normalized_text": "St. Patrick"
+                        }
+                  ]
+            },
+            "id": "1644084400311906304",
+            "author_id": "1475475557932404736",
+            "text": "Mess woke up n said Indian St. Patrick\u2019s day for lunch today",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 79
+            }
+      },
+      {
+            "created_at": "2023-04-06T16:34:15.000Z",
+            "edit_history_tweet_ids": [
+                  "1644015674346315794"
+            ],
+            "id": "1644015674346315794",
+            "author_id": "1475475557932404736",
+            "text": "I am so exhausted of being an overworked woman in stem",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 109
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 33,
+                              "end": 56,
+                              "url": "https://t.co/SsvBAooBjp",
+                              "expanded_url": "https://twitter.com/dallasmavs/status/1643809007440896002",
+                              "display_url": "twitter.com/dallasmavs/sta\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-06T16:23:57.000Z",
+            "edit_history_tweet_ids": [
+                  "1644013082753024001"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643809007440896002"
+                  }
+            ],
+            "id": "1644013082753024001",
+            "author_id": "1475475557932404736",
+            "text": "Defeated the kings I am so happy https://t.co/SsvBAooBjp",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 102
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 7,
+                              "end": 30,
+                              "url": "https://t.co/x2coXxUyEX",
+                              "expanded_url": "https://twitter.com/CallieCaplan/status/1643302044093014023",
+                              "display_url": "twitter.com/CallieCaplan/s\u2026"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.449,
+                              "type": "Other",
+                              "normalized_text": "Melted"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-04T18:48:06.000Z",
+            "edit_history_tweet_ids": [
+                  "1643324581866790915"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643302044093014023"
+                  }
+            ],
+            "id": "1643324581866790915",
+            "author_id": "1475475557932404736",
+            "text": "Melted https://t.co/x2coXxUyEX",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 134
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 24,
+                              "end": 47,
+                              "url": "https://t.co/AmdaahBZaE",
+                              "expanded_url": "https://twitter.com/nbamemes/status/1643091279323230209",
+                              "display_url": "twitter.com/nbamemes/statu\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-04T10:37:37.000Z",
+            "edit_history_tweet_ids": [
+                  "1643201145865633792"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643091279323230209"
+                  }
+            ],
+            "id": "1643201145865633792",
+            "author_id": "1475475557932404736",
+            "text": "This is hurting my eyes https://t.co/AmdaahBZaE",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 82
+            }
+      },
+      {
+            "created_at": "2023-04-03T10:29:58.000Z",
+            "edit_history_tweet_ids": [
+                  "1642836834081452033"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 12,
+                              "probability": 0.8219,
+                              "type": "Person",
+                              "normalized_text": "Lewis capaldi"
+                        }
+                  ]
+            },
+            "id": "1642836834081452033",
+            "author_id": "1475475557932404736",
+            "text": "Lewis capaldi\u2019s twt is the most wholesome thing pls",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 63
+            }
+      },
+      {
+            "created_at": "2023-04-02T19:12:44.000Z",
+            "edit_history_tweet_ids": [
+                  "1642606004259962883"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 34,
+                              "end": 40,
+                              "probability": 0.5976,
+                              "type": "Other",
+                              "normalized_text": "chatgpt"
+                        }
+                  ]
+            },
+            "id": "1642606004259962883",
+            "author_id": "1475475557932404736",
+            "text": "wtf am i supposed to do when even chatgpt gets my doubt incorrect 5 times..",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 68
+            }
+      },
+      {
+            "created_at": "2023-04-02T17:41:53.000Z",
+            "edit_history_tweet_ids": [
+                  "1642583143579541509"
+            ],
+            "id": "1642583143579541509",
+            "author_id": "1475475557932404736",
+            "text": "Till this date I think the best advice I\u2019ve ever received is that whenever you speak to your juniors ab a mishap, just think about what you, as a junior, would\u2019ve wanted to hear from your seniors in that moment and then I proceed to voice my thoughts",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 162
+            }
+      },
+      {
+            "created_at": "2023-04-02T13:11:13.000Z",
+            "edit_history_tweet_ids": [
+                  "1642515027172159497"
+            ],
+            "id": "1642515027172159497",
+            "author_id": "1475475557932404736",
+            "text": "most non-linear linear algebra I have ever done this sem",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 56
+            }
+      },
+      {
+            "created_at": "2023-04-02T11:14:02.000Z",
+            "edit_history_tweet_ids": [
+                  "1642485536903290881"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 19,
+                              "end": 30,
+                              "probability": 0.831,
+                              "type": "Person",
+                              "normalized_text": "Krispy Kreme"
+                        }
+                  ]
+            },
+            "id": "1642485536903290881",
+            "author_id": "1475475557932404736",
+            "text": "okay I\u2019ll say it - Krispy Kreme isn\u2019t even that tasty\ud83d\ude4f\n(not to mention insanely overpriced)",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 358
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 3,
+                              "end": 26,
+                              "url": "https://t.co/wKdEE5I4cV",
+                              "expanded_url": "https://twitter.com/NBAMemes/status/1642241855214501888",
+                              "display_url": "twitter.com/NBAMemes/statu\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-01T20:54:17.000Z",
+            "edit_history_tweet_ids": [
+                  "1642269172636741636"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1642241855214501888"
+                  }
+            ],
+            "id": "1642269172636741636",
+            "author_id": "1475475557932404736",
+            "text": "me https://t.co/wKdEE5I4cV",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 92
+            }
+      },
+      {
+            "created_at": "2023-04-01T09:19:08.000Z",
+            "edit_history_tweet_ids": [
+                  "1642094234277941248"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 25,
+                              "end": 30,
+                              "probability": 0.8204,
+                              "type": "Organization",
+                              "normalized_text": "lakers"
+                        }
+                  ]
+            },
+            "id": "1642094234277941248",
+            "author_id": "1475475557932404736",
+            "text": "The post season nets and lakers are proof that having \u201cbig 3\u201d players will get you nowhere",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 83
+            }
+      },
+      {
+            "created_at": "2023-04-01T07:45:09.000Z",
+            "edit_history_tweet_ids": [
+                  "1642070580135436288"
+            ],
+            "id": "1642070580135436288",
+            "author_id": "1475475557932404736",
+            "text": "just had a banana, oats AND granola for brunch who is this girl n what has she done to me",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 61
+            }
+      },
+      {
+            "created_at": "2023-03-31T21:03:25.000Z",
+            "edit_history_tweet_ids": [
+                  "1641909084860596224"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 3,
+                              "probability": 0.4866,
+                              "type": "Other",
+                              "normalized_text": "Mavs"
+                        }
+                  ]
+            },
+            "id": "1641909084860596224",
+            "author_id": "1475475557932404736",
+            "text": "Mavs aren\u2019t making playoffs or playins I am so fucking upset",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 68
+            }
+      },
+      {
+            "created_at": "2023-03-31T21:01:32.000Z",
+            "edit_history_tweet_ids": [
+                  "1641908611797630976"
+            ],
+            "id": "1641908611797630976",
+            "author_id": "1475475557932404736",
+            "text": "successfully wasted 30 mins reminiscing old posts on my spam i fucking hate nostalgia back to goal setting for the future",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 97
+            }
+      },
+      {
+            "created_at": "2023-03-31T20:31:04.000Z",
+            "edit_history_tweet_ids": [
+                  "1641900944597340160"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1641900696944656384"
+                  }
+            ],
+            "id": "1641900944597340160",
+            "author_id": "1475475557932404736",
+            "text": "compilations* sorry autocorrect u r articulate-r",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 48
+            }
+      },
+      {
+            "created_at": "2023-03-31T20:30:05.000Z",
+            "edit_history_tweet_ids": [
+                  "1641900696944656384"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 24,
+                              "end": 32,
+                              "probability": 0.6654,
+                              "type": "Other",
+                              "normalized_text": "HerCampus"
+                        }
+                  ]
+            },
+            "id": "1641900696944656384",
+            "author_id": "1475475557932404736",
+            "text": "confused bw tweeting ab HerCampus twt complications and turning up on their feed",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 75
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 3,
+                              "end": 26,
+                              "url": "https://t.co/oCFo1QRWzW",
+                              "expanded_url": "https://twitter.com/contextdogs/status/1641516597029249036",
+                              "display_url": "twitter.com/contextdogs/st\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-30T21:48:04.000Z",
+            "edit_history_tweet_ids": [
+                  "1641557934034518016"
+            ],
+            "id": "1641557934034518016",
+            "author_id": "1475475557932404736",
+            "text": "me https://t.co/oCFo1QRWzW",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 54
+            }
+      },
+      {
+            "created_at": "2023-03-30T19:20:27.000Z",
+            "edit_history_tweet_ids": [
+                  "1641520783758589952"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5839,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1641520783758589952",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 650 6/6\n\n\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\u2b1b\ud83d\udfe9\u2b1b\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe8\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 50
+            }
+      },
+      {
+            "created_at": "2023-03-30T17:29:47.000Z",
+            "edit_history_tweet_ids": [
+                  "1641492931587584034"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 74,
+                              "end": 78,
+                              "probability": 0.6814,
+                              "type": "Other",
+                              "normalized_text": "gta V"
+                        }
+                  ]
+            },
+            "id": "1641492931587584034",
+            "author_id": "1475475557932404736",
+            "text": "not my roommate telling me rn before she leaves in a month that she's had gta V on her laptop all along??? im so upset???",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 77
+            }
+      },
+      {
+            "created_at": "2023-03-28T17:46:43.000Z",
+            "edit_history_tweet_ids": [
+                  "1640772418645139456"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 29,
+                              "end": 37,
+                              "probability": 0.6904,
+                              "type": "Other",
+                              "normalized_text": "Christina"
+                        },
+                        {
+                              "start": 45,
+                              "end": 48,
+                              "probability": 0.6995,
+                              "type": "Other",
+                              "normalized_text": "tris"
+                        }
+                  ]
+            },
+            "id": "1640772418645139456",
+            "author_id": "1475475557932404736",
+            "text": "today I found out four dates Christina after tris dies in the divergent series I am not ok wtf",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 79
+            }
+      },
+      {
+            "created_at": "2023-03-28T04:58:24.000Z",
+            "edit_history_tweet_ids": [
+                  "1640579064871243777"
+            ],
+            "id": "1640579064871243777",
+            "author_id": "1475475557932404736",
+            "text": "I don\u2019t understand how people come to math courses w/o anything like how do you understand from just watching someone else do math",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 65
+            }
+      },
+      {
+            "created_at": "2023-03-27T05:39:29.000Z",
+            "edit_history_tweet_ids": [
+                  "1640227015553867776"
+            ],
+            "id": "1640227015553867776",
+            "author_id": "1475475557932404736",
+            "text": "there's front benchers and then there's middle-seat-right-in-front-of-prof front benchers",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 102
+            }
+      },
+      {
+            "created_at": "2023-03-24T06:16:14.000Z",
+            "edit_history_tweet_ids": [
+                  "1639149100850622464"
+            ],
+            "id": "1639149100850622464",
+            "author_id": "1475475557932404736",
+            "text": "everyday the workaholic in me rejoices in getting more work and I realise bit by bit how insane I am",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 84
+            }
+      },
+      {
+            "created_at": "2023-03-24T05:47:38.000Z",
+            "edit_history_tweet_ids": [
+                  "1639141903349456896"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 6,
+                              "end": 9,
+                              "probability": 0.2859,
+                              "type": "Other",
+                              "normalized_text": "Arya"
+                        }
+                  ]
+            },
+            "id": "1639141903349456896",
+            "author_id": "1475475557932404736",
+            "text": "Heena Arya econ seminars mail is the only constant in my life",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 166
+            }
+      },
+      {
+            "created_at": "2023-03-21T10:43:21.000Z",
+            "edit_history_tweet_ids": [
+                  "1638129160802521088"
+            ],
+            "id": "1638129160802521088",
+            "author_id": "1475475557932404736",
+            "text": "to be an eskimo",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 62
+            }
+      },
+      {
+            "created_at": "2023-03-20T19:06:19.000Z",
+            "edit_history_tweet_ids": [
+                  "1637893348462567445"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5495,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1637893348462567445",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 640 5/6\n\n\u2b1b\u2b1b\ud83d\udfe9\u2b1b\u2b1b\n\u2b1b\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe8\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 72
+            }
+      },
+      {
+            "created_at": "2023-03-19T22:59:08.000Z",
+            "edit_history_tweet_ids": [
+                  "1637589551127449602"
+            ],
+            "id": "1637589551127449602",
+            "author_id": "1475475557932404736",
+            "text": "y is there so much smog on this campus",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 65
+            }
+      },
+      {
+            "created_at": "2023-03-19T18:53:10.000Z",
+            "edit_history_tweet_ids": [
+                  "1637527651828248577"
+            ],
+            "id": "1637527651828248577",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 639 5/6\n\n\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9\n\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 56
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 23,
+                              "end": 46,
+                              "url": "https://t.co/uS80h3Jc5z",
+                              "expanded_url": "https://twitter.com/kporzee/status/1636957693926690817",
+                              "display_url": "twitter.com/kporzee/status\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-18T19:16:14.000Z",
+            "edit_history_tweet_ids": [
+                  "1637171069244313600"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1636957693926690817"
+                  }
+            ],
+            "id": "1637171069244313600",
+            "author_id": "1475475557932404736",
+            "text": "bro wants to come back https://t.co/uS80h3Jc5z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 166
+            }
+      },
+      {
+            "created_at": "2023-03-18T18:45:13.000Z",
+            "edit_history_tweet_ids": [
+                  "1637163262260420609"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 15,
+                              "probability": 0.9158,
+                              "type": "Person",
+                              "normalized_text": "corey fogelmanis"
+                        },
+                        {
+                              "start": 21,
+                              "end": 37,
+                              "probability": 0.9425,
+                              "type": "Person",
+                              "normalized_text": "sabrina carpenter"
+                        }
+                  ]
+            },
+            "id": "1637163262260420609",
+            "author_id": "1475475557932404736",
+            "text": "corey fogelmanis got sabrina carpenter\u2019s initials tattooed on his arms, you don\u2019t understand my 2017 heart y r they playing w my emotions",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 266
+            }
+      },
+      {
+            "created_at": "2023-03-18T18:31:47.000Z",
+            "edit_history_tweet_ids": [
+                  "1637159882523549699"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5874,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1637159882523549699",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 638 4/6\n\n\ud83d\udfe9\u2b1b\u2b1b\u2b1b\ud83d\udfe8\n\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b\n\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 46
+            }
+      },
+      {
+            "created_at": "2023-03-18T17:17:48.000Z",
+            "edit_history_tweet_ids": [
+                  "1637141265404837891"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 20,
+                              "end": 25,
+                              "probability": 0.8735,
+                              "type": "Person",
+                              "normalized_text": "taylor"
+                        }
+                  ]
+            },
+            "id": "1637141265404837891",
+            "author_id": "1475475557932404736",
+            "text": "every single one of taylor's eras outfits is so fkin gorgeous",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 61
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 4,
+                              "end": 27,
+                              "url": "https://t.co/ScTB0WyaJT",
+                              "expanded_url": "https://twitter.com/NBAMemes/status/1636937425858760705",
+                              "display_url": "twitter.com/NBAMemes/statu\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-18T17:14:38.000Z",
+            "edit_history_tweet_ids": [
+                  "1637140468218601477"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1636937425858760705"
+                  }
+            ],
+            "id": "1637140468218601477",
+            "author_id": "1475475557932404736",
+            "text": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d https://t.co/ScTB0WyaJT",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 103
+            }
+      },
+      {
+            "created_at": "2023-03-18T16:19:35.000Z",
+            "edit_history_tweet_ids": [
+                  "1637126612008284162"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 38,
+                              "end": 44,
+                              "probability": 0.5613,
+                              "type": "Other",
+                              "normalized_text": "kendall"
+                        },
+                        {
+                              "start": 51,
+                              "end": 60,
+                              "probability": 0.6476,
+                              "type": "Other",
+                              "normalized_text": "succession"
+                        }
+                  ]
+            },
+            "id": "1637126612008284162",
+            "author_id": "1475475557932404736",
+            "text": "i was today years old when i realised kendall from succession is also in the big short",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 65
+            }
+      },
+      {
+            "created_at": "2023-03-17T18:39:45.000Z",
+            "edit_history_tweet_ids": [
+                  "1636799498042195968"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5019,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1636799498042195968",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 637 3/6\n\n\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 56
+            }
+      },
+      {
+            "created_at": "2023-03-17T09:56:09.000Z",
+            "edit_history_tweet_ids": [
+                  "1636667731931013121"
+            ],
+            "id": "1636667731931013121",
+            "author_id": "1475475557932404736",
+            "text": "in my audit course... alone...",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 62
+            }
+      },
+      {
+            "created_at": "2023-03-16T18:40:05.000Z",
+            "edit_history_tweet_ids": [
+                  "1636437193190436866"
+            ],
+            "id": "1636437193190436866",
+            "author_id": "1475475557932404736",
+            "text": "thought my persisting headache was because of my laptop then realised I was just severely dehydrated",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 80
+            }
+      },
+      {
+            "created_at": "2023-03-16T18:32:14.000Z",
+            "edit_history_tweet_ids": [
+                  "1636435218864193578"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5276,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1636435218864193578",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 636 5/6\n\n\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\ud83d\udfe9\u2b1b\u2b1b\n\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 63
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 15,
+                              "end": 38,
+                              "url": "https://t.co/DxSvNA1njT",
+                              "expanded_url": "https://twitter.com/charlieputh/status/1636376758827253763",
+                              "display_url": "twitter.com/charlieputh/st\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-16T14:44:40.000Z",
+            "edit_history_tweet_ids": [
+                  "1636377950760357889"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1636376758827253763"
+                  }
+            ],
+            "id": "1636377950760357889",
+            "author_id": "1475475557932404736",
+            "text": "wow death time https://t.co/DxSvNA1njT",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 78
+            }
+      },
+      {
+            "created_at": "2023-03-16T12:27:52.000Z",
+            "edit_history_tweet_ids": [
+                  "1636343525234159616"
+            ],
+            "id": "1636343525234159616",
+            "author_id": "1475475557932404736",
+            "text": "my favourite professor is coming to campus you don't understand i am over the moon elated rejoicing fangirling my ass off rn already nervous about what i'm going to say if i am able to produce any words at all in his presence",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 199
+            }
+      },
+      {
+            "created_at": "2023-03-16T08:25:26.000Z",
+            "edit_history_tweet_ids": [
+                  "1636282512493408256"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 20,
+                              "end": 33,
+                              "probability": 0.3919,
+                              "type": "Other",
+                              "normalized_text": "chikni chameli"
+                        }
+                  ]
+            },
+            "id": "1636282512493408256",
+            "author_id": "1475475557932404736",
+            "text": "someone is blasting chikni chameli outside my room it\u2019s 2 pm in the afternoon",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 89
+            }
+      },
+      {
+            "created_at": "2023-03-15T19:06:46.000Z",
+            "edit_history_tweet_ids": [
+                  "1636081523010019329"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5959,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1636081523010019329",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 635 3/6\n\n\ud83d\udfe9\u2b1b\u2b1b\u2b1b\ud83d\udfe8\n\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 52
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 11,
+                              "end": 34,
+                              "url": "https://t.co/t0UkssMQFg",
+                              "expanded_url": "https://twitter.com/warriors/status/1635778080185909249",
+                              "display_url": "twitter.com/warriors/statu\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-15T06:24:22.000Z",
+            "edit_history_tweet_ids": [
+                  "1635889659757871104"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1635778080185909249"
+                  }
+            ],
+            "id": "1635889659757871104",
+            "author_id": "1475475557932404736",
+            "text": "kinda cool https://t.co/t0UkssMQFg",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 104
+            }
+      },
+      {
+            "created_at": "2023-03-14T18:31:25.000Z",
+            "edit_history_tweet_ids": [
+                  "1635710237175840771"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5853,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1635710237175840771",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 634 5/6\n\n\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\n\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b\n\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\n\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 80
+            }
+      },
+      {
+            "created_at": "2023-03-14T04:37:01.000Z",
+            "edit_history_tweet_ids": [
+                  "1635500253184131082"
+            ],
+            "id": "1635500253184131082",
+            "author_id": "1475475557932404736",
+            "text": "There\u2019s a monkey on campus \ud83d\udc4d",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 90
+            }
+      },
+      {
+            "created_at": "2023-03-14T03:37:42.000Z",
+            "edit_history_tweet_ids": [
+                  "1635485327040172033"
+            ],
+            "id": "1635485327040172033",
+            "author_id": "1475475557932404736",
+            "text": "taking my most imp course this sem as an online 8:30 was prolly not the best decision i made",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 418
+            }
+      },
+      {
+            "created_at": "2023-03-12T20:09:25.000Z",
+            "edit_history_tweet_ids": [
+                  "1635010125051342848"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1635005748144144384"
+                  }
+            ],
+            "id": "1635010125051342848",
+            "author_id": "1475475557932404736",
+            "text": "Did 2 more pages now I give up",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 57
+            }
+      },
+      {
+            "created_at": "2023-03-12T19:55:21.000Z",
+            "edit_history_tweet_ids": [
+                  "1635006585331388417"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 19,
+                              "end": 23,
+                              "probability": 0.4123,
+                              "type": "Organization",
+                              "normalized_text": "kings"
+                        }
+                  ]
+            },
+            "id": "1635006585331388417",
+            "author_id": "1475475557932404736",
+            "text": "are the sacramento kings r this szn's underdogs or are they going to pull a 2021/2022 utah jazz",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 166
+            }
+      },
+      {
+            "created_at": "2023-03-12T19:52:01.000Z",
+            "edit_history_tweet_ids": [
+                  "1635005748144144384"
+            ],
+            "id": "1635005748144144384",
+            "author_id": "1475475557932404736",
+            "text": "28 pages done from a 98 page reading",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 75
+            }
+      },
+      {
+            "created_at": "2023-03-12T03:04:27.000Z",
+            "edit_history_tweet_ids": [
+                  "1634752184075288577"
+            ],
+            "id": "1634752184075288577",
+            "author_id": "1475475557932404736",
+            "text": "one day I will stop listening to all too well for the vibes",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 75
+            }
+      },
+      {
+            "created_at": "2023-03-12T02:25:12.000Z",
+            "edit_history_tweet_ids": [
+                  "1634742306942369792"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 6,
+                              "end": 20,
+                              "probability": 0.9413,
+                              "type": "Person",
+                              "normalized_text": "jake gyllenhaal"
+                        }
+                  ]
+            },
+            "id": "1634742306942369792",
+            "author_id": "1475475557932404736",
+            "text": "found jake gyllenhaal hot then remembered all too well is about him",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 168
+            }
+      },
+      {
+            "created_at": "2023-03-11T18:32:32.000Z",
+            "edit_history_tweet_ids": [
+                  "1634623355222474754"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.483,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1634623355222474754",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 631 5/6\n\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\n\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b\n\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe8\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 68
+            }
+      },
+      {
+            "created_at": "2023-03-10T18:32:18.000Z",
+            "edit_history_tweet_ids": [
+                  "1634260910037409802"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5812,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1634260910037409802",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 630 4/6\n\n\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\n\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b\n\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 71
+            }
+      },
+      {
+            "created_at": "2023-03-10T03:16:16.000Z",
+            "edit_history_tweet_ids": [
+                  "1634030381979807744"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 8,
+                              "end": 16,
+                              "probability": 0.6018,
+                              "type": "Organization",
+                              "normalized_text": "grizzlies"
+                        }
+                  ]
+            },
+            "id": "1634030381979807744",
+            "author_id": "1475475557932404736",
+            "text": "how the grizzlies beat the warriors..",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 86
+            }
+      },
+      {
+            "created_at": "2023-03-08T20:01:09.000Z",
+            "edit_history_tweet_ids": [
+                  "1633558491897171968"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 15,
+                              "end": 18,
+                              "probability": 0.4988,
+                              "type": "Other",
+                              "normalized_text": "Holi"
+                        },
+                        {
+                              "start": 56,
+                              "end": 65,
+                              "probability": 0.9496,
+                              "type": "Person",
+                              "normalized_text": "Zayn Malik"
+                        },
+                        {
+                              "start": 77,
+                              "end": 88,
+                              "probability": 0.9566,
+                              "type": "Person",
+                              "normalized_text": "Selena Gomez"
+                        },
+                        {
+                              "start": 93,
+                              "end": 97,
+                              "probability": 0.9235,
+                              "type": "Other",
+                              "normalized_text": "insta"
+                        }
+                  ]
+            },
+            "id": "1633558491897171968",
+            "author_id": "1475475557932404736",
+            "text": "my whole tl on Holi/women\u2019s day is people excited about Zayn Malik following Selena Gomez on insta, what does that say about people and more importantly, what does that say about me",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 357
+            }
+      },
+      {
+            "created_at": "2023-03-08T19:57:56.000Z",
+            "edit_history_tweet_ids": [
+                  "1633557684686573572"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 7,
+                              "end": 17,
+                              "probability": 0.9005,
+                              "type": "Person",
+                              "normalized_text": "Reema Kagti"
+                        }
+                  ]
+            },
+            "id": "1633557684686573572",
+            "author_id": "1475475557932404736",
+            "text": "I love Reema Kagti bcs the only time she posts is literally to inform people ab puppies up for adoption or promotion for one of her works",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 70
+            }
+      },
+      {
+            "created_at": "2023-03-08T19:38:07.000Z",
+            "edit_history_tweet_ids": [
+                  "1633552694869901312"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5622,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1633552694869901312",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 628 4/6\n\n\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe9\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 61
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 8,
+                              "end": 31,
+                              "url": "https://t.co/Pfirv9eX7Z",
+                              "expanded_url": "https://twitter.com/nickjonas/status/1633355777980387328",
+                              "display_url": "twitter.com/nickjonas/stat\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-08T16:51:52.000Z",
+            "edit_history_tweet_ids": [
+                  "1633510857845125122"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1633355777980387328"
+                  }
+            ],
+            "id": "1633510857845125122",
+            "author_id": "1475475557932404736",
+            "text": "hUH???? https://t.co/Pfirv9eX7Z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 88
+            }
+      },
+      {
+            "created_at": "2023-03-07T21:28:45.000Z",
+            "edit_history_tweet_ids": [
+                  "1633218148840402945"
+            ],
+            "id": "1633218148840402945",
+            "author_id": "1475475557932404736",
+            "text": "3 days back home and I can safely say I do not want to go back to that godforsaken campus again ever",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 1,
+                  "impression_count": 631
+            }
+      },
+      {
+            "created_at": "2023-03-07T19:49:41.000Z",
+            "edit_history_tweet_ids": [
+                  "1633193218891448320"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 99,
+                              "end": 104,
+                              "probability": 0.6882,
+                              "type": "Other",
+                              "normalized_text": "xactly"
+                        }
+                  ]
+            },
+            "id": "1633193218891448320",
+            "author_id": "1475475557932404736",
+            "text": "it\u2019s come to a point where I see the same 10 different kinds of recommended twts on my tl and know xactly which one of the people I follow liked which one",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 64
+            }
+      },
+      {
+            "created_at": "2023-03-07T15:01:37.000Z",
+            "edit_history_tweet_ids": [
+                  "1633120723886587904"
+            ],
+            "id": "1633120723886587904",
+            "author_id": "1475475557932404736",
+            "text": "men post one picture of themselves w a fanny pack looking down and rap music in the bg n think they r so cool who gone tell them",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 162
+            }
+      },
+      {
+            "created_at": "2023-03-06T18:39:27.000Z",
+            "edit_history_tweet_ids": [
+                  "1632813159114260480"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5443,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1632813159114260480",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 626 5/6\n\n\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\n\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b\n\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 108
+            }
+      },
+      {
+            "created_at": "2023-03-05T19:41:29.000Z",
+            "edit_history_tweet_ids": [
+                  "1632466380615475201"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5095,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1632466380615475201",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 625 5/6\n\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 81
+            }
+      },
+      {
+            "created_at": "2023-03-05T19:40:07.000Z",
+            "edit_history_tweet_ids": [
+                  "1632466038075047937"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 105,
+                              "end": 112,
+                              "probability": 0.8763,
+                              "type": "Place",
+                              "normalized_text": "Calcutta"
+                        }
+                  ]
+            },
+            "id": "1632466038075047937",
+            "author_id": "1475475557932404736",
+            "text": "\u201cWhat is a Bengali emoji for my story should I put the royal Bengal tiger\u201d - words from a non Bengali in Calcutta for the first time..",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 72
+            }
+      },
+      {
+            "created_at": "2023-03-04T18:32:23.000Z",
+            "edit_history_tweet_ids": [
+                  "1632086601579876356"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5019,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1632086601579876356",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 624 3/6\n\n\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe8\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 59
+            }
+      },
+      {
+            "created_at": "2023-03-03T19:15:30.000Z",
+            "edit_history_tweet_ids": [
+                  "1631735064878010369"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5731,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1631735064878010369",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 623 4/6\n\n\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8\n\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8\n\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 119
+            }
+      },
+      {
+            "created_at": "2023-03-03T12:09:29.000Z",
+            "edit_history_tweet_ids": [
+                  "1631627855129092096"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 30,
+                              "end": 41,
+                              "probability": 0.7507,
+                              "type": "Person",
+                              "normalized_text": "kusha kapila"
+                        },
+                        {
+                              "start": 81,
+                              "end": 85,
+                              "probability": 0.7864,
+                              "type": "Other",
+                              "normalized_text": "iDIVA"
+                        }
+                  ]
+            },
+            "id": "1631627855129092096",
+            "author_id": "1475475557932404736",
+            "text": "roommate just said \u201cwhat is a kusha kapila\u201d xcuse me??? have u people not had an iDIVA phase???",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 85
+            }
+      },
+      {
+            "created_at": "2023-03-03T07:15:37.000Z",
+            "edit_history_tweet_ids": [
+                  "1631553902171787265"
+            ],
+            "id": "1631553902171787265",
+            "author_id": "1475475557932404736",
+            "text": "woke up w glow in the dark paint on my hands \u2764\ufe0f\u200d\ud83d\udd25",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 68
+            }
+      },
+      {
+            "created_at": "2023-03-02T19:36:16.000Z",
+            "edit_history_tweet_ids": [
+                  "1631377905111408650"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.6125,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1631377905111408650",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 622 6/6\n\n\u2b1b\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\u2b1b\n\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b\n\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 81
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 17,
+                              "end": 40,
+                              "url": "https://t.co/qRIny5Uk3T",
+                              "expanded_url": "https://twitter.com/jpstfu/status/1631120225264345088",
+                              "display_url": "twitter.com/jpstfu/status/\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-02T05:49:45.000Z",
+            "edit_history_tweet_ids": [
+                  "1631169904899670019"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1631120225264345088"
+                  }
+            ],
+            "id": "1631169904899670019",
+            "author_id": "1475475557932404736",
+            "text": "I actually cried https://t.co/qRIny5Uk3T",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 97
+            }
+      },
+      {
+            "created_at": "2023-03-01T19:27:47.000Z",
+            "edit_history_tweet_ids": [
+                  "1631013381107863552"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.4965,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1631013381107863552",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 621 5/6\n\n\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe9\n\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b\n\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 62
+            }
+      },
+      {
+            "created_at": "2023-03-01T15:36:44.000Z",
+            "edit_history_tweet_ids": [
+                  "1630955233747816449"
+            ],
+            "id": "1630955233747816449",
+            "author_id": "1475475557932404736",
+            "text": "I must say nothing has made me exclaim \u201cew\u201d more than the results of this model I coded up \ud83d\udc8c",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 79
+            }
+      },
+      {
+            "created_at": "2023-03-01T15:33:59.000Z",
+            "edit_history_tweet_ids": [
+                  "1630954544439099396"
+            ],
+            "id": "1630954544439099396",
+            "author_id": "1475475557932404736",
+            "text": "1 epoch took 10 mins to run, I\u2019ve to run 29 more and the assignment is due in 2.5 hours",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 79
+            }
+      },
+      {
+            "created_at": "2023-03-01T15:25:34.000Z",
+            "edit_history_tweet_ids": [
+                  "1630952424512036864"
+            ],
+            "id": "1630952424512036864",
+            "author_id": "1475475557932404736",
+            "text": "Why did I choose cs as my major what was stopping me from being uncool",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 80
+            }
+      },
+      {
+            "created_at": "2023-02-28T22:09:33.000Z",
+            "edit_history_tweet_ids": [
+                  "1630691704234967040"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 24,
+                              "end": 30,
+                              "probability": 0.709,
+                              "type": "Place",
+                              "normalized_text": "Chicago"
+                        }
+                  ]
+            },
+            "id": "1630691704234967040",
+            "author_id": "1475475557932404736",
+            "text": "Why is every song named Chicago so good",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 62
+            }
+      },
+      {
+            "created_at": "2023-02-28T22:00:40.000Z",
+            "edit_history_tweet_ids": [
+                  "1630689468318650368"
+            ],
+            "id": "1630689468318650368",
+            "author_id": "1475475557932404736",
+            "text": "everyone is gay - a great big world",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 70
+            }
+      },
+      {
+            "created_at": "2023-02-28T18:40:54.000Z",
+            "edit_history_tweet_ids": [
+                  "1630639196149825538"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5638,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1630639196149825538",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 620 5/6\n\n\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\n\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 65
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 10,
+                              "end": 33,
+                              "url": "https://t.co/SfyVnjSBdc",
+                              "expanded_url": "https://twitter.com/MavsMuse/status/1630568186260123651",
+                              "display_url": "twitter.com/MavsMuse/statu\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-28T15:23:46.000Z",
+            "edit_history_tweet_ids": [
+                  "1630589583149903873"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1630568186260123651"
+                  }
+            ],
+            "id": "1630589583149903873",
+            "author_id": "1475475557932404736",
+            "text": "bday king https://t.co/SfyVnjSBdc",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 92
+            }
+      },
+      {
+            "created_at": "2023-02-27T19:37:26.000Z",
+            "edit_history_tweet_ids": [
+                  "1630291035187212292"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.6683,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1630291035187212292",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 619 4/6\n\n\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b\n\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 52
+            }
+      },
+      {
+            "created_at": "2023-02-27T15:14:33.000Z",
+            "edit_history_tweet_ids": [
+                  "1630224879055142913"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 39,
+                              "end": 47,
+                              "probability": 0.6873,
+                              "type": "Other",
+                              "normalized_text": "slovakian"
+                        }
+                  ]
+            },
+            "id": "1630224879055142913",
+            "author_id": "1475475557932404736",
+            "text": "attended an econ soc talk today with 2 slovakian speakers and i must say they r aDoRaBLe i cannot he made a no free lunch but a free dinner joke",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 134
+            }
+      },
+      {
+            "created_at": "2023-02-27T15:08:12.000Z",
+            "edit_history_tweet_ids": [
+                  "1630223279007858690"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 15,
+                              "end": 20,
+                              "probability": 0.5027,
+                              "type": "Other",
+                              "normalized_text": "anthem"
+                        },
+                        {
+                              "start": 25,
+                              "end": 38,
+                              "probability": 0.7625,
+                              "type": "Organization",
+                              "normalized_text": "arctic monkeys"
+                        }
+                  ]
+            },
+            "id": "1630223279007858690",
+            "author_id": "1475475557932404736",
+            "text": "number 1 party anthem by arctic monkeys is so good i don't say it enough",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 74
+            }
+      },
+      {
+            "created_at": "2023-02-26T18:31:30.000Z",
+            "edit_history_tweet_ids": [
+                  "1629912054663446530"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5306,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1629912054663446530",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 618 5/6\n\n\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\n\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b\n\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\n\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 58
+            }
+      },
+      {
+            "created_at": "2023-02-25T19:03:59.000Z",
+            "edit_history_tweet_ids": [
+                  "1629557838539378690"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.618,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1629557838539378690",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 617 5/6\n\n\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\n\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b\n\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 58
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 30,
+                              "end": 53,
+                              "url": "https://t.co/q9mmfo2bQH",
+                              "expanded_url": "https://twitter.com/Bafnation101/status/1629250662017159168/photo/1",
+                              "display_url": "pic.twitter.com/q9mmfo2bQH",
+                              "media_key": "3_1629250650436427776"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 17,
+                              "end": 20,
+                              "probability": 0.8175,
+                              "type": "Person",
+                              "normalized_text": "luka"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-24T22:43:22.000Z",
+            "edit_history_tweet_ids": [
+                  "1629250662017159168"
+            ],
+            "id": "1629250662017159168",
+            "author_id": "1475475557932404736",
+            "text": "playing chess vs luka doncic\ud83d\udcaa https://t.co/q9mmfo2bQH",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 244
+            }
+      },
+      {
+            "created_at": "2023-02-24T22:37:30.000Z",
+            "edit_history_tweet_ids": [
+                  "1629249187614437376"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 6,
+                              "probability": 0.7497,
+                              "type": "Other",
+                              "normalized_text": "Step up"
+                        }
+                  ]
+            },
+            "id": "1629249187614437376",
+            "author_id": "1475475557932404736",
+            "text": "Step up 3 is the best step up u cannot convince anybody otherwise",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 54
+            }
+      },
+      {
+            "created_at": "2023-02-24T21:04:20.000Z",
+            "edit_history_tweet_ids": [
+                  "1629225738389028864"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 1,
+                              "probability": 0.5278,
+                              "type": "Other",
+                              "normalized_text": "AU"
+                        },
+                        {
+                              "start": 3,
+                              "end": 5,
+                              "probability": 0.3179,
+                              "type": "Other",
+                              "normalized_text": "RAs"
+                        },
+                        {
+                              "start": 30,
+                              "end": 34,
+                              "probability": 0.9645,
+                              "type": "Other",
+                              "normalized_text": "insta"
+                        }
+                  ]
+            },
+            "id": "1629225738389028864",
+            "author_id": "1475475557932404736",
+            "text": "AU RAs r so cute i love their insta page",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 55
+            }
+      },
+      {
+            "created_at": "2023-02-24T20:04:43.000Z",
+            "edit_history_tweet_ids": [
+                  "1629210738266103809"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1629210677280911360"
+                  }
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 1,
+                              "probability": 0.7007,
+                              "type": "Other",
+                              "normalized_text": "ML"
+                        }
+                  ]
+            },
+            "id": "1629210738266103809",
+            "author_id": "1475475557932404736",
+            "text": "ML is so fun!",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 50
+            }
+      },
+      {
+            "created_at": "2023-02-24T20:04:29.000Z",
+            "edit_history_tweet_ids": [
+                  "1629210677280911360"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1629177314876735490"
+                  }
+            ],
+            "id": "1629210677280911360",
+            "author_id": "1475475557932404736",
+            "text": "Made ramen and successfully procrastinated for 2 hours while simultaneously finding out I just overdid everything the task isn\u2019t even that complicated!",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 63
+            }
+      },
+      {
+            "created_at": "2023-02-24T18:46:05.000Z",
+            "edit_history_tweet_ids": [
+                  "1629190948964995075"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.6172,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1629190948964995075",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 616 5/6\n\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\n\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe9\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 54
+            }
+      },
+      {
+            "created_at": "2023-02-24T17:51:55.000Z",
+            "edit_history_tweet_ids": [
+                  "1629177314876735490"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1629169332923293696"
+                  }
+            ],
+            "id": "1629177314876735490",
+            "author_id": "1475475557932404736",
+            "text": "stress eating grapes since 1 hour",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 65
+            }
+      },
+      {
+            "created_at": "2023-02-24T17:20:12.000Z",
+            "edit_history_tweet_ids": [
+                  "1629169332923293696"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1629154456674897921"
+                  }
+            ],
+            "id": "1629169332923293696",
+            "author_id": "1475475557932404736",
+            "text": "On the verge of pulling my hair out I hate everything",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 71
+            }
+      },
+      {
+            "created_at": "2023-02-24T16:21:05.000Z",
+            "edit_history_tweet_ids": [
+                  "1629154456674897921"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 7,
+                              "end": 8,
+                              "probability": 0.599,
+                              "type": "Other",
+                              "normalized_text": "ML"
+                        }
+                  ]
+            },
+            "id": "1629154456674897921",
+            "author_id": "1475475557932404736",
+            "text": "I hate ML",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 158
+            }
+      },
+      {
+            "created_at": "2023-02-23T20:17:13.000Z",
+            "edit_history_tweet_ids": [
+                  "1628851492315701252"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.6325,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1628851492315701252",
+            "author_id": "1475475557932404736",
+            "text": "Wordle 615 6/6\n\n\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b\n\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\n\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b\n\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe9\ud83d\udfe9\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 59
+            }
+      }
+]

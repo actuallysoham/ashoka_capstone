@@ -1,0 +1,1250 @@
+[
+      {
+            "id": "1643200118878003204",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 3,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 312
+            },
+            "text": "after a long successful career, i'll be retiring the grass toucher persona to pursue a career in wildlife biology. my thoughts are now reserved for things like 'human-wildlife conflict' &amp; 'community conservation' but i'll also be touching grass on the side occasionally. cheers",
+            "edit_history_tweet_ids": [
+                  "1643200118878003204"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-04-04T10:33:32.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/zCbqn19niO",
+                              "expanded_url": "https://twitter.com/ron1th/status/1642122350832545793/photo/1",
+                              "display_url": "pic.twitter.com/zCbqn19niO",
+                              "media_key": "3_1642122342251003904"
+                        },
+                        {
+                              "start": 24,
+                              "end": 47,
+                              "url": "https://t.co/lSlNdDihf1",
+                              "expanded_url": "https://twitter.com/skatie420/status/1640481111515213824",
+                              "display_url": "twitter.com/skatie420/stat\u2026"
+                        }
+                  ]
+            },
+            "id": "1642122350832545793",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 364
+            },
+            "text": "https://t.co/zCbqn19niO https://t.co/lSlNdDihf1",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1640481111515213824"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1642122350832545793"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-04-01T11:10:52.000Z"
+      },
+      {
+            "id": "1640752685950574592",
+            "public_metrics": {
+                  "retweet_count": 3,
+                  "reply_count": 0,
+                  "like_count": 44,
+                  "quote_count": 0,
+                  "impression_count": 1349
+            },
+            "text": "men used to go to war now they want to do laundry and taxes with you",
+            "edit_history_tweet_ids": [
+                  "1640752685950574592"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-28T16:28:18.000Z"
+      },
+      {
+            "id": "1639195587034890241",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 181
+            },
+            "text": "what if they kill him with the swords i am very scared",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1639190439684345858"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1639195587034890241"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-24T09:20:57.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 33,
+                              "end": 56,
+                              "url": "https://t.co/n63q7i6AL6",
+                              "expanded_url": "https://twitter.com/ron1th/status/1639190439684345858/photo/1",
+                              "display_url": "pic.twitter.com/n63q7i6AL6",
+                              "media_key": "3_1639190423649525760"
+                        }
+                  ]
+            },
+            "id": "1639190439684345858",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 15,
+                  "quote_count": 0,
+                  "impression_count": 574
+            },
+            "text": "just found this cool new picture https://t.co/n63q7i6AL6",
+            "edit_history_tweet_ids": [
+                  "1639190439684345858"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-24T09:00:30.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 27,
+                              "end": 50,
+                              "url": "https://t.co/JJady5LOgu",
+                              "expanded_url": "https://twitter.com/ron1th/status/1638142905545277442/photo/1",
+                              "display_url": "pic.twitter.com/JJady5LOgu",
+                              "media_key": "3_1638140585591869441"
+                        }
+                  ]
+            },
+            "id": "1638142905545277442",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 364
+            },
+            "text": "me when women are speaking https://t.co/JJady5LOgu",
+            "edit_history_tweet_ids": [
+                  "1638142905545277442"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-21T11:37:58.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 40,
+                              "end": 63,
+                              "url": "https://t.co/ASfAoxsmXI",
+                              "expanded_url": "https://twitter.com/ron1th/status/1637407196224065542/photo/1",
+                              "display_url": "pic.twitter.com/ASfAoxsmXI",
+                              "media_key": "16_1637407158047510529"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 5,
+                              "end": 9,
+                              "probability": 0.6941,
+                              "type": "Other",
+                              "normalized_text": "MISTA"
+                        }
+                  ]
+            },
+            "id": "1637407196224065542",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 92
+            },
+            "text": "YEAH MISTA WHITE.. YEAH I DID IT, BITCH https://t.co/ASfAoxsmXI",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1637407151533752321"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1637407196224065542"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-19T10:54:31.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 29,
+                              "end": 52,
+                              "url": "https://t.co/Amx719X4Mp",
+                              "expanded_url": "https://twitter.com/ron1th/status/1637407151533752321/photo/1",
+                              "display_url": "pic.twitter.com/Amx719X4Mp",
+                              "media_key": "16_1637407117652140032"
+                        }
+                  ]
+            },
+            "id": "1637407151533752321",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 113
+            },
+            "text": "AAAAAAAAIIIIIEEEEEEEEEEEOOOO https://t.co/Amx719X4Mp",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1637407110010134529"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1637407151533752321"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-19T10:54:21.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 49,
+                              "end": 72,
+                              "url": "https://t.co/ql00E4qjgj",
+                              "expanded_url": "https://twitter.com/ron1th/status/1637407110010134529/photo/1",
+                              "display_url": "pic.twitter.com/ql00E4qjgj",
+                              "media_key": "3_1637407100539400198"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 33,
+                              "end": 47,
+                              "probability": 0.5795,
+                              "type": "Other",
+                              "normalized_text": "EVA MISTA WHITE"
+                        }
+                  ]
+            },
+            "id": "1637407110010134529",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 80
+            },
+            "text": "fine I'll do it.. I'LL PILOT THE EVA MISTA WHITE https://t.co/ql00E4qjgj",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1637407094633828355"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1637407110010134529"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-19T10:54:11.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 68,
+                              "end": 91,
+                              "url": "https://t.co/Cz0EViCXd9",
+                              "expanded_url": "https://twitter.com/ron1th/status/1637407094633828355/photo/1",
+                              "display_url": "pic.twitter.com/Cz0EViCXd9",
+                              "media_key": "3_1637407092008173568"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 23,
+                              "end": 25,
+                              "probability": 0.3993,
+                              "type": "Other",
+                              "normalized_text": "eva"
+                        },
+                        {
+                              "start": 58,
+                              "end": 62,
+                              "probability": 0.507,
+                              "type": "Other",
+                              "normalized_text": "jesse"
+                        }
+                  ]
+            },
+            "id": "1637407094633828355",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 87
+            },
+            "text": "if you don't pilot the eva.. she's going to have to do it jesse ... https://t.co/Cz0EViCXd9",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1637407083858649089"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1637407094633828355"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-19T10:54:07.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 80,
+                              "end": 103,
+                              "url": "https://t.co/j9RGcshxjb",
+                              "expanded_url": "https://twitter.com/ron1th/status/1637407083858649089/photo/1",
+                              "display_url": "pic.twitter.com/j9RGcshxjb",
+                              "media_key": "3_1637407081216241665"
+                        }
+                  ]
+            },
+            "id": "1637407083858649089",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 99
+            },
+            "text": "nah mista white.. i can't handle the weight of the world on my shoulders, BITCH https://t.co/j9RGcshxjb",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1637407075348381697"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1637407083858649089"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-19T10:54:05.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 87,
+                              "end": 110,
+                              "url": "https://t.co/C8Uy4wQgfy",
+                              "expanded_url": "https://twitter.com/ron1th/status/1637407075348381697/photo/1",
+                              "display_url": "pic.twitter.com/C8Uy4wQgfy",
+                              "media_key": "3_1637407065852481537"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 4,
+                              "probability": 0.4694,
+                              "type": "Person",
+                              "normalized_text": "jesse"
+                        },
+                        {
+                              "start": 20,
+                              "end": 28,
+                              "probability": 0.6362,
+                              "type": "Person",
+                              "normalized_text": "eva jesse"
+                        }
+                  ]
+            },
+            "id": "1637407075348381697",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 540
+            },
+            "text": "jesse... get in the eva jesse.. you've got to save the world from the angels jesse ... https://t.co/C8Uy4wQgfy",
+            "edit_history_tweet_ids": [
+                  "1637407075348381697"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-19T10:54:02.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 15,
+                              "end": 38,
+                              "url": "https://t.co/kiMLsruspN",
+                              "expanded_url": "https://twitter.com/AmericanHussy/status/1637216903579197440",
+                              "display_url": "twitter.com/AmericanHussy/\u2026"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 9,
+                              "end": 13,
+                              "probability": 0.7671,
+                              "type": "Other",
+                              "normalized_text": "birds"
+                        }
+                  ]
+            },
+            "id": "1637343625142059008",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 629
+            },
+            "text": "watching birds https://t.co/kiMLsruspN",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1637216903579197440"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1637343625142059008"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-19T06:41:55.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 136,
+                              "end": 159,
+                              "url": "https://t.co/OgD9NFfbPT",
+                              "expanded_url": "https://twitter.com/ron1th/status/1634519816739639296/photo/1",
+                              "display_url": "pic.twitter.com/OgD9NFfbPT",
+                              "media_key": "3_1634519812826333184"
+                        }
+                  ]
+            },
+            "id": "1634519816739639296",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 551
+            },
+            "text": "hi guys this is grass touchers girlfriend here. he has left his phone at my home, wanted to know what he does all time here on this app https://t.co/OgD9NFfbPT",
+            "edit_history_tweet_ids": [
+                  "1634519816739639296"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-11T11:41:06.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/7YIAG1V2qe",
+                              "expanded_url": "https://youtu.be/KtJdkquqUzw",
+                              "display_url": "youtu.be/KtJdkquqUzw",
+                              "status": 200,
+                              "title": "Barn Owl with a pigeon!!!",
+                              "unwound_url": "https://www.youtube.com/watch?v=KtJdkquqUzw&feature=youtu.be"
+                        }
+                  ]
+            },
+            "id": "1634195600374902785",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 153
+            },
+            "text": "https://t.co/7YIAG1V2qe :D",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1634194382810386432"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1634195600374902785"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-10T14:12:47.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 92,
+                              "end": 115,
+                              "url": "https://t.co/EjbzTNeLpS",
+                              "expanded_url": "https://twitter.com/ron1th/status/1634194382810386432/photo/1",
+                              "display_url": "pic.twitter.com/EjbzTNeLpS",
+                              "media_key": "3_1634194341265809408"
+                        }
+                  ]
+            },
+            "id": "1634194382810386432",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 18,
+                  "quote_count": 0,
+                  "impression_count": 547
+            },
+            "text": "very cool visitor to the apartment recently - a barn owl caught a pigeon in our front yard! https://t.co/EjbzTNeLpS",
+            "edit_history_tweet_ids": [
+                  "1634194382810386432"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-10T14:07:57.000Z"
+      },
+      {
+            "id": "1633343933039407105",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 401
+            },
+            "text": "thinking of getting into bhagavad gita lore these days. do u guys know if it passes the bechdel test",
+            "edit_history_tweet_ids": [
+                  "1633343933039407105"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-08T05:48:34.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 25,
+                              "end": 42,
+                              "probability": 0.5787,
+                              "type": "Other",
+                              "normalized_text": "bhagavad gita lore"
+                        },
+                        {
+                              "start": 88,
+                              "end": 94,
+                              "probability": 0.4442,
+                              "type": "Other",
+                              "normalized_text": "bechdel"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1633055072505729025",
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 1,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 608
+            },
+            "text": "avatar is like if the bhagavad gita slayed",
+            "edit_history_tweet_ids": [
+                  "1633055072505729025"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-07T10:40:44.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5125,
+                              "type": "Other",
+                              "normalized_text": "avatar"
+                        },
+                        {
+                              "start": 22,
+                              "end": 34,
+                              "probability": 0.5585,
+                              "type": "Other",
+                              "normalized_text": "bhagavad gita"
+                        }
+                  ]
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 64,
+                              "end": 87,
+                              "url": "https://t.co/hBPQkmUkeb",
+                              "expanded_url": "https://twitter.com/ron1th/status/1632320521265381377/video/1",
+                              "display_url": "pic.twitter.com/hBPQkmUkeb",
+                              "media_key": "7_1632319606156308481"
+                        },
+                        {
+                              "start": 88,
+                              "end": 111,
+                              "url": "https://t.co/uSSaTS5AUP",
+                              "expanded_url": "https://twitter.com/cummlord69/status/1632287130352484352",
+                              "display_url": "twitter.com/cummlord69/sta\u2026"
+                        }
+                  ]
+            },
+            "id": "1632320521265381377",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 537
+            },
+            "text": "here's one demolishing a large mantis!! such incredible hunters https://t.co/hBPQkmUkeb https://t.co/uSSaTS5AUP",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1632287130352484352"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1632320521265381377"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-05T10:01:53.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 91,
+                              "end": 114,
+                              "url": "https://t.co/JuZl6FpGVr",
+                              "expanded_url": "https://twitter.com/ron1th/status/1631926741672525824/photo/1",
+                              "display_url": "pic.twitter.com/JuZl6FpGVr",
+                              "media_key": "3_1631926728741523459"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 40,
+                              "end": 50,
+                              "probability": 0.8782,
+                              "type": "Other",
+                              "normalized_text": "banana fish"
+                        },
+                        {
+                              "start": 79,
+                              "end": 89,
+                              "probability": 0.9432,
+                              "type": "Person",
+                              "normalized_text": "andrew tate"
+                        }
+                  ]
+            },
+            "id": "1631926741672525824",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 657
+            },
+            "text": "there's this guy in the prison scene in banana fish ep3 who looks exactly like andrew tate https://t.co/JuZl6FpGVr",
+            "edit_history_tweet_ids": [
+                  "1631926741672525824"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-04T07:57:09.000Z"
+      },
+      {
+            "id": "1631601013764534272",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 497
+            },
+            "text": "yea i got piles.. piles of cash",
+            "edit_history_tweet_ids": [
+                  "1631601013764534272"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-03-03T10:22:50.000Z"
+      },
+      {
+            "id": "1629843960800890881",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 533
+            },
+            "text": "perfectly sober AMA",
+            "edit_history_tweet_ids": [
+                  "1629843960800890881"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-02-26T14:00:55.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 56,
+                              "end": 79,
+                              "url": "https://t.co/5ZuZsSt5qZ",
+                              "expanded_url": "https://twitter.com/FilmUpdates/status/1628931697478893568",
+                              "display_url": "twitter.com/FilmUpdates/st\u2026"
+                        }
+                  ]
+            },
+            "id": "1629035303473405952",
+            "public_metrics": {
+                  "retweet_count": 6,
+                  "reply_count": 1,
+                  "like_count": 53,
+                  "quote_count": 0,
+                  "impression_count": 3198
+            },
+            "text": "make sure to check on the most annoying person you know https://t.co/5ZuZsSt5qZ",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628931697478893568"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1629035303473405952"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-02-24T08:27:37.000Z"
+      },
+      {
+            "id": "1627314631273508866",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 241
+            },
+            "text": "vidya niketan school hebbal kempapura you will pay for this",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1627314372933730304"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1627314631273508866"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-02-19T14:30:16.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 28,
+                              "end": 36,
+                              "probability": 0.5029,
+                              "type": "Other",
+                              "normalized_text": "kempapura"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1627314372933730304",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 409
+            },
+            "text": "just saw a pic of me from highschool &amp; almost threw up",
+            "edit_history_tweet_ids": [
+                  "1627314372933730304"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-02-19T14:29:15.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 20,
+                              "end": 43,
+                              "url": "https://t.co/v8Ct4Mqpk6",
+                              "expanded_url": "https://twitter.com/BillClinton/status/1625580493868568576",
+                              "display_url": "twitter.com/BillClinton/st\u2026"
+                        }
+                  ]
+            },
+            "id": "1625725036886908928",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 765
+            },
+            "text": "want what they have https://t.co/v8Ct4Mqpk6",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1625580493868568576"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1625725036886908928"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-02-15T05:13:47.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 36,
+                              "end": 59,
+                              "url": "https://t.co/u3lcKwv0Hv",
+                              "expanded_url": "https://twitter.com/DEJACKS43492044/status/1624521546982121472",
+                              "display_url": "twitter.com/DEJACKS4349204\u2026"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 4,
+                              "end": 9,
+                              "probability": 0.7029,
+                              "type": "Person",
+                              "normalized_text": "mitski"
+                        }
+                  ]
+            },
+            "id": "1625460506214678528",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 770
+            },
+            "text": "one mitski song &amp; he evaporates https://t.co/u3lcKwv0Hv",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1624521546982121472"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1625460506214678528"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-02-14T11:42:38.000Z"
+      },
+      {
+            "id": "1623928785451253760",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 200
+            },
+            "text": "i am not doing well",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1623907904096202752"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1623928785451253760"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-02-10T06:16:08.000Z"
+      },
+      {
+            "id": "1623907904096202752",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 20,
+                  "quote_count": 0,
+                  "impression_count": 1147
+            },
+            "text": "naruto live action remake starring lilly singh as naruto &amp; timothee chalamet as sasuke. this came to me in a dream btw",
+            "edit_history_tweet_ids": [
+                  "1623907904096202752"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-02-10T04:53:09.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.7534,
+                              "type": "Person",
+                              "normalized_text": "naruto"
+                        },
+                        {
+                              "start": 35,
+                              "end": 45,
+                              "probability": 0.9192,
+                              "type": "Person",
+                              "normalized_text": "lilly singh"
+                        },
+                        {
+                              "start": 50,
+                              "end": 55,
+                              "probability": 0.9085,
+                              "type": "Person",
+                              "normalized_text": "naruto"
+                        },
+                        {
+                              "start": 63,
+                              "end": 79,
+                              "probability": 0.8458,
+                              "type": "Person",
+                              "normalized_text": "timothee chalamet"
+                        },
+                        {
+                              "start": 84,
+                              "end": 89,
+                              "probability": 0.9054,
+                              "type": "Person",
+                              "normalized_text": "sasuke"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1622841002921951232",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 443
+            },
+            "text": "guy who got fired from his job as a waiter: i don't think i can serve again \n\nharry styles: same",
+            "edit_history_tweet_ids": [
+                  "1622841002921951232"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-02-07T06:13:40.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 78,
+                              "end": 89,
+                              "probability": 0.9631,
+                              "type": "Person",
+                              "normalized_text": "harry styles"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1621909858965684225",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 391
+            },
+            "text": "'\"\"LIBERALS'\"\" are turning the ENDER dragon ... into the GENDER dragon!!!!!!",
+            "edit_history_tweet_ids": [
+                  "1621909858965684225"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-02-04T16:33:38.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 3,
+                              "end": 10,
+                              "probability": 0.6133,
+                              "type": "Other",
+                              "normalized_text": "LIBERALS"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1620435268229795843",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 434
+            },
+            "text": "thom Yorke is like if mitski was a guy &amp; never slayed",
+            "edit_history_tweet_ids": [
+                  "1620435268229795843"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-01-31T14:54:08.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 9,
+                              "probability": 0.5138,
+                              "type": "Person",
+                              "normalized_text": "thom Yorke"
+                        },
+                        {
+                              "start": 22,
+                              "end": 27,
+                              "probability": 0.4403,
+                              "type": "Person",
+                              "normalized_text": "mitski"
+                        }
+                  ]
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 19,
+                              "end": 42,
+                              "url": "https://t.co/Y111oi2au3",
+                              "expanded_url": "https://twitter.com/evenstvr/status/1619813572581928960",
+                              "display_url": "twitter.com/evenstvr/statu\u2026"
+                        }
+                  ]
+            },
+            "id": "1620426479342604301",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 508
+            },
+            "text": "me every other day https://t.co/Y111oi2au3",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1619813572581928960"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1620426479342604301"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-01-31T14:19:13.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 73,
+                              "end": 96,
+                              "url": "https://t.co/qNaTlciu2l",
+                              "expanded_url": "https://twitter.com/rogerfederer/status/1619286799163052032",
+                              "display_url": "twitter.com/rogerfederer/s\u2026"
+                        }
+                  ]
+            },
+            "id": "1619289139316408321",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 500
+            },
+            "text": "that's the grin of a man who knows the lyrics to their whole discography https://t.co/qNaTlciu2l",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1619286799163052032"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1619289139316408321"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-01-28T10:59:50.000Z"
+      },
+      {
+            "id": "1618147636711940096",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 351
+            },
+            "text": "there is a great evil locked away in my basement. his name is twinkothee chalamet",
+            "edit_history_tweet_ids": [
+                  "1618147636711940096"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-01-25T07:23:54.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 62,
+                              "end": 80,
+                              "probability": 0.5969,
+                              "type": "Person",
+                              "normalized_text": "twinkothee chalamet"
+                        }
+                  ]
+            }
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 72,
+                              "end": 95,
+                              "url": "https://t.co/Vp9ymaJxsl",
+                              "expanded_url": "https://twitter.com/PopBase/status/1610698300310835200",
+                              "display_url": "twitter.com/PopBase/status\u2026"
+                        }
+                  ]
+            },
+            "id": "1610975041939709955",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 878
+            },
+            "text": "why is it still uglier than my cat who has a net worth of like 13 bucks https://t.co/Vp9ymaJxsl",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1610698300310835200"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1610975041939709955"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-01-05T12:22:35.000Z"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/gyRv53vTIA",
+                              "expanded_url": "https://twitter.com/ron1th/status/1609937401224527873/photo/1",
+                              "display_url": "pic.twitter.com/gyRv53vTIA",
+                              "media_key": "3_1609937375991599107"
+                        }
+                  ]
+            },
+            "id": "1609937401224527873",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 265
+            },
+            "text": "https://t.co/gyRv53vTIA",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1609932083807551488"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1609937401224527873"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-01-02T15:39:22.000Z"
+      },
+      {
+            "id": "1609932083807551488",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 20,
+                  "quote_count": 0,
+                  "impression_count": 855
+            },
+            "text": "currently working on a new script with robert pattinson as Barbie &amp; kamala harris as ken",
+            "edit_history_tweet_ids": [
+                  "1609932083807551488"
+            ],
+            "author_id": "868442078648381440",
+            "created_at": "2023-01-02T15:18:14.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 39,
+                              "end": 54,
+                              "probability": 0.8461,
+                              "type": "Person",
+                              "normalized_text": "robert pattinson"
+                        },
+                        {
+                              "start": 59,
+                              "end": 64,
+                              "probability": 0.4428,
+                              "type": "Other",
+                              "normalized_text": "Barbie"
+                        },
+                        {
+                              "start": 72,
+                              "end": 84,
+                              "probability": 0.491,
+                              "type": "Person",
+                              "normalized_text": "kamala harris"
+                        },
+                        {
+                              "start": 89,
+                              "end": 91,
+                              "probability": 0.5182,
+                              "type": "Other",
+                              "normalized_text": "ken"
+                        }
+                  ]
+            }
+      }
+]

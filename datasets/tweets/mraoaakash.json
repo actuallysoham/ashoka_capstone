@@ -1,0 +1,895 @@
+[
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 26
+            },
+            "created_at": "2023-04-11T15:27:01.000Z",
+            "text": "Great read on the future of vaccines for cancer. https://t.co/NQWUqf9LTV",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 41,
+                              "end": 46,
+                              "probability": 0.6511,
+                              "type": "Other",
+                              "normalized_text": "cancer"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 49,
+                              "end": 72,
+                              "url": "https://t.co/NQWUqf9LTV",
+                              "expanded_url": "https://www.science.org/content/article/new-generation-cancer-preventing-vaccines-wipe-tumors-form?utm_campaign=SciMag&utm_medium=ownedSocial&utm_source=LinkedIn&",
+                              "display_url": "science.org/content/articl\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1645365102474940419/X_MEj-_h?format=jpg&name=orig",
+                                          "width": 1600,
+                                          "height": 1058
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1645365102474940419/X_MEj-_h?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "New generation of cancer-preventing vaccines could wipe out tumors before they form",
+                              "description": "Shots enter early clinical trials for healthy people at high risk for disease",
+                              "unwound_url": "https://www.science.org/content/article/new-generation-cancer-preventing-vaccines-wipe-tumors-form?utm_campaign=SciMag&utm_medium=ownedSocial&utm_source=LinkedIn&"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1645810693730615297"
+            ],
+            "id": "1645810693730615297",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 46
+            },
+            "created_at": "2023-04-11T15:15:48.000Z",
+            "text": "Interesting read on #ChatGPT \n\nLink: https://t.co/2nA9hz3lkx",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 21,
+                              "end": 27,
+                              "probability": 0.7722,
+                              "type": "Other",
+                              "normalized_text": "ChatGPT"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 20,
+                              "end": 28,
+                              "tag": "ChatGPT"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 37,
+                              "end": 60,
+                              "url": "https://t.co/2nA9hz3lkx",
+                              "expanded_url": "http://bit.ly/41eLOGr",
+                              "display_url": "bit.ly/41eLOGr",
+                              "status": 200,
+                              "title": "ChatGPT, a double-edged weapon",
+                              "description": "ChatGPT is a great technological innovation, but there are some real dangers",
+                              "unwound_url": "https://www.thehindubusinessline.com/opinion/chatgpt-a-double-edged-weapon/article66721522.ece"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1645807869928017921"
+            ],
+            "id": "1645807869928017921",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 46
+            },
+            "created_at": "2023-04-11T14:45:23.000Z",
+            "text": "Thoroughly enjoyed reading this paper that argues for the involvement of #AGI in political decision making. \n\nHighly recommend!\n\nLink: https://t.co/CJosrMQz71",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 74,
+                              "end": 76,
+                              "probability": 0.4816,
+                              "type": "Organization",
+                              "normalized_text": "AGI"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 73,
+                              "end": 77,
+                              "tag": "AGI"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 135,
+                              "end": 158,
+                              "url": "https://t.co/CJosrMQz71",
+                              "expanded_url": "https://www.degruyter.com/document/doi/10.1515/mopp-2019-0004/html",
+                              "display_url": "degruyter.com/document/doi/1\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1645800257190793217/AKUUUQYM?format=jpg&name=orig",
+                                          "width": 200,
+                                          "height": 298
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1645800257190793217/AKUUUQYM?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "Political Machines: Ethical Governance in the Age of AI",
+                              "description": "Policymakers are responsible for key decisions about political governance. Usually, they are selected or elected based on experience and then supported in their decision-making by the additional counsel of subject experts. Those satisfied with this system believe these individuals \u2013 generally speaking \u2013 will have the right intuitions about the best types of action. This is important because political decisions have ethical implications; they affect how we all live in society. Nevertheless, there is a wealth of research that cautions against trusting human judgment as it can be severely flawed. This paper will look at the root causes of the most common errors of human judgment before arguing \u2013 contra the instincts of many \u2013 that future AI systems could take a range of political decisions more reliably. I will argue that, if/when engineers establish ethically robust systems, governments will have a moral obligation to refer to them as a part of decision-making.",
+                              "unwound_url": "https://www.degruyter.com/document/doi/10.1515/mopp-2019-0004/html"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1645800214127845378"
+            ],
+            "id": "1645800214127845378",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 81
+            },
+            "created_at": "2023-04-11T14:38:36.000Z",
+            "text": "Me presenting a topic to my advisor who has been working with it for years. https://t.co/2PW7X25d34",
+            "edit_history_tweet_ids": [
+                  "1645798506995802115"
+            ],
+            "id": "1645798506995802115",
+            "author_id": "1500014958238584835",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 76,
+                              "end": 99,
+                              "url": "https://t.co/2PW7X25d34",
+                              "expanded_url": "https://twitter.com/mraoaakash/status/1645798506995802115/photo/1",
+                              "display_url": "pic.twitter.com/2PW7X25d34",
+                              "media_key": "3_1645798498246467587"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 25
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1641855378110693376"
+                  }
+            ],
+            "created_at": "2023-04-11T14:34:14.000Z",
+            "text": "Sexism much. https://t.co/JamESBPUus",
+            "edit_history_tweet_ids": [
+                  "1645797408268488704"
+            ],
+            "id": "1645797408268488704",
+            "author_id": "1500014958238584835",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 13,
+                              "end": 36,
+                              "url": "https://t.co/JamESBPUus",
+                              "expanded_url": "https://twitter.com/httweets/status/1641855378110693376",
+                              "display_url": "twitter.com/httweets/statu\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 34
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1644388988071886848"
+                  }
+            ],
+            "created_at": "2023-04-10T08:59:34.000Z",
+            "text": "Man looks like a shoddy deepfake https://t.co/xN8Z2eSOqA",
+            "edit_history_tweet_ids": [
+                  "1645350800846356480"
+            ],
+            "id": "1645350800846356480",
+            "author_id": "1500014958238584835",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 33,
+                              "end": 56,
+                              "url": "https://t.co/xN8Z2eSOqA",
+                              "expanded_url": "https://twitter.com/BloombergTV/status/1644388988071886848",
+                              "display_url": "twitter.com/BloombergTV/st\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 15
+            },
+            "created_at": "2023-04-10T01:44:14.000Z",
+            "text": "Hit new PRs today \ud83e\udd70",
+            "edit_history_tweet_ids": [
+                  "1645241244560547843"
+            ],
+            "id": "1645241244560547843",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 25
+            },
+            "created_at": "2023-04-08T22:02:59.000Z",
+            "text": "A big fuck you to Chandni Chowk food",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 18,
+                              "end": 30,
+                              "probability": 0.6994,
+                              "type": "Person",
+                              "normalized_text": "Chandni Chowk"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1644823179393728513"
+            ],
+            "id": "1644823179393728513",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 32
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643700044338728960"
+                  }
+            ],
+            "created_at": "2023-04-06T11:44:19.000Z",
+            "text": "Hmm. https://t.co/3i0CDjcQf4",
+            "edit_history_tweet_ids": [
+                  "1643942707923128322"
+            ],
+            "id": "1643942707923128322",
+            "author_id": "1500014958238584835",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 5,
+                              "end": 28,
+                              "url": "https://t.co/3i0CDjcQf4",
+                              "expanded_url": "https://twitter.com/alexalbert__/status/1643700044338728960",
+                              "display_url": "twitter.com/alexalbert__/s\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 136
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643790003779059715"
+                  }
+            ],
+            "created_at": "2023-04-06T03:22:36.000Z",
+            "text": "This is so cool!! https://t.co/bHK8ttl22s",
+            "edit_history_tweet_ids": [
+                  "1643816448530284544"
+            ],
+            "id": "1643816448530284544",
+            "author_id": "1500014958238584835",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 18,
+                              "end": 41,
+                              "url": "https://t.co/bHK8ttl22s",
+                              "expanded_url": "https://twitter.com/_akhaliq/status/1643790003779059715",
+                              "display_url": "twitter.com/_akhaliq/statu\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 23
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643366224699748352"
+                  }
+            ],
+            "created_at": "2023-04-06T00:43:01.000Z",
+            "text": "Life changing. https://t.co/nKp2wMnoGf",
+            "edit_history_tweet_ids": [
+                  "1643776287151128576"
+            ],
+            "id": "1643776287151128576",
+            "author_id": "1500014958238584835",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 15,
+                              "end": 38,
+                              "url": "https://t.co/nKp2wMnoGf",
+                              "expanded_url": "https://twitter.com/hollylawly/status/1643366224699748352",
+                              "display_url": "twitter.com/hollylawly/sta\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 31
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643100802272342018"
+                  }
+            ],
+            "created_at": "2023-04-05T12:26:22.000Z",
+            "text": "Part 500 of Entrepreneurship majors trying to explain technology. https://t.co/8wzBWtvirh",
+            "edit_history_tweet_ids": [
+                  "1643590901548322816"
+            ],
+            "id": "1643590901548322816",
+            "author_id": "1500014958238584835",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 66,
+                              "end": 89,
+                              "url": "https://t.co/8wzBWtvirh",
+                              "expanded_url": "https://twitter.com/iTannu/status/1643100802272342018",
+                              "display_url": "twitter.com/iTannu/status/\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 30
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643131454950461441"
+                  }
+            ],
+            "created_at": "2023-04-05T12:21:58.000Z",
+            "text": "Must I point out the irony. https://t.co/K2Xvg15wKd",
+            "edit_history_tweet_ids": [
+                  "1643589795422310402"
+            ],
+            "id": "1643589795422310402",
+            "author_id": "1500014958238584835",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 28,
+                              "end": 51,
+                              "url": "https://t.co/K2Xvg15wKd",
+                              "expanded_url": "https://twitter.com/ndtv/status/1643131454950461441",
+                              "display_url": "twitter.com/ndtv/status/16\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 60
+            },
+            "created_at": "2023-04-05T07:56:42.000Z",
+            "text": "Just wrote a script. Without a single google search, or any external support. And it ran flawlessly. My career has peaked.",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 38,
+                              "end": 50,
+                              "probability": 0.7052,
+                              "type": "Other",
+                              "normalized_text": "google search"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1643523037822873600"
+            ],
+            "id": "1643523037822873600",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 21
+            },
+            "created_at": "2023-04-04T09:03:51.000Z",
+            "text": "Excerpt from my literature class \u201ca baby is not like an app. You can\u2019t just install it and then uninstall it because you don\u2019t want it.\u201d",
+            "edit_history_tweet_ids": [
+                  "1643177552725569536"
+            ],
+            "id": "1643177552725569536",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 26
+            },
+            "created_at": "2023-04-01T14:36:06.000Z",
+            "text": "Need money to self-fund a conference, any suggestions? #funding #academia  #research #Recomb2023",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 86,
+                              "end": 95,
+                              "probability": 0.5563,
+                              "type": "Other",
+                              "normalized_text": "Recomb2023"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 55,
+                              "end": 63,
+                              "tag": "funding"
+                        },
+                        {
+                              "start": 64,
+                              "end": 73,
+                              "tag": "academia"
+                        },
+                        {
+                              "start": 75,
+                              "end": 84,
+                              "tag": "research"
+                        },
+                        {
+                              "start": 85,
+                              "end": 96,
+                              "tag": "Recomb2023"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1642174000817410049"
+            ],
+            "id": "1642174000817410049",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 22
+            },
+            "created_at": "2023-03-30T20:11:34.000Z",
+            "text": "The worst thing about recreating past works is solving the damn dependencies. #Python is a pain in the ass sometimes. Figured it out though. \ud83e\udd37\ud83c\udffb",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 79,
+                              "end": 84,
+                              "probability": 0.975,
+                              "type": "Other",
+                              "normalized_text": "Python"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 78,
+                              "end": 85,
+                              "tag": "Python"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1641533645860274176"
+            ],
+            "id": "1641533645860274176",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 22
+            },
+            "created_at": "2023-03-29T09:51:33.000Z",
+            "text": "Catching up on Twitter while I wait for a data transfer \ud83e\udd70",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 15,
+                              "end": 21,
+                              "probability": 0.9799,
+                              "type": "Other",
+                              "normalized_text": "Twitter"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1641015228099096576"
+            ],
+            "id": "1641015228099096576",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 91
+            },
+            "created_at": "2023-03-29T06:15:51.000Z",
+            "text": "My March: went to Dubai -&gt; ate a shit ton of food -&gt; gained 5 kilos. I feel fantastic and fit. Time to shred.",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 18,
+                              "end": 22,
+                              "probability": 0.9955,
+                              "type": "Place",
+                              "normalized_text": "Dubai"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1640960944779173888"
+            ],
+            "id": "1640960944779173888",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 226
+            },
+            "created_at": "2023-03-28T05:08:36.000Z",
+            "text": "I'm thrilled to announce that I've been accepted into the Singapore International Pre-Graduate Award 2023 by @astar_research! \ud83c\udf89 It's an incredible opportunity to learn from and contribute to cutting-edge research. I'm grateful for this chance and excited to make the most of it.",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 58,
+                              "end": 99,
+                              "probability": 0.7277,
+                              "type": "Other",
+                              "normalized_text": "Singapore International Pre-Graduate Award"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 109,
+                              "end": 124,
+                              "username": "astar_research",
+                              "id": "83500405"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1640581632661901314"
+            ],
+            "id": "1640581632661901314",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 44
+            },
+            "created_at": "2023-03-13T00:46:47.000Z",
+            "text": "Got 3 books for the price of one. Love you Connaught Place!",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 34,
+                              "end": 37,
+                              "probability": 0.5263,
+                              "type": "Other",
+                              "normalized_text": "Love"
+                        },
+                        {
+                              "start": 43,
+                              "end": 57,
+                              "probability": 0.908,
+                              "type": "Other",
+                              "normalized_text": "Connaught Place"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1635079928529174529"
+            ],
+            "id": "1635079928529174529",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 27
+            },
+            "created_at": "2023-03-11T16:26:58.000Z",
+            "text": "I love life.",
+            "edit_history_tweet_ids": [
+                  "1634591754723946496"
+            ],
+            "id": "1634591754723946496",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 35
+            },
+            "created_at": "2023-02-15T07:38:24.000Z",
+            "text": "A kid in my intro to computer programming course just recommended computing fib(100) in scientific notion, to make it smaller, when we said it was a very large number to compute :)",
+            "edit_history_tweet_ids": [
+                  "1625761427758911491"
+            ],
+            "id": "1625761427758911491",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 38
+            },
+            "created_at": "2023-02-15T06:12:11.000Z",
+            "text": "The only good thing about the old intel Macs is that you don't have cold fingers during winters. Thanks  #Apple for the hypothermia. @MKBHD Overheating: A winter perk?",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 106,
+                              "end": 110,
+                              "probability": 0.8452,
+                              "type": "Organization",
+                              "normalized_text": "Apple"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 105,
+                              "end": 111,
+                              "tag": "Apple"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 133,
+                              "end": 139,
+                              "username": "MKBHD",
+                              "id": "29873662"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1625739733082198017"
+            ],
+            "id": "1625739733082198017",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 39
+            },
+            "created_at": "2023-02-12T14:56:44.000Z",
+            "text": "Came across a very interesting article that anyone researching cancer must read.  Check it out\nhttps://t.co/fSi4R3Xlft",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 63,
+                              "end": 68,
+                              "probability": 0.5599,
+                              "type": "Other",
+                              "normalized_text": "cancer"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 95,
+                              "end": 118,
+                              "url": "https://t.co/fSi4R3Xlft",
+                              "expanded_url": "https://theconversation.com/cancer-evolution-is-mathematical-how-random-processes-and-epigenetics-can-explain-why-tumor-cells-shape-shift-metastasize-and-resist-treatments-199398",
+                              "display_url": "theconversation.com/cancer-evoluti\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1638556191516418049/0reHHksa?format=jpg&name=orig",
+                                          "width": 1356,
+                                          "height": 668
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1638556191516418049/0reHHksa?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "Cancer evolution is mathematical \u2013\u00a0how random processes and epigenetics can explain why tumor cells shape-shift, metastasize and resist treatments",
+                              "description": "An epigenetic model of cancer that incorporates the concept of stochasticity could also explain why cancer risk increases with age and how biological development can be reversible.",
+                              "unwound_url": "https://theconversation.com/cancer-evolution-is-mathematical-how-random-processes-and-epigenetics-can-explain-why-tumor-cells-shape-shift-metastasize-and-resist-treatments-199398"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1624784574755774466"
+            ],
+            "id": "1624784574755774466",
+            "author_id": "1500014958238584835"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 37
+            },
+            "created_at": "2023-02-12T07:06:18.000Z",
+            "text": "If you actually think about it, #ChatGPT  and similar tools can be so powerful in adapting to the learning levels of different people.\n\nMaybe a second thought, from the apprehensive folks, can change this opinion and also help a ton of students learn better. #OpenAI #AI",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 33,
+                              "end": 39,
+                              "probability": 0.7399,
+                              "type": "Other",
+                              "normalized_text": "ChatGPT"
+                        },
+                        {
+                              "start": 260,
+                              "end": 265,
+                              "probability": 0.3638,
+                              "type": "Organization",
+                              "normalized_text": "OpenAI"
+                        },
+                        {
+                              "start": 268,
+                              "end": 269,
+                              "probability": 0.573,
+                              "type": "Organization",
+                              "normalized_text": "AI"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 32,
+                              "end": 40,
+                              "tag": "ChatGPT"
+                        },
+                        {
+                              "start": 259,
+                              "end": 266,
+                              "tag": "OpenAI"
+                        },
+                        {
+                              "start": 267,
+                              "end": 270,
+                              "tag": "AI"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1624666185265733632"
+            ],
+            "id": "1624666185265733632",
+            "author_id": "1500014958238584835"
+      }
+]

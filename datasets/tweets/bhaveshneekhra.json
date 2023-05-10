@@ -1,0 +1,272 @@
+[
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 94
+            },
+            "edit_history_tweet_ids": [
+                  "1643124481735684097"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 74,
+                              "end": 97,
+                              "url": "https://t.co/Qg9stUIpCq",
+                              "expanded_url": "https://twitter.com/bhaveshneekhra/status/1643124481735684097/photo/1",
+                              "display_url": "pic.twitter.com/Qg9stUIpCq",
+                              "media_key": "3_1643124473837789185"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 45,
+                              "end": 51,
+                              "probability": 0.9797,
+                              "type": "Other",
+                              "normalized_text": "Twitter"
+                        }
+                  ]
+            },
+            "id": "1643124481735684097",
+            "author_id": "18670834",
+            "text": "What\u2019s that new icon in middle of the mobile Twitter? What\u2019s the purpose? https://t.co/Qg9stUIpCq",
+            "created_at": "2023-04-04T05:32:58.000Z"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 124
+            },
+            "edit_history_tweet_ids": [
+                  "1639281740467273732"
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 8,
+                              "end": 20,
+                              "username": "PlakshaUniv",
+                              "id": "1095905786314743809"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 26,
+                              "end": 31,
+                              "probability": 0.763,
+                              "type": "Organization",
+                              "normalized_text": "ConfAI"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 25,
+                              "end": 32,
+                              "tag": "ConfAI"
+                        }
+                  ]
+            },
+            "id": "1639281740467273732",
+            "author_id": "18670834",
+            "text": "Thanks, @PlakshaUniv for #ConfAI. Great line of speakers, and inspiring talks. Lot of learning with engaging discussions.",
+            "created_at": "2023-03-24T15:03:17.000Z"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 77
+            },
+            "edit_history_tweet_ids": [
+                  "1638426323591868417"
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 93,
+                              "end": 105,
+                              "username": "PlakshaUniv",
+                              "id": "1095905786314743809"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 0,
+                              "end": 7,
+                              "tag": "ConfAI"
+                        }
+                  ]
+            },
+            "id": "1638426323591868417",
+            "author_id": "18670834",
+            "text": "#ConfAI\nDay 1 started with interesting keynote and invited talks. Great learning experience.\n@PlakshaUniv",
+            "created_at": "2023-03-22T06:24:10.000Z"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 124
+            },
+            "edit_history_tweet_ids": [
+                  "1637055368416096257"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 33,
+                              "end": 56,
+                              "url": "https://t.co/9EUqpv7FUf",
+                              "expanded_url": "https://iclr.cc",
+                              "display_url": "iclr.cc",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1637055374929850369/W4odSqFn?format=jpg&name=orig",
+                                          "width": 400,
+                                          "height": 266
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1637055374929850369/W4odSqFn?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "ICLR 2023",
+                              "description": "Conference Platform",
+                              "unwound_url": "https://iclr.cc"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 25,
+                              "probability": 0.6119,
+                              "type": "Other",
+                              "normalized_text": "ICLR"
+                        }
+                  ]
+            },
+            "id": "1637055368416096257",
+            "author_id": "18670834",
+            "text": "I just registered for ICLR 2023! https://t.co/9EUqpv7FUf",
+            "created_at": "2023-03-18T11:36:29.000Z"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 15
+            },
+            "edit_history_tweet_ids": [
+                  "1635594865244528640"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 53,
+                              "end": 76,
+                              "url": "https://t.co/39Hwh0fNXl",
+                              "expanded_url": "https://www.conf-ai.com/event-details-registration/confai-2023",
+                              "display_url": "conf-ai.com/event-details-\u2026",
+                              "status": 200,
+                              "title": "Register | ConfAI 2023",
+                              "description": "ConfAI is a prestigious academic conference organized by Plaksha University, with technical sponsorship of IEEE Chandigarh Sub-Section. This 3-day academic conference aims to highlight the potential of AI and Data Science in finding effective solutions to societal challenges by bringing together leading academicians, scientists, thought leaders, and practitioners working in this interdisciplinary domain. ConfAI 2023 will provide a platform for networking, exploring potential collaborations and learning from the leaders in AI & Data Science. The conference program features keynote speeches, paper presentations, panel discussions, and poster sessions. Attendees will have the opportunity to learn from and interact with experts from various fields in AI and Data Science.\u00a0 Presentations at ConfAI will look at fundamental contributions in the areas of AI and Data Science. The conference will focus on theory of AI (algorithms, representation learning, data modelling, inference methods, privac",
+                              "unwound_url": "https://www.conf-ai.com/event-details-registration/confai-2023"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 45,
+                              "end": 52,
+                              "tag": "events"
+                        }
+                  ]
+            },
+            "id": "1635594865244528640",
+            "author_id": "18670834",
+            "text": "Check out this event. Hope to see you there! #events https://t.co/39Hwh0fNXl",
+            "created_at": "2023-03-14T10:52:58.000Z"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 78
+            },
+            "edit_history_tweet_ids": [
+                  "1624054515400933380"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 61,
+                              "end": 84,
+                              "url": "https://t.co/zchBVZbOlm",
+                              "expanded_url": "https://twitter.com/EnviroEm/status/1623665417947414528",
+                              "display_url": "twitter.com/EnviroEm/statu\u2026"
+                        }
+                  ]
+            },
+            "id": "1624054515400933380",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1623665417947414528"
+                  }
+            ],
+            "author_id": "18670834",
+            "text": "strong argument for decentralisation of community resources\u2026 https://t.co/zchBVZbOlm",
+            "created_at": "2023-02-10T14:35:44.000Z"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 75
+            },
+            "edit_history_tweet_ids": [
+                  "1611284665184456705"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 22,
+                              "end": 45,
+                              "url": "https://t.co/53z2BmVqLf",
+                              "expanded_url": "https://twitter.com/bhaveshneekhra/status/1611284665184456705/photo/1",
+                              "display_url": "pic.twitter.com/53z2BmVqLf",
+                              "media_key": "3_1611284657387229184"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 0,
+                              "end": 21,
+                              "tag": "MyTwitterAnniversary"
+                        }
+                  ]
+            },
+            "id": "1611284665184456705",
+            "author_id": "18670834",
+            "text": "#MyTwitterAnniversary https://t.co/53z2BmVqLf",
+            "created_at": "2023-01-06T08:52:55.000Z"
+      }
+]

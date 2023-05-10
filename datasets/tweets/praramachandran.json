@@ -1,0 +1,83 @@
+[
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 317
+            },
+            "text": "Instagram is glitching, but I\u2019m not complaining\u2014you can hire me, just saying",
+            "id": "1626978941788426240",
+            "created_at": "2023-02-18T16:16:22.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 8,
+                              "probability": 0.9791,
+                              "type": "Other",
+                              "normalized_text": "Instagram"
+                        }
+                  ]
+            },
+            "author_id": "1317772351371497472",
+            "edit_history_tweet_ids": [
+                  "1626978941788426240"
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 416
+            },
+            "text": "my Tamil family cracks the same joke every time they hear me say \u201chey siri\u201d",
+            "id": "1616414023809138693",
+            "created_at": "2023-01-20T12:35:09.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 70,
+                              "end": 73,
+                              "probability": 0.7328,
+                              "type": "Other",
+                              "normalized_text": "siri"
+                        }
+                  ]
+            },
+            "author_id": "1317772351371497472",
+            "edit_history_tweet_ids": [
+                  "1616414023809138693"
+            ]
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 922
+            },
+            "text": "Is there a feature on Google Maps that allows you to find nice  places between a friend\u2019s location and yours?",
+            "id": "1614509561691656193",
+            "created_at": "2023-01-15T06:27:30.000Z",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 32,
+                              "probability": 0.9662,
+                              "type": "Other",
+                              "normalized_text": "Google Maps"
+                        }
+                  ]
+            },
+            "author_id": "1317772351371497472",
+            "edit_history_tweet_ids": [
+                  "1614509561691656193"
+            ]
+      }
+]

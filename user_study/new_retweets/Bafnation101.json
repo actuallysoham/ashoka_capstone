@@ -1,0 +1,1736 @@
+[
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 16,
+                              "end": 20,
+                              "probability": 0.808,
+                              "type": "Other",
+                              "normalized_text": "arial"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 14,
+                              "username": "mastiicore",
+                              "id": "1398934471345201152"
+                        }
+                  ]
+            },
+            "id": "1652268767987265537",
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1652239806322315265"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1652268767987265537"
+            ],
+            "created_at": "2023-04-29T11:09:06.000Z",
+            "text": "RT @mastiicore: arial is such an ugly font",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1651602001283911686",
+            "edit_history_tweet_ids": [
+                  "1651602001283911686"
+            ],
+            "created_at": "2023-04-27T14:59:37.000Z",
+            "text": "A paper I was reading ended 4 pages earlier than I thought it would and this is the highlight of my day now",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 75
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1651585622698491906",
+            "edit_history_tweet_ids": [
+                  "1651585622698491906"
+            ],
+            "created_at": "2023-04-27T13:54:32.000Z",
+            "text": "walked into the library and instantly saw the looks of \u201cu don\u2019t belong here\u201d on everybody I didn\u2019t even know where the washroom was",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 131
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1651366386642604032",
+            "edit_history_tweet_ids": [
+                  "1651366386642604032"
+            ],
+            "created_at": "2023-04-26T23:23:22.000Z",
+            "text": "Why is my prof up texting me at 5 am",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 65
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1651127422589497345",
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1650560239044014080"
+                  }
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "PicturesFoIder",
+                              "id": "2538322138"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 20,
+                              "end": 43,
+                              "url": "https://t.co/DbUWbxb6KR",
+                              "expanded_url": "https://twitter.com/PicturesFoIder/status/1650560239044014080/photo/1",
+                              "display_url": "pic.twitter.com/DbUWbxb6KR",
+                              "media_key": "3_1650341573735989252"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1651127422589497345"
+            ],
+            "created_at": "2023-04-26T07:33:48.000Z",
+            "text": "RT @PicturesFoIder: https://t.co/DbUWbxb6KR",
+            "public_metrics": {
+                  "retweet_count": 19920,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1651114724157714432",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1650955573884764160"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1651114724157714432"
+            ],
+            "created_at": "2023-04-26T06:43:21.000Z",
+            "text": "i hate soft edges",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 50
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 68,
+                              "end": 74,
+                              "probability": 0.6309,
+                              "type": "Other",
+                              "normalized_text": "akgebra"
+                        }
+                  ]
+            },
+            "id": "1651114539910414337",
+            "edit_history_tweet_ids": [
+                  "1651114539910414337"
+            ],
+            "created_at": "2023-04-26T06:42:37.000Z",
+            "text": "And just like that on a random Wednesday afternoon, the last linear akgebra lecture got over",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 102
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 15,
+                              "end": 21,
+                              "probability": 0.9442,
+                              "type": "Other",
+                              "normalized_text": "spotify"
+                        }
+                  ]
+            },
+            "id": "1650955573884764160",
+            "edit_history_tweet_ids": [
+                  "1650955573884764160"
+            ],
+            "created_at": "2023-04-25T20:10:56.000Z",
+            "text": "tf is this new spotify ui",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 117
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 12,
+                              "end": 19,
+                              "probability": 0.6953,
+                              "type": "Place",
+                              "normalized_text": "Calcutta"
+                        }
+                  ]
+            },
+            "id": "1650937108239114240",
+            "edit_history_tweet_ids": [
+                  "1650937108239114240"
+            ],
+            "created_at": "2023-04-25T18:57:34.000Z",
+            "text": "How dare my Calcutta friends have fun without me",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 47
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 8,
+                              "end": 15,
+                              "probability": 0.8361,
+                              "type": "Person",
+                              "normalized_text": "timothee"
+                        },
+                        {
+                              "start": 21,
+                              "end": 32,
+                              "probability": 0.9128,
+                              "type": "Person",
+                              "normalized_text": "kylie Jenner"
+                        }
+                  ]
+            },
+            "id": "1650638417410293760",
+            "edit_history_tweet_ids": [
+                  "1650638417410293760"
+            ],
+            "created_at": "2023-04-24T23:10:40.000Z",
+            "text": "no what timothee and kylie Jenner excuse me what",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 327
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 93,
+                              "end": 95,
+                              "probability": 0.5035,
+                              "type": "Organization",
+                              "normalized_text": "nba"
+                        }
+                  ]
+            },
+            "id": "1650612458149511170",
+            "edit_history_tweet_ids": [
+                  "1650612458149511170"
+            ],
+            "created_at": "2023-04-24T21:27:31.000Z",
+            "text": "once again i have decided to keep this assignment due in 3 hours on the backburner and watch nba",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 6,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 196
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 26,
+                              "end": 31,
+                              "probability": 0.7697,
+                              "type": "Other",
+                              "normalized_text": "dil nu"
+                        }
+                  ]
+            },
+            "id": "1650612256206475266",
+            "edit_history_tweet_ids": [
+                  "1650612256206475266"
+            ],
+            "created_at": "2023-04-24T21:26:43.000Z",
+            "text": "jus out here listening to dil nu at 3 am missing my school friends",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 58
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1650576969619103755",
+            "edit_history_tweet_ids": [
+                  "1650576969619103755"
+            ],
+            "created_at": "2023-04-24T19:06:30.000Z",
+            "text": "feeling left out where is my sg drama mail",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 237
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 7,
+                              "probability": 0.9566,
+                              "type": "Other",
+                              "normalized_text": "WhatsApp"
+                        }
+                  ]
+            },
+            "id": "1650438383737483266",
+            "edit_history_tweet_ids": [
+                  "1650438383737483266"
+            ],
+            "created_at": "2023-04-24T09:55:49.000Z",
+            "text": "WhatsApp flooded with vote for me for cs rep texts luv to c it",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 105
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1650364415840231424",
+            "edit_history_tweet_ids": [
+                  "1650364415840231424"
+            ],
+            "created_at": "2023-04-24T05:01:53.000Z",
+            "text": "take a shot every time my tf cancels the Monday DS",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 74
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1649904629508116480",
+            "edit_history_tweet_ids": [
+                  "1649904629508116480"
+            ],
+            "created_at": "2023-04-22T22:34:52.000Z",
+            "text": "Watching never have I ever at 4 am on my period while eating my big chill cookies n blissfully ignoring my 10 deadlines, life is goood",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 86
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5799,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1649119394587373568",
+            "edit_history_tweet_ids": [
+                  "1649119394587373568"
+            ],
+            "created_at": "2023-04-20T18:34:37.000Z",
+            "text": "Wordle 671 6/6\n\n\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\n\nI did this from one letter I\u2019m so proud",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 90
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 43,
+                              "end": 45,
+                              "probability": 0.6023,
+                              "type": "Other",
+                              "normalized_text": "twt"
+                        }
+                  ]
+            },
+            "id": "1648379799705116673",
+            "edit_history_tweet_ids": [
+                  "1648379799705116673"
+            ],
+            "created_at": "2023-04-18T17:35:44.000Z",
+            "text": "once again I find myself panic tweeting on twt.. instead of finishing this bloody ML assignment can AI quickly take all our jobs so I can just die a couch potato",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 103
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 27,
+                              "end": 28,
+                              "probability": 0.9583,
+                              "type": "Place",
+                              "normalized_text": "US"
+                        },
+                        {
+                              "start": 66,
+                              "end": 68,
+                              "probability": 0.8641,
+                              "type": "Organization",
+                              "normalized_text": "nba"
+                        }
+                  ]
+            },
+            "id": "1648379592477118464",
+            "edit_history_tweet_ids": [
+                  "1648379592477118464"
+            ],
+            "created_at": "2023-04-18T17:34:54.000Z",
+            "text": "I have no reason to go the US for grad school except proximity to nba matches and discounted branded shopping at outlet malls",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 63
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1648379382925508608",
+            "edit_history_tweet_ids": [
+                  "1648379382925508608"
+            ],
+            "created_at": "2023-04-18T17:34:04.000Z",
+            "text": "every time I promise myself I will not procrastinate this assignment till the last minute and then I.. do",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 128
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 31,
+                              "end": 34,
+                              "probability": 0.4324,
+                              "type": "Organization",
+                              "normalized_text": "mavs"
+                        }
+                  ]
+            },
+            "id": "1648378885019693056",
+            "edit_history_tweet_ids": [
+                  "1648378885019693056"
+            ],
+            "created_at": "2023-04-18T17:32:06.000Z",
+            "text": "what is the point of life when mavs aren\u2019t in the playoffs and warriors might lose",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 55
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 4,
+                              "end": 6,
+                              "probability": 0.5078,
+                              "type": "Other",
+                              "normalized_text": "TGR"
+                        },
+                        {
+                              "start": 8,
+                              "end": 16,
+                              "probability": 0.3776,
+                              "type": "Other",
+                              "normalized_text": "shikhandi"
+                        }
+                  ]
+            },
+            "id": "1647953297222025216",
+            "edit_history_tweet_ids": [
+                  "1647953297222025216"
+            ],
+            "created_at": "2023-04-17T13:20:58.000Z",
+            "text": "saw TGR shikhandi entry line thought it was pretzel day at the office",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 18,
+                  "quote_count": 0,
+                  "impression_count": 333
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1647720081789689856",
+            "edit_history_tweet_ids": [
+                  "1647720081789689856"
+            ],
+            "created_at": "2023-04-16T21:54:15.000Z",
+            "text": "No bcs I actually forgot I had an assignment due this Tuesday wtf",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 118
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 46,
+                              "end": 62,
+                              "probability": 0.9477,
+                              "type": "Person",
+                              "normalized_text": "timothee chalamet"
+                        },
+                        {
+                              "start": 80,
+                              "end": 86,
+                              "probability": 0.9538,
+                              "type": "Other",
+                              "normalized_text": "YouTube"
+                        }
+                  ]
+            },
+            "id": "1647448490719731712",
+            "edit_history_tweet_ids": [
+                  "1647448490719731712"
+            ],
+            "created_at": "2023-04-16T03:55:02.000Z",
+            "text": "just introduced my friends to the joy that is timothee chalamet\u2019s old videos on YouTube, you are welcome everybody &lt;3",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 330
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1647086302842753025",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1646972253685575680"
+                  }
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 0,
+                              "end": 11,
+                              "username": "eyeleyejah",
+                              "id": "3307978034"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1647086302842753025"
+            ],
+            "created_at": "2023-04-15T03:55:50.000Z",
+            "text": "@eyeleyejah Wtf",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 101
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 29,
+                              "end": 34,
+                              "probability": 0.4489,
+                              "type": "Person",
+                              "normalized_text": "Ashoka"
+                        },
+                        {
+                              "start": 80,
+                              "end": 82,
+                              "probability": 0.6846,
+                              "type": "Place",
+                              "normalized_text": "Goa"
+                        }
+                  ]
+            },
+            "id": "1646968947106025474",
+            "edit_history_tweet_ids": [
+                  "1646968947106025474"
+            ],
+            "created_at": "2023-04-14T20:09:30.000Z",
+            "text": "God has a favourite and it\u2019s Ashoka women\u2019s football team mf even I wanna go to Goa in the middle of the sem pls",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 22,
+                  "quote_count": 0,
+                  "impression_count": 778
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1646860274002186243",
+            "edit_history_tweet_ids": [
+                  "1646860274002186243"
+            ],
+            "created_at": "2023-04-14T12:57:41.000Z",
+            "text": "In a session rn where the speaker\u2019s referring to leaders as \u201che\u201d and displaying only male CEOs as examples\u2026 guess I signed up for a talk back in the 19th century",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 155
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1646733702142259200",
+            "edit_history_tweet_ids": [
+                  "1646733702142259200"
+            ],
+            "created_at": "2023-04-14T04:34:44.000Z",
+            "text": "Y is this woman screaming in the bathroom stall at 10 in the morning can she pls stop",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 63
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1646583436466081794",
+            "edit_history_tweet_ids": [
+                  "1646583436466081794"
+            ],
+            "created_at": "2023-04-13T18:37:37.000Z",
+            "text": "Truly forgot how unbearable some people were until I had a whole ass conversation w them after months",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 73
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1646348737374208001",
+            "edit_history_tweet_ids": [
+                  "1646348737374208001"
+            ],
+            "created_at": "2023-04-13T03:05:01.000Z",
+            "text": "The way the professor the TA and I are the only 3 people on call for this 8:30 lecture is scaring me",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 335
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 152,
+                              "end": 155,
+                              "probability": 0.5184,
+                              "type": "Other",
+                              "normalized_text": "gpt3"
+                        },
+                        {
+                              "start": 178,
+                              "end": 185,
+                              "probability": 0.6978,
+                              "type": "Other",
+                              "normalized_text": "leetcode"
+                        }
+                  ]
+            },
+            "id": "1646225018748280832",
+            "edit_history_tweet_ids": [
+                  "1646225018748280832"
+            ],
+            "created_at": "2023-04-12T18:53:24.000Z",
+            "text": "no hate but y is business club writing misinformation ab gpt-4 bcs it literally cannot solve math or cs problems, its performance is way below average (gpt3 had a score of 0 for leetcode hard)",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 86
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1645842639663812609",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1645810765247692802"
+                  }
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 0,
+                              "end": 14,
+                              "username": "fairycatmanya",
+                              "id": "725692375285260290"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1645842639663812609"
+            ],
+            "created_at": "2023-04-11T17:33:58.000Z",
+            "text": "@fairycatmanya that\u2019s what I thought fr",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 52
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 5,
+                              "end": 22,
+                              "probability": 0.6586,
+                              "type": "Person",
+                              "normalized_text": "millie bobby brown"
+                        }
+                  ]
+            },
+            "id": "1645781286848729090",
+            "edit_history_tweet_ids": [
+                  "1645781286848729090"
+            ],
+            "created_at": "2023-04-11T13:30:10.000Z",
+            "text": "wdym millie bobby brown is engaged at 19???  what",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 100
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1645476816763617291",
+            "edit_history_tweet_ids": [
+                  "1645476816763617291"
+            ],
+            "created_at": "2023-04-10T17:20:19.000Z",
+            "text": "you know your dad misses you when he starts texting you with emojis",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 71
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1645134039748313088",
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645054122968641537"
+                  }
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "REGINAVGEORGE",
+                              "id": "1323972077498572800"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 19,
+                              "end": 42,
+                              "url": "https://t.co/8XqCgLb7nC",
+                              "expanded_url": "https://twitter.com/REGINAVGEORGE/status/1645054122968641537/photo/1",
+                              "display_url": "pic.twitter.com/8XqCgLb7nC",
+                              "media_key": "3_1645054119067959297"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1645134039748313088"
+            ],
+            "created_at": "2023-04-09T18:38:14.000Z",
+            "text": "RT @REGINAVGEORGE: https://t.co/8XqCgLb7nC",
+            "public_metrics": {
+                  "retweet_count": 941,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 18,
+                              "end": 24,
+                              "probability": 0.9249,
+                              "type": "Product",
+                              "normalized_text": "iPhones"
+                        }
+                  ]
+            },
+            "id": "1644988009094459394",
+            "edit_history_tweet_ids": [
+                  "1644988009094459394"
+            ],
+            "created_at": "2023-04-09T08:57:58.000Z",
+            "text": "u realise j how g iPhones r sometimes when ur in a hurry to finish the acc hunt n r able to copy paste text/open links from screenshots",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 76
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 31,
+                              "end": 38,
+                              "probability": 0.983,
+                              "type": "Other",
+                              "normalized_text": "Snapchat"
+                        }
+                  ]
+            },
+            "id": "1644836898739822596",
+            "edit_history_tweet_ids": [
+                  "1644836898739822596"
+            ],
+            "created_at": "2023-04-08T22:57:30.000Z",
+            "text": "Once in 2 months I\u2019ll remember Snapchat exists and every time there\u2019s a new fucking UI update",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 130
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1644727931347013632",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1644702892169871364"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1644727931347013632"
+            ],
+            "created_at": "2023-04-08T15:44:31.000Z",
+            "text": "Good only https://t.co/YJxmeNhlzB",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 143
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 10,
+                              "end": 33,
+                              "url": "https://t.co/YJxmeNhlzB",
+                              "expanded_url": "https://twitter.com/Mavs_FFL/status/1644702892169871364",
+                              "display_url": "twitter.com/Mavs_FFL/statu\u2026"
+                        }
+                  ]
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 34,
+                              "end": 41,
+                              "probability": 0.8841,
+                              "type": "Other",
+                              "normalized_text": "LinkedIn"
+                        }
+                  ]
+            },
+            "id": "1644588661458210816",
+            "edit_history_tweet_ids": [
+                  "1644588661458210816"
+            ],
+            "created_at": "2023-04-08T06:31:06.000Z",
+            "text": "Want 2 vomit every time I open my LinkedIn feed",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 78
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 27,
+                              "end": 37,
+                              "probability": 0.3463,
+                              "type": "Other",
+                              "normalized_text": "St. Patrick"
+                        }
+                  ]
+            },
+            "id": "1644084400311906304",
+            "edit_history_tweet_ids": [
+                  "1644084400311906304"
+            ],
+            "created_at": "2023-04-06T21:07:21.000Z",
+            "text": "Mess woke up n said Indian St. Patrick\u2019s day for lunch today",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 100
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1644015674346315794",
+            "edit_history_tweet_ids": [
+                  "1644015674346315794"
+            ],
+            "created_at": "2023-04-06T16:34:15.000Z",
+            "text": "I am so exhausted of being an overworked woman in stem",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 133
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1644013082753024001",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643809007440896002"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1644013082753024001"
+            ],
+            "created_at": "2023-04-06T16:23:57.000Z",
+            "text": "Defeated the kings I am so happy https://t.co/SsvBAooBjp",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 130
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 33,
+                              "end": 56,
+                              "url": "https://t.co/SsvBAooBjp",
+                              "expanded_url": "https://twitter.com/dallasmavs/status/1643809007440896002",
+                              "display_url": "twitter.com/dallasmavs/sta\u2026"
+                        }
+                  ]
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.449,
+                              "type": "Other",
+                              "normalized_text": "Melted"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 7,
+                              "end": 30,
+                              "url": "https://t.co/x2coXxUyEX",
+                              "expanded_url": "https://twitter.com/CallieCaplan/status/1643302044093014023",
+                              "display_url": "twitter.com/CallieCaplan/s\u2026"
+                        }
+                  ]
+            },
+            "id": "1643324581866790915",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643302044093014023"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1643324581866790915"
+            ],
+            "created_at": "2023-04-04T18:48:06.000Z",
+            "text": "Melted https://t.co/x2coXxUyEX",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 160
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1643201145865633792",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643091279323230209"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1643201145865633792"
+            ],
+            "created_at": "2023-04-04T10:37:37.000Z",
+            "text": "This is hurting my eyes https://t.co/AmdaahBZaE",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 111
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 24,
+                              "end": 47,
+                              "url": "https://t.co/AmdaahBZaE",
+                              "expanded_url": "https://twitter.com/NBAMemes/status/1643091279323230209",
+                              "display_url": "twitter.com/NBAMemes/statu\u2026"
+                        }
+                  ]
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 42,
+                              "end": 51,
+                              "probability": 0.6324,
+                              "type": "Person",
+                              "normalized_text": "Luka-Kyrie"
+                        },
+                        {
+                              "start": 72,
+                              "end": 75,
+                              "probability": 0.7335,
+                              "type": "Organization",
+                              "normalized_text": "Mavs"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 12,
+                              "username": "NBAMemes",
+                              "id": "487393551"
+                        }
+                  ]
+            },
+            "id": "1643201044485226498",
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1643102279711756288"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1643201044485226498"
+            ],
+            "created_at": "2023-04-04T10:37:12.000Z",
+            "text": "RT @NBAMemes: Man it's tough to watch the Luka-Kyrie duo. \n\nIf only the Mavs had a 2 way guard and an elite rim protecting big who could al\u2026",
+            "public_metrics": {
+                  "retweet_count": 397,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 12,
+                              "probability": 0.8219,
+                              "type": "Person",
+                              "normalized_text": "Lewis capaldi"
+                        }
+                  ]
+            },
+            "id": "1642836834081452033",
+            "edit_history_tweet_ids": [
+                  "1642836834081452033"
+            ],
+            "created_at": "2023-04-03T10:29:58.000Z",
+            "text": "Lewis capaldi\u2019s twt is the most wholesome thing pls",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 75
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 14,
+                              "end": 23,
+                              "probability": 0.9782,
+                              "type": "Person",
+                              "normalized_text": "Mark Cuban"
+                        },
+                        {
+                              "start": 30,
+                              "end": 34,
+                              "probability": 0.8835,
+                              "type": "Person",
+                              "normalized_text": "Kyrie"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 12,
+                              "username": "NBAMemes",
+                              "id": "487393551"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 70,
+                              "end": 93,
+                              "url": "https://t.co/NHuhcmLyAb",
+                              "expanded_url": "https://twitter.com/NBAMemes/status/1642633016400056320/photo/1",
+                              "display_url": "pic.twitter.com/NHuhcmLyAb",
+                              "media_key": "3_1642632980169641984"
+                        }
+                  ]
+            },
+            "id": "1642647360550363139",
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1642633016400056320"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1642647360550363139"
+            ],
+            "created_at": "2023-04-02T21:57:04.000Z",
+            "text": "RT @NBAMemes: Mark Cuban when Kyrie pitches for a contract extension\ud83d\ude02 https://t.co/NHuhcmLyAb",
+            "public_metrics": {
+                  "retweet_count": 73,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 34,
+                              "end": 40,
+                              "probability": 0.5976,
+                              "type": "Other",
+                              "normalized_text": "chatgpt"
+                        }
+                  ]
+            },
+            "id": "1642606004259962883",
+            "edit_history_tweet_ids": [
+                  "1642606004259962883"
+            ],
+            "created_at": "2023-04-02T19:12:44.000Z",
+            "text": "wtf am i supposed to do when even chatgpt gets my doubt incorrect 5 times..",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 78
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1642583143579541509",
+            "edit_history_tweet_ids": [
+                  "1642583143579541509"
+            ],
+            "created_at": "2023-04-02T17:41:53.000Z",
+            "text": "Till this date I think the best advice I\u2019ve ever received is that whenever you speak to your juniors ab a mishap, just think about what you, as a junior, would\u2019ve wanted to hear from your seniors in that moment and then I proceed to voice my thoughts",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 173
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1642515027172159497",
+            "edit_history_tweet_ids": [
+                  "1642515027172159497"
+            ],
+            "created_at": "2023-04-02T13:11:13.000Z",
+            "text": "most non-linear linear algebra I have ever done this sem",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 66
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 19,
+                              "end": 30,
+                              "probability": 0.831,
+                              "type": "Person",
+                              "normalized_text": "Krispy Kreme"
+                        }
+                  ]
+            },
+            "id": "1642485536903290881",
+            "edit_history_tweet_ids": [
+                  "1642485536903290881"
+            ],
+            "created_at": "2023-04-02T11:14:02.000Z",
+            "text": "okay I\u2019ll say it - Krispy Kreme isn\u2019t even that tasty\ud83d\ude4f\n(not to mention insanely overpriced)",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 377
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1642269821168484352",
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1641954392122294275"
+                  }
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "REGINAVGEORGE",
+                              "id": "1323972077498572800"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 19,
+                              "end": 42,
+                              "url": "https://t.co/tZTQsa6qGi",
+                              "expanded_url": "https://twitter.com/REGINAVGEORGE/status/1641954392122294275/photo/1",
+                              "display_url": "pic.twitter.com/tZTQsa6qGi",
+                              "media_key": "3_1641954388494172161"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1642269821168484352"
+            ],
+            "created_at": "2023-04-01T20:56:51.000Z",
+            "text": "RT @REGINAVGEORGE: https://t.co/tZTQsa6qGi",
+            "public_metrics": {
+                  "retweet_count": 1164,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1642269172636741636",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1642241855214501888"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1642269172636741636"
+            ],
+            "created_at": "2023-04-01T20:54:17.000Z",
+            "text": "me https://t.co/wKdEE5I4cV",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 109
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 3,
+                              "end": 26,
+                              "url": "https://t.co/wKdEE5I4cV",
+                              "expanded_url": "https://twitter.com/NBAMemes/status/1642241855214501888",
+                              "display_url": "twitter.com/NBAMemes/statu\u2026"
+                        }
+                  ]
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 25,
+                              "end": 30,
+                              "probability": 0.8204,
+                              "type": "Organization",
+                              "normalized_text": "lakers"
+                        }
+                  ]
+            },
+            "id": "1642094234277941248",
+            "edit_history_tweet_ids": [
+                  "1642094234277941248"
+            ],
+            "created_at": "2023-04-01T09:19:08.000Z",
+            "text": "The post season nets and lakers are proof that having \u201cbig 3\u201d players will get you nowhere",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 93
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1642070580135436288",
+            "edit_history_tweet_ids": [
+                  "1642070580135436288"
+            ],
+            "created_at": "2023-04-01T07:45:09.000Z",
+            "text": "just had a banana, oats AND granola for brunch who is this girl n what has she done to me",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 71
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 3,
+                              "probability": 0.4866,
+                              "type": "Other",
+                              "normalized_text": "Mavs"
+                        }
+                  ]
+            },
+            "id": "1641909084860596224",
+            "edit_history_tweet_ids": [
+                  "1641909084860596224"
+            ],
+            "created_at": "2023-03-31T21:03:25.000Z",
+            "text": "Mavs aren\u2019t making playoffs or playins I am so fucking upset",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 76
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1641908611797630976",
+            "edit_history_tweet_ids": [
+                  "1641908611797630976"
+            ],
+            "created_at": "2023-03-31T21:01:32.000Z",
+            "text": "successfully wasted 30 mins reminiscing old posts on my spam i fucking hate nostalgia back to goal setting for the future",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 105
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1641900944597340160",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1641900696944656384"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1641900944597340160"
+            ],
+            "created_at": "2023-03-31T20:31:04.000Z",
+            "text": "compilations* sorry autocorrect u r articulate-r",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 56
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 24,
+                              "end": 32,
+                              "probability": 0.6654,
+                              "type": "Other",
+                              "normalized_text": "HerCampus"
+                        }
+                  ]
+            },
+            "id": "1641900696944656384",
+            "edit_history_tweet_ids": [
+                  "1641900696944656384"
+            ],
+            "created_at": "2023-03-31T20:30:05.000Z",
+            "text": "confused bw tweeting ab HerCampus twt complications and turning up on their feed",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 83
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1641557934034518016",
+            "edit_history_tweet_ids": [
+                  "1641557934034518016"
+            ],
+            "created_at": "2023-03-30T21:48:04.000Z",
+            "text": "me https://t.co/oCFo1QRWzW",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 59
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 3,
+                              "end": 26,
+                              "url": "https://t.co/oCFo1QRWzW",
+                              "expanded_url": "https://twitter.com/contextdogs/status/1641516597029249036",
+                              "display_url": "twitter.com/contextdogs/st\u2026"
+                        }
+                  ]
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.5839,
+                              "type": "Other",
+                              "normalized_text": "Wordle"
+                        }
+                  ]
+            },
+            "id": "1641520783758589952",
+            "edit_history_tweet_ids": [
+                  "1641520783758589952"
+            ],
+            "created_at": "2023-03-30T19:20:27.000Z",
+            "text": "Wordle 650 6/6\n\n\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\u2b1b\u2b1b\ud83d\udfe9\u2b1b\n\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b\n\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe8\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 58
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 74,
+                              "end": 78,
+                              "probability": 0.6814,
+                              "type": "Other",
+                              "normalized_text": "gta V"
+                        }
+                  ]
+            },
+            "id": "1641492931587584034",
+            "edit_history_tweet_ids": [
+                  "1641492931587584034"
+            ],
+            "created_at": "2023-03-30T17:29:47.000Z",
+            "text": "not my roommate telling me rn before she leaves in a month that she's had gta V on her laptop all along??? im so upset???",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 84
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 29,
+                              "end": 37,
+                              "probability": 0.6904,
+                              "type": "Other",
+                              "normalized_text": "Christina"
+                        },
+                        {
+                              "start": 45,
+                              "end": 48,
+                              "probability": 0.6995,
+                              "type": "Other",
+                              "normalized_text": "tris"
+                        }
+                  ]
+            },
+            "id": "1640772418645139456",
+            "edit_history_tweet_ids": [
+                  "1640772418645139456"
+            ],
+            "created_at": "2023-03-28T17:46:43.000Z",
+            "text": "today I found out four dates Christina after tris dies in the divergent series I am not ok wtf",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 88
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1640579064871243777",
+            "edit_history_tweet_ids": [
+                  "1640579064871243777"
+            ],
+            "created_at": "2023-03-28T04:58:24.000Z",
+            "text": "I don\u2019t understand how people come to math courses w/o anything like how do you understand from just watching someone else do math",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 72
+            },
+            "author_id": "1475475557932404736"
+      },
+      {
+            "id": "1640227015553867776",
+            "edit_history_tweet_ids": [
+                  "1640227015553867776"
+            ],
+            "created_at": "2023-03-27T05:39:29.000Z",
+            "text": "there's front benchers and then there's middle-seat-right-in-front-of-prof front benchers",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 109
+            },
+            "author_id": "1475475557932404736"
+      }
+]

@@ -1,0 +1,671 @@
+[
+      {
+            "text": "\"Whatever Hitler did was terrible, it was just wrong, but\" - Ashoka University Pro-VC",
+            "id": "1646029970064691203",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 10,
+                              "end": 15,
+                              "probability": 0.9715,
+                              "type": "Person",
+                              "normalized_text": "Hitler"
+                        },
+                        {
+                              "start": 61,
+                              "end": 81,
+                              "probability": 0.7398,
+                              "type": "Organization",
+                              "normalized_text": "Ashoka University Pro"
+                        }
+                  ]
+            },
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 13,
+                  "quote_count": 1,
+                  "impression_count": 399
+            },
+            "created_at": "2023-04-12T05:58:21.000Z",
+            "edit_history_tweet_ids": [
+                  "1646029970064691203"
+            ]
+      },
+      {
+            "text": "never seen a room's atmosphere get more awkward than when the CS prof had meeting with his research interns and decided to do a funny anecdote about \"the Jewish community\"",
+            "id": "1645322821579730944",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 203
+            },
+            "created_at": "2023-04-10T07:08:23.000Z",
+            "edit_history_tweet_ids": [
+                  "1645322821579730944"
+            ]
+      },
+      {
+            "text": "I never liked starbucks but stupid ACC has made me fucking HATE them I am never getting shitty overpriced \"iTS aBOut tHE EXpERieNCe\" coffee ever again I hope your whole entire business gets replaced by chatGPT",
+            "id": "1644679171468058625",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 14,
+                              "end": 22,
+                              "probability": 0.6882,
+                              "type": "Organization",
+                              "normalized_text": "starbucks"
+                        },
+                        {
+                              "start": 35,
+                              "end": 37,
+                              "probability": 0.5048,
+                              "type": "Organization",
+                              "normalized_text": "ACC"
+                        },
+                        {
+                              "start": 202,
+                              "end": 208,
+                              "probability": 0.4192,
+                              "type": "Organization",
+                              "normalized_text": "chatGPT"
+                        }
+                  ]
+            },
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 276
+            },
+            "created_at": "2023-04-08T12:30:45.000Z",
+            "edit_history_tweet_ids": [
+                  "1644679171468058625"
+            ]
+      },
+      {
+            "text": "withdrawing from my favourite course tomorrow (professor replied to my tweet about skipping his class)",
+            "id": "1642159169645199361",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 729
+            },
+            "created_at": "2023-04-01T13:37:10.000Z",
+            "edit_history_tweet_ids": [
+                  "1642159169645199361"
+            ]
+      },
+      {
+            "text": "Aditi are you coming to blackbox",
+            "id": "1641805146483990532",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 4,
+                              "probability": 0.7102,
+                              "type": "Other",
+                              "normalized_text": "Aditi"
+                        },
+                        {
+                              "start": 24,
+                              "end": 31,
+                              "probability": 0.4383,
+                              "type": "Other",
+                              "normalized_text": "blackbox"
+                        }
+                  ]
+            },
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 412
+            },
+            "created_at": "2023-03-31T14:10:24.000Z",
+            "edit_history_tweet_ids": [
+                  "1641805146483990532"
+            ]
+      },
+      {
+            "text": "walking down a hallway, one third year stops me and says bro I need to cheat on my linear algebra quiz, can I have your phone? Gives it back and he's literally just googled what is a 3x3 determinant, bro have some shame \ud83d\ude2d\ud83d\ude2d",
+            "id": "1641334133631905793",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 3,
+                  "like_count": 32,
+                  "quote_count": 2,
+                  "impression_count": 1519
+            },
+            "created_at": "2023-03-30T06:58:46.000Z",
+            "edit_history_tweet_ids": [
+                  "1641334133631905793"
+            ]
+      },
+      {
+            "text": "accurately predicted massive academic validation https://t.co/u1wyORETBQ",
+            "id": "1640954431012323330",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 275
+            },
+            "created_at": "2023-03-29T05:49:58.000Z",
+            "edit_history_tweet_ids": [
+                  "1640954431012323330"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 49,
+                              "end": 72,
+                              "url": "https://t.co/u1wyORETBQ",
+                              "expanded_url": "https://twitter.com/kkkarnav/status/1640954431012323330/photo/1",
+                              "display_url": "pic.twitter.com/u1wyORETBQ",
+                              "media_key": "3_1640954414570561538"
+                        }
+                  ]
+            }
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1637767311342936066"
+                  }
+            ],
+            "text": "preview of my new catchphrase https://t.co/7SL1e4sDFX",
+            "id": "1638587910042550272",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 18,
+                              "end": 28,
+                              "probability": 0.5489,
+                              "type": "Other",
+                              "normalized_text": "catchphrase"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 30,
+                              "end": 53,
+                              "url": "https://t.co/7SL1e4sDFX",
+                              "expanded_url": "https://twitter.com/fltchrr/status/1637767311342936066",
+                              "display_url": "twitter.com/fltchrr/status\u2026"
+                        }
+                  ]
+            },
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 273
+            },
+            "created_at": "2023-03-22T17:06:15.000Z",
+            "edit_history_tweet_ids": [
+                  "1638587910042550272"
+            ]
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1636022862560608256"
+                  }
+            ],
+            "text": "now he's talking about shoeshine boy inflation \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "id": "1636023772414201856",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 23,
+                              "end": 31,
+                              "probability": 0.4195,
+                              "type": "Person",
+                              "normalized_text": "shoeshine"
+                        }
+                  ]
+            },
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 164
+            },
+            "created_at": "2023-03-15T15:17:17.000Z",
+            "edit_history_tweet_ids": [
+                  "1636023772414201856"
+            ]
+      },
+      {
+            "text": "investment banker teaching my entrepreneurship course has just started making fun of beggars, bro really wants that Most Stereotypical Finbro award",
+            "id": "1636022862560608256",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 135,
+                              "end": 146,
+                              "probability": 0.5778,
+                              "type": "Other",
+                              "normalized_text": "Finbro award"
+                        }
+                  ]
+            },
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 236
+            },
+            "created_at": "2023-03-15T15:13:40.000Z",
+            "edit_history_tweet_ids": [
+                  "1636022862560608256"
+            ]
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1632040144617328642"
+                  }
+            ],
+            "text": "me every week thinking about last week https://t.co/5Pj2my7TTP",
+            "id": "1632320324665761792",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 446
+            },
+            "created_at": "2023-03-05T10:01:07.000Z",
+            "edit_history_tweet_ids": [
+                  "1632320324665761792"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 39,
+                              "end": 62,
+                              "url": "https://t.co/5Pj2my7TTP",
+                              "expanded_url": "https://twitter.com/SgtPinecone/status/1632040144617328642",
+                              "display_url": "twitter.com/SgtPinecone/st\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1631161689109573636"
+                  }
+            ],
+            "text": "mujhe laga Hitler handshake tweet hai https://t.co/EK9BvCXJH1",
+            "id": "1631164217167613955",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 359
+            },
+            "created_at": "2023-03-02T05:27:09.000Z",
+            "edit_history_tweet_ids": [
+                  "1631164217167613955"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 38,
+                              "end": 61,
+                              "url": "https://t.co/EK9BvCXJH1",
+                              "expanded_url": "https://twitter.com/ShereenBhan/status/1631161689109573636",
+                              "display_url": "twitter.com/ShereenBhan/st\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "text": "movie starts 4.35, lads are still eating pizza at 4.36\n\"bro can u go and ask them to hold the movie\"",
+            "id": "1629800645049057280",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 259
+            },
+            "created_at": "2023-02-26T11:08:48.000Z",
+            "edit_history_tweet_ids": [
+                  "1629800645049057280"
+            ]
+      },
+      {
+            "text": "Survived group discussion hell (me n four gurgaon ecobros)",
+            "id": "1628829448807284736",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 296
+            },
+            "created_at": "2023-02-23T18:49:37.000Z",
+            "edit_history_tweet_ids": [
+                  "1628829448807284736"
+            ]
+      },
+      {
+            "text": "is it Fatima Zahrah's birthday today or not? genuinely cannot tell if people are fucking w me by saying it is or fucking w me by saying it isn't",
+            "id": "1626217146480226306",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 6,
+                              "end": 18,
+                              "probability": 0.9657,
+                              "type": "Person",
+                              "normalized_text": "Fatima Zahrah"
+                        }
+                  ]
+            },
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 170
+            },
+            "created_at": "2023-02-16T13:49:16.000Z",
+            "edit_history_tweet_ids": [
+                  "1626217146480226306"
+            ]
+      },
+      {
+            "text": "The only issue with olive oil is that it's oily - Ashoka Consulting Club Panelist Nishant Kumar",
+            "id": "1625461375404474368",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 50,
+                              "end": 66,
+                              "probability": 0.5768,
+                              "type": "Person",
+                              "normalized_text": "Ashoka Consulting"
+                        },
+                        {
+                              "start": 82,
+                              "end": 94,
+                              "probability": 0.9734,
+                              "type": "Person",
+                              "normalized_text": "Nishant Kumar"
+                        }
+                  ]
+            },
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 155
+            },
+            "created_at": "2023-02-14T11:46:06.000Z",
+            "edit_history_tweet_ids": [
+                  "1625461375404474368"
+            ]
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1622537714842341378"
+                  }
+            ],
+            "text": "\"oh no karnav why didn't you take new geo debayan is soo gooood\" https://t.co/3tlfdPCzqA",
+            "id": "1622556327196364800",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 7,
+                              "end": 12,
+                              "probability": 0.8447,
+                              "type": "Person",
+                              "normalized_text": "karnav"
+                        },
+                        {
+                              "start": 38,
+                              "end": 48,
+                              "probability": 0.4619,
+                              "type": "Person",
+                              "normalized_text": "geo debayan"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 65,
+                              "end": 88,
+                              "url": "https://t.co/3tlfdPCzqA",
+                              "expanded_url": "https://twitter.com/amurutha_/status/1622537714842341378",
+                              "display_url": "twitter.com/amurutha_/stat\u2026"
+                        }
+                  ]
+            },
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 204
+            },
+            "created_at": "2023-02-06T11:22:28.000Z",
+            "edit_history_tweet_ids": [
+                  "1622556327196364800"
+            ]
+      },
+      {
+            "text": "Tried to sit in on a history class and walked into Algebra 2 instead, call that god's guiding hand",
+            "id": "1621472293825269761",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 51,
+                              "end": 59,
+                              "probability": 0.75,
+                              "type": "Other",
+                              "normalized_text": "Algebra 2"
+                        }
+                  ]
+            },
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 218
+            },
+            "created_at": "2023-02-03T11:34:55.000Z",
+            "edit_history_tweet_ids": [
+                  "1621472293825269761"
+            ]
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1620993132639965184"
+                  }
+            ],
+            "text": "bro's using chatGPT to teach ML he's got that turing in him",
+            "id": "1620993354510274562",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 12,
+                              "end": 18,
+                              "probability": 0.7371,
+                              "type": "Other",
+                              "normalized_text": "chatGPT"
+                        }
+                  ]
+            },
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 88
+            },
+            "created_at": "2023-02-02T03:51:46.000Z",
+            "edit_history_tweet_ids": [
+                  "1620993354510274562"
+            ]
+      },
+      {
+            "text": "machine learning prof just dropped a big paragraph of the densest jargon possible when he could've simply said \"the length of a line\"",
+            "id": "1620993132639965184",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 95
+            },
+            "created_at": "2023-02-02T03:50:54.000Z",
+            "edit_history_tweet_ids": [
+                  "1620993132639965184"
+            ]
+      },
+      {
+            "text": "science is easy. love is hard.",
+            "id": "1619703103657488385",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 326
+            },
+            "created_at": "2023-01-29T14:24:47.000Z",
+            "edit_history_tweet_ids": [
+                  "1619703103657488385"
+            ]
+      },
+      {
+            "text": "in my stop-being-an-asshole era",
+            "id": "1617194195692945409",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 166
+            },
+            "created_at": "2023-01-22T16:15:16.000Z",
+            "edit_history_tweet_ids": [
+                  "1617194195692945409"
+            ]
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1614177636908924930"
+                  }
+            ],
+            "text": "how my TA reviews talk about me https://t.co/44qoOUwyaf",
+            "id": "1614226094772879362",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 310
+            },
+            "created_at": "2023-01-14T11:41:06.000Z",
+            "edit_history_tweet_ids": [
+                  "1614226094772879362"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 32,
+                              "end": 55,
+                              "url": "https://t.co/44qoOUwyaf",
+                              "expanded_url": "https://twitter.com/typeofemale/status/1614177636908924930",
+                              "display_url": "twitter.com/typeofemale/st\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1612944565413220353"
+                  }
+            ],
+            "text": "me when they expect me to show up to class at 10 in the goddamn morning https://t.co/QSzwtP4s4Q",
+            "id": "1613270909519040512",
+            "author_id": "1304501171449737216",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 415
+            },
+            "created_at": "2023-01-11T20:25:32.000Z",
+            "edit_history_tweet_ids": [
+                  "1613270909519040512"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 72,
+                              "end": 95,
+                              "url": "https://t.co/QSzwtP4s4Q",
+                              "expanded_url": "https://twitter.com/FinitePhysicist/status/1612944565413220353",
+                              "display_url": "twitter.com/FinitePhysicis\u2026"
+                        }
+                  ]
+            }
+      }
+]

@@ -1,0 +1,178 @@
+[
+      {
+            "author_id": "860233030413111296",
+            "id": "1651179764449783808",
+            "created_at": "2023-04-26T11:01:47.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1651016423525720069"
+                  }
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 44,
+                              "end": 67,
+                              "url": "https://t.co/m7lCHYttYg",
+                              "expanded_url": "https://twitter.com/kylelindecke/status/1651016423525720069",
+                              "display_url": "twitter.com/kylelindecke/s\u2026"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 98
+            },
+            "text": "okay maybe it is a masterpiece idk lets see https://t.co/m7lCHYttYg",
+            "edit_history_tweet_ids": [
+                  "1651179764449783808"
+            ]
+      },
+      {
+            "author_id": "860233030413111296",
+            "id": "1651115269396234240",
+            "created_at": "2023-04-26T06:45:31.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1651115107592687622"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 23
+            },
+            "text": "CAN IT?",
+            "edit_history_tweet_ids": [
+                  "1651115269396234240"
+            ]
+      },
+      {
+            "author_id": "860233030413111296",
+            "id": "1651115107592687622",
+            "created_at": "2023-04-26T06:44:52.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1651050967796789251"
+                  }
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 72,
+                              "end": 95,
+                              "url": "https://t.co/9KN7kTccBn",
+                              "expanded_url": "https://twitter.com/TheDCTVshow/status/1651050967796789251",
+                              "display_url": "twitter.com/TheDCTVshow/st\u2026"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 91
+            },
+            "text": "Bro why tf does EVERYONE love this movie? It can't be that good can it? https://t.co/9KN7kTccBn",
+            "edit_history_tweet_ids": [
+                  "1651115107592687622"
+            ]
+      },
+      {
+            "author_id": "860233030413111296",
+            "id": "1648614953463721984",
+            "created_at": "2023-04-19T09:10:09.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1633187489019199489"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 22
+            },
+            "text": "Update: Still looking for a job. Fuck this is taking a while huh?",
+            "edit_history_tweet_ids": [
+                  "1648614953463721984"
+            ]
+      },
+      {
+            "author_id": "860233030413111296",
+            "id": "1646023076889632768",
+            "created_at": "2023-04-12T05:30:57.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1645860049724624924"
+                  }
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 43,
+                              "end": 66,
+                              "url": "https://t.co/ysDnFgeAM8",
+                              "expanded_url": "https://twitter.com/Superspy_6_/status/1645860049724624924",
+                              "display_url": "twitter.com/Superspy_6_/st\u2026"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 103
+            },
+            "text": "still the most infuriating shit in my life https://t.co/ysDnFgeAM8",
+            "edit_history_tweet_ids": [
+                  "1646023076889632768"
+            ]
+      },
+      {
+            "author_id": "860233030413111296",
+            "id": "1640739756114956295",
+            "created_at": "2023-03-28T15:36:55.000Z",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1640628661211615232"
+                  }
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 27,
+                              "end": 50,
+                              "url": "https://t.co/lXlJUEmR8x",
+                              "expanded_url": "https://twitter.com/orngejuicefan/status/1640628661211615232",
+                              "display_url": "twitter.com/orngejuicefan/\u2026"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 40
+            },
+            "text": "Well this just made my day https://t.co/lXlJUEmR8x",
+            "edit_history_tweet_ids": [
+                  "1640739756114956295"
+            ]
+      }
+]

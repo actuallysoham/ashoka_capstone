@@ -1,0 +1,371 @@
+[
+      {
+            "author_id": "4900217671",
+            "text": "the horror on @misterguacamol3's face as he tried to figure how to dismiss the alarm (which rang at 10 different times during lec) as a random beard trimmer started buzzing during the same lec is easily the third miracle of linear algebra",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 14,
+                              "end": 30,
+                              "username": "misterguacamol3",
+                              "id": "1442435435687383040"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1651112793905549312"
+            ],
+            "id": "1651112793905549312",
+            "created_at": "2023-04-26T06:35:40.000Z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 177
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "felt https://t.co/TOx13GkCau",
+            "edit_history_tweet_ids": [
+                  "1650805970241736705"
+            ],
+            "id": "1650805970241736705",
+            "created_at": "2023-04-25T10:16:28.000Z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 141
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 5,
+                              "end": 28,
+                              "url": "https://t.co/TOx13GkCau",
+                              "expanded_url": "https://twitter.com/misalpavfan/status/1650805970241736705/photo/1",
+                              "display_url": "pic.twitter.com/TOx13GkCau",
+                              "media_key": "3_1650805967125364736"
+                        }
+                  ]
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "DOING THIS IN MY LINEAR ALGEBRA FINAL https://t.co/KRd7OtqA9O",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1648823780171497472"
+                  }
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 24,
+                              "end": 30,
+                              "probability": 0.5731,
+                              "type": "Other",
+                              "normalized_text": "ALGEBRA"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 38,
+                              "end": 61,
+                              "url": "https://t.co/KRd7OtqA9O",
+                              "expanded_url": "https://twitter.com/EulerWept/status/1648823780171497472",
+                              "display_url": "twitter.com/EulerWept/stat\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1648995751488520193"
+            ],
+            "id": "1648995751488520193",
+            "created_at": "2023-04-20T10:23:18.000Z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 419
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "this is a tweet about shikhandi",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 30,
+                              "probability": 0.5343,
+                              "type": "Person",
+                              "normalized_text": "shikhandi"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1647659142830755840"
+            ],
+            "id": "1647659142830755840",
+            "created_at": "2023-04-16T17:52:06.000Z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 435
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "banger https://t.co/6EFOMWBcUO",
+            "edit_history_tweet_ids": [
+                  "1647107403530530816"
+            ],
+            "id": "1647107403530530816",
+            "created_at": "2023-04-15T05:19:41.000Z",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 299
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 7,
+                              "end": 30,
+                              "url": "https://t.co/6EFOMWBcUO",
+                              "expanded_url": "https://twitter.com/misalpavfan/status/1647107403530530816/photo/1",
+                              "display_url": "pic.twitter.com/6EFOMWBcUO",
+                              "media_key": "3_1647107398824349698"
+                        }
+                  ]
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "need to keep a track of all the tweets i have to delete in the morning \ud83e\udd70",
+            "edit_history_tweet_ids": [
+                  "1646598032094543872"
+            ],
+            "id": "1646598032094543872",
+            "created_at": "2023-04-13T19:35:37.000Z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 246
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "to whoever vibed w us 15mins ago at THC ily\u20b9+\u20b9(\u20b9(_!\u20b9; this is sober tweet",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 36,
+                              "end": 38,
+                              "probability": 0.5777,
+                              "type": "Other",
+                              "normalized_text": "THC"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1646592821871415298"
+            ],
+            "id": "1646592821871415298",
+            "created_at": "2023-04-13T19:14:55.000Z",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 2,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 566
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "PLEASE NO SUPRISE QUIZ TOMORROW I NEED ALL OF YOU TO PRAY \ud83d\ude4f\ud83c\udffb",
+            "edit_history_tweet_ids": [
+                  "1645529871009947650"
+            ],
+            "id": "1645529871009947650",
+            "created_at": "2023-04-10T20:51:08.000Z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 231
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "I live yqshikabjuwairya",
+            "edit_history_tweet_ids": [
+                  "1645513419964186625"
+            ],
+            "id": "1645513419964186625",
+            "created_at": "2023-04-10T19:45:46.000Z",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 274
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "THIS WEEKEND JUST KEEPS GETTING WORSE ONG",
+            "edit_history_tweet_ids": [
+                  "1645002763590569984"
+            ],
+            "id": "1645002763590569984",
+            "created_at": "2023-04-09T09:56:36.000Z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 197
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "ashoka mess snacks game getting wild \ud83d\udd25 https://t.co/7hjetF8uUC",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.7623,
+                              "type": "Person",
+                              "normalized_text": "ashoka"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 39,
+                              "end": 62,
+                              "url": "https://t.co/7hjetF8uUC",
+                              "expanded_url": "https://twitter.com/misalpavfan/status/1644691082519670785/photo/1",
+                              "display_url": "pic.twitter.com/7hjetF8uUC",
+                              "media_key": "3_1644691078853926913"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1644691082519670785"
+            ],
+            "id": "1644691082519670785",
+            "created_at": "2023-04-08T13:18:05.000Z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 10,
+                  "quote_count": 1,
+                  "impression_count": 1565
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "\"this is my conclusion\" i'm dying https://t.co/Qv5QdRtbIY",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1642513097788121090"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1642513101298827265"
+            ],
+            "id": "1642513101298827265",
+            "created_at": "2023-04-02T13:03:34.000Z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 100
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 34,
+                              "end": 57,
+                              "url": "https://t.co/Qv5QdRtbIY",
+                              "expanded_url": "https://twitter.com/misalpavfan/status/1642513101298827265/photo/1",
+                              "display_url": "pic.twitter.com/Qv5QdRtbIY",
+                              "media_key": "3_1642512890912714753"
+                        }
+                  ]
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "i have a linear algebra exam tomorrow and i cant stop reading this https://t.co/VblpLtDoWt",
+            "edit_history_tweet_ids": [
+                  "1642513097788121090"
+            ],
+            "id": "1642513097788121090",
+            "created_at": "2023-04-02T13:03:33.000Z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 222
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 67,
+                              "end": 90,
+                              "url": "https://t.co/VblpLtDoWt",
+                              "expanded_url": "https://twitter.com/misalpavfan/status/1642513097788121090/photo/1",
+                              "display_url": "pic.twitter.com/VblpLtDoWt",
+                              "media_key": "3_1642512351118381056"
+                        }
+                  ]
+            }
+      },
+      {
+            "author_id": "4900217671",
+            "text": "every few weeks i get an irresistible urge to stop everything i'm doing and read this https://t.co/Wuf4Jmvdg7",
+            "edit_history_tweet_ids": [
+                  "1642510120486596608"
+            ],
+            "id": "1642510120486596608",
+            "created_at": "2023-04-02T12:51:43.000Z",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 189
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 86,
+                              "end": 109,
+                              "url": "https://t.co/Wuf4Jmvdg7",
+                              "expanded_url": "https://twitter.com/misalpavfan/status/1642510120486596608/photo/1",
+                              "display_url": "pic.twitter.com/Wuf4Jmvdg7",
+                              "media_key": "3_1642509665388077062"
+                        }
+                  ]
+            }
+      }
+]

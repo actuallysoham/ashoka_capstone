@@ -1,0 +1,575 @@
+[
+      {
+            "id": "1638952265300975624",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1638936013589585921"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1638952265300975624"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 18,
+                              "end": 41,
+                              "url": "https://t.co/NIWmbyLfNa",
+                              "expanded_url": "https://twitter.com/raminskibba/status/1638936013589585921",
+                              "display_url": "twitter.com/raminskibba/st\u2026"
+                        }
+                  ]
+            },
+            "text": "SpaceTech stonk \ud83d\udcc8 https://t.co/NIWmbyLfNa",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 112
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-03-23T17:14:04.000Z"
+      },
+      {
+            "id": "1637345954880712704",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1637344773156610048"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1637345954880712704"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 22,
+                              "end": 45,
+                              "url": "https://t.co/FW018ZLBQL",
+                              "expanded_url": "https://twitter.com/TechInsider/status/1637344773156610048",
+                              "display_url": "twitter.com/TechInsider/st\u2026"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 14,
+                              "end": 20,
+                              "probability": 0.507,
+                              "type": "Other",
+                              "normalized_text": "Jumanji"
+                        }
+                  ]
+            },
+            "text": "Reminds me of Jumanji https://t.co/FW018ZLBQL",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 138
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-03-19T06:51:10.000Z"
+      },
+      {
+            "id": "1636386613772288000",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1635692669170241536"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1636386613772288000"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 12,
+                              "end": 35,
+                              "url": "https://t.co/39mWuy3GPh",
+                              "expanded_url": "https://twitter.com/SubramanianKri/status/1635692669170241536",
+                              "display_url": "twitter.com/SubramanianKri\u2026"
+                        }
+                  ]
+            },
+            "text": "Good thread https://t.co/39mWuy3GPh",
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 1596
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-03-16T15:19:05.000Z"
+      },
+      {
+            "id": "1632299377514680322",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1632283421199454214"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1632299377514680322"
+            ],
+            "text": "I meant 'your future-self*'\nHad to put the clarification to avoid looking like a complete moron",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 169
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-03-05T08:37:52.000Z"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 12,
+                              "end": 21,
+                              "username": "WhatsApp",
+                              "id": "40148479"
+                        }
+                  ]
+            },
+            "id": "1632283421199454214",
+            "edit_history_tweet_ids": [
+                  "1632283421199454214"
+            ],
+            "text": "Why doesn't @WhatsApp have a schedule message feature yet? I can see so many usecases:\n- schedule bday, anniversary, festival, gm/gn msgs in advance\n- say yes &amp; then schedule 'sorry can't make it' msg in advance\n- schedule msgs to future yourself",
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 3,
+                  "like_count": 14,
+                  "quote_count": 1,
+                  "impression_count": 1026
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-03-05T07:34:28.000Z"
+      },
+      {
+            "id": "1631958548576886789",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1631623377868693504"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1631958548576886789"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 94,
+                              "end": 117,
+                              "url": "https://t.co/rpH31HeAOd",
+                              "expanded_url": "https://twitter.com/dejavucoder/status/1631623377868693504",
+                              "display_url": "twitter.com/dejavucoder/st\u2026"
+                        }
+                  ]
+            },
+            "text": "Can't compare finish lines in life because not all start from the same point :)\nLovely thread https://t.co/rpH31HeAOd",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 169
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-03-04T10:03:32.000Z"
+      },
+      {
+            "id": "1630462382014369792",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1630150228883173381"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1630462382014369792"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 240,
+                              "end": 263,
+                              "url": "https://t.co/sgZvazviOj",
+                              "expanded_url": "https://twitter.com/sbikh/status/1630150228883173381",
+                              "display_url": "twitter.com/sbikh/status/1\u2026"
+                        }
+                  ]
+            },
+            "text": "Don't particularly agree. No education should be such that it imposes a certain career choice on people.\n\nNobody is asking for a subsidy, but exorbitant charges will only restrict the diversity of disciplines one goes for after graduating. https://t.co/sgZvazviOj",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 689
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-02-28T06:58:19.000Z"
+      },
+      {
+            "id": "1625425670561222656",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1625425175943716864"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1625425670561222656"
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 24,
+                              "end": 32,
+                              "probability": 0.6132,
+                              "type": "Organization",
+                              "normalized_text": "Gorrillas"
+                        }
+                  ]
+            },
+            "text": "my pick: 10000 rats + 5 Gorrillas",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 87
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-02-14T09:24:13.000Z"
+      },
+      {
+            "id": "1625425175943716864",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1625227696123813907"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1625425175943716864"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 58,
+                              "end": 81,
+                              "url": "https://t.co/QZhYXXNGjI",
+                              "expanded_url": "https://twitter.com/SahilBloom/status/1625227696123813907",
+                              "display_url": "twitter.com/SahilBloom/sta\u2026"
+                        }
+                  ]
+            },
+            "text": "ah, the tricky situations I dreamt about as an 8 year old https://t.co/QZhYXXNGjI",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 309
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-02-14T09:22:15.000Z"
+      },
+      {
+            "id": "1621924275132456960",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1621693517088317441"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1621924275132456960"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 55,
+                              "end": 78,
+                              "url": "https://t.co/AmeDdKGRQV",
+                              "expanded_url": "https://twitter.com/SimuLiu/status/1621693517088317441",
+                              "display_url": "twitter.com/SimuLiu/status\u2026"
+                        }
+                  ]
+            },
+            "text": "I learnt more in this thread than my accounting course https://t.co/AmeDdKGRQV",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 205
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-02-04T17:30:55.000Z"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 47,
+                              "end": 58,
+                              "username": "lexfridman",
+                              "id": "427089628"
+                        },
+                        {
+                              "start": 106,
+                              "end": 114,
+                              "username": "MrBeast",
+                              "id": "2455740283"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 143,
+                              "end": 166,
+                              "url": "https://t.co/HjnvW4DUQ2",
+                              "expanded_url": "https://www.youtube.com/watch?v=Z3_PwvvfxIU",
+                              "display_url": "youtube.com/watch?v=Z3_Pwv\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1641515688417435649/gWhm5rGN?format=jpg&name=orig",
+                                          "width": 1280,
+                                          "height": 720
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1641515688417435649/gWhm5rGN?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "MrBeast: Future of YouTube, Twitter, TikTok, and Instagram | Lex Fridman Podcast #351",
+                              "description": "MrBeast is a legendary YouTube creator. Please support this podcast by checking out our sponsors:- House of Macadamias: https://houseofmacadamias.com/lex and...",
+                              "unwound_url": "https://www.youtube.com/watch?v=Z3_PwvvfxIU"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 91,
+                              "end": 92,
+                              "probability": 0.8188,
+                              "type": "Other",
+                              "normalized_text": "YT"
+                        }
+                  ]
+            },
+            "id": "1619713700507836422",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1619713042627055619"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1619713700507836422"
+            ],
+            "text": "on the same tangent, great interview of him by @lexfridman. Don't think anyone understands YT better than @MrBeast &amp; ofc how to have fun\ud83e\udd70: https://t.co/HjnvW4DUQ2",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 72
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-01-29T15:06:53.000Z"
+      },
+      {
+            "id": "1619713042627055619",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1619443271230709761"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1619713042627055619"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 40,
+                              "end": 63,
+                              "url": "https://t.co/dKLUivWMJu",
+                              "expanded_url": "https://twitter.com/Dexerto/status/1619443271230709761",
+                              "display_url": "twitter.com/Dexerto/status\u2026"
+                        }
+                  ]
+            },
+            "text": "this guy is insane! (in a good way ofc) https://t.co/dKLUivWMJu",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 165
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-01-29T15:04:16.000Z"
+      },
+      {
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 49,
+                              "end": 56,
+                              "username": "Google",
+                              "id": "20536157"
+                        },
+                        {
+                              "start": 59,
+                              "end": 69,
+                              "username": "anondotpy",
+                              "id": "1103004168946634752"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 70,
+                              "end": 93,
+                              "url": "https://t.co/EUcG3RKRKS",
+                              "expanded_url": "https://twitter.com/jeeveshhh/status/1617421775884943361/photo/1",
+                              "display_url": "pic.twitter.com/EUcG3RKRKS",
+                              "media_key": "3_1617421615897403393"
+                        }
+                  ]
+            },
+            "id": "1617421775884943361",
+            "edit_history_tweet_ids": [
+                  "1617421775884943361"
+            ],
+            "text": "there's a new email service in town guys, beware @Google \n\n@anondotpy https://t.co/EUcG3RKRKS",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 15,
+                  "quote_count": 0,
+                  "impression_count": 491
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-01-23T07:19:36.000Z"
+      },
+      {
+            "id": "1613806309945769984",
+            "edit_history_tweet_ids": [
+                  "1613806309945769984"
+            ],
+            "text": "we people in the North will be at a disadvantage in Course Registration today\ud83d\ude22\n\nIt's so cold my fingers don't move\ud83d\ude2d",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 520
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-01-13T07:53:02.000Z"
+      },
+      {
+            "id": "1613764634124910592",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1613570644930859009"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1613764634124910592"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 27,
+                              "end": 50,
+                              "url": "https://t.co/EhG79T5fvJ",
+                              "expanded_url": "https://twitter.com/weirdterrifying/status/1613570644930859009",
+                              "display_url": "twitter.com/weirdterrifyin\u2026"
+                        }
+                  ]
+            },
+            "text": "weirdly satisfying I'd say https://t.co/EhG79T5fvJ",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 1,
+                  "impression_count": 612
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-01-13T05:07:25.000Z"
+      },
+      {
+            "id": "1610962299862548480",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1610668304678412288"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1610962299862548480"
+            ],
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 122,
+                              "end": 145,
+                              "url": "https://t.co/BVfQ8GizAT",
+                              "expanded_url": "https://twitter.com/AmyKazmin/status/1610668304678412288",
+                              "display_url": "twitter.com/AmyKazmin/stat\u2026"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 25,
+                              "end": 26,
+                              "probability": 0.5781,
+                              "type": "Other",
+                              "normalized_text": "FT"
+                        },
+                        {
+                              "start": 51,
+                              "end": 53,
+                              "probability": 0.8534,
+                              "type": "Organization",
+                              "normalized_text": "UPI"
+                        },
+                        {
+                              "start": 115,
+                              "end": 119,
+                              "probability": 0.9695,
+                              "type": "Place",
+                              "normalized_text": "India"
+                        }
+                  ]
+            },
+            "text": "Can't believe this is an FT article. No mention of UPI, and a false description of how payments are carried out in India. https://t.co/BVfQ8GizAT",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 267
+            },
+            "author_id": "837319035175895041",
+            "created_at": "2023-01-05T11:31:57.000Z"
+      }
+]

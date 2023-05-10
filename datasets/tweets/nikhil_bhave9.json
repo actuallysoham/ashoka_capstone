@@ -1,0 +1,55 @@
+[
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 57,
+                  "quote_count": 0,
+                  "impression_count": 1154
+            },
+            "author_id": "2988225336",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 15,
+                              "end": 38,
+                              "url": "https://t.co/8k8cxVQiCp",
+                              "expanded_url": "https://twitter.com/nikhil_bhave9/status/1620385173832634369/photo/1",
+                              "display_url": "pic.twitter.com/8k8cxVQiCp",
+                              "media_key": "3_1620385148427554816"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 13,
+                              "probability": 0.9675,
+                              "type": "Other",
+                              "normalized_text": "The Last of Us"
+                        }
+                  ]
+            },
+            "created_at": "2023-01-31T11:35:05.000Z",
+            "text": "The Last of Us https://t.co/8k8cxVQiCp",
+            "edit_history_tweet_ids": [
+                  "1620385173832634369"
+            ],
+            "id": "1620385173832634369"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 15,
+                  "quote_count": 0,
+                  "impression_count": 830
+            },
+            "author_id": "2988225336",
+            "created_at": "2023-01-23T03:04:54.000Z",
+            "text": "No\u2026.watercoolers? Every time I come back, this university decides to throw a new curveball to test me",
+            "edit_history_tweet_ids": [
+                  "1617357677796917248"
+            ],
+            "id": "1617357677796917248"
+      }
+]

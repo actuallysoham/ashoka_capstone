@@ -1,0 +1,782 @@
+[
+      {
+            "author_id": "3162579552",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1642544035150610435"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 139
+            },
+            "created_at": "2023-04-02T15:06:57.000Z",
+            "text": "I guess the best thing I can do now is just continue sleeping\u2026",
+            "id": "1642544150116433920",
+            "edit_history_tweet_ids": [
+                  "1642544150116433920"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 524
+            },
+            "created_at": "2023-04-02T15:06:29.000Z",
+            "text": "Just woke up\u2026any ideas on how to save the day?",
+            "id": "1642544035150610435",
+            "edit_history_tweet_ids": [
+                  "1642544035150610435"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 316
+            },
+            "created_at": "2023-04-01T03:56:36.000Z",
+            "text": "Having a harsh thesis advisor means getting harsh thesis feedback\u2026unanticipated\ud83e\udd72",
+            "id": "1642013063992803328",
+            "edit_history_tweet_ids": [
+                  "1642013063992803328"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 208,
+                              "end": 231,
+                              "url": "https://t.co/mBBWxEmEmK",
+                              "expanded_url": "https://twitter.com/prii469/status/1641335054013018112/photo/1",
+                              "display_url": "pic.twitter.com/mBBWxEmEmK",
+                              "media_key": "3_1641335041249665025"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 86,
+                              "end": 91,
+                              "probability": 0.5863,
+                              "type": "Other",
+                              "normalized_text": "Ashoka"
+                        },
+                        {
+                              "start": 153,
+                              "end": 158,
+                              "probability": 0.5448,
+                              "type": "Other",
+                              "normalized_text": "Ashoka"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 15,
+                  "quote_count": 0,
+                  "impression_count": 1069
+            },
+            "created_at": "2023-03-30T07:02:26.000Z",
+            "text": "This mail really says nothing\u2026why have they been attempting to scare students?? Mujhe Ashoka ka expose karna hai abh. If anyone has ideas on how to ruin Ashoka ka marketing that they care about so deeply lmk https://t.co/mBBWxEmEmK",
+            "id": "1641335054013018112",
+            "edit_history_tweet_ids": [
+                  "1641335054013018112"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 4,
+                              "end": 7,
+                              "probability": 0.9252,
+                              "type": "Person",
+                              "normalized_text": "Lana"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 166
+            },
+            "created_at": "2023-03-27T16:25:00.000Z",
+            "text": "New Lana album so good",
+            "id": "1640389467742642176",
+            "edit_history_tweet_ids": [
+                  "1640389467742642176"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 326
+            },
+            "created_at": "2023-03-25T06:19:30.000Z",
+            "text": "She just said \u201cguilty pleasure\u201d and named a crime",
+            "id": "1639512312368484352",
+            "edit_history_tweet_ids": [
+                  "1639512312368484352"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 15,
+                  "quote_count": 0,
+                  "impression_count": 917
+            },
+            "created_at": "2023-03-24T16:42:00.000Z",
+            "text": "Since we\u2019re graduating in a month if anyone wants to fuck me now\u2019s the moment",
+            "id": "1639306582952493071",
+            "edit_history_tweet_ids": [
+                  "1639306582952493071"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 222
+            },
+            "created_at": "2023-03-14T11:39:32.000Z",
+            "text": "I hate eating in the morning\u2026now I need to eat the whole day",
+            "id": "1635606586210107394",
+            "edit_history_tweet_ids": [
+                  "1635606586210107394"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 59,
+                              "end": 82,
+                              "url": "https://t.co/LsyZkPPfnU",
+                              "expanded_url": "https://twitter.com/s_riyaad_a/status/1635016890644041728",
+                              "display_url": "twitter.com/s_riyaad_a/sta\u2026"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 24,
+                              "end": 32,
+                              "probability": 0.4878,
+                              "type": "Place",
+                              "normalized_text": "Cambridge"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1635016890644041728"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 374
+            },
+            "created_at": "2023-03-14T08:25:06.000Z",
+            "text": "Everything I know about Cambridge has been against my will https://t.co/LsyZkPPfnU",
+            "id": "1635557654788730880",
+            "edit_history_tweet_ids": [
+                  "1635557654788730880"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 259
+            },
+            "created_at": "2023-03-09T17:40:20.000Z",
+            "text": "Guys it\u2019s not performance I\u2019m actually a sad girl\ud83d\ude2d\ud83d\ude2d",
+            "id": "1633885442994208771",
+            "edit_history_tweet_ids": [
+                  "1633885442994208771"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 542
+            },
+            "created_at": "2023-03-05T11:40:54.000Z",
+            "text": "Everytime I work on my thesis I feel so feral. Aggressively typing like yes yes YES MY IDEAS WILL CHANHE THE WORLD",
+            "id": "1632345436068663296",
+            "edit_history_tweet_ids": [
+                  "1632345436068663296"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 3,
+                              "end": 8,
+                              "probability": 0.5614,
+                              "type": "Person",
+                              "normalized_text": "ashoka"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 23,
+                  "quote_count": 0,
+                  "impression_count": 1329
+            },
+            "created_at": "2023-03-04T06:35:44.000Z",
+            "text": "Is ashoka actually doing money laundering",
+            "id": "1631906253197971457",
+            "edit_history_tweet_ids": [
+                  "1631906253197971457"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 513
+            },
+            "created_at": "2023-02-28T10:51:44.000Z",
+            "text": "Let it be known that philosophy creates more violent minds than any other discipline",
+            "id": "1630521123074117632",
+            "edit_history_tweet_ids": [
+                  "1630521123074117632"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 5,
+                              "end": 8,
+                              "probability": 0.5821,
+                              "type": "Person",
+                              "normalized_text": "Phil"
+                        },
+                        {
+                              "start": 134,
+                              "end": 137,
+                              "probability": 0.7076,
+                              "type": "Person",
+                              "normalized_text": "Kant"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 513
+            },
+            "created_at": "2023-02-28T10:50:53.000Z",
+            "text": "This Phil prof just stood in front of us, exposed herself as both sexist and racist, giggled, sighed, and then continued lecturing on Kant",
+            "id": "1630520910242541569",
+            "edit_history_tweet_ids": [
+                  "1630520910242541569"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 626
+            },
+            "created_at": "2023-02-26T16:41:11.000Z",
+            "text": "Obsessed w the word pleasant",
+            "id": "1629884292351561728",
+            "edit_history_tweet_ids": [
+                  "1629884292351561728"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 49,
+                              "end": 72,
+                              "url": "https://t.co/XKxS0iCUBp",
+                              "expanded_url": "https://twitter.com/dontwannashar3/status/1626846051302019072",
+                              "display_url": "twitter.com/dontwannashar3\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1626846051302019072"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 468
+            },
+            "created_at": "2023-02-21T10:33:23.000Z",
+            "text": "We\u2019re just looking for an excuse to not go man\u2026\ud83d\ude29 https://t.co/XKxS0iCUBp",
+            "id": "1627979792569225216",
+            "edit_history_tweet_ids": [
+                  "1627979792569225216"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 535
+            },
+            "created_at": "2023-02-14T10:47:28.000Z",
+            "text": "Why have reels recently been trying to convince me that I\u2019m autistic??",
+            "id": "1625446621541707777",
+            "edit_history_tweet_ids": [
+                  "1625446621541707777"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 27,
+                              "end": 31,
+                              "probability": 0.385,
+                              "type": "Other",
+                              "normalized_text": "Menon"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 20,
+                  "quote_count": 0,
+                  "impression_count": 1154
+            },
+            "created_at": "2023-02-13T07:16:49.000Z",
+            "text": "The way I don\u2019t care about Menon\u2019s feedback to my presentation but care so deeply about her opinion on my presentation outfit",
+            "id": "1625031219829411842",
+            "edit_history_tweet_ids": [
+                  "1625031219829411842"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 364
+            },
+            "created_at": "2023-02-09T18:21:25.000Z",
+            "text": "Yaar yeh kitni horny campus hai",
+            "id": "1623748923084115973",
+            "edit_history_tweet_ids": [
+                  "1623748923084115973"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 463
+            },
+            "created_at": "2023-02-08T21:03:07.000Z",
+            "text": "Body language will get you so far",
+            "id": "1623427227789688832",
+            "edit_history_tweet_ids": [
+                  "1623427227789688832"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 398
+            },
+            "created_at": "2023-02-04T07:02:05.000Z",
+            "text": "Looking for someone who truly enjoys the toxicity of coupledom\ud83e\udd0c\ud83e\udd0c",
+            "id": "1621766021765017600",
+            "edit_history_tweet_ids": [
+                  "1621766021765017600"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 39,
+                              "end": 62,
+                              "url": "https://t.co/5buRex5AoW",
+                              "expanded_url": "https://twitter.com/BowTiedUM/status/1621292970732298241",
+                              "display_url": "twitter.com/BowTiedUM/stat\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1621292970732298241"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 995
+            },
+            "created_at": "2023-02-03T16:20:53.000Z",
+            "text": "Why can\u2019t I have ANYTHING in peace\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d https://t.co/5buRex5AoW",
+            "id": "1621544261882871808",
+            "edit_history_tweet_ids": [
+                  "1621544261882871808"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 62,
+                              "end": 85,
+                              "url": "https://t.co/xE5WNi8PO1",
+                              "expanded_url": "https://twitter.com/FilmUpdates/status/1618688032336666624",
+                              "display_url": "twitter.com/FilmUpdates/st\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1618688032336666624"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 444
+            },
+            "created_at": "2023-01-26T19:17:11.000Z",
+            "text": "They\u2019re really on a mission to give us content that is so gay https://t.co/xE5WNi8PO1",
+            "id": "1618689527530541058",
+            "edit_history_tweet_ids": [
+                  "1618689527530541058"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 7,
+                              "probability": 0.4712,
+                              "type": "Other",
+                              "normalized_text": "Lib cafe"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 518
+            },
+            "created_at": "2023-01-26T08:32:54.000Z",
+            "text": "Lib cafe vibe ruined",
+            "id": "1618527386139783168",
+            "edit_history_tweet_ids": [
+                  "1618527386139783168"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 5,
+                              "end": 8,
+                              "probability": 0.4981,
+                              "type": "Other",
+                              "normalized_text": "Phil"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 794
+            },
+            "created_at": "2023-01-24T09:30:47.000Z",
+            "text": "In a Phil class rn and why is this man dressed in a full suit, carrying a briefcase, oh and ofc clear case glasses",
+            "id": "1617817176630779905",
+            "edit_history_tweet_ids": [
+                  "1617817176630779905"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 577
+            },
+            "created_at": "2023-01-22T11:40:29.000Z",
+            "text": "Why do I ONLY get sleepy while studying OHMYGOD",
+            "id": "1617125041992523777",
+            "edit_history_tweet_ids": [
+                  "1617125041992523777"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 558
+            },
+            "created_at": "2023-01-19T12:33:14.000Z",
+            "text": "Drunk sex has no business feeling this much better than normal sex\ud83d\ude2d\ud83d\ude2d",
+            "id": "1616051153871208449",
+            "edit_history_tweet_ids": [
+                  "1616051153871208449"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 16,
+                              "end": 39,
+                              "url": "https://t.co/wIIF4Sm3vm",
+                              "expanded_url": "https://twitter.com/austendaily/status/1615729600776081408",
+                              "display_url": "twitter.com/austendaily/st\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1615729600776081408"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 800
+            },
+            "created_at": "2023-01-19T10:23:09.000Z",
+            "text": "Stop being lazy https://t.co/wIIF4Sm3vm",
+            "id": "1616018417789865984",
+            "edit_history_tweet_ids": [
+                  "1616018417789865984"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 863
+            },
+            "created_at": "2023-01-16T07:33:12.000Z",
+            "text": "Every woman doctor I\u2019ve been has always been 1000% better and more helpful than any male doctor I\u2019ve been to",
+            "id": "1614888485655306242",
+            "edit_history_tweet_ids": [
+                  "1614888485655306242"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1614856659201060865"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 274
+            },
+            "created_at": "2023-01-16T05:27:06.000Z",
+            "text": "Me personally, I\u2019ve been a bisexual since 2012",
+            "id": "1614856749777047552",
+            "edit_history_tweet_ids": [
+                  "1614856749777047552"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 54,
+                              "end": 70,
+                              "probability": 0.9239,
+                              "type": "Person",
+                              "normalized_text": "Jennifer Coolidge"
+                        },
+                        {
+                              "start": 76,
+                              "end": 87,
+                              "probability": 0.7807,
+                              "type": "Person",
+                              "normalized_text": "Aubrey Plaza"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 774
+            },
+            "created_at": "2023-01-16T05:26:44.000Z",
+            "text": "Oh lmao you\u2019ll are just discovering the brilliance of Jennifer Coolidge and Aubrey Plaza",
+            "id": "1614856659201060865",
+            "edit_history_tweet_ids": [
+                  "1614856659201060865"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 2,
+                  "like_count": 29,
+                  "quote_count": 0,
+                  "impression_count": 2248
+            },
+            "created_at": "2023-01-07T06:46:50.000Z",
+            "text": "Got high before going to the doctors, forgot that it was an eye doctor and that he will be looking straight into my red eyes",
+            "id": "1611615325304545286",
+            "edit_history_tweet_ids": [
+                  "1611615325304545286"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 19,
+                              "end": 42,
+                              "url": "https://t.co/8quU7oHKdW",
+                              "expanded_url": "https://twitter.com/surfbrainwaves/status/1611223252046692355",
+                              "display_url": "twitter.com/surfbrainwaves\u2026"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 303
+            },
+            "created_at": "2023-01-07T06:41:18.000Z",
+            "text": "So obsessed w this https://t.co/8quU7oHKdW",
+            "id": "1611613930442616833",
+            "edit_history_tweet_ids": [
+                  "1611613930442616833"
+            ]
+      },
+      {
+            "author_id": "3162579552",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 16,
+                  "quote_count": 0,
+                  "impression_count": 936
+            },
+            "created_at": "2023-01-04T16:45:09.000Z",
+            "text": "Fiction writers, do you\u2019ll find it hard to stick to a tense while writing? Is this a problem anyone has been able to consciously rid themselves off?? Is there a way to fix this or do I just have developmental issues\u2026",
+            "id": "1610678732796342279",
+            "edit_history_tweet_ids": [
+                  "1610678732796342279"
+            ]
+      }
+]

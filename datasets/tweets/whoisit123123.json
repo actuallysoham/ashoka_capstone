@@ -1,0 +1,1844 @@
+[
+      {
+            "created_at": "2023-04-03T04:55:28.000Z",
+            "text": "wisdom tooth pain is killing me",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 116
+            },
+            "id": "1642752655641686016",
+            "edit_history_tweet_ids": [
+                  "1642752655641686016"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-29T22:09:28.000Z",
+            "text": "happy 3:39am someone give me a joint",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 87
+            },
+            "id": "1641200932263276548",
+            "edit_history_tweet_ids": [
+                  "1641200932263276548"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-29T22:01:27.000Z",
+            "text": "\ud83e\udd20\ud83e\udd20\ud83e\udd20\ud83e\udd20\ud83e\udd20",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 75
+            },
+            "id": "1641198910914940929",
+            "edit_history_tweet_ids": [
+                  "1641198910914940929"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-29T11:47:22.000Z",
+            "text": "sorry but after studying liberal arts for 3 yrs i have concluded that my major is the best discipline the rest of u suck",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 308
+            },
+            "id": "1641044372568555520",
+            "edit_history_tweet_ids": [
+                  "1641044372568555520"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-29T11:42:40.000Z",
+            "text": "is it bc lived experiences r central to everything or bc im losing my mind\ud83d\ude0d",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1641043025878220801"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 95
+            },
+            "id": "1641043192002011136",
+            "edit_history_tweet_ids": [
+                  "1641043192002011136"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-29T11:42:01.000Z",
+            "text": "everywhere i go i see anthropology",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 264
+            },
+            "id": "1641043025878220801",
+            "edit_history_tweet_ids": [
+                  "1641043025878220801"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-28T13:22:42.000Z",
+            "text": "why has hotstar switched to a bearable ui right before hbo leaves it",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 8,
+                              "end": 14,
+                              "probability": 0.6138,
+                              "type": "Other",
+                              "normalized_text": "hotstar"
+                        },
+                        {
+                              "start": 55,
+                              "end": 57,
+                              "probability": 0.472,
+                              "type": "Other",
+                              "normalized_text": "hbo"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 246
+            },
+            "id": "1640705975345709056",
+            "edit_history_tweet_ids": [
+                  "1640705975345709056"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-27T20:01:45.000Z",
+            "text": "every monday i girlboss until i faint from exhaustion",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 188
+            },
+            "id": "1640444012162064406",
+            "edit_history_tweet_ids": [
+                  "1640444012162064406"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-27T08:13:14.000Z",
+            "text": "day dreaming abt sushi n dimsum n bao ill cry",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 17,
+                              "end": 21,
+                              "probability": 0.5342,
+                              "type": "Other",
+                              "normalized_text": "sushi"
+                        },
+                        {
+                              "start": 25,
+                              "end": 30,
+                              "probability": 0.4529,
+                              "type": "Other",
+                              "normalized_text": "dimsum"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 198
+            },
+            "id": "1640265707664318467",
+            "edit_history_tweet_ids": [
+                  "1640265707664318467"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-22T16:26:58.000Z",
+            "text": "\ud83d\ude21why\ud83d\ude21is\ud83d\ude21someone\ud83d\ude21in\ud83d\ude21my\ud83d\ude21favourite\ud83d\ude21shower\ud83d\ude21stall\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 270
+            },
+            "id": "1638578021815971840",
+            "edit_history_tweet_ids": [
+                  "1638578021815971840"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-20T21:30:09.000Z",
+            "text": "period hormones n romance novel season\ud83d\ude0d(3 days of rain in march)",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 50,
+                              "end": 53,
+                              "probability": 0.428,
+                              "type": "Other",
+                              "normalized_text": "rain"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 179
+            },
+            "id": "1637929544735952896",
+            "edit_history_tweet_ids": [
+                  "1637929544735952896"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-20T21:23:29.000Z",
+            "text": "thinking abt reading beach read in the rain",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 35,
+                              "end": 42,
+                              "probability": 0.677,
+                              "type": "Other",
+                              "normalized_text": "the rain"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 138
+            },
+            "id": "1637927868817874944",
+            "edit_history_tweet_ids": [
+                  "1637927868817874944"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-19T14:59:52.000Z",
+            "text": "i hate my period why have i cried every time ive sat down to do any work for 3 days",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 192
+            },
+            "id": "1637468937779834880",
+            "edit_history_tweet_ids": [
+                  "1637468937779834880"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-15T14:05:35.000Z",
+            "text": "is it legally mandated for students in the us to go to south america during spring break or smthn",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 55,
+                              "end": 59,
+                              "probability": 0.4607,
+                              "type": "Place",
+                              "normalized_text": "south"
+                        },
+                        {
+                              "start": 61,
+                              "end": 67,
+                              "probability": 0.467,
+                              "type": "Place",
+                              "normalized_text": "america"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 1,
+                  "impression_count": 708
+            },
+            "id": "1636005725234413569",
+            "edit_history_tweet_ids": [
+                  "1636005725234413569"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-14T10:05:08.000Z",
+            "text": "good afternoon i will pass out from stress today",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 238
+            },
+            "id": "1635582827096862721",
+            "edit_history_tweet_ids": [
+                  "1635582827096862721"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-13T18:13:28.000Z",
+            "text": "exactly what i was looking for thanks https://t.co/U8Dm46f1UT https://t.co/EHJmcHc1RV",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 38,
+                              "end": 61,
+                              "url": "https://t.co/U8Dm46f1UT",
+                              "expanded_url": "https://twitter.com/whoisit123123/status/1635343335014699008/photo/1",
+                              "display_url": "pic.twitter.com/U8Dm46f1UT",
+                              "media_key": "3_1635343326726463490"
+                        },
+                        {
+                              "start": 62,
+                              "end": 85,
+                              "url": "https://t.co/EHJmcHc1RV",
+                              "expanded_url": "https://twitter.com/whoisit123123/status/1635286104621604866",
+                              "display_url": "twitter.com/whoisit123123/\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1635286104621604866"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 260
+            },
+            "id": "1635343335014699008",
+            "edit_history_tweet_ids": [
+                  "1635343335014699008"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-13T14:26:04.000Z",
+            "text": "if anyones has the heeramandi meme thing w all the womens faces or has seen a tweet with it pls send",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 19,
+                              "end": 28,
+                              "probability": 0.3899,
+                              "type": "Other",
+                              "normalized_text": "heeramandi"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 2,
+                  "impression_count": 457
+            },
+            "id": "1635286104621604866",
+            "edit_history_tweet_ids": [
+                  "1635286104621604866"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-12T11:22:10.000Z",
+            "text": "ppl at ashoka r taking late holi a little too seriously\u2026.. someone is blasting aahun aahun while having a shower at 5pm",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 7,
+                              "end": 12,
+                              "probability": 0.48,
+                              "type": "Other",
+                              "normalized_text": "ashoka"
+                        },
+                        {
+                              "start": 28,
+                              "end": 31,
+                              "probability": 0.4894,
+                              "type": "Other",
+                              "normalized_text": "holi"
+                        },
+                        {
+                              "start": 79,
+                              "end": 89,
+                              "probability": 0.6767,
+                              "type": "Other",
+                              "normalized_text": "aahun aahun"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 249
+            },
+            "id": "1634877437984247808",
+            "edit_history_tweet_ids": [
+                  "1634877437984247808"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-12T11:19:59.000Z",
+            "text": "summer is here!!! body dysmorphia is going so hard\ud83d\ude0d",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 331
+            },
+            "id": "1634876887699947520",
+            "edit_history_tweet_ids": [
+                  "1634876887699947520"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-11T10:55:04.000Z",
+            "text": "why does ranbir kapoor do this  slow blinking looking into the camera thing",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 9,
+                              "end": 21,
+                              "probability": 0.8908,
+                              "type": "Person",
+                              "normalized_text": "ranbir kapoor"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 248
+            },
+            "id": "1634508228825604099",
+            "edit_history_tweet_ids": [
+                  "1634508228825604099"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-09T19:09:36.000Z",
+            "text": "watching football thought the ref\u2019s whistle was a vape",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 447
+            },
+            "id": "1633907908873433089",
+            "edit_history_tweet_ids": [
+                  "1633907908873433089"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-09T18:14:11.000Z",
+            "text": "jamie lee curtis https://t.co/aJjTJh2jHT",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 17,
+                              "end": 40,
+                              "url": "https://t.co/aJjTJh2jHT",
+                              "expanded_url": "https://twitter.com/PleaseBeGneiss/status/1633556758206746624",
+                              "display_url": "twitter.com/PleaseBeGneiss\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1633556758206746624"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 369
+            },
+            "id": "1633893962703568896",
+            "edit_history_tweet_ids": [
+                  "1633893962703568896"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-08T13:31:57.000Z",
+            "text": "mild (man i love dhokla)",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 17,
+                              "end": 22,
+                              "probability": 0.6502,
+                              "type": "Other",
+                              "normalized_text": "dhokla"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 223
+            },
+            "id": "1633460548615671809",
+            "edit_history_tweet_ids": [
+                  "1633460548615671809"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-07T18:15:42.000Z",
+            "text": "me when i look in the mirror https://t.co/ltxrsdnUkF",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 29,
+                              "end": 52,
+                              "url": "https://t.co/ltxrsdnUkF",
+                              "expanded_url": "https://twitter.com/fasc1nate/status/1632854431573200901",
+                              "display_url": "twitter.com/fasc1nate/stat\u2026"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 474
+            },
+            "id": "1633169566091325441",
+            "edit_history_tweet_ids": [
+                  "1633169566091325441"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-06T10:07:58.000Z",
+            "text": "France",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1632684392844763138"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 109
+            },
+            "id": "1632684437291905025",
+            "edit_history_tweet_ids": [
+                  "1632684437291905025"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-06T10:07:47.000Z",
+            "text": "i love tan",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 7,
+                              "end": 9,
+                              "probability": 0.5064,
+                              "type": "Other",
+                              "normalized_text": "tan"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 243
+            },
+            "id": "1632684392844763138",
+            "edit_history_tweet_ids": [
+                  "1632684392844763138"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-03-02T17:42:48.000Z",
+            "text": "cannot believe cute guy on bumble ghosted me (i ghosted 4 other guys by mistake the same day)",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 308
+            },
+            "id": "1631349349576761344",
+            "edit_history_tweet_ids": [
+                  "1631349349576761344"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-28T10:31:53.000Z",
+            "text": "missing dhruv n faruq from class",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 8,
+                              "end": 12,
+                              "probability": 0.4652,
+                              "type": "Other",
+                              "normalized_text": "dhruv"
+                        },
+                        {
+                              "start": 16,
+                              "end": 20,
+                              "probability": 0.5325,
+                              "type": "Other",
+                              "normalized_text": "faruq"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 624
+            },
+            "id": "1630516129901969408",
+            "edit_history_tweet_ids": [
+                  "1630516129901969408"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-27T16:55:31.000Z",
+            "text": "wish i could explain to ppl i am not dumb i just am self conscious n act stupid and unserious so i can feel joy n so ppl will underestimate me\ud83d\ude0d",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 355
+            },
+            "id": "1630250285292736513",
+            "edit_history_tweet_ids": [
+                  "1630250285292736513"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-26T16:59:04.000Z",
+            "text": "personally i think banjaara should just be a music and food festival",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 19,
+                              "end": 26,
+                              "probability": 0.4485,
+                              "type": "Other",
+                              "normalized_text": "banjaara"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 365
+            },
+            "id": "1629888793884110848",
+            "edit_history_tweet_ids": [
+                  "1629888793884110848"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-24T18:19:00.000Z",
+            "text": "putting my phone on dnd to recover from the seven husbands of evelyn hugo",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 62,
+                              "end": 72,
+                              "probability": 0.72,
+                              "type": "Person",
+                              "normalized_text": "evelyn hugo"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 1,
+                  "impression_count": 1477
+            },
+            "id": "1629184132680151040",
+            "edit_history_tweet_ids": [
+                  "1629184132680151040"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-24T14:57:24.000Z",
+            "text": "home again is the rom com your place or mine wants to be",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 268
+            },
+            "id": "1629133396197933056",
+            "edit_history_tweet_ids": [
+                  "1629133396197933056"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-24T14:30:10.000Z",
+            "text": "monthly sickness has begun\ud83d\ude0d",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 199
+            },
+            "id": "1629126544076509186",
+            "edit_history_tweet_ids": [
+                  "1629126544076509186"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-22T08:14:34.000Z",
+            "text": "when will boy's a liar get out of my head",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 330
+            },
+            "id": "1628307245728677888",
+            "edit_history_tweet_ids": [
+                  "1628307245728677888"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-20T15:36:32.000Z",
+            "text": "not the 3 identical nike slides outside the shower stalls during hot water timings",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 406
+            },
+            "id": "1627693694248706050",
+            "edit_history_tweet_ids": [
+                  "1627693694248706050"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-18T08:27:12.000Z",
+            "text": "missing bandra",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 8,
+                              "end": 13,
+                              "probability": 0.5745,
+                              "type": "Other",
+                              "normalized_text": "bandra"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 252
+            },
+            "id": "1626860872017805312",
+            "edit_history_tweet_ids": [
+                  "1626860872017805312"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-17T21:43:52.000Z",
+            "text": "missing paris",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 194
+            },
+            "id": "1626698972265062400",
+            "edit_history_tweet_ids": [
+                  "1626698972265062400"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-17T20:40:02.000Z",
+            "text": "doing laundry at 2am is my passion",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 287
+            },
+            "id": "1626682908835713034",
+            "edit_history_tweet_ids": [
+                  "1626682908835713034"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-17T15:25:16.000Z",
+            "text": "why is summer coming im not ready to give up my winter fits",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 249
+            },
+            "id": "1626603695805960192",
+            "edit_history_tweet_ids": [
+                  "1626603695805960192"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-15T21:24:41.000Z",
+            "text": "i cant believe there are people roaming around whove read my tweets that\u2019s so embarrassing\u2026.",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 756
+            },
+            "id": "1625969371360251905",
+            "edit_history_tweet_ids": [
+                  "1625969371360251905"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-15T21:21:21.000Z",
+            "text": "every morning my roommate and i wake up and stare at our closets n cry abt how hard it is looking cute",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 627
+            },
+            "id": "1625968529286504449",
+            "edit_history_tweet_ids": [
+                  "1625968529286504449"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-15T21:18:07.000Z",
+            "text": "moved from delhi to bombay why is the pollution following me",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 11,
+                              "end": 15,
+                              "probability": 0.862,
+                              "type": "Place",
+                              "normalized_text": "delhi"
+                        },
+                        {
+                              "start": 20,
+                              "end": 25,
+                              "probability": 0.4379,
+                              "type": "Other",
+                              "normalized_text": "bombay"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 427
+            },
+            "id": "1625967717621825537",
+            "edit_history_tweet_ids": [
+                  "1625967717621825537"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-15T21:03:24.000Z",
+            "text": "i get my nails done and my confidence j skyrockets",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 211
+            },
+            "id": "1625964013384499204",
+            "edit_history_tweet_ids": [
+                  "1625964013384499204"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-12T11:21:48.000Z",
+            "text": "listened to ranjha 20 times yest n got depressed who saw that coming",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 12,
+                              "end": 17,
+                              "probability": 0.5274,
+                              "type": "Person",
+                              "normalized_text": "ranjha"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 409
+            },
+            "id": "1624730486861094912",
+            "edit_history_tweet_ids": [
+                  "1624730486861094912"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-12T11:21:27.000Z",
+            "text": "suppressing emotions deep inside me is so healthy",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 380
+            },
+            "id": "1624730397694377984",
+            "edit_history_tweet_ids": [
+                  "1624730397694377984"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-10T16:25:47.000Z",
+            "text": "ive been listening to ranjha non stop im not okay",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 27,
+                              "probability": 0.6357,
+                              "type": "Other",
+                              "normalized_text": "ranjha"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 324
+            },
+            "id": "1624082211476578304",
+            "edit_history_tweet_ids": [
+                  "1624082211476578304"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-10T12:10:17.000Z",
+            "text": "this class is not ending",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 340
+            },
+            "id": "1624017912565743616",
+            "edit_history_tweet_ids": [
+                  "1624017912565743616"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-09T22:04:00.000Z",
+            "text": "how many times will i watch znmd",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 28,
+                              "end": 31,
+                              "probability": 0.8085,
+                              "type": "Other",
+                              "normalized_text": "znmd"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 279
+            },
+            "id": "1623804939150688257",
+            "edit_history_tweet_ids": [
+                  "1623804939150688257"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-08T21:06:48.000Z",
+            "text": "does sidharth call kiara kiara or alia",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 5,
+                              "end": 12,
+                              "probability": 0.9501,
+                              "type": "Person",
+                              "normalized_text": "sidharth"
+                        },
+                        {
+                              "start": 19,
+                              "end": 29,
+                              "probability": 0.5644,
+                              "type": "Person",
+                              "normalized_text": "kiara kiara"
+                        },
+                        {
+                              "start": 34,
+                              "end": 37,
+                              "probability": 0.624,
+                              "type": "Person",
+                              "normalized_text": "alia"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 599
+            },
+            "id": "1623428154286301184",
+            "edit_history_tweet_ids": [
+                  "1623428154286301184"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-08T11:48:59.000Z",
+            "text": "feeling like i am in high school",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1623287133560786944"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 312
+            },
+            "id": "1623287773171187712",
+            "edit_history_tweet_ids": [
+                  "1623287773171187712"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-08T11:46:26.000Z",
+            "text": "why is there a meninist in my class during my 3rd yr at a liberal arts university",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 15,
+                  "quote_count": 0,
+                  "impression_count": 828
+            },
+            "id": "1623287133560786944",
+            "edit_history_tweet_ids": [
+                  "1623287133560786944"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-04T10:14:45.000Z",
+            "text": "was feeling hot but then forgot to wash my hair for an extra day n im back to feeling like a rat",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 351
+            },
+            "id": "1621814511094370304",
+            "edit_history_tweet_ids": [
+                  "1621814511094370304"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-03T19:09:15.000Z",
+            "text": "im so sick of ott releases no one goes to the theatres to watch garbage films anymore",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 14,
+                              "end": 16,
+                              "probability": 0.321,
+                              "type": "Other",
+                              "normalized_text": "ott"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 319
+            },
+            "id": "1621586634235076608",
+            "edit_history_tweet_ids": [
+                  "1621586634235076608"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-02-03T11:38:54.000Z",
+            "text": "i hate this class people will say anything",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 200
+            },
+            "id": "1621473298931666948",
+            "edit_history_tweet_ids": [
+                  "1621473298931666948"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-30T09:42:57.000Z",
+            "text": "why did i cry in the hall during pathaan am i ok",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 33,
+                              "end": 39,
+                              "probability": 0.6924,
+                              "type": "Other",
+                              "normalized_text": "pathaan"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 275
+            },
+            "id": "1619994565951496193",
+            "edit_history_tweet_ids": [
+                  "1619994565951496193"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-29T15:17:59.000Z",
+            "text": "i hate men bc they can\u2019t even let us have a fictional character https://t.co/n7bftU99JO",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 64,
+                              "end": 87,
+                              "url": "https://t.co/n7bftU99JO",
+                              "expanded_url": "https://twitter.com/shawnsguster/status/1619146156696829955",
+                              "display_url": "twitter.com/shawnsguster/s\u2026"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 190
+            },
+            "id": "1619716492500811776",
+            "edit_history_tweet_ids": [
+                  "1619716492500811776"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-29T11:45:21.000Z",
+            "text": "gehraiyaan was bombay\u2019s white lotus",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 339
+            },
+            "id": "1619662980584722432",
+            "edit_history_tweet_ids": [
+                  "1619662980584722432"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-27T11:08:18.000Z",
+            "text": "all i want is a beis suitcase",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 243
+            },
+            "id": "1618928881322565635",
+            "edit_history_tweet_ids": [
+                  "1618928881322565635"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-22T07:46:55.000Z",
+            "text": "would like to announce that after 3 yrs of having fantastic high effort curly girl method hair i have given up",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 300
+            },
+            "id": "1617066264232603651",
+            "edit_history_tweet_ids": [
+                  "1617066264232603651"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-22T07:41:34.000Z",
+            "text": "biggest ick is saviour complex men",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 254
+            },
+            "id": "1617064917647097857",
+            "edit_history_tweet_ids": [
+                  "1617064917647097857"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-22T07:39:57.000Z",
+            "text": "girl with cow print bucket hat spotted in bandra west",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 42,
+                              "end": 52,
+                              "probability": 0.8124,
+                              "type": "Place",
+                              "normalized_text": "bandra west"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 431
+            },
+            "id": "1617064511344898049",
+            "edit_history_tweet_ids": [
+                  "1617064511344898049"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-22T07:39:34.000Z",
+            "text": "i listen to an insane amount of love songs for someone who hasn\u2019t felt anything in 2 yrs",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 254
+            },
+            "id": "1617064415425355777",
+            "edit_history_tweet_ids": [
+                  "1617064415425355777"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-22T07:07:29.000Z",
+            "text": "best n worst thing abt curly hair is it\u2019ll never look the same for any 2 days",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 409
+            },
+            "id": "1617056340714610690",
+            "edit_history_tweet_ids": [
+                  "1617056340714610690"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-21T09:42:21.000Z",
+            "text": "thinking abt the banging nachos indigo used to have",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 25,
+                              "end": 37,
+                              "probability": 0.3734,
+                              "type": "Other",
+                              "normalized_text": "nachos indigo"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 234
+            },
+            "id": "1616732926095560710",
+            "edit_history_tweet_ids": [
+                  "1616732926095560710"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-21T07:06:49.000Z",
+            "text": "i keep confusing dylan o brien and logan lerman",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 17,
+                              "end": 29,
+                              "probability": 0.6294,
+                              "type": "Person",
+                              "normalized_text": "dylan o brien"
+                        },
+                        {
+                              "start": 35,
+                              "end": 46,
+                              "probability": 0.8489,
+                              "type": "Person",
+                              "normalized_text": "logan lerman"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 323
+            },
+            "id": "1616693784842235904",
+            "edit_history_tweet_ids": [
+                  "1616693784842235904"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-20T09:29:43.000Z",
+            "text": "my dad keeps calling lollapalooza lalapalooza",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 21,
+                              "end": 32,
+                              "probability": 0.5988,
+                              "type": "Other",
+                              "normalized_text": "lollapalooza"
+                        },
+                        {
+                              "start": 34,
+                              "end": 44,
+                              "probability": 0.5011,
+                              "type": "Other",
+                              "normalized_text": "lalapalooza"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 736
+            },
+            "id": "1616367356368023554",
+            "edit_history_tweet_ids": [
+                  "1616367356368023554"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-20T09:20:56.000Z",
+            "text": "why did i dream that there was a capybara in my driveway",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 33,
+                              "end": 40,
+                              "probability": 0.5063,
+                              "type": "Other",
+                              "normalized_text": "capybara"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 260
+            },
+            "id": "1616365147941138433",
+            "edit_history_tweet_ids": [
+                  "1616365147941138433"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-20T09:18:50.000Z",
+            "text": "why is it so hard for me to make decisions",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 201
+            },
+            "id": "1616364620729704452",
+            "edit_history_tweet_ids": [
+                  "1616364620729704452"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-17T18:07:31.000Z",
+            "text": "i was trying to tell my dad that i need work ex before i can decide anything and the only phrase that came to mind was fuck around and find out\u2026",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 327
+            },
+            "id": "1615410504922730496",
+            "edit_history_tweet_ids": [
+                  "1615410504922730496"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-17T15:52:16.000Z",
+            "text": "i might have seen every early 2000s romcom ever",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 36,
+                              "end": 41,
+                              "probability": 0.4356,
+                              "type": "Organization",
+                              "normalized_text": "romcom"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 374
+            },
+            "id": "1615376468246401030",
+            "edit_history_tweet_ids": [
+                  "1615376468246401030"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-16T19:34:18.000Z",
+            "text": "season one of how to get away with murder is a masterpiece",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 25,
+                              "end": 28,
+                              "probability": 0.5035,
+                              "type": "Other",
+                              "normalized_text": "away"
+                        },
+                        {
+                              "start": 35,
+                              "end": 40,
+                              "probability": 0.6699,
+                              "type": "Other",
+                              "normalized_text": "murder"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 240
+            },
+            "id": "1615069954801565698",
+            "edit_history_tweet_ids": [
+                  "1615069954801565698"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-12T20:16:17.000Z",
+            "text": "\u201cshe was such a loving mom\u201d to \u201che did what he had to to take care of his family\u201d",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1613630741438685185"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 155
+            },
+            "id": "1613630967645868032",
+            "edit_history_tweet_ids": [
+                  "1613630967645868032"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-12T20:15:23.000Z",
+            "text": "having a diana obsessed mom as a kid to a harry obsessed dad as an adult pipeline is so real",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 9,
+                              "end": 13,
+                              "probability": 0.6197,
+                              "type": "Other",
+                              "normalized_text": "diana"
+                        },
+                        {
+                              "start": 42,
+                              "end": 46,
+                              "probability": 0.6126,
+                              "type": "Person",
+                              "normalized_text": "harry"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 325
+            },
+            "id": "1613630741438685185",
+            "edit_history_tweet_ids": [
+                  "1613630741438685185"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-12T15:03:14.000Z",
+            "text": "so bc all my uncles who have seen me since i was a baby r staying at my house i have to wear a bra under an oversized t shirt at 11pm?",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 343
+            },
+            "id": "1613552187233165312",
+            "edit_history_tweet_ids": [
+                  "1613552187233165312"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-12T07:49:46.000Z",
+            "text": "stop it\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d I love him https://t.co/zQZkAlfRYq",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 23,
+                              "end": 46,
+                              "url": "https://t.co/zQZkAlfRYq",
+                              "expanded_url": "https://twitter.com/ameliadimz/status/1613285658415759361",
+                              "display_url": "twitter.com/ameliadimz/sta\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1613285658415759361"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 326
+            },
+            "id": "1613443102727090176",
+            "edit_history_tweet_ids": [
+                  "1613443102727090176"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-11T15:36:16.000Z",
+            "text": "new twt tl makes me wanna kms",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 228
+            },
+            "id": "1613198113673744384",
+            "edit_history_tweet_ids": [
+                  "1613198113673744384"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-10T10:38:56.000Z",
+            "text": "why is alfie from emily in paris so hot",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 7,
+                              "end": 11,
+                              "probability": 0.5721,
+                              "type": "Other",
+                              "normalized_text": "alfie"
+                        },
+                        {
+                              "start": 18,
+                              "end": 22,
+                              "probability": 0.5176,
+                              "type": "Person",
+                              "normalized_text": "emily"
+                        },
+                        {
+                              "start": 27,
+                              "end": 31,
+                              "probability": 0.969,
+                              "type": "Place",
+                              "normalized_text": "paris"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 348
+            },
+            "id": "1612760900355903490",
+            "edit_history_tweet_ids": [
+                  "1612760900355903490"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-06T19:20:42.000Z",
+            "text": "feeling good about this year",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 207
+            },
+            "id": "1611442655829045248",
+            "edit_history_tweet_ids": [
+                  "1611442655829045248"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-05T14:14:32.000Z",
+            "text": "i want the confidence of a first year submitting their random fc papers to an academic journal",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 35,
+                  "quote_count": 0,
+                  "impression_count": 1191
+            },
+            "id": "1611003217189703681",
+            "edit_history_tweet_ids": [
+                  "1611003217189703681"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-05T07:09:05.000Z",
+            "text": "just ratioed my prof",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 493
+            },
+            "id": "1610896150172954627",
+            "edit_history_tweet_ids": [
+                  "1610896150172954627"
+            ],
+            "author_id": "1287149462528200706"
+      },
+      {
+            "created_at": "2023-01-01T18:41:17.000Z",
+            "text": "thank god i am so lame online",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1609620734661255168"
+                  }
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 169
+            },
+            "id": "1609620794220634112",
+            "edit_history_tweet_ids": [
+                  "1609620794220634112"
+            ],
+            "author_id": "1287149462528200706"
+      }
+]

@@ -1,0 +1,3197 @@
+[
+      {
+            "id": "1651985902103842816",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "Browntable_Ent",
+                              "id": "4674820032"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1651977271253532672"
+                  }
+            ],
+            "text": "RT @Browntable_Ent: Dude rarely goes to these so this is a huge W omg",
+            "created_at": "2023-04-28T16:25:06.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1651985902103842816"
+            ],
+            "public_metrics": {
+                  "retweet_count": 377,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1651940655328038915",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "DiscussingFilm",
+                              "id": "780460754910732288"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 20,
+                              "end": 30,
+                              "probability": 0.9511,
+                              "type": "Person",
+                              "normalized_text": "Mark Hamill"
+                        },
+                        {
+                              "start": 40,
+                              "end": 55,
+                              "probability": 0.8776,
+                              "type": "Person",
+                              "normalized_text": "Cameron Monaghan"
+                        },
+                        {
+                              "start": 82,
+                              "end": 95,
+                              "probability": 0.5896,
+                              "type": "Other",
+                              "normalized_text": "STAR WARS JEDI"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1651617664815583232"
+                  }
+            ],
+            "text": "RT @DiscussingFilm: Mark Hamill coaches Cameron Monaghan on how to be a Jedi for \u2018STAR WARS JEDI: SURVIVOR\u2019.\n\nThe game releases tomorrow. h\u2026",
+            "created_at": "2023-04-28T13:25:18.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1651940655328038915"
+            ],
+            "public_metrics": {
+                  "retweet_count": 12600,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1651543018753900547",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 10,
+                              "username": "CS11__",
+                              "id": "1303856156100694018"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 56,
+                              "end": 59,
+                              "probability": 0.8993,
+                              "type": "Person",
+                              "normalized_text": "Hulk"
+                        },
+                        {
+                              "start": 103,
+                              "end": 105,
+                              "probability": 0.6773,
+                              "type": "Other",
+                              "normalized_text": "MCU"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1651396632611631105"
+                  }
+            ],
+            "text": "RT @CS11__: \u201cwhat happened man\u201d absolutely nothing. She-Hulk is literally just a different side of the MCU.\n\nIsn\u2019t that the whole appeal of\u2026",
+            "created_at": "2023-04-27T11:05:14.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1651543018753900547"
+            ],
+            "public_metrics": {
+                  "retweet_count": 57,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1651179764449783808",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1651016423525720069"
+                  }
+            ],
+            "text": "okay maybe it is a masterpiece idk lets see https://t.co/m7lCHYttYg",
+            "created_at": "2023-04-26T11:01:47.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1651179764449783808"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 98
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 44,
+                              "end": 67,
+                              "url": "https://t.co/m7lCHYttYg",
+                              "expanded_url": "https://twitter.com/kylelindecke/status/1651016423525720069",
+                              "display_url": "twitter.com/kylelindecke/s\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1651115269396234240",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1651115107592687622"
+                  }
+            ],
+            "text": "CAN IT?",
+            "created_at": "2023-04-26T06:45:31.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1651115269396234240"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 23
+            }
+      },
+      {
+            "id": "1651115107592687622",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1651050967796789251"
+                  }
+            ],
+            "text": "Bro why tf does EVERYONE love this movie? It can't be that good can it? https://t.co/9KN7kTccBn",
+            "created_at": "2023-04-26T06:44:52.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1651115107592687622"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 91
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 72,
+                              "end": 95,
+                              "url": "https://t.co/9KN7kTccBn",
+                              "expanded_url": "https://twitter.com/TheDCTVshow/status/1651050967796789251",
+                              "display_url": "twitter.com/TheDCTVshow/st\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1650883542828855298",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 19,
+                              "username": "franklinsherald",
+                              "id": "1255919721301577729"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1650541860354502683"
+                  }
+            ],
+            "text": "RT @franklinsherald: almost nobody gave this show a fair shot and watched it just to look for reasons to hate it",
+            "created_at": "2023-04-25T15:24:43.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1650883542828855298"
+            ],
+            "public_metrics": {
+                  "retweet_count": 255,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "entities": {
+                  "hashtags": [
+                        {
+                              "start": 25,
+                              "end": 31,
+                              "tag": "Andor"
+                        },
+                        {
+                              "start": 43,
+                              "end": 58,
+                              "tag": "StarWarsRebels"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "HrothgarCanuck",
+                              "id": "321984835"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 26,
+                              "end": 30,
+                              "probability": 0.6929,
+                              "type": "Other",
+                              "normalized_text": "Andor"
+                        },
+                        {
+                              "start": 44,
+                              "end": 57,
+                              "probability": 0.9766,
+                              "type": "Other",
+                              "normalized_text": "StarWarsRebels"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 94,
+                              "end": 117,
+                              "url": "https://t.co/x0WhHOJ3Vj",
+                              "expanded_url": "https://twitter.com/HrothgarCanuck/status/1650191699732299778/photo/1",
+                              "display_url": "pic.twitter.com/x0WhHOJ3Vj",
+                              "media_key": "3_1650191607990288384"
+                        },
+                        {
+                              "start": 94,
+                              "end": 117,
+                              "url": "https://t.co/x0WhHOJ3Vj",
+                              "expanded_url": "https://twitter.com/HrothgarCanuck/status/1650191699732299778/photo/1",
+                              "display_url": "pic.twitter.com/x0WhHOJ3Vj",
+                              "media_key": "3_1650191644480753667"
+                        }
+                  ]
+            },
+            "id": "1650534674404454404",
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1650191699732299778"
+                  }
+            ],
+            "text": "RT @HrothgarCanuck: Post #Andor rewatch of #StarWarsRebels, and THIS just hits differently... https://t.co/x0WhHOJ3Vj",
+            "created_at": "2023-04-24T16:18:26.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1650534674404454404"
+            ],
+            "public_metrics": {
+                  "retweet_count": 294,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1650470121717268480",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 13,
+                              "username": "JamesGunn",
+                              "id": "14982315"
+                        },
+                        {
+                              "start": 31,
+                              "end": 40,
+                              "username": "JohnCena",
+                              "id": "141664648"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1650209809352753153"
+                  }
+            ],
+            "text": "RT @JamesGunn: Happy Birthday, @johncena! One of the great joys of my life has been working with this man, a person of incredible talent, c\u2026",
+            "created_at": "2023-04-24T12:01:55.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1650470121717268480"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1127,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1649866243074293760",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "criminalplaza",
+                              "id": "1241166783530360833"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 50,
+                              "end": 62,
+                              "probability": 0.5823,
+                              "type": "Other",
+                              "normalized_text": "modern family"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 85,
+                              "end": 108,
+                              "url": "https://t.co/3EFsmJF3G6",
+                              "expanded_url": "https://twitter.com/criminalplaza/status/1649568808342880256/photo/1",
+                              "display_url": "pic.twitter.com/3EFsmJF3G6",
+                              "media_key": "3_1649568803703910402"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1649568808342880256"
+                  }
+            ],
+            "text": "RT @criminalplaza: the connection lost episode of modern family changed lives (mine) https://t.co/3EFsmJF3G6",
+            "created_at": "2023-04-22T20:02:20.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1649866243074293760"
+            ],
+            "public_metrics": {
+                  "retweet_count": 8337,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1649865511872888832",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 15,
+                              "username": "TopherGrace",
+                              "id": "509531549"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1649518203192872960"
+                  }
+            ],
+            "text": "RT @TopherGrace: I messed with this stuff once.  Not cool.",
+            "created_at": "2023-04-22T19:59:25.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1649865511872888832"
+            ],
+            "public_metrics": {
+                  "retweet_count": 17006,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1649021922405933122",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 15,
+                              "username": "CoyJandreau",
+                              "id": "30037319"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 121,
+                              "end": 132,
+                              "probability": 0.9575,
+                              "type": "Person",
+                              "normalized_text": "Keanu Reeves"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1648780464424108033"
+                  }
+            ],
+            "text": "RT @CoyJandreau: Just got to send this text, and mean it\n\n\u201cSorry I missed your call I was talking about comic books with Keanu Reeves\u201d http\u2026",
+            "created_at": "2023-04-20T12:07:18.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1649021922405933122"
+            ],
+            "public_metrics": {
+                  "retweet_count": 457,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1649021265963888642",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 13,
+                              "username": "nandyywho",
+                              "id": "1318147396501610500"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 15,
+                              "end": 22,
+                              "probability": 0.5666,
+                              "type": "Other",
+                              "normalized_text": "kshitija"
+                        },
+                        {
+                              "start": 31,
+                              "end": 37,
+                              "probability": 0.4905,
+                              "type": "Other",
+                              "normalized_text": "abishek"
+                        },
+                        {
+                              "start": 57,
+                              "end": 61,
+                              "probability": 0.4342,
+                              "type": "Other",
+                              "normalized_text": "tikka"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1648950629623291904"
+                  }
+            ],
+            "text": "RT @nandyywho: kshitija called abishek a tandoori paneer tikka motherfucker and i don\u2019t think there is a more appropriate insult",
+            "created_at": "2023-04-20T12:04:41.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1649021265963888642"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1649021025344970753",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 15,
+                              "username": "GroovyBruce",
+                              "id": "282392576"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 32,
+                              "end": 39,
+                              "probability": 0.3463,
+                              "type": "Other",
+                              "normalized_text": "Mr. King"
+                        },
+                        {
+                              "start": 78,
+                              "end": 86,
+                              "probability": 0.9396,
+                              "type": "Other",
+                              "normalized_text": "Evil Dead"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1648796592323928066"
+                  }
+            ],
+            "text": "RT @GroovyBruce: If you insist, Mr. King! We appreciate all you have done for Evil Dead over the decades.",
+            "created_at": "2023-04-20T12:03:44.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1649021025344970753"
+            ],
+            "public_metrics": {
+                  "retweet_count": 520,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1649020583462445057",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 16,
+                              "username": "NicholasPas5",
+                              "id": "1471249391138840589"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 18,
+                              "end": 28,
+                              "probability": 0.7607,
+                              "type": "Other",
+                              "normalized_text": "BluRayAngel"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 72,
+                              "end": 95,
+                              "url": "https://t.co/vHTI4reel8",
+                              "expanded_url": "https://twitter.com/NicholasPas5/status/1648854181913022467/photo/1",
+                              "display_url": "pic.twitter.com/vHTI4reel8",
+                              "media_key": "3_1648854179253743616"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1648854181913022467"
+                  }
+            ],
+            "text": "RT @NicholasPas5: BluRayAngel every time he tries to cook up a fancast: https://t.co/vHTI4reel8",
+            "created_at": "2023-04-20T12:01:59.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1649020583462445057"
+            ],
+            "public_metrics": {
+                  "retweet_count": 178,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1648908857328975873",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 16,
+                              "username": "NicholasPas5",
+                              "id": "1471249391138840589"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 95,
+                              "end": 109,
+                              "probability": 0.8651,
+                              "type": "Person",
+                              "normalized_text": "Jonathan Majors"
+                        },
+                        {
+                              "start": 114,
+                              "end": 117,
+                              "probability": 0.5453,
+                              "type": "Person",
+                              "normalized_text": "Kang"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1648842381855186944"
+                  }
+            ],
+            "text": "RT @NicholasPas5: With every day that goes by it becomes increasingly more and more insane how Jonathan Majors as Kang was pretty much unan\u2026",
+            "created_at": "2023-04-20T04:38:01.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1648908857328975873"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1651,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1648614953463721984",
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1633187489019199489"
+                  }
+            ],
+            "text": "Update: Still looking for a job. Fuck this is taking a while huh?",
+            "created_at": "2023-04-19T09:10:09.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1648614953463721984"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 22
+            }
+      },
+      {
+            "id": "1648578063570173952",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 15,
+                              "username": "neilhimself",
+                              "id": "18393773"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 34,
+                              "probability": 0.925,
+                              "type": "Person",
+                              "normalized_text": "David Tennant"
+                        },
+                        {
+                              "start": 62,
+                              "end": 66,
+                              "probability": 0.775,
+                              "type": "Person",
+                              "normalized_text": "David"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 69,
+                              "end": 92,
+                              "url": "https://t.co/bUwKwEheUL",
+                              "expanded_url": "https://twitter.com/neilhimself/status/1648363060753575938/photo/1",
+                              "display_url": "pic.twitter.com/bUwKwEheUL",
+                              "media_key": "3_1648362863810031617"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1648363060753575938"
+                  }
+            ],
+            "text": "RT @neilhimself: It's David Tennant's bathday! Happy bathday, David! https://t.co/bUwKwEheUL",
+            "created_at": "2023-04-19T06:43:34.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1648578063570173952"
+            ],
+            "public_metrics": {
+                  "retweet_count": 2116,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1648335289495216128",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "DeadpoolUpdate",
+                              "id": "1476288517437329415"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 20,
+                              "end": 32,
+                              "probability": 0.9854,
+                              "type": "Person",
+                              "normalized_text": "Ryan Reynolds"
+                        },
+                        {
+                              "start": 44,
+                              "end": 55,
+                              "probability": 0.9682,
+                              "type": "Person",
+                              "normalized_text": "Hugh Jackman"
+                        },
+                        {
+                              "start": 89,
+                              "end": 97,
+                              "probability": 0.4403,
+                              "type": "Organization",
+                              "normalized_text": "Wolverine"
+                        },
+                        {
+                              "start": 108,
+                              "end": 117,
+                              "probability": 0.8223,
+                              "type": "Other",
+                              "normalized_text": "DEADPOOL 3"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1648019043549323266"
+                  }
+            ],
+            "text": "RT @DeadpoolUpdate: Ryan Reynolds says that Hugh Jackman was excited about the pitch for Wolverine being in DEADPOOL 3.\n\n\u201cWhat we pitched h\u2026",
+            "created_at": "2023-04-18T14:38:52.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1648335289495216128"
+            ],
+            "public_metrics": {
+                  "retweet_count": 469,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1647948135719923715",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "thetrickarrow",
+                              "id": "1543225689096306690"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 86,
+                              "end": 95,
+                              "probability": 0.7249,
+                              "type": "Other",
+                              "normalized_text": "Spider-Man"
+                        },
+                        {
+                              "start": 98,
+                              "end": 102,
+                              "probability": 0.5571,
+                              "type": "Other",
+                              "normalized_text": "Lotus"
+                        },
+                        {
+                              "start": 120,
+                              "end": 126,
+                              "probability": 0.9654,
+                              "type": "Other",
+                              "normalized_text": "twitter"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1647772657159421953"
+                  }
+            ],
+            "text": "RT @thetrickarrow: A comprehensive thread chronicling the rise, fall, and lore behind Spider-Man:\nLotus.\n\n(Everybody on twitter now does th\u2026",
+            "created_at": "2023-04-17T13:00:27.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1647948135719923715"
+            ],
+            "public_metrics": {
+                  "retweet_count": 944,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1647907893344337921",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 12,
+                              "username": "CBMshots",
+                              "id": "1031014269612056577"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 14,
+                              "end": 27,
+                              "probability": 0.5982,
+                              "type": "Person",
+                              "normalized_text": "Doctor Strange"
+                        },
+                        {
+                              "start": 32,
+                              "end": 34,
+                              "probability": 0.4919,
+                              "type": "Other",
+                              "normalized_text": "the"
+                        },
+                        {
+                              "start": 36,
+                              "end": 56,
+                              "probability": 0.7827,
+                              "type": "Other",
+                              "normalized_text": "Multiverse of Madness"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 58,
+                              "end": 81,
+                              "url": "https://t.co/fwrceKwyRz",
+                              "expanded_url": "https://twitter.com/CBMshots/status/1647560621607780352/photo/1",
+                              "display_url": "pic.twitter.com/fwrceKwyRz",
+                              "media_key": "16_1647560583972278275"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1647560621607780352"
+                  }
+            ],
+            "text": "RT @CBMshots: Doctor Strange in the Multiverse of Madness https://t.co/fwrceKwyRz",
+            "created_at": "2023-04-17T10:20:33.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1647907893344337921"
+            ],
+            "public_metrics": {
+                  "retweet_count": 720,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1647904752964096001",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 10,
+                              "username": "qLxke_",
+                              "id": "1257772417990242309"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 97,
+                              "end": 120,
+                              "url": "https://t.co/vWjCbnhsRO",
+                              "expanded_url": "https://twitter.com/qLxke_/status/1647698175577268224/photo/1",
+                              "display_url": "pic.twitter.com/vWjCbnhsRO",
+                              "media_key": "3_1647698171965976578"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1647698175577268224"
+                  }
+            ],
+            "text": "RT @qLxke_: wait this isn\u2019t a quote or anything they\u2019re literally just calling themselves that \ud83d\ude2d https://t.co/vWjCbnhsRO",
+            "created_at": "2023-04-17T10:08:04.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1647904752964096001"
+            ],
+            "public_metrics": {
+                  "retweet_count": 122,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1647650050103996417",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 16,
+                              "username": "HermanTran30",
+                              "id": "875504679018483716"
+                        },
+                        {
+                              "start": 18,
+                              "end": 29,
+                              "username": "ArkhamNumb",
+                              "id": "1544770360477982722"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 81,
+                              "end": 104,
+                              "url": "https://t.co/nPYrR7gzn3",
+                              "expanded_url": "https://twitter.com/HermanTran30/status/1647044534738591744/photo/1",
+                              "display_url": "pic.twitter.com/nPYrR7gzn3",
+                              "media_key": "3_1647044438542221313"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1647044534738591744"
+                  }
+            ],
+            "text": "RT @HermanTran30: @ArkhamNumb Found this in some alleyway. My lucky day \ud83e\udd37\u200d\u2642\ufe0f\ud83e\udd37\u200d\u2642\ufe0f https://t.co/nPYrR7gzn3",
+            "created_at": "2023-04-16T17:15:58.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1647650050103996417"
+            ],
+            "public_metrics": {
+                  "retweet_count": 40,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1647589257756700674",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "TheFirstOkiro",
+                              "id": "1234758947623636992"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 19,
+                              "end": 42,
+                              "url": "https://t.co/JzTCx5AB0j",
+                              "expanded_url": "https://twitter.com/TheFirstOkiro/status/1647540003612901376/photo/1",
+                              "display_url": "pic.twitter.com/JzTCx5AB0j",
+                              "media_key": "3_1647539996583231490"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1647540003612901376"
+                  }
+            ],
+            "text": "RT @TheFirstOkiro: https://t.co/JzTCx5AB0j",
+            "created_at": "2023-04-16T13:14:24.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1647589257756700674"
+            ],
+            "public_metrics": {
+                  "retweet_count": 480,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1647588662463406080",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 15,
+                              "username": "ThatBmanGuy",
+                              "id": "1036047113480818690"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 41,
+                              "end": 45,
+                              "probability": 0.4467,
+                              "type": "Person",
+                              "normalized_text": "Andor"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 84,
+                              "end": 107,
+                              "url": "https://t.co/aTpdgbud7i",
+                              "expanded_url": "https://twitter.com/ThatBmanGuy/status/1647406553534799876/photo/1",
+                              "display_url": "pic.twitter.com/aTpdgbud7i",
+                              "media_key": "3_1647406531451711489"
+                        },
+                        {
+                              "start": 84,
+                              "end": 107,
+                              "url": "https://t.co/aTpdgbud7i",
+                              "expanded_url": "https://twitter.com/ThatBmanGuy/status/1647406553534799876/photo/1",
+                              "display_url": "pic.twitter.com/aTpdgbud7i",
+                              "media_key": "3_1647406531338547202"
+                        },
+                        {
+                              "start": 84,
+                              "end": 107,
+                              "url": "https://t.co/aTpdgbud7i",
+                              "expanded_url": "https://twitter.com/ThatBmanGuy/status/1647406553534799876/photo/1",
+                              "display_url": "pic.twitter.com/aTpdgbud7i",
+                              "media_key": "3_1647406531334270978"
+                        },
+                        {
+                              "start": 84,
+                              "end": 107,
+                              "url": "https://t.co/aTpdgbud7i",
+                              "expanded_url": "https://twitter.com/ThatBmanGuy/status/1647406553534799876/photo/1",
+                              "display_url": "pic.twitter.com/aTpdgbud7i",
+                              "media_key": "3_1647406531451793408"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1647406553534799876"
+                  }
+            ],
+            "text": "RT @ThatBmanGuy: The cinematographer for Andor really had a thing for doorway shots https://t.co/aTpdgbud7i",
+            "created_at": "2023-04-16T13:12:02.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1647588662463406080"
+            ],
+            "public_metrics": {
+                  "retweet_count": 32,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1647239243222355974",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 14,
+                              "username": "CastleDead",
+                              "id": "1624500336651038720"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 71,
+                              "end": 94,
+                              "url": "https://t.co/0hd2K3Iy0t",
+                              "expanded_url": "https://twitter.com/CastleDead/status/1646986609181466626/photo/1",
+                              "display_url": "pic.twitter.com/0hd2K3Iy0t",
+                              "media_key": "3_1646986607004729344"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1646986609181466626"
+                  }
+            ],
+            "text": "RT @CastleDead: The blood forming a skull on his chest it just perfect https://t.co/0hd2K3Iy0t",
+            "created_at": "2023-04-15T14:03:34.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1647239243222355974"
+            ],
+            "public_metrics": {
+                  "retweet_count": 979,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1647128289427984386",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "TheFirstOkiro",
+                              "id": "1234758947623636992"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 19,
+                              "end": 22,
+                              "probability": 0.577,
+                              "type": "Person",
+                              "normalized_text": "Ezra"
+                        },
+                        {
+                              "start": 92,
+                              "end": 97,
+                              "probability": 0.4368,
+                              "type": "Other",
+                              "normalized_text": "asthma"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1646984503901011968"
+                  }
+            ],
+            "text": "RT @TheFirstOkiro: Ezra a braver man than me because if I saw a homicidal refrigerator with asthma heading my way on top a tie-fighter to b\u2026",
+            "created_at": "2023-04-15T06:42:41.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1647128289427984386"
+            ],
+            "public_metrics": {
+                  "retweet_count": 465,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "entities": {
+                  "hashtags": [
+                        {
+                              "start": 60,
+                              "end": 69,
+                              "tag": "goopgang"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 13,
+                              "username": "_jimbofix",
+                              "id": "1257856212567293952"
+                        },
+                        {
+                              "start": 15,
+                              "end": 29,
+                              "username": "Smv_of_Heroes",
+                              "id": "1280737513230008321"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 61,
+                              "end": 68,
+                              "probability": 0.6572,
+                              "type": "Other",
+                              "normalized_text": "goopgang"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 80,
+                              "end": 103,
+                              "url": "https://t.co/J0q7p2ninD",
+                              "expanded_url": "https://twitter.com/_jimbofix/status/1646785876767244289/photo/1",
+                              "display_url": "pic.twitter.com/J0q7p2ninD",
+                              "media_key": "3_1646785874091290624"
+                        }
+                  ]
+            },
+            "id": "1646824419644547072",
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1646785876767244289"
+                  }
+            ],
+            "text": "RT @_jimbofix: @Smv_of_Heroes We have to fix his reputation #goopgang can do it https://t.co/J0q7p2ninD",
+            "created_at": "2023-04-14T10:35:12.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646824419644547072"
+            ],
+            "public_metrics": {
+                  "retweet_count": 3,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646824403702013954",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "Smv_of_Heroes",
+                              "id": "1280737513230008321"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 19,
+                              "end": 33,
+                              "probability": 0.9572,
+                              "type": "Person",
+                              "normalized_text": "Gwyneth Paltrow"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 94,
+                              "end": 117,
+                              "url": "https://t.co/USDOU9EumN",
+                              "expanded_url": "https://twitter.com/Smv_of_Heroes/status/1646785546516156419/photo/1",
+                              "display_url": "pic.twitter.com/USDOU9EumN",
+                              "media_key": "3_1646785544481910786"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1646785546516156419"
+                  }
+            ],
+            "text": "RT @Smv_of_Heroes: Gwyneth Paltrow really did everything she could to ruin my boy's good name https://t.co/USDOU9EumN",
+            "created_at": "2023-04-14T10:35:09.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646824403702013954"
+            ],
+            "public_metrics": {
+                  "retweet_count": 38,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646545089664258049",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 14,
+                              "username": "TheQuiver_",
+                              "id": "848951184048234497"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 16,
+                              "end": 39,
+                              "url": "https://t.co/KpE9UGi0A1",
+                              "expanded_url": "https://twitter.com/TheQuiver_/status/1646544466151391236/photo/1",
+                              "display_url": "pic.twitter.com/KpE9UGi0A1",
+                              "media_key": "3_1646544461067845632"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1646544466151391236"
+                  }
+            ],
+            "text": "RT @TheQuiver_: https://t.co/KpE9UGi0A1",
+            "created_at": "2023-04-13T16:05:15.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646545089664258049"
+            ],
+            "public_metrics": {
+                  "retweet_count": 31,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646544374984224770",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 11,
+                              "username": "fyeclip",
+                              "id": "1308838733630898177"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 13,
+                              "end": 21,
+                              "probability": 0.6063,
+                              "type": "Other",
+                              "normalized_text": "NOSTALGIA"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 37,
+                              "end": 60,
+                              "url": "https://t.co/ia3tBnfIzu",
+                              "expanded_url": "https://twitter.com/fyeclip/status/1646253895776104454/video/1",
+                              "display_url": "pic.twitter.com/ia3tBnfIzu",
+                              "media_key": "7_1646253867682746369"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1646253895776104454"
+                  }
+            ],
+            "text": "RT @fyeclip: NOSTALGIA AT ITS FINEST https://t.co/ia3tBnfIzu",
+            "created_at": "2023-04-13T16:02:24.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646544374984224770"
+            ],
+            "public_metrics": {
+                  "retweet_count": 4704,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646528100409438210",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 15,
+                              "username": "MattGoldich",
+                              "id": "19670467"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 27,
+                              "end": 33,
+                              "probability": 0.4665,
+                              "type": "Person",
+                              "normalized_text": "Peacock"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1646257874174382081"
+                  }
+            ],
+            "text": "RT @MattGoldich: Hopefully Peacock doesn\u2019t get any ideas from this.",
+            "created_at": "2023-04-13T14:57:44.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646528100409438210"
+            ],
+            "public_metrics": {
+                  "retweet_count": 6489,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646198319503532032",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 12,
+                              "username": "WWDiana_",
+                              "id": "748082151258677248"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645995428218028032"
+                  }
+            ],
+            "text": "RT @WWDiana_: These shows make fun of a certain group but one of them gets hate for it while the other gets praised by the same group https\u2026",
+            "created_at": "2023-04-12T17:07:18.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646198319503532032"
+            ],
+            "public_metrics": {
+                  "retweet_count": 123,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646188604178468864",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 14,
+                              "username": "TheQuiver_",
+                              "id": "848951184048234497"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 58,
+                              "end": 63,
+                              "probability": 0.4689,
+                              "type": "Other",
+                              "normalized_text": "Marvel"
+                        },
+                        {
+                              "start": 67,
+                              "end": 78,
+                              "probability": 0.9484,
+                              "type": "Other",
+                              "normalized_text": "Spider-Man 2"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1646163630214266881"
+                  }
+            ],
+            "text": "RT @TheQuiver_: How have we not officially heard anything Marvel\u2019s Spider-Man 2 so far other than that teaser trailer from god knows how lo\u2026",
+            "created_at": "2023-04-12T16:28:42.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646188604178468864"
+            ],
+            "public_metrics": {
+                  "retweet_count": 12,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646188447386963968",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 14,
+                              "username": "CastleDead",
+                              "id": "1624500336651038720"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 40,
+                              "end": 45,
+                              "probability": 0.8695,
+                              "type": "Other",
+                              "normalized_text": "Marvel"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 55,
+                              "end": 78,
+                              "url": "https://t.co/Wr75e8TZ5M",
+                              "expanded_url": "https://twitter.com/CastleDead/status/1645900272454049793/photo/1",
+                              "display_url": "pic.twitter.com/Wr75e8TZ5M",
+                              "media_key": "3_1645900270193262592"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645900272454049793"
+                  }
+            ],
+            "text": "RT @CastleDead: In my opinion, the best Marvel villain https://t.co/Wr75e8TZ5M",
+            "created_at": "2023-04-12T16:28:05.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646188447386963968"
+            ],
+            "public_metrics": {
+                  "retweet_count": 242,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646159960332435456",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 19,
+                              "username": "KhaosKontroller",
+                              "id": "971930028375203840"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 28,
+                              "end": 31,
+                              "probability": 0.993,
+                              "type": "Organization",
+                              "normalized_text": "Sony"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645902784229699584"
+                  }
+            ],
+            "text": "RT @KhaosKontroller: I wish Sony never released this goddamn trailer.\nIt's been 19 months man. Not even a new screenshot. https://t.co/KV9n\u2026",
+            "created_at": "2023-04-12T14:34:53.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646159960332435456"
+            ],
+            "public_metrics": {
+                  "retweet_count": 271,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646025599092412416",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 15,
+                              "username": "RedLReviews",
+                              "id": "924785564095864832"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 86,
+                              "end": 101,
+                              "probability": 0.8354,
+                              "type": "Other",
+                              "normalized_text": "Original Trilogy"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645980482394284032"
+                  }
+            ],
+            "text": "RT @RedLReviews: I always loved the explanation that the reason why technology in the Original Trilogy is legitimately worse and lower leve\u2026",
+            "created_at": "2023-04-12T05:40:59.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646025599092412416"
+            ],
+            "public_metrics": {
+                  "retweet_count": 53,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646025556855750658",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 14,
+                              "username": "TheQuiver_",
+                              "id": "848951184048234497"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 45,
+                              "end": 55,
+                              "probability": 0.7195,
+                              "type": "Other",
+                              "normalized_text": "The Marvels"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645837471286951936"
+                  }
+            ],
+            "text": "RT @TheQuiver_: I think what\u2019s really making The Marvels work so far is that it has a fun, easy to understand gimmick\n\nIt\u2019s basically a sup\u2026",
+            "created_at": "2023-04-12T05:40:49.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646025556855750658"
+            ],
+            "public_metrics": {
+                  "retweet_count": 13,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646023552355942400",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 15,
+                              "username": "ThatBmanGuy",
+                              "id": "1036047113480818690"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 56,
+                              "end": 75,
+                              "probability": 0.8959,
+                              "type": "Person",
+                              "normalized_text": "Kelly Sue DeConnicks"
+                        },
+                        {
+                              "start": 77,
+                              "end": 90,
+                              "probability": 0.5533,
+                              "type": "Person",
+                              "normalized_text": "Captain Marvel"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645777946626408455"
+                  }
+            ],
+            "text": "RT @ThatBmanGuy: It feels very much like an adpation of Kelly Sue DeConnicks Captain Marvel run which is great",
+            "created_at": "2023-04-12T05:32:51.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646023552355942400"
+            ],
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646023076889632768",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1645860049724624924"
+                  }
+            ],
+            "text": "still the most infuriating shit in my life https://t.co/ysDnFgeAM8",
+            "created_at": "2023-04-12T05:30:57.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646023076889632768"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 103
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 43,
+                              "end": 66,
+                              "url": "https://t.co/ysDnFgeAM8",
+                              "expanded_url": "https://twitter.com/Superspy_6_/status/1645860049724624924",
+                              "display_url": "twitter.com/Superspy_6_/st\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1646022991577493504",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 15,
+                              "username": "Superspy_6_",
+                              "id": "3072307313"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 75,
+                              "end": 88,
+                              "probability": 0.9755,
+                              "type": "Other",
+                              "normalized_text": "The Last of Us"
+                        },
+                        {
+                              "start": 101,
+                              "end": 109,
+                              "probability": 0.5487,
+                              "type": "Other",
+                              "normalized_text": "Uncharted"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645860049724624924"
+                  }
+            ],
+            "text": "RT @Superspy_6_: @NicholasPascar5 How come they put every bit of love into The Last of Us, but threw Uncharted out like yesterday's leftove\u2026",
+            "created_at": "2023-04-12T05:30:37.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646022991577493504"
+            ],
+            "public_metrics": {
+                  "retweet_count": 67,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1646022926129565697",
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645858797783601179"
+                  }
+            ],
+            "text": "RT @NicholasPascar5: Both of them https://t.co/tHilWT7Exu",
+            "created_at": "2023-04-12T05:30:21.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1646022926129565697"
+            ],
+            "public_metrics": {
+                  "retweet_count": 5258,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 34,
+                              "end": 57,
+                              "url": "https://t.co/tHilWT7Exu",
+                              "expanded_url": "https://twitter.com/NicholasPascar5/status/1645858797783601179/photo/1",
+                              "display_url": "pic.twitter.com/tHilWT7Exu",
+                              "media_key": "3_1645858792519749647"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1645792768286158849",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "Browntable_Ent",
+                              "id": "4674820032"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 25,
+                              "end": 27,
+                              "probability": 0.5304,
+                              "type": "Other",
+                              "normalized_text": "The"
+                        },
+                        {
+                              "start": 29,
+                              "end": 35,
+                              "probability": 0.4574,
+                              "type": "Other",
+                              "normalized_text": "Marvels"
+                        },
+                        {
+                              "start": 92,
+                              "end": 94,
+                              "probability": 0.8637,
+                              "type": "Other",
+                              "normalized_text": "MCU"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645778265850753024"
+                  }
+            ],
+            "text": "RT @Browntable_Ent: Dude The Marvels trailer looks like the most creative and fun thing the MCU\u2019s done in a while. Just in general the conc\u2026",
+            "created_at": "2023-04-11T14:15:47.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1645792768286158849"
+            ],
+            "public_metrics": {
+                  "retweet_count": 319,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1645506405141729280",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "NebsGoodTakes",
+                              "id": "1398837878281539586"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 29,
+                              "end": 52,
+                              "url": "https://t.co/i0mtOCLx5h",
+                              "expanded_url": "https://twitter.com/NebsGoodTakes/status/1645505935392256000/photo/1",
+                              "display_url": "pic.twitter.com/i0mtOCLx5h",
+                              "media_key": "3_1645505927452426240"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645505935392256000"
+                  }
+            ],
+            "text": "RT @NebsGoodTakes: lmfao???? https://t.co/i0mtOCLx5h",
+            "created_at": "2023-04-10T19:17:53.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1645506405141729280"
+            ],
+            "public_metrics": {
+                  "retweet_count": 217,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1645444811812478976",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 19,
+                              "username": "CosmonautMarcus",
+                              "id": "885185851"
+                        },
+                        {
+                              "start": 21,
+                              "end": 35,
+                              "username": "ThePencilPimp",
+                              "id": "1497796183279996929"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 46,
+                              "end": 55,
+                              "probability": 0.9792,
+                              "type": "Person",
+                              "normalized_text": "Jack Black"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645120972712804353"
+                  }
+            ],
+            "text": "RT @CosmonautMarcus: @ThePencilPimp Yeah man. Jack Black was totally one of the cool \u201cpopular\u201d kids in high school.",
+            "created_at": "2023-04-10T15:13:08.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1645444811812478976"
+            ],
+            "public_metrics": {
+                  "retweet_count": 175,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1645299409813659648",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 14,
+                              "username": "TheQuiver_",
+                              "id": "848951184048234497"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 21,
+                              "end": 26,
+                              "probability": 0.3715,
+                              "type": "Other",
+                              "normalized_text": "E West"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 28,
+                              "end": 51,
+                              "url": "https://t.co/iWMEK6t6Et",
+                              "expanded_url": "https://twitter.com/TheQuiver_/status/1645268582425673728/photo/1",
+                              "display_url": "pic.twitter.com/iWMEK6t6Et",
+                              "media_key": "3_1645268576578699264"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1645268582425673728"
+                  }
+            ],
+            "text": "RT @TheQuiver_: Wall-E West https://t.co/iWMEK6t6Et",
+            "created_at": "2023-04-10T05:35:22.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1645299409813659648"
+            ],
+            "public_metrics": {
+                  "retweet_count": 39,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1644328724618178561",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 19,
+                              "username": "jeremylovesyall",
+                              "id": "1099879785818292226"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 21,
+                              "end": 32,
+                              "probability": 0.8612,
+                              "type": "Person",
+                              "normalized_text": "rian johnson"
+                        },
+                        {
+                              "start": 39,
+                              "end": 41,
+                              "probability": 0.6818,
+                              "type": "Person",
+                              "normalized_text": "rey"
+                        },
+                        {
+                              "start": 53,
+                              "end": 61,
+                              "probability": 0.8038,
+                              "type": "Person",
+                              "normalized_text": "jj abrams"
+                        },
+                        {
+                              "start": 79,
+                              "end": 81,
+                              "probability": 0.5423,
+                              "type": "Person",
+                              "normalized_text": "rey"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1644311262531301376"
+                  }
+            ],
+            "text": "RT @jeremylovesyall: rian johnson made rey a nobody, jj abrams retconned it so rey is a palpatine, and now sharmeen obaid-chinoy has the ch\u2026",
+            "created_at": "2023-04-07T13:18:12.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1644328724618178561"
+            ],
+            "public_metrics": {
+                  "retweet_count": 3542,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1644313858339745796",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "DiscussingFilm",
+                              "id": "780460754910732288"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 43,
+                              "end": 48,
+                              "probability": 0.9437,
+                              "type": "Other",
+                              "normalized_text": "AHSOKA"
+                        },
+                        {
+                              "start": 104,
+                              "end": 110,
+                              "probability": 0.7733,
+                              "type": "Other",
+                              "normalized_text": "Disney+"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 112,
+                              "end": 135,
+                              "url": "https://t.co/n9JKDamb2F",
+                              "expanded_url": "https://twitter.com/starwars/status/1644303514385137664/video/1",
+                              "display_url": "pic.twitter.com/n9JKDamb2F",
+                              "media_key": "13_1644040386057236480"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1644303664280993794"
+                  }
+            ],
+            "text": "RT @DiscussingFilm: The first trailer for \u2018AHSOKA\u2019 has been released.\n\nThe series releases in August on Disney+ https://t.co/n9JKDamb2F",
+            "created_at": "2023-04-07T12:19:08.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1644313858339745796"
+            ],
+            "public_metrics": {
+                  "retweet_count": 2778,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1644295457726922754",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "PlasticManTalk",
+                              "id": "871866999424647168"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 112,
+                              "end": 119,
+                              "probability": 0.7492,
+                              "type": "Person",
+                              "normalized_text": "Superman"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1643785914286501888"
+                  }
+            ],
+            "text": "RT @PlasticManTalk: This is the funniest thing I\u2019ve seen today because the people who made Wednesday DID make a Superman show and it was on\u2026",
+            "created_at": "2023-04-07T11:06:01.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1644295457726922754"
+            ],
+            "public_metrics": {
+                  "retweet_count": 97,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1643619816605982722",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "The_GM_is_God",
+                              "id": "1260937902638485506"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 27,
+                              "probability": 0.7369,
+                              "type": "Other",
+                              "normalized_text": "Marvel"
+                        },
+                        {
+                              "start": 54,
+                              "end": 56,
+                              "probability": 0.6917,
+                              "type": "Other",
+                              "normalized_text": "MCU"
+                        },
+                        {
+                              "start": 58,
+                              "end": 68,
+                              "probability": 0.9087,
+                              "type": "Other",
+                              "normalized_text": "Disney Plus"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1643575665596268544"
+                  }
+            ],
+            "text": "RT @The_GM_is_God: Ms Marvel would easily be the best MCU Disney Plus show if they had just gotten rid of the whole clandestine storyline a\u2026",
+            "created_at": "2023-04-05T14:21:15.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1643619816605982722"
+            ],
+            "public_metrics": {
+                  "retweet_count": 649,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1643573640955297793",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 15,
+                              "username": "ThatBmanGuy",
+                              "id": "1036047113480818690"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 34,
+                              "end": 57,
+                              "url": "https://t.co/lxNThnkt4l",
+                              "expanded_url": "https://twitter.com/ThatBmanGuy/status/1643530346766430208/photo/1",
+                              "display_url": "pic.twitter.com/lxNThnkt4l",
+                              "media_key": "3_1643530340743491587"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1643530346766430208"
+                  }
+            ],
+            "text": "RT @ThatBmanGuy: S(he's) Bro(ken) https://t.co/lxNThnkt4l",
+            "created_at": "2023-04-05T11:17:46.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1643573640955297793"
+            ],
+            "public_metrics": {
+                  "retweet_count": 56913,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1643559906870546432",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 11,
+                              "username": "drsoap8",
+                              "id": "1155410735855558657"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1643416767799205888"
+                  }
+            ],
+            "text": "RT @drsoap8: He looks both goofy and disturbing at the same time, I\u2019ve always loved the idea of a villain not being taken seriously until i\u2026",
+            "created_at": "2023-04-05T10:23:12.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1643559906870546432"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1570,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1643558201290260482",
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1643281134233481217"
+                  }
+            ],
+            "text": "RT @NicholasPascar5: Chris Evans as Captain America https://t.co/1II87lqgXQ",
+            "created_at": "2023-04-05T10:16:25.000Z",
+            "author_id": "860233030413111296",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 21,
+                              "end": 31,
+                              "probability": 0.9744,
+                              "type": "Person",
+                              "normalized_text": "Chris Evans"
+                        },
+                        {
+                              "start": 44,
+                              "end": 50,
+                              "probability": 0.7603,
+                              "type": "Person",
+                              "normalized_text": "America"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 52,
+                              "end": 75,
+                              "url": "https://t.co/1II87lqgXQ",
+                              "expanded_url": "https://twitter.com/NicholasPascar5/status/1643281134233481217/photo/1",
+                              "display_url": "pic.twitter.com/1II87lqgXQ",
+                              "media_key": "3_1643281129628213248"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1643558201290260482"
+            ],
+            "public_metrics": {
+                  "retweet_count": 197,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1643550355165151239",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 19,
+                              "username": "SeanTheMiquel97",
+                              "id": "474103429"
+                        },
+                        {
+                              "start": 21,
+                              "end": 37,
+                              "username": "EvanReadsComics",
+                              "id": "1386023967916445696"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 57,
+                              "end": 64,
+                              "probability": 0.657,
+                              "type": "Other",
+                              "normalized_text": "Iron Man"
+                        },
+                        {
+                              "start": 96,
+                              "end": 102,
+                              "probability": 0.7442,
+                              "type": "Other",
+                              "normalized_text": "Ant-Man"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1643359756504145920"
+                  }
+            ],
+            "text": "RT @SeanTheMiquel97: @EvanReadsComics Nobody cared about Iron Man until 2008\nNobody cared about Ant-Man until 2015\nNobody cared about eithe\u2026",
+            "created_at": "2023-04-05T09:45:15.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1643550355165151239"
+            ],
+            "public_metrics": {
+                  "retweet_count": 12,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1643539389396688896",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "DiscussingFilm",
+                              "id": "780460754910732288"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 20,
+                              "end": 32,
+                              "probability": 0.9769,
+                              "type": "Person",
+                              "normalized_text": "Donald Glover"
+                        },
+                        {
+                              "start": 83,
+                              "end": 87,
+                              "probability": 0.4841,
+                              "type": "Person",
+                              "normalized_text": "Lando"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1643423770332348417"
+                  }
+            ],
+            "text": "RT @DiscussingFilm: Donald Glover confirms they are talking about him returning as Lando.\n\n\u201cIt just needs to be the right way to do it.\u201d\n\n(\u2026",
+            "created_at": "2023-04-05T09:01:40.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1643539389396688896"
+            ],
+            "public_metrics": {
+                  "retweet_count": 962,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1643538339507871744",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 16,
+                              "username": "greenroom_au",
+                              "id": "1558493665102041088"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1643499856324083712"
+                  }
+            ],
+            "text": "RT @greenroom_au: SO EXCITED!!",
+            "created_at": "2023-04-05T08:57:30.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1643538339507871744"
+            ],
+            "public_metrics": {
+                  "retweet_count": 2,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1643533488262647809",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "Browntable_Ent",
+                              "id": "4674820032"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 40,
+                              "end": 63,
+                              "url": "https://t.co/vQ8X5ojkj2",
+                              "expanded_url": "https://twitter.com/Browntable_Ent/status/1643265220796637187/photo/1",
+                              "display_url": "pic.twitter.com/vQ8X5ojkj2",
+                              "media_key": "3_1643265203390251019"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1643265220796637187"
+                  }
+            ],
+            "text": "RT @Browntable_Ent: Perfection incoming https://t.co/vQ8X5ojkj2",
+            "created_at": "2023-04-05T08:38:13.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1643533488262647809"
+            ],
+            "public_metrics": {
+                  "retweet_count": 71,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1643237464578859010",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "katesteinfelds",
+                              "id": "717817858923765760"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 24,
+                              "end": 26,
+                              "probability": 0.5547,
+                              "type": "Other",
+                              "normalized_text": "MCU"
+                        },
+                        {
+                              "start": 53,
+                              "end": 63,
+                              "probability": 0.9648,
+                              "type": "Person",
+                              "normalized_text": "KEVIN FEIGE"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 65,
+                              "end": 88,
+                              "url": "https://t.co/BmQR5pL46r",
+                              "expanded_url": "https://twitter.com/katesteinfelds/status/1643150644138606592/photo/1",
+                              "display_url": "pic.twitter.com/BmQR5pL46r",
+                              "media_key": "3_1643150640871358464"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1643150644138606592"
+                  }
+            ],
+            "text": "RT @katesteinfelds: THE MCU IS EARTH 199999 FUCK YOU KEVIN FEIGE https://t.co/BmQR5pL46r",
+            "created_at": "2023-04-04T13:01:56.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1643237464578859010"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1297,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1642857454475280385",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 14,
+                              "username": "dailyshemp",
+                              "id": "1433902784777265158"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 16,
+                              "end": 39,
+                              "url": "https://t.co/FppGg1uCrL",
+                              "expanded_url": "https://twitter.com/dailyshemp/status/1547658541783142400/video/1",
+                              "display_url": "pic.twitter.com/FppGg1uCrL",
+                              "media_key": "7_1547658509629603844"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1642552944359768072"
+                  }
+            ],
+            "text": "RT @dailyshemp: https://t.co/FppGg1uCrL",
+            "created_at": "2023-04-03T11:51:54.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1642857454475280385"
+            ],
+            "public_metrics": {
+                  "retweet_count": 207,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1642856790542131200",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 12,
+                              "username": "aysaTNSG",
+                              "id": "788888828195041280"
+                        },
+                        {
+                              "start": 14,
+                              "end": 28,
+                              "username": "NicholasJLevi",
+                              "id": "486029666"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 29,
+                              "end": 52,
+                              "url": "https://t.co/Btqf4FMwch",
+                              "expanded_url": "https://twitter.com/aysaTNSG/status/1642562814198906883/photo/1",
+                              "display_url": "pic.twitter.com/Btqf4FMwch",
+                              "media_key": "3_1642562811946496000"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1642562814198906883"
+                  }
+            ],
+            "text": "RT @aysaTNSG: @NicholasJLevi https://t.co/Btqf4FMwch",
+            "created_at": "2023-04-03T11:49:16.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1642856790542131200"
+            ],
+            "public_metrics": {
+                  "retweet_count": 43,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1642840048780361728",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "NebsGoodTakes",
+                              "id": "1398837878281539586"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 19,
+                              "end": 24,
+                              "probability": 0.84,
+                              "type": "Organization",
+                              "normalized_text": "Titans"
+                        },
+                        {
+                              "start": 64,
+                              "end": 69,
+                              "probability": 0.4395,
+                              "type": "Other",
+                              "normalized_text": "Krypto"
+                        },
+                        {
+                              "start": 75,
+                              "end": 82,
+                              "probability": 0.3069,
+                              "type": "Other",
+                              "normalized_text": "Superdog"
+                        },
+                        {
+                              "start": 87,
+                              "end": 93,
+                              "probability": 0.8204,
+                              "type": "Person",
+                              "normalized_text": "Wrigley"
+                        },
+                        {
+                              "start": 96,
+                              "end": 100,
+                              "probability": 0.8718,
+                              "type": "Person",
+                              "normalized_text": "Lacey"
+                        },
+                        {
+                              "start": 103,
+                              "end": 107,
+                              "probability": 0.8625,
+                              "type": "Person",
+                              "normalized_text": "Digby"
+                        },
+                        {
+                              "start": 110,
+                              "end": 114,
+                              "probability": 0.8944,
+                              "type": "Person",
+                              "normalized_text": "Pepsi"
+                        },
+                        {
+                              "start": 117,
+                              "end": 120,
+                              "probability": 0.7893,
+                              "type": "Person",
+                              "normalized_text": "Ziva"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1642685274923888641"
+                  }
+            ],
+            "text": "RT @NebsGoodTakes: Titans has had five different actors portray Krypto the Superdog:\n\n-Wrigley\n-Lacey\n-Digby\n-Pepsi\n-Ziva https://t.co/EePT\u2026",
+            "created_at": "2023-04-03T10:42:44.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1642840048780361728"
+            ],
+            "public_metrics": {
+                  "retweet_count": 101,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1642831567834820611",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 14,
+                              "username": "ComicsMeta",
+                              "id": "1085329067765751808"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 51,
+                              "end": 53,
+                              "probability": 0.7851,
+                              "type": "Other",
+                              "normalized_text": "MCU"
+                        },
+                        {
+                              "start": 72,
+                              "end": 74,
+                              "probability": 0.8532,
+                              "type": "Other",
+                              "normalized_text": "MCU"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1642670697536421888"
+                  }
+            ],
+            "text": "RT @ComicsMeta: I find it utterly fascinating that MCU fans beg for the MCU to adapt one of the greatest narrative pitfalls in all of comic\u2026",
+            "created_at": "2023-04-03T10:09:02.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1642831567834820611"
+            ],
+            "public_metrics": {
+                  "retweet_count": 173,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1641811377127063553",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "The_GM_is_God",
+                              "id": "1260937902638485506"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 94,
+                              "end": 117,
+                              "url": "https://t.co/y9nqNJ2s3D",
+                              "expanded_url": "https://twitter.com/The_GM_is_God/status/1641452336194424833/photo/1",
+                              "display_url": "pic.twitter.com/y9nqNJ2s3D",
+                              "media_key": "3_1641452329626124296"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1641452336194424833"
+                  }
+            ],
+            "text": "RT @The_GM_is_God: These are the mfs that are gonna have absolutely bawling in the cinema???? https://t.co/y9nqNJ2s3D",
+            "created_at": "2023-03-31T14:35:10.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1641811377127063553"
+            ],
+            "public_metrics": {
+                  "retweet_count": 86,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1641455143651770374",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 15,
+                              "username": "edgarwright",
+                              "id": "18671559"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1641440477718388739"
+                  }
+            ],
+            "text": "RT @edgarwright: This is not a drill! This is happening!\n\nAfter much musing over the years about there being potential for an anime adaptat\u2026",
+            "created_at": "2023-03-30T14:59:37.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1641455143651770374"
+            ],
+            "public_metrics": {
+                  "retweet_count": 29587,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1641441573996232709",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "DiscussingFilm",
+                              "id": "780460754910732288"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 42,
+                              "end": 67,
+                              "probability": 0.8401,
+                              "type": "Other",
+                              "normalized_text": "SCOTT PILGRIM VS THE WORLD"
+                        },
+                        {
+                              "start": 122,
+                              "end": 128,
+                              "probability": 0.9635,
+                              "type": "Organization",
+                              "normalized_text": "Netflix"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1641441328751054853"
+                  }
+            ],
+            "text": "RT @DiscussingFilm: The original cast of \u2018SCOTT PILGRIM VS THE WORLD\u2019 are reprising their roles for an anime adaption for Netflix. https://\u2026",
+            "created_at": "2023-03-30T14:05:42.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1641441573996232709"
+            ],
+            "public_metrics": {
+                  "retweet_count": 22543,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1641131655317405734",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 14,
+                              "username": "necroneuro",
+                              "id": "1345134488423079936"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 110,
+                              "end": 113,
+                              "probability": 0.5486,
+                              "type": "Other",
+                              "normalized_text": "Kara"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1640422466500608015"
+                  }
+            ],
+            "text": "RT @necroneuro: I\u2019ll post about this on main too, this headline is so disgustingly tasteless and insensitive. Kara went to my school and we\u2026",
+            "created_at": "2023-03-29T17:34:12.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1641131655317405734"
+            ],
+            "public_metrics": {
+                  "retweet_count": 16238,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1640739756114956295",
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1640628661211615232"
+                  }
+            ],
+            "text": "Well this just made my day https://t.co/lXlJUEmR8x",
+            "created_at": "2023-03-28T15:36:55.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1640739756114956295"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 40
+            },
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 27,
+                              "end": 50,
+                              "url": "https://t.co/lXlJUEmR8x",
+                              "expanded_url": "https://twitter.com/orngejuicefan/status/1640628661211615232",
+                              "display_url": "twitter.com/orngejuicefan/\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "id": "1640739613999284225",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "orngejuicefan",
+                              "id": "1423079947384631296"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1640628661211615232"
+                  }
+            ],
+            "text": "RT @orngejuicefan: remember when a kid lost his dad in a crowd and started to cry until he saw the flash and wonder woman and asked for hel\u2026",
+            "created_at": "2023-03-28T15:36:22.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1640739613999284225"
+            ],
+            "public_metrics": {
+                  "retweet_count": 20,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      },
+      {
+            "id": "1640606400781975553",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 17,
+                              "username": "The_GM_is_God",
+                              "id": "1260937902638485506"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 19,
+                              "end": 22,
+                              "probability": 0.9845,
+                              "type": "Organization",
+                              "normalized_text": "Sony"
+                        },
+                        {
+                              "start": 115,
+                              "end": 124,
+                              "probability": 0.9117,
+                              "type": "Person",
+                              "normalized_text": "Spider-Man"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "retweeted",
+                        "id": "1640478131566833664"
+                  }
+            ],
+            "text": "RT @The_GM_is_God: Sony if they scrapped all their current villain movie plans and made a Shocker heist movie with Spider-Man as the antago\u2026",
+            "created_at": "2023-03-28T06:47:01.000Z",
+            "author_id": "860233030413111296",
+            "edit_history_tweet_ids": [
+                  "1640606400781975553"
+            ],
+            "public_metrics": {
+                  "retweet_count": 3107,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 0
+            }
+      }
+]

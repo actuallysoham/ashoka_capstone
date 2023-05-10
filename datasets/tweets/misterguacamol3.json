@@ -1,0 +1,2401 @@
+[
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 152
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1645843728735584269"
+                  }
+            ],
+            "created_at": "2023-04-11T17:44:35.000Z",
+            "text": "to date i cant think of a moment in a show that shocked me this much, except maybe charlie's death in LOST. Not hank, not jon snow, logan roy or even rita morgan. how they write this stuff is beyond me",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 83,
+                              "end": 89,
+                              "probability": 0.5095,
+                              "type": "Person",
+                              "normalized_text": "charlie"
+                        },
+                        {
+                              "start": 102,
+                              "end": 105,
+                              "probability": 0.5836,
+                              "type": "Other",
+                              "normalized_text": "LOST"
+                        },
+                        {
+                              "start": 112,
+                              "end": 115,
+                              "probability": 0.6485,
+                              "type": "Other",
+                              "normalized_text": "hank"
+                        },
+                        {
+                              "start": 122,
+                              "end": 129,
+                              "probability": 0.4879,
+                              "type": "Other",
+                              "normalized_text": "jon snow"
+                        },
+                        {
+                              "start": 132,
+                              "end": 140,
+                              "probability": 0.4288,
+                              "type": "Person",
+                              "normalized_text": "logan roy"
+                        },
+                        {
+                              "start": 150,
+                              "end": 160,
+                              "probability": 0.7421,
+                              "type": "Person",
+                              "normalized_text": "rita morgan"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1645845314384044032"
+            ],
+            "id": "1645845314384044032",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 3,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 394
+            },
+            "created_at": "2023-04-11T17:38:17.000Z",
+            "text": "where were u when howard hamlin was kil",
+            "edit_history_tweet_ids": [
+                  "1645843728735584269"
+            ],
+            "id": "1645843728735584269",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 16,
+                  "quote_count": 0,
+                  "impression_count": 661
+            },
+            "created_at": "2023-04-11T15:29:10.000Z",
+            "text": "I'd post vidushi here but 97% of y'all are insane stalker creeps",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 9,
+                              "end": 15,
+                              "probability": 0.6414,
+                              "type": "Other",
+                              "normalized_text": "vidushi"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1645811233319436296"
+            ],
+            "id": "1645811233319436296",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 108
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1645776840261537793"
+                  }
+            ],
+            "created_at": "2023-04-11T13:15:56.000Z",
+            "text": "*Intergalactic fml",
+            "edit_history_tweet_ids": [
+                  "1645777703591878657"
+            ],
+            "id": "1645777703591878657",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 589
+            },
+            "created_at": "2023-04-11T13:12:30.000Z",
+            "text": "don't really care about the new captain Marvel movie BUT they're using entergalactic by beastie boys in the trailer which is an incredible song pls go listen",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 40,
+                              "end": 45,
+                              "probability": 0.8181,
+                              "type": "Other",
+                              "normalized_text": "Marvel"
+                        },
+                        {
+                              "start": 88,
+                              "end": 99,
+                              "probability": 0.4332,
+                              "type": "Person",
+                              "normalized_text": "beastie boys"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1645776840261537793"
+            ],
+            "id": "1645776840261537793",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 321
+            },
+            "created_at": "2023-04-11T07:18:51.000Z",
+            "text": "i love hospitals and airports they're more fun than amusement parks",
+            "edit_history_tweet_ids": [
+                  "1645687843161817088"
+            ],
+            "id": "1645687843161817088",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 165
+            },
+            "created_at": "2023-04-11T06:17:47.000Z",
+            "text": "I'm really happy that Connor got married anyway, he deserves to be free from L*gan",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 27,
+                              "probability": 0.4941,
+                              "type": "Person",
+                              "normalized_text": "Connor"
+                        },
+                        {
+                              "start": 77,
+                              "end": 81,
+                              "probability": 0.5484,
+                              "type": "Person",
+                              "normalized_text": "L*gan"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1645672474665943041"
+            ],
+            "id": "1645672474665943041",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 189
+            },
+            "created_at": "2023-04-11T06:08:54.000Z",
+            "text": "beef is incredible wow",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 3,
+                              "probability": 0.4881,
+                              "type": "Other",
+                              "normalized_text": "beef"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1645670236425949184"
+            ],
+            "id": "1645670236425949184",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 126
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1645327158548606976"
+                  }
+            ],
+            "created_at": "2023-04-10T07:47:21.000Z",
+            "text": "I will explode this man took 30 extra minutes",
+            "edit_history_tweet_ids": [
+                  "1645332627363356673"
+            ],
+            "id": "1645332627363356673",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 359
+            },
+            "created_at": "2023-04-10T07:25:37.000Z",
+            "text": "END THE CLASS I NEED 2 CRAP",
+            "edit_history_tweet_ids": [
+                  "1645327158548606976"
+            ],
+            "id": "1645327158548606976",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 124
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1645282907450408960"
+                  }
+            ],
+            "created_at": "2023-04-10T04:32:22.000Z",
+            "text": "but fucking hell... I think this might be a top 5 episode ever for me",
+            "edit_history_tweet_ids": [
+                  "1645283556120477696"
+            ],
+            "id": "1645283556120477696",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 452
+            },
+            "created_at": "2023-04-10T04:29:47.000Z",
+            "text": "not gonna livetweet this succession episode out of respect for all my fellow conheads that follow me",
+            "edit_history_tweet_ids": [
+                  "1645282907450408960"
+            ],
+            "id": "1645282907450408960",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 184
+            },
+            "created_at": "2023-04-09T18:48:10.000Z",
+            "text": "BS \u0938\u094d\u092a\u0947\u0936\u0932 https://t.co/O1WsXtSOUB",
+            "edit_history_tweet_ids": [
+                  "1645136536399409153"
+            ],
+            "id": "1645136536399409153",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 10,
+                              "end": 33,
+                              "url": "https://t.co/O1WsXtSOUB",
+                              "expanded_url": "https://twitter.com/misterguacamol3/status/1645136536399409153/photo/1",
+                              "display_url": "pic.twitter.com/O1WsXtSOUB",
+                              "media_key": "3_1645136508611862529"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 2,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 846
+            },
+            "created_at": "2023-04-08T11:43:02.000Z",
+            "text": "inglorious basterds easily the most rewatchable movie of all time",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 11,
+                              "end": 18,
+                              "probability": 0.6757,
+                              "type": "Other",
+                              "normalized_text": "basterds"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1644667160017633280"
+            ],
+            "id": "1644667160017633280",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 2580
+            },
+            "created_at": "2023-04-08T06:00:00.000Z",
+            "text": "Nicholas Braun is a predator this is actually insane????",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 13,
+                              "probability": 0.9717,
+                              "type": "Person",
+                              "normalized_text": "Nicholas Braun"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1644580836367564801"
+            ],
+            "id": "1644580836367564801",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 347
+            },
+            "created_at": "2023-04-07T07:51:24.000Z",
+            "text": "someone explain why my linear algebra prof is recommending that we watch Kill Bill \ud83d\ude2d",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 73,
+                              "end": 81,
+                              "probability": 0.9628,
+                              "type": "Other",
+                              "normalized_text": "Kill Bill"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1644246479668920320"
+            ],
+            "id": "1644246479668920320",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 291
+            },
+            "created_at": "2023-04-07T05:43:36.000Z",
+            "text": "Hey asshole stop looking into my phone just get off at Rajiv Chowk",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 55,
+                              "end": 65,
+                              "probability": 0.6639,
+                              "type": "Person",
+                              "normalized_text": "Rajiv Chowk"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1644214319192870912"
+            ],
+            "id": "1644214319192870912",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 219
+            },
+            "created_at": "2023-04-06T06:21:21.000Z",
+            "text": "my nani at 2am https://t.co/H2Gtd3VL22",
+            "edit_history_tweet_ids": [
+                  "1643861433929564162"
+            ],
+            "id": "1643861433929564162",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 15,
+                              "end": 38,
+                              "url": "https://t.co/H2Gtd3VL22",
+                              "expanded_url": "https://twitter.com/misterguacamol3/status/1643861433929564162/photo/1",
+                              "display_url": "pic.twitter.com/H2Gtd3VL22",
+                              "media_key": "3_1643861404280029187"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 234
+            },
+            "created_at": "2023-04-06T04:09:20.000Z",
+            "text": "I hate adulting, why the hell do I have to shave for an interview",
+            "edit_history_tweet_ids": [
+                  "1643828210722025473"
+            ],
+            "id": "1643828210722025473",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 316
+            },
+            "created_at": "2023-04-05T18:03:53.000Z",
+            "text": "https://t.co/F7rQXNkOma",
+            "edit_history_tweet_ids": [
+                  "1643675840721612801"
+            ],
+            "id": "1643675840721612801",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/F7rQXNkOma",
+                              "expanded_url": "https://twitter.com/misterguacamol3/status/1643675840721612801/photo/1",
+                              "display_url": "pic.twitter.com/F7rQXNkOma",
+                              "media_key": "3_1643675830772539409"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 287
+            },
+            "created_at": "2023-04-05T00:38:55.000Z",
+            "text": "good morning https://t.co/Py1TuCLzxU",
+            "edit_history_tweet_ids": [
+                  "1643412869336424448"
+            ],
+            "id": "1643412869336424448",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 13,
+                              "end": 36,
+                              "url": "https://t.co/Py1TuCLzxU",
+                              "expanded_url": "https://twitter.com/misterguacamol3/status/1643412869336424448/photo/1",
+                              "display_url": "pic.twitter.com/Py1TuCLzxU",
+                              "media_key": "3_1643412866668584960"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 191
+            },
+            "created_at": "2023-04-04T14:43:53.000Z",
+            "text": "can we talk about how hard this song is? especially the tiny guitar riffs in the middle, my god \n\nhttps://t.co/4jE5ApzH1g",
+            "edit_history_tweet_ids": [
+                  "1643263121245753346"
+            ],
+            "id": "1643263121245753346",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 98,
+                              "end": 121,
+                              "url": "https://t.co/4jE5ApzH1g",
+                              "expanded_url": "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k?si=-NF_GzwlQ_SL1QjuySNXHw&dd=1",
+                              "display_url": "open.spotify.com/track/7vZz8oJ5\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1643263165881540610/cSWtGs3p?format=jpg&name=orig",
+                                          "width": 640,
+                                          "height": 640
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1643263165881540610/cSWtGs3p?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "Zinda",
+                              "description": "Shankar-Ehsaan-Loy \u00b7 Song \u00b7 2013",
+                              "unwound_url": "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k?si=-NF_GzwlQ_SL1QjuySNXHw&dd=1"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 165
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1643134320167768064"
+                  }
+            ],
+            "created_at": "2023-04-04T09:03:46.000Z",
+            "text": "good luck trying to replace Snape, nerds",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 28,
+                              "end": 32,
+                              "probability": 0.9353,
+                              "type": "Other",
+                              "normalized_text": "Snape"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1643177528436355074"
+            ],
+            "id": "1643177528436355074",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 31,
+                  "quote_count": 0,
+                  "impression_count": 875
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1643035502570876928"
+                  }
+            ],
+            "created_at": "2023-04-04T06:12:04.000Z",
+            "text": "you've gotta be insane to not realise that whoever acts in this will go through literal hell. the original cast is maybe the most loved cast in history \u2620\ufe0f and no one will be happy to see someone else fill their roles https://t.co/vvb2T0nDc2",
+            "edit_history_tweet_ids": [
+                  "1643134320167768064"
+            ],
+            "id": "1643134320167768064",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 217,
+                              "end": 240,
+                              "url": "https://t.co/vvb2T0nDc2",
+                              "expanded_url": "https://twitter.com/DiscussingFilm/status/1643035502570876928",
+                              "display_url": "twitter.com/DiscussingFilm\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 419
+            },
+            "created_at": "2023-04-03T06:55:08.000Z",
+            "text": "\"I could give you a kiss from here\" TOM WTF \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 36,
+                              "end": 38,
+                              "probability": 0.5235,
+                              "type": "Other",
+                              "normalized_text": "TOM"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1642782770970902529"
+            ],
+            "id": "1642782770970902529",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 213
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1642550706568843266"
+                  }
+            ],
+            "created_at": "2023-04-02T16:23:34.000Z",
+            "text": "Frank is so pathetic I'm crying \ud83d\ude2d https://t.co/M5g1KFPl1E",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 4,
+                              "probability": 0.5753,
+                              "type": "Other",
+                              "normalized_text": "Frank"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 34,
+                              "end": 57,
+                              "url": "https://t.co/M5g1KFPl1E",
+                              "expanded_url": "https://twitter.com/succession/status/1642550706568843266",
+                              "display_url": "twitter.com/succession/sta\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1642563434691588097"
+            ],
+            "id": "1642563434691588097",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 252
+            },
+            "created_at": "2023-04-02T13:20:38.000Z",
+            "text": "last thing I expected to see is the super mario movie ad at hauz khas station of all places",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 42,
+                              "end": 46,
+                              "probability": 0.2742,
+                              "type": "Other",
+                              "normalized_text": "mario"
+                        },
+                        {
+                              "start": 60,
+                              "end": 76,
+                              "probability": 0.4659,
+                              "type": "Other",
+                              "normalized_text": "hauz khas station"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1642517398422003712"
+            ],
+            "id": "1642517398422003712",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 309
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1642271677232058368"
+                  }
+            ],
+            "created_at": "2023-04-02T05:21:05.000Z",
+            "text": "after a terrible 3 am rant, we return to our regularly scheduled programming of shit tweets https://t.co/9ZzHasS1Zw",
+            "edit_history_tweet_ids": [
+                  "1642396712101892096"
+            ],
+            "id": "1642396712101892096",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 92,
+                              "end": 115,
+                              "url": "https://t.co/9ZzHasS1Zw",
+                              "expanded_url": "https://twitter.com/misterguacamol3/status/1642271677232058368",
+                              "display_url": "twitter.com/misterguacamol\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 744
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1642212357089755137"
+                  }
+            ],
+            "created_at": "2023-04-01T21:17:49.000Z",
+            "text": "Twitter has peaked with this image https://t.co/l5Wdz7KsGg",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 6,
+                              "probability": 0.9838,
+                              "type": "Other",
+                              "normalized_text": "Twitter"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 35,
+                              "end": 58,
+                              "url": "https://t.co/l5Wdz7KsGg",
+                              "expanded_url": "https://twitter.com/TheDouggernaut/status/1642212357089755137",
+                              "display_url": "twitter.com/TheDouggernaut\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1642275094042120192"
+            ],
+            "id": "1642275094042120192",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 226
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1642274105000087553"
+                  }
+            ],
+            "created_at": "2023-04-01T21:13:54.000Z",
+            "text": "because CS was supposedly the most employable field until a few months ago, now every company's laying people off and suddenly we're not so employable anymore. it's terribly depressing and I've tried joking about it but I don't think I've ever felt as lost as I do rn",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 8,
+                              "end": 9,
+                              "probability": 0.6595,
+                              "type": "Other",
+                              "normalized_text": "CS"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1642274109035020290"
+            ],
+            "id": "1642274109035020290",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 226
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1642271687600394240"
+                  }
+            ],
+            "created_at": "2023-04-01T21:13:53.000Z",
+            "text": "why even bother continuing, it's easy to hope AI isn't gonna take jobs because \"we'll still need programmers\" or whatever, but all this happened in less than a year and it's scary to imagine what'll happen next and there's no one to assure you that you're safe",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 46,
+                              "end": 47,
+                              "probability": 0.7864,
+                              "type": "Organization",
+                              "normalized_text": "AI"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1642274105000087553"
+            ],
+            "id": "1642274105000087553",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 189
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1642271684190408706"
+                  }
+            ],
+            "created_at": "2023-04-01T21:04:16.000Z",
+            "text": "the one time I'm actually interested in learning something and it's quite possibly the least popular field right now. great job shrey, dumbass",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 128,
+                              "end": 132,
+                              "probability": 0.4943,
+                              "type": "Other",
+                              "normalized_text": "shrey"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1642271687600394240"
+            ],
+            "id": "1642271687600394240",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 177
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1642271680390381569"
+                  }
+            ],
+            "created_at": "2023-04-01T21:04:16.000Z",
+            "text": "because web is such a crap field. but then people are like \"you'll get experience\" even though I don't care about that when I could spend literally 3 extra months just doing courses which go into even more depth about the stuff I want to know",
+            "edit_history_tweet_ids": [
+                  "1642271684190408706"
+            ],
+            "id": "1642271684190408706",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 176
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1642271677232058368"
+                  }
+            ],
+            "created_at": "2023-04-01T21:04:15.000Z",
+            "text": "we've got 3 months of vacation which is actually infuriating because it just ramps up pressure to find an internship, and guess what, systems engineering barely has any internships especially in India. my cousin said \"just do some small web thing\" and that just pissed me off sm",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 195,
+                              "end": 199,
+                              "probability": 0.969,
+                              "type": "Place",
+                              "normalized_text": "India"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1642271680390381569"
+            ],
+            "id": "1642271680390381569",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 24,
+                  "quote_count": 1,
+                  "impression_count": 1218
+            },
+            "created_at": "2023-04-01T21:04:14.000Z",
+            "text": "sometimes I'm not sure what I'm doing in college. the only field in cs I have any sort of interest in has barely any companies hiring for it, everything else is web dev or boring ML work. this uni doesn't have enough courses to fill after the cores courses are done",
+            "edit_history_tweet_ids": [
+                  "1642271677232058368"
+            ],
+            "id": "1642271677232058368",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 21,
+                  "quote_count": 0,
+                  "impression_count": 480
+            },
+            "created_at": "2023-03-31T19:47:51.000Z",
+            "text": "thank you hercampus but it would've been nice if u instead featured one of my several tweets that don't involve piss",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 10,
+                              "end": 18,
+                              "probability": 0.8365,
+                              "type": "Other",
+                              "normalized_text": "hercampus"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1641890066648932353"
+            ],
+            "id": "1641890066648932353",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 15,
+                  "quote_count": 0,
+                  "impression_count": 288
+            },
+            "created_at": "2023-03-31T10:46:15.000Z",
+            "text": "lady in metro told me stop chewing my nails?? I get its unhealthy but I'm stressed so mind your own goddamn business tf",
+            "edit_history_tweet_ids": [
+                  "1641753767489212417"
+            ],
+            "id": "1641753767489212417",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 13,
+                  "quote_count": 1,
+                  "impression_count": 474
+            },
+            "created_at": "2023-03-31T10:23:08.000Z",
+            "text": "OMG https://t.co/D44mPc7Y32",
+            "edit_history_tweet_ids": [
+                  "1641747952954937344"
+            ],
+            "id": "1641747952954937344",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 4,
+                              "end": 27,
+                              "url": "https://t.co/D44mPc7Y32",
+                              "expanded_url": "https://twitter.com/misterguacamol3/status/1641747952954937344/photo/1",
+                              "display_url": "pic.twitter.com/D44mPc7Y32",
+                              "media_key": "3_1641747864303837184"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 46,
+                  "quote_count": 0,
+                  "impression_count": 1651
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1641731288381145090"
+                  }
+            ],
+            "created_at": "2023-03-31T09:28:35.000Z",
+            "text": "I'm not even joking https://t.co/ycs0UcehZP https://t.co/y6fhY4E65L",
+            "edit_history_tweet_ids": [
+                  "1641734224385564673"
+            ],
+            "id": "1641734224385564673",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 20,
+                              "end": 43,
+                              "url": "https://t.co/ycs0UcehZP",
+                              "expanded_url": "https://twitter.com/misterguacamol3/status/1641734224385564673/photo/1",
+                              "display_url": "pic.twitter.com/ycs0UcehZP",
+                              "media_key": "3_1641734205078896640"
+                        },
+                        {
+                              "start": 44,
+                              "end": 67,
+                              "url": "https://t.co/y6fhY4E65L",
+                              "expanded_url": "https://twitter.com/misterguacamol3/status/1641731288381145090",
+                              "display_url": "twitter.com/misterguacamol\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 1,
+                  "impression_count": 1836
+            },
+            "created_at": "2023-03-31T09:16:55.000Z",
+            "text": "only thing keeping me sane is this one shop in jahangirpuri called \"pizzalo hot\"",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 47,
+                              "end": 58,
+                              "probability": 0.8129,
+                              "type": "Place",
+                              "normalized_text": "jahangirpuri"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1641731288381145090"
+            ],
+            "id": "1641731288381145090",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 186
+            },
+            "created_at": "2023-03-30T23:00:59.000Z",
+            "text": "even the washing machines in this uni keep lying, had a cycle for 18 minutes, came back 20 minutes later and it's got 6 left to go",
+            "edit_history_tweet_ids": [
+                  "1641576284840140801"
+            ],
+            "id": "1641576284840140801",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 7,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 532
+            },
+            "created_at": "2023-03-30T16:55:02.000Z",
+            "text": "my virtualbox crashed and I've an assignment due tomorrow...",
+            "edit_history_tweet_ids": [
+                  "1641484187898195993"
+            ],
+            "id": "1641484187898195993",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 98
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1641425219461021698"
+                  }
+            ],
+            "created_at": "2023-03-30T15:36:04.000Z",
+            "text": "thank God",
+            "edit_history_tweet_ids": [
+                  "1641464317106352130"
+            ],
+            "id": "1641464317106352130",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 245
+            },
+            "created_at": "2023-03-30T13:44:33.000Z",
+            "text": "my pair of converse have been through so much shit and now  they're selling in India again THANK YOU GOD",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 11,
+                              "end": 18,
+                              "probability": 0.5346,
+                              "type": "Other",
+                              "normalized_text": "converse"
+                        },
+                        {
+                              "start": 79,
+                              "end": 83,
+                              "probability": 0.9747,
+                              "type": "Place",
+                              "normalized_text": "India"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1641436252263309318"
+            ],
+            "id": "1641436252263309318",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 18,
+                  "quote_count": 0,
+                  "impression_count": 699
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1641424088768888832"
+                  }
+            ],
+            "created_at": "2023-03-30T13:00:43.000Z",
+            "text": "desperately hoping y'all get this https://t.co/gWXzhMey7o https://t.co/sgirUlzZfY",
+            "edit_history_tweet_ids": [
+                  "1641425219461021698"
+            ],
+            "id": "1641425219461021698",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 34,
+                              "end": 57,
+                              "url": "https://t.co/gWXzhMey7o",
+                              "expanded_url": "https://twitter.com/misterguacamol3/status/1641425219461021698/photo/1",
+                              "display_url": "pic.twitter.com/gWXzhMey7o",
+                              "media_key": "3_1641425205754056712"
+                        },
+                        {
+                              "start": 58,
+                              "end": 81,
+                              "url": "https://t.co/sgirUlzZfY",
+                              "expanded_url": "https://twitter.com/pratitty1/status/1641424088768888832",
+                              "display_url": "twitter.com/pratitty1/stat\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 903
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1641058001497780224"
+                  }
+            ],
+            "created_at": "2023-03-30T09:19:14.000Z",
+            "text": "scarjo looks like a late 20th century first lady about to tell us \"just say no\" to drugs https://t.co/H6p8w2sUYY",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.633,
+                              "type": "Other",
+                              "normalized_text": "scarjo"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 89,
+                              "end": 112,
+                              "url": "https://t.co/H6p8w2sUYY",
+                              "expanded_url": "https://twitter.com/DiscussingFilm/status/1641058001497780224",
+                              "display_url": "twitter.com/DiscussingFilm\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1641369484471533568"
+            ],
+            "id": "1641369484471533568",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 88
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1641368045607174145"
+                  }
+            ],
+            "created_at": "2023-03-30T09:13:50.000Z",
+            "text": "WRITER*. makes my point ig",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 24,
+                              "end": 25,
+                              "probability": 0.8209,
+                              "type": "Other",
+                              "normalized_text": "ig"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1641368123436683267"
+            ],
+            "id": "1641368123436683267",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 277
+            },
+            "created_at": "2023-03-30T09:13:31.000Z",
+            "text": "i know i dont have the talent to be a great write because never in my dreams could i have come up with the phrase \"ludicrously capacious bag\"",
+            "edit_history_tweet_ids": [
+                  "1641368045607174145"
+            ],
+            "id": "1641368045607174145",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 144
+            },
+            "created_at": "2023-03-30T09:02:19.000Z",
+            "text": "so bored rn i had twitter open on phone and laptop at the same time",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 18,
+                              "end": 24,
+                              "probability": 0.9573,
+                              "type": "Other",
+                              "normalized_text": "twitter"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1641365227399790593"
+            ],
+            "id": "1641365227399790593",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 186
+            },
+            "created_at": "2023-03-29T12:40:54.000Z",
+            "text": "full lecture spent on twitter very productive day",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 28,
+                              "probability": 0.9442,
+                              "type": "Other",
+                              "normalized_text": "twitter"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1641057844350033921"
+            ],
+            "id": "1641057844350033921",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 278
+            },
+            "created_at": "2023-03-29T11:59:57.000Z",
+            "text": "realising that I love arguing on this app",
+            "edit_history_tweet_ids": [
+                  "1641047540958371841"
+            ],
+            "id": "1641047540958371841",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 422
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1641046066509524992"
+                  }
+            ],
+            "created_at": "2023-03-29T11:59:22.000Z",
+            "text": "great own man I'm sobbing rn https://t.co/N2gKAQHIdG",
+            "edit_history_tweet_ids": [
+                  "1641047394451329025"
+            ],
+            "id": "1641047394451329025",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 29,
+                              "end": 52,
+                              "url": "https://t.co/N2gKAQHIdG",
+                              "expanded_url": "https://twitter.com/yodawarrior97/status/1641046066509524992",
+                              "display_url": "twitter.com/yodawarrior97/\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 5,
+                  "reply_count": 2,
+                  "like_count": 86,
+                  "quote_count": 2,
+                  "impression_count": 5974
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1640953512845774850"
+                  }
+            ],
+            "created_at": "2023-03-29T07:52:52.000Z",
+            "text": "crazy way to admit you haven't ever got laid https://t.co/c9Azw57dLb",
+            "edit_history_tweet_ids": [
+                  "1640985361319952384"
+            ],
+            "id": "1640985361319952384",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 45,
+                              "end": 68,
+                              "url": "https://t.co/c9Azw57dLb",
+                              "expanded_url": "https://twitter.com/hbfetr/status/1640953512845774850",
+                              "display_url": "twitter.com/hbfetr/status/\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 15,
+                  "quote_count": 0,
+                  "impression_count": 387
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1640312741767557120"
+                  }
+            ],
+            "created_at": "2023-03-29T04:33:35.000Z",
+            "text": "woman rides the white people tourism train https://t.co/Ru4ybM7EVp",
+            "edit_history_tweet_ids": [
+                  "1640935208261402625"
+            ],
+            "id": "1640935208261402625",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 43,
+                              "end": 66,
+                              "url": "https://t.co/Ru4ybM7EVp",
+                              "expanded_url": "https://twitter.com/thehomestays/status/1640312741767557120",
+                              "display_url": "twitter.com/thehomestays/s\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 426
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1640496621581488136"
+                  }
+            ],
+            "created_at": "2023-03-28T16:04:53.000Z",
+            "text": "interior design has to be sm fun this looks amazing https://t.co/pMfVCHL3Dk",
+            "edit_history_tweet_ids": [
+                  "1640746793423044610"
+            ],
+            "id": "1640746793423044610",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 52,
+                              "end": 75,
+                              "url": "https://t.co/pMfVCHL3Dk",
+                              "expanded_url": "https://twitter.com/PottsJustin/status/1640496621581488136",
+                              "display_url": "twitter.com/PottsJustin/st\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 134
+            },
+            "created_at": "2023-03-28T10:19:13.000Z",
+            "text": "STOP FARTING IN THE OS CLASS",
+            "edit_history_tweet_ids": [
+                  "1640659804015456256"
+            ],
+            "id": "1640659804015456256",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 233
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1640502698549075972"
+                  }
+            ],
+            "created_at": "2023-03-28T04:48:18.000Z",
+            "text": "looks like this site dies in 2 weeks y'all, nice while it lasted https://t.co/ANg4rKSkVu",
+            "edit_history_tweet_ids": [
+                  "1640576524238860290"
+            ],
+            "id": "1640576524238860290",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 65,
+                              "end": 88,
+                              "url": "https://t.co/ANg4rKSkVu",
+                              "expanded_url": "https://twitter.com/elonmusk/status/1640502698549075972",
+                              "display_url": "twitter.com/elonmusk/statu\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 93
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1640301258623045632"
+                  }
+            ],
+            "created_at": "2023-03-27T10:46:04.000Z",
+            "text": "crazy https://t.co/7zJQW79GBm",
+            "edit_history_tweet_ids": [
+                  "1640304171524976641"
+            ],
+            "id": "1640304171524976641",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 6,
+                              "end": 29,
+                              "url": "https://t.co/7zJQW79GBm",
+                              "expanded_url": "https://twitter.com/misterguacamol3/status/1640304171524976641/photo/1",
+                              "display_url": "pic.twitter.com/7zJQW79GBm",
+                              "media_key": "16_1640304161861382144"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 4,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 780
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1640011941757218818"
+                  }
+            ],
+            "created_at": "2023-03-27T10:34:30.000Z",
+            "text": "I just realised he looks like ralph fiennes https://t.co/IpH8N1miyw",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 30,
+                              "end": 42,
+                              "probability": 0.9755,
+                              "type": "Person",
+                              "normalized_text": "ralph fiennes"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 44,
+                              "end": 67,
+                              "url": "https://t.co/IpH8N1miyw",
+                              "expanded_url": "https://twitter.com/MarcEvanJackson/status/1640011941757218818",
+                              "display_url": "twitter.com/MarcEvanJackso\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1640301258623045632"
+            ],
+            "id": "1640301258623045632",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 153
+            },
+            "created_at": "2023-03-27T07:20:46.000Z",
+            "text": "best running trope in succession is greg not being scared of Logan",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 61,
+                              "end": 65,
+                              "probability": 0.7237,
+                              "type": "Other",
+                              "normalized_text": "Logan"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1640252507837591552"
+            ],
+            "id": "1640252507837591552",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 400
+            },
+            "created_at": "2023-03-27T06:58:39.000Z",
+            "text": "AIN'T NO WAY SHE ASKED LOGAN FOR A SELFIE \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 23,
+                              "end": 27,
+                              "probability": 0.5123,
+                              "type": "Other",
+                              "normalized_text": "LOGAN"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1640246939995480065"
+            ],
+            "id": "1640246939995480065",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 153
+            },
+            "created_at": "2023-03-27T06:47:48.000Z",
+            "text": "Sarah snook is amazing oh my god",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 10,
+                              "probability": 0.9345,
+                              "type": "Person",
+                              "normalized_text": "Sarah snook"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1640244210367598594"
+            ],
+            "id": "1640244210367598594",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 206
+            },
+            "created_at": "2023-03-27T06:36:13.000Z",
+            "text": "FOUND A LINK FOR SUCCESSION LETS GOO",
+            "edit_history_tweet_ids": [
+                  "1640241295540232193"
+            ],
+            "id": "1640241295540232193",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 903
+            },
+            "created_at": "2023-03-27T05:46:50.000Z",
+            "text": "WHERE IS SEASON 4 HOTSTAR",
+            "edit_history_tweet_ids": [
+                  "1640228867230113793"
+            ],
+            "id": "1640228867230113793",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 206
+            },
+            "created_at": "2023-03-26T07:50:58.000Z",
+            "text": "soo I'm currently helping dibakar bannerjee screen a film at college wtf \ud83d\ude2d\ud83d\ude2d",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 26,
+                              "end": 42,
+                              "probability": 0.8964,
+                              "type": "Person",
+                              "normalized_text": "dibakar bannerjee"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639897719639769090"
+            ],
+            "id": "1639897719639769090",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 242
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1639282995788914690"
+                  }
+            ],
+            "created_at": "2023-03-26T05:31:14.000Z",
+            "text": "I do this all the time https://t.co/acN8QXrrfq",
+            "edit_history_tweet_ids": [
+                  "1639862552707604482"
+            ],
+            "id": "1639862552707604482",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 23,
+                              "end": 46,
+                              "url": "https://t.co/acN8QXrrfq",
+                              "expanded_url": "https://twitter.com/martiniposting/status/1639282995788914690",
+                              "display_url": "twitter.com/martiniposting\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 200
+            },
+            "created_at": "2023-03-26T04:07:22.000Z",
+            "text": "DMRC pls I'm getting late u don't need to have the metro door open for 3 minutes straight no one uses jor bagh I promise",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 3,
+                              "probability": 0.6466,
+                              "type": "Organization",
+                              "normalized_text": "DMRC"
+                        },
+                        {
+                              "start": 102,
+                              "end": 109,
+                              "probability": 0.5457,
+                              "type": "Other",
+                              "normalized_text": "jor bagh"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639841448261722112"
+            ],
+            "id": "1639841448261722112",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 290
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1639673498841894912"
+                  }
+            ],
+            "created_at": "2023-03-25T17:34:28.000Z",
+            "text": "WTF I DIDN'T REALISE THATS LITERALLY TOMORROW https://t.co/eCpMxkavs2",
+            "edit_history_tweet_ids": [
+                  "1639682174109782016"
+            ],
+            "id": "1639682174109782016",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 46,
+                              "end": 69,
+                              "url": "https://t.co/eCpMxkavs2",
+                              "expanded_url": "https://twitter.com/succession/status/1639673498841894912",
+                              "display_url": "twitter.com/succession/sta\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 147
+            },
+            "created_at": "2023-03-25T15:28:57.000Z",
+            "text": "WHY IS THERE A BOXING MATCH IN THE MIDDLE OF CYBER HUB???",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 45,
+                              "end": 53,
+                              "probability": 0.5516,
+                              "type": "Other",
+                              "normalized_text": "CYBER HUB"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639650583845158912"
+            ],
+            "id": "1639650583845158912",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 218
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1639379597560098817"
+                  }
+            ],
+            "created_at": "2023-03-25T09:46:28.000Z",
+            "text": "as they should https://t.co/SlL0xI4N4j",
+            "edit_history_tweet_ids": [
+                  "1639564397537562625"
+            ],
+            "id": "1639564397537562625",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 15,
+                              "end": 38,
+                              "url": "https://t.co/SlL0xI4N4j",
+                              "expanded_url": "https://twitter.com/0xgaut/status/1639379597560098817",
+                              "display_url": "twitter.com/0xgaut/status/\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 78
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1639522840180584448"
+                  }
+            ],
+            "created_at": "2023-03-25T09:41:18.000Z",
+            "text": "did she just kiss her son",
+            "edit_history_tweet_ids": [
+                  "1639563098293174272"
+            ],
+            "id": "1639563098293174272",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 113
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1639521632862756864"
+                  }
+            ],
+            "created_at": "2023-03-25T07:01:20.000Z",
+            "text": "DID HE JUST EAT THE GUYS FACE",
+            "edit_history_tweet_ids": [
+                  "1639522840180584448"
+            ],
+            "id": "1639522840180584448",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 91
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1639515831481823232"
+                  }
+            ],
+            "created_at": "2023-03-25T06:56:32.000Z",
+            "text": "idk how to describe but I love the way the camera swivels as though it's focusing on something else then comes back to the subject, it's really addictive to watch",
+            "edit_history_tweet_ids": [
+                  "1639521632862756864"
+            ],
+            "id": "1639521632862756864",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 105
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1639515154101735424"
+                  }
+            ],
+            "created_at": "2023-03-25T06:33:29.000Z",
+            "text": "wait is that ethan hawke",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 13,
+                              "end": 23,
+                              "probability": 0.7539,
+                              "type": "Person",
+                              "normalized_text": "ethan hawke"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639515831481823232"
+            ],
+            "id": "1639515831481823232",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 237
+            },
+            "created_at": "2023-03-25T06:30:48.000Z",
+            "text": "NOW WATCHING: THE NORTHMAN",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 14,
+                              "end": 25,
+                              "probability": 0.4591,
+                              "type": "Other",
+                              "normalized_text": "THE NORTHMAN"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639515154101735424"
+            ],
+            "id": "1639515154101735424",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 279
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1639507412498665472"
+                  }
+            ],
+            "created_at": "2023-03-25T06:24:54.000Z",
+            "text": "?? \ud83d\ude2d https://t.co/fBBZv3XjwQ",
+            "edit_history_tweet_ids": [
+                  "1639513669565554688"
+            ],
+            "id": "1639513669565554688",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 5,
+                              "end": 28,
+                              "url": "https://t.co/fBBZv3XjwQ",
+                              "expanded_url": "https://twitter.com/PopBase/status/1639507412498665472",
+                              "display_url": "twitter.com/PopBase/status\u2026"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 232
+            },
+            "created_at": "2023-03-24T11:10:13.000Z",
+            "text": "WTF???? https://t.co/kiraZruknA",
+            "edit_history_tweet_ids": [
+                  "1639223085244252160"
+            ],
+            "id": "1639223085244252160",
+            "author_id": "1442435435687383040",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 8,
+                              "end": 31,
+                              "url": "https://t.co/kiraZruknA",
+                              "expanded_url": "https://twitter.com/misterguacamol3/status/1639223085244252160/photo/1",
+                              "display_url": "pic.twitter.com/kiraZruknA",
+                              "media_key": "3_1639223082517659652"
+                        }
+                  ]
+            }
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 3,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 276
+            },
+            "created_at": "2023-03-24T11:07:42.000Z",
+            "text": "ML is easily the most boring field in CS how y'all like it is beyond me",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 1,
+                              "probability": 0.4954,
+                              "type": "Other",
+                              "normalized_text": "ML"
+                        },
+                        {
+                              "start": 38,
+                              "end": 39,
+                              "probability": 0.4614,
+                              "type": "Other",
+                              "normalized_text": "CS"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639222453267488769"
+            ],
+            "id": "1639222453267488769",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 79
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1639216795872813059"
+                  }
+            ],
+            "created_at": "2023-03-24T11:05:00.000Z",
+            "text": "I will push him off the train",
+            "edit_history_tweet_ids": [
+                  "1639221773295308801"
+            ],
+            "id": "1639221773295308801",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 208
+            },
+            "created_at": "2023-03-24T10:59:09.000Z",
+            "text": "the actual restaurant in jama masjid (ya Allah chala de hotel) is very good btw should def go there https://t.co/TGGvyacJia",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 25,
+                              "end": 35,
+                              "probability": 0.518,
+                              "type": "Place",
+                              "normalized_text": "jama masjid"
+                        },
+                        {
+                              "start": 41,
+                              "end": 45,
+                              "probability": 0.6193,
+                              "type": "Other",
+                              "normalized_text": "Allah"
+                        },
+                        {
+                              "start": 47,
+                              "end": 60,
+                              "probability": 0.5516,
+                              "type": "Other",
+                              "normalized_text": "chala de hotel"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 100,
+                              "end": 123,
+                              "url": "https://t.co/TGGvyacJia",
+                              "expanded_url": "https://twitter.com/sharisfafi/status/1638806483981721600",
+                              "display_url": "twitter.com/sharisfafi/sta\u2026"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639220298833698816"
+            ],
+            "id": "1639220298833698816",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 217
+            },
+            "created_at": "2023-03-24T10:45:13.000Z",
+            "text": "WOMAN CONTROL YOUR FUCKIN CHILD HES KICKING ME AND WATCHING VIR THE ROBOT BOY",
+            "edit_history_tweet_ids": [
+                  "1639216795872813059"
+            ],
+            "id": "1639216795872813059",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 295
+            },
+            "created_at": "2023-03-24T10:17:25.000Z",
+            "text": "best weather to be in Delhi ngl https://t.co/GOUdStXV2C",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 26,
+                              "probability": 0.9885,
+                              "type": "Place",
+                              "normalized_text": "Delhi"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 32,
+                              "end": 55,
+                              "url": "https://t.co/GOUdStXV2C",
+                              "expanded_url": "https://twitter.com/misterguacamol3/status/1639209798938886148/photo/1",
+                              "display_url": "pic.twitter.com/GOUdStXV2C",
+                              "media_key": "3_1639209781247242247"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639209798938886148"
+            ],
+            "id": "1639209798938886148",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 209
+            },
+            "created_at": "2023-03-24T09:28:41.000Z",
+            "text": "what's that song which goes like AA ante amlapuram",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 33,
+                              "end": 49,
+                              "probability": 0.5049,
+                              "type": "Other",
+                              "normalized_text": "AA ante amlapuram"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639197532416004096"
+            ],
+            "id": "1639197532416004096",
+            "author_id": "1442435435687383040"
+      },
+      {
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 88
+            },
+            "created_at": "2023-03-24T07:13:02.000Z",
+            "text": "CBFC KILL YOURSELF",
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 3,
+                              "probability": 0.8864,
+                              "type": "Organization",
+                              "normalized_text": "CBFC"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639163398280847360"
+            ],
+            "id": "1639163398280847360",
+            "author_id": "1442435435687383040"
+      }
+]

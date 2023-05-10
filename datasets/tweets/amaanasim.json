@@ -1,0 +1,649 @@
+[
+      {
+            "created_at": "2023-03-24T17:02:16.000Z",
+            "text": "Last #Thursday when I attended Parliament session, who knew that it\u2019d probably be the last appearance of #RahulGandhi in the Lok Sabha before his abrupt #disqualification !\nWill the #Congress win the battle playing victim or the #BJP twist this to their advantage?",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 142
+            },
+            "entities": {
+                  "hashtags": [
+                        {
+                              "start": 5,
+                              "end": 14,
+                              "tag": "Thursday"
+                        },
+                        {
+                              "start": 105,
+                              "end": 117,
+                              "tag": "RahulGandhi"
+                        },
+                        {
+                              "start": 153,
+                              "end": 170,
+                              "tag": "disqualification"
+                        },
+                        {
+                              "start": 182,
+                              "end": 191,
+                              "tag": "Congress"
+                        },
+                        {
+                              "start": 229,
+                              "end": 233,
+                              "tag": "BJP"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 106,
+                              "end": 116,
+                              "probability": 0.9662,
+                              "type": "Person",
+                              "normalized_text": "RahulGandhi"
+                        },
+                        {
+                              "start": 125,
+                              "end": 133,
+                              "probability": 0.8661,
+                              "type": "Place",
+                              "normalized_text": "Lok Sabha"
+                        },
+                        {
+                              "start": 230,
+                              "end": 232,
+                              "probability": 0.8789,
+                              "type": "Organization",
+                              "normalized_text": "BJP"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1639311682274205697"
+            ],
+            "author_id": "147503505",
+            "id": "1639311682274205697"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 162,
+                              "end": 185,
+                              "url": "https://t.co/pIJ4YAgqSs",
+                              "expanded_url": "https://twitter.com/amaanasim/status/1636295561161871360/photo/1",
+                              "display_url": "pic.twitter.com/pIJ4YAgqSs",
+                              "media_key": "3_1636295553062514688"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 134,
+                              "end": 143,
+                              "tag": "LokSabha"
+                        },
+                        {
+                              "start": 144,
+                              "end": 161,
+                              "tag": "IndianParliament"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 135,
+                              "end": 142,
+                              "probability": 0.7946,
+                              "type": "Person",
+                              "normalized_text": "LokSabha"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-16T09:17:17.000Z",
+            "text": "Had the opportunity to be in the corridors of power today! \nHere\u2019s to a future where I enter this place in a more meaningful capacity\n#LokSabha #IndianParliament https://t.co/pIJ4YAgqSs",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 170
+            },
+            "edit_history_tweet_ids": [
+                  "1636295561161871360"
+            ],
+            "author_id": "147503505",
+            "id": "1636295561161871360"
+      },
+      {
+            "created_at": "2023-03-02T04:32:22.000Z",
+            "text": "The book shatters the perception of Muslim women being a monolith hidden behind veils. \nThe millions of Muslims include achievers in several fields from politics to media to STEM!",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 62
+            },
+            "edit_history_tweet_ids": [
+                  "1631150428061835264"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1631150422579900416"
+                  }
+            ],
+            "author_id": "147503505",
+            "id": "1631150428061835264"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 224,
+                              "end": 247,
+                              "url": "https://t.co/9O3MAkxxIa",
+                              "expanded_url": "https://twitter.com/amaanasim/status/1631150422579900416/photo/1",
+                              "display_url": "pic.twitter.com/9O3MAkxxIa",
+                              "media_key": "3_1631150414614896640"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 18,
+                              "end": 32,
+                              "username": "DrFarahUsmani",
+                              "id": "2523426002"
+                        },
+                        {
+                              "start": 184,
+                              "end": 199,
+                              "username": "humanetouchind",
+                              "id": "1299355695783882754"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 63,
+                              "end": 87,
+                              "probability": 0.9641,
+                              "type": "Other",
+                              "normalized_text": "Rising Beyond the Ceiling"
+                        },
+                        {
+                              "start": 156,
+                              "end": 164,
+                              "probability": 0.7803,
+                              "type": "Place",
+                              "normalized_text": "Karnataka"
+                        },
+                        {
+                              "start": 208,
+                              "end": 221,
+                              "probability": 0.6381,
+                              "type": "Person",
+                              "normalized_text": "Tazaiyun Oomer"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-02T04:32:20.000Z",
+            "text": "A great effort by @DrFarahUsmani to document the Muslim women \u201cRising Beyond the Ceiling\u201d. \nProud to be associated with several individuals featured in the Karnataka edition including @humanetouchind founder Tazaiyun Oomer! https://t.co/9O3MAkxxIa",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 421
+            },
+            "edit_history_tweet_ids": [
+                  "1631150422579900416"
+            ],
+            "author_id": "147503505",
+            "id": "1631150422579900416"
+      },
+      {
+            "created_at": "2023-02-28T15:37:37.000Z",
+            "text": "In less than a year, as Karnataka politics  heats up, @AAPKarnataka faces a new low and @Nimmabhaskar22 takes a round about turn!",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 70
+            },
+            "edit_history_tweet_ids": [
+                  "1630593070025801728"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1510925710940016643"
+                  }
+            ],
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 54,
+                              "end": 67,
+                              "username": "AAPKarnataka",
+                              "id": "968299466"
+                        },
+                        {
+                              "start": 88,
+                              "end": 103,
+                              "username": "Nimmabhaskar22",
+                              "id": "917060544"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 24,
+                              "end": 32,
+                              "probability": 0.849,
+                              "type": "Place",
+                              "normalized_text": "Karnataka"
+                        }
+                  ]
+            },
+            "author_id": "147503505",
+            "id": "1630593070025801728"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 281,
+                              "end": 304,
+                              "url": "https://t.co/ItcdZFDrq2",
+                              "expanded_url": "https://twitter.com/dhanyarajendran/status/1630575581346811904",
+                              "display_url": "twitter.com/dhanyarajendra\u2026"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 24,
+                              "end": 37,
+                              "username": "AAPKarnataka",
+                              "id": "968299466"
+                        },
+                        {
+                              "start": 167,
+                              "end": 182,
+                              "username": "Nimmabhaskar22",
+                              "id": "917060544"
+                        },
+                        {
+                              "start": 263,
+                              "end": 276,
+                              "username": "AAPKarnataka",
+                              "id": "968299466"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-28T15:25:55.000Z",
+            "text": "A man who tried to make @AAPKarnataka  popular, proclaimed he swore by honest politics and was a keen listener to minority concerns. \nThis is a new low!  Disappointed @Nimmabhaskar22 sir, really looked upto you.\nBut alas the lure of power and the incompetence of @AAPKarnataka won https://t.co/ItcdZFDrq2",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 324
+            },
+            "edit_history_tweet_ids": [
+                  "1630590126559748098"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1630575581346811904"
+                  }
+            ],
+            "author_id": "147503505",
+            "id": "1630590126559748098"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 194,
+                              "end": 217,
+                              "url": "https://t.co/5liHZStH6U",
+                              "expanded_url": "https://twitter.com/thenewsminute/status/1628755198700290049",
+                              "display_url": "twitter.com/thenewsminute/\u2026"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 148,
+                              "end": 158,
+                              "tag": "Bengaluru"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 59,
+                              "end": 73,
+                              "username": "BJP4Karnataka",
+                              "id": "25123615"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 149,
+                              "end": 157,
+                              "probability": 0.9568,
+                              "type": "Place",
+                              "normalized_text": "Bengaluru"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-23T16:50:54.000Z",
+            "text": "Disenfranchising voters you can\u2019t win over seems to be the @BJP4Karnataka strategy \nAbsolute disregard for basic citizen rights, will the people of #Bengaluru let this robbery of rights happen? https://t.co/5liHZStH6U",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 109
+            },
+            "edit_history_tweet_ids": [
+                  "1628799575061561345"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628755198700290049"
+                  }
+            ],
+            "author_id": "147503505",
+            "id": "1628799575061561345"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 260,
+                              "end": 283,
+                              "url": "https://t.co/I5edbO1k2J",
+                              "expanded_url": "https://twitter.com/amaanasim/status/1626052388544020480/photo/1",
+                              "display_url": "pic.twitter.com/I5edbO1k2J",
+                              "media_key": "3_1626052181760827395"
+                        },
+                        {
+                              "start": 260,
+                              "end": 283,
+                              "url": "https://t.co/I5edbO1k2J",
+                              "expanded_url": "https://twitter.com/amaanasim/status/1626052388544020480/photo/1",
+                              "display_url": "pic.twitter.com/I5edbO1k2J",
+                              "media_key": "3_1626052181723062273"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 178,
+                              "end": 186,
+                              "probability": 0.8754,
+                              "type": "Place",
+                              "normalized_text": "Bengaluru"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-16T02:54:34.000Z",
+            "text": "The response has been overwhelming! In just 4 days \n-More than \u20b91 lakh+ had been donated in monetary donations \n-150+ blankets donated in kind \nWe have identified and verified a Bengaluru based collection centre\nDo DM in case you\u2019d like to contribute further! https://t.co/I5edbO1k2J",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 63
+            },
+            "edit_history_tweet_ids": [
+                  "1626052388544020480"
+            ],
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1624414848452038659"
+                  }
+            ],
+            "author_id": "147503505",
+            "id": "1626052388544020480"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 274,
+                              "end": 297,
+                              "url": "https://t.co/AZBA2BcPjs",
+                              "expanded_url": "https://twitter.com/amaanasim/status/1624414848452038659/photo/1",
+                              "display_url": "pic.twitter.com/AZBA2BcPjs",
+                              "media_key": "3_1624414842089263104"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 29,
+                              "end": 39,
+                              "tag": "Bangalore"
+                        },
+                        {
+                              "start": 135,
+                              "end": 152,
+                              "tag": "TurkeyEarthquake"
+                        },
+                        {
+                              "start": 153,
+                              "end": 175,
+                              "tag": "EarthquakeIndiaRelief"
+                        },
+                        {
+                              "start": 176,
+                              "end": 191,
+                              "tag": "BangaloreCares"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 193,
+                              "end": 200,
+                              "username": "TellDM",
+                              "id": "77968947"
+                        },
+                        {
+                              "start": 201,
+                              "end": 213,
+                              "username": "rajeevgowda",
+                              "id": "23766957"
+                        },
+                        {
+                              "start": 214,
+                              "end": 228,
+                              "username": "TheSouthfirst",
+                              "id": "1537321871632257024"
+                        },
+                        {
+                              "start": 229,
+                              "end": 244,
+                              "username": "PoojaPrasanna4",
+                              "id": "365991821"
+                        },
+                        {
+                              "start": 245,
+                              "end": 260,
+                              "username": "prajwalmanipal",
+                              "id": "794794277016457216"
+                        },
+                        {
+                              "start": 261,
+                              "end": 273,
+                              "username": "dhruv_jatti",
+                              "id": "1261353795797176321"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 30,
+                              "end": 38,
+                              "probability": 0.986,
+                              "type": "Place",
+                              "normalized_text": "Bangalore"
+                        },
+                        {
+                              "start": 47,
+                              "end": 53,
+                              "probability": 0.9068,
+                              "type": "Place",
+                              "normalized_text": "Chennai"
+                        },
+                        {
+                              "start": 136,
+                              "end": 151,
+                              "probability": 0.894,
+                              "type": "Place",
+                              "normalized_text": "TurkeyEarthquake"
+                        },
+                        {
+                              "start": 177,
+                              "end": 190,
+                              "probability": 0.9566,
+                              "type": "Place",
+                              "normalized_text": "BangaloreCares"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-11T14:27:34.000Z",
+            "text": "A truck is set to leave from #Bangalore to the Chennai consulate \n\nAccepting Transfers and Kind. Message and we can coordinate either.\n#TurkeyEarthquake #EarthquakeIndiaRelief #BangaloreCares \n@TellDM @rajeevgowda @TheSouthfirst @PoojaPrasanna4 @prajwalmanipal @dhruv_jatti https://t.co/AZBA2BcPjs",
+            "public_metrics": {
+                  "retweet_count": 8,
+                  "reply_count": 2,
+                  "like_count": 21,
+                  "quote_count": 0,
+                  "impression_count": 2016
+            },
+            "edit_history_tweet_ids": [
+                  "1624414848452038659"
+            ],
+            "author_id": "147503505",
+            "id": "1624414848452038659"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 277,
+                              "end": 300,
+                              "url": "https://t.co/rio8RNOzOr",
+                              "expanded_url": "https://twitter.com/amaanasim/status/1620045131176120325/photo/1",
+                              "display_url": "pic.twitter.com/rio8RNOzOr",
+                              "media_key": "3_1620045123404058624"
+                        },
+                        {
+                              "start": 277,
+                              "end": 300,
+                              "url": "https://t.co/rio8RNOzOr",
+                              "expanded_url": "https://twitter.com/amaanasim/status/1620045131176120325/photo/1",
+                              "display_url": "pic.twitter.com/rio8RNOzOr",
+                              "media_key": "3_1620045123416637442"
+                        }
+                  ],
+                  "hashtags": [
+                        {
+                              "start": 7,
+                              "end": 23,
+                              "tag": "BharatJodoYatra"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 53,
+                              "end": 65,
+                              "username": "RahulGandhi",
+                              "id": "3171712086"
+                        },
+                        {
+                              "start": 264,
+                              "end": 276,
+                              "username": "rajeevgowda",
+                              "id": "23766957"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 8,
+                              "end": 22,
+                              "probability": 0.8143,
+                              "type": "Person",
+                              "normalized_text": "BharatJodoYatra"
+                        }
+                  ]
+            },
+            "created_at": "2023-01-30T13:03:52.000Z",
+            "text": "As the #BharatJodoYatra comes to an end, hats off to @RahulGandhi for his grit and dedication!\n\nHad an opportunity to walk 15km+ in October 2022 \n\nMy conversation over tea was enlightening and proved that he is a keen listener with a finger on the Indian pulse! \n\n@rajeevgowda https://t.co/rio8RNOzOr",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 151
+            },
+            "edit_history_tweet_ids": [
+                  "1620045131176120325"
+            ],
+            "author_id": "147503505",
+            "id": "1620045131176120325"
+      },
+      {
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 146,
+                              "end": 169,
+                              "url": "https://t.co/uILSsspENW",
+                              "expanded_url": "https://twitter.com/amaanasim/status/1618299366615420928/photo/1",
+                              "display_url": "pic.twitter.com/uILSsspENW",
+                              "media_key": "3_1618299354351284224"
+                        }
+                  ],
+                  "annotations": [
+                        {
+                              "start": 38,
+                              "end": 49,
+                              "probability": 0.5156,
+                              "type": "Person",
+                              "normalized_text": "Hajee Chacha"
+                        },
+                        {
+                              "start": 96,
+                              "end": 107,
+                              "probability": 0.5044,
+                              "type": "Other",
+                              "normalized_text": "Safina Plaza"
+                        },
+                        {
+                              "start": 119,
+                              "end": 121,
+                              "probability": 0.3615,
+                              "type": "Organization",
+                              "normalized_text": "MLC"
+                        }
+                  ]
+            },
+            "created_at": "2023-01-25T17:26:50.000Z",
+            "text": "Honoured to share my forefathers with Hajee Chacha! \nTruly an inspiration in 9 decades building Safina Plaza, being an MLC, and many more laurels https://t.co/uILSsspENW",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 505
+            },
+            "edit_history_tweet_ids": [
+                  "1618299366615420928"
+            ],
+            "author_id": "147503505",
+            "id": "1618299366615420928"
+      }
+]

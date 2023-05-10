@@ -1,0 +1,2923 @@
+[
+      {
+            "author_id": "1526409221469679617",
+            "text": "&gt;&gt;&gt; work() https://t.co/faxy9aYAmR",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 121
+            },
+            "edit_history_tweet_ids": [
+                  "1641756481845596161"
+            ],
+            "id": "1641756481845596161",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 20,
+                              "end": 43,
+                              "url": "https://t.co/faxy9aYAmR",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1641756481845596161/photo/1",
+                              "display_url": "pic.twitter.com/faxy9aYAmR",
+                              "media_key": "3_1641756439059263489"
+                        },
+                        {
+                              "start": 20,
+                              "end": 43,
+                              "url": "https://t.co/faxy9aYAmR",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1641756481845596161/photo/1",
+                              "display_url": "pic.twitter.com/faxy9aYAmR",
+                              "media_key": "3_1641756459565236225"
+                        },
+                        {
+                              "start": 20,
+                              "end": 43,
+                              "url": "https://t.co/faxy9aYAmR",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1641756481845596161/photo/1",
+                              "display_url": "pic.twitter.com/faxy9aYAmR",
+                              "media_key": "3_1641756471665868801"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-31T10:57:02.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "feeling funny, might delete myself later",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 115
+            },
+            "edit_history_tweet_ids": [
+                  "1640812268475813888"
+            ],
+            "id": "1640812268475813888",
+            "created_at": "2023-03-28T20:25:04.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "like oh this is outside my comprehensible range, so the adequate response is most definitely multiple slaps https://t.co/RYvG9CWZYd",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 100
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1638779051862274048"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1638779560190955520"
+            ],
+            "id": "1638779560190955520",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 108,
+                              "end": 131,
+                              "url": "https://t.co/RYvG9CWZYd",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1638779560190955520/photo/1",
+                              "display_url": "pic.twitter.com/RYvG9CWZYd",
+                              "media_key": "16_1638779545800126465"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-23T05:47:48.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "i want to be a cat and just punch the shit out of everything i cannot understand.",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 76,
+                  "quote_count": 0,
+                  "impression_count": 332
+            },
+            "edit_history_tweet_ids": [
+                  "1638779051862274048"
+            ],
+            "id": "1638779051862274048",
+            "created_at": "2023-03-23T05:45:47.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "leave bed- go eat subway?\nleave bed-go eat dhaba?\nstay hungies-play genshin? https://t.co/NRRLhBSOmG",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 177
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 43,
+                              "end": 47,
+                              "probability": 0.3943,
+                              "type": "Other",
+                              "normalized_text": "dhaba"
+                        },
+                        {
+                              "start": 68,
+                              "end": 74,
+                              "probability": 0.5532,
+                              "type": "Other",
+                              "normalized_text": "genshin"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 77,
+                              "end": 100,
+                              "url": "https://t.co/NRRLhBSOmG",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1638290437407473671/photo/1",
+                              "display_url": "pic.twitter.com/NRRLhBSOmG",
+                              "media_key": "3_1638290434450419714"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1638290437407473671"
+            ],
+            "id": "1638290437407473671",
+            "created_at": "2023-03-21T21:24:12.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "healing \u2661 https://t.co/3gBB0aL1mi",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 94
+            },
+            "edit_history_tweet_ids": [
+                  "1638032044721844226"
+            ],
+            "id": "1638032044721844226",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 10,
+                              "end": 33,
+                              "url": "https://t.co/3gBB0aL1mi",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1638032044721844226/photo/1",
+                              "display_url": "pic.twitter.com/3gBB0aL1mi",
+                              "media_key": "3_1638032042024751106"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-21T04:17:27.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "me 2 months ago, convinced to get an A in iml, seeing me fail and still not take that P/F https://t.co/UarbHGaWX4 https://t.co/Q2mfNL9VLM",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 90
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1637874416129286144"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1637877352444366850"
+            ],
+            "id": "1637877352444366850",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 90,
+                              "end": 113,
+                              "url": "https://t.co/UarbHGaWX4",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1637877352444366850/photo/1",
+                              "display_url": "pic.twitter.com/UarbHGaWX4",
+                              "media_key": "3_1637877348564336640"
+                        },
+                        {
+                              "start": 114,
+                              "end": 137,
+                              "url": "https://t.co/Q2mfNL9VLM",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1637874416129286144",
+                              "display_url": "twitter.com/wdymaditi/stat\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-20T18:02:45.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "getting ready to fail",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 2,
+                  "like_count": 4,
+                  "quote_count": 1,
+                  "impression_count": 216
+            },
+            "edit_history_tweet_ids": [
+                  "1637874416129286144"
+            ],
+            "id": "1637874416129286144",
+            "created_at": "2023-03-20T17:51:05.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "when copywriters put in effort&gt;&gt;&gt; https://t.co/XunWcUvUGF",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 71
+            },
+            "edit_history_tweet_ids": [
+                  "1637443943863394306"
+            ],
+            "id": "1637443943863394306",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 43,
+                              "end": 66,
+                              "url": "https://t.co/XunWcUvUGF",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1637443943863394306/photo/1",
+                              "display_url": "pic.twitter.com/XunWcUvUGF",
+                              "media_key": "3_1637443938804965376"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-19T13:20:33.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "im playing a game and my cat jumps on the keyboard qnd refuses to move causing multiple keys to be pressed.\nthese key presses initiates ISRs multiple times.\nif interrupt masking was not a thing, all these interrupt will be executed instead of my game and i would lose the game.",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 77
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 136,
+                              "end": 139,
+                              "probability": 0.5195,
+                              "type": "Other",
+                              "normalized_text": "ISRs"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1637031964900302849"
+            ],
+            "id": "1637031964900302849",
+            "created_at": "2023-03-18T10:03:29.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "interested in converting that $10 in your bank to a $1000 ? dm for details. \n.\n(this is not a pyramid scheme, we will be selling crack)",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 132
+            },
+            "edit_history_tweet_ids": [
+                  "1636941652991553537"
+            ],
+            "id": "1636941652991553537",
+            "created_at": "2023-03-18T04:04:37.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "it's clearly the smol and gorgeous bts dude my mom is in love with https://t.co/DO9aWwL5hD",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 353
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1636482573781139459"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1636781271102767135"
+            ],
+            "id": "1636781271102767135",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 67,
+                              "end": 90,
+                              "url": "https://t.co/DO9aWwL5hD",
+                              "expanded_url": "https://twitter.com/clcbarbies/status/1636482573781139459",
+                              "display_url": "twitter.com/clcbarbies/sta\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-17T17:27:19.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "let the woman hate in peace ffs https://t.co/eFLowc9TK6",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 72
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1636462876985532449"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1636723851047444480"
+            ],
+            "id": "1636723851047444480",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 32,
+                              "end": 55,
+                              "url": "https://t.co/eFLowc9TK6",
+                              "expanded_url": "https://twitter.com/nypost/status/1636462876985532449",
+                              "display_url": "twitter.com/nypost/status/\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-17T13:39:09.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "be honest ashoka, do you want to see me to throw myself off the 10th floor \ud83d\ude29",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 92
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 10,
+                              "end": 15,
+                              "probability": 0.553,
+                              "type": "Person",
+                              "normalized_text": "ashoka"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1636246890856558593"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1636247165914824705"
+            ],
+            "id": "1636247165914824705",
+            "created_at": "2023-03-16T06:04:59.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "\"probabilistic analysis is the use of probability in the analysis of problems.\"\n-some algos book",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 89,
+                  "quote_count": 1,
+                  "impression_count": 450
+            },
+            "edit_history_tweet_ids": [
+                  "1636246890856558593"
+            ],
+            "id": "1636246890856558593",
+            "created_at": "2023-03-16T06:03:53.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "that part of sem is hwee,,, yet qgain https://t.co/7XbYnwyIaA",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 55
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1630693955749937152"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1636094748782886914"
+            ],
+            "id": "1636094748782886914",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 38,
+                              "end": 61,
+                              "url": "https://t.co/7XbYnwyIaA",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1630693955749937152",
+                              "display_url": "twitter.com/wdymaditi/stat\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-15T19:59:19.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "i love mentally deranged women \u2661\u2661 https://t.co/G7mDhcLkyK https://t.co/huQIINpX8k",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 127
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1634636422891143172"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1634791868570402817"
+            ],
+            "id": "1634791868570402817",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 34,
+                              "end": 57,
+                              "url": "https://t.co/G7mDhcLkyK",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1634791868570402817/photo/1",
+                              "display_url": "pic.twitter.com/G7mDhcLkyK",
+                              "media_key": "3_1634791864292261890"
+                        },
+                        {
+                              "start": 58,
+                              "end": 81,
+                              "url": "https://t.co/huQIINpX8k",
+                              "expanded_url": "https://twitter.com/VJ_Gosai/status/1634636422891143172",
+                              "display_url": "twitter.com/VJ_Gosai/statu\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-12T05:42:09.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "\u2661\u2661 https://t.co/DX2NgstqHP https://t.co/GJ4cJMcHEE",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 102
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1631778074592436224"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1633812431943204865"
+            ],
+            "id": "1633812431943204865",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 3,
+                              "end": 26,
+                              "url": "https://t.co/DX2NgstqHP",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1633812431943204865/photo/1",
+                              "display_url": "pic.twitter.com/DX2NgstqHP",
+                              "media_key": "3_1633812381611507713"
+                        },
+                        {
+                              "start": 3,
+                              "end": 26,
+                              "url": "https://t.co/DX2NgstqHP",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1633812431943204865/photo/1",
+                              "display_url": "pic.twitter.com/DX2NgstqHP",
+                              "media_key": "3_1633812393087123457"
+                        },
+                        {
+                              "start": 3,
+                              "end": 26,
+                              "url": "https://t.co/DX2NgstqHP",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1633812431943204865/photo/1",
+                              "display_url": "pic.twitter.com/DX2NgstqHP",
+                              "media_key": "3_1633812407687475203"
+                        },
+                        {
+                              "start": 3,
+                              "end": 26,
+                              "url": "https://t.co/DX2NgstqHP",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1633812431943204865/photo/1",
+                              "display_url": "pic.twitter.com/DX2NgstqHP",
+                              "media_key": "3_1633812423311278081"
+                        },
+                        {
+                              "start": 27,
+                              "end": 50,
+                              "url": "https://t.co/GJ4cJMcHEE",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1631778074592436224",
+                              "display_url": "twitter.com/wdymaditi/stat\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-09T12:50:13.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "shatabdi free breakfast being better than mess food is so funny to me",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 75
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 7,
+                              "probability": 0.5944,
+                              "type": "Other",
+                              "normalized_text": "shatabdi"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1631847613623603200"
+            ],
+            "id": "1631847613623603200",
+            "created_at": "2023-03-04T02:42:44.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "mountainsss!! https://t.co/qzbRYeoPY6",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 1,
+                  "impression_count": 249
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1631690727326621696"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1631778074592436224"
+            ],
+            "id": "1631778074592436224",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 14,
+                              "end": 37,
+                              "url": "https://t.co/qzbRYeoPY6",
+                              "expanded_url": "https://twitter.com/notanisha/status/1631690727326621696",
+                              "display_url": "twitter.com/notanisha/stat\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-03T22:06:24.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "WE HAVENT EVEN HIT MID SEMESTER YET LIKE????",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 69
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1630693955749937152"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1630694100394741760"
+            ],
+            "id": "1630694100394741760",
+            "created_at": "2023-02-28T22:19:05.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "its me and my two hours of sleep against the rest of the world",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 1,
+                  "impression_count": 153
+            },
+            "edit_history_tweet_ids": [
+                  "1630693955749937152"
+            ],
+            "id": "1630693955749937152",
+            "created_at": "2023-02-28T22:18:30.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "NONONOOO I WILL CRY https://t.co/o5yVNRMTtc",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 109
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1629640206298284038"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1630194777802280961"
+            ],
+            "id": "1630194777802280961",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 20,
+                              "end": 43,
+                              "url": "https://t.co/o5yVNRMTtc",
+                              "expanded_url": "https://twitter.com/BaizhuMains/status/1629640206298284038",
+                              "display_url": "twitter.com/BaizhuMains/st\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-27T13:14:57.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "https://t.co/rhsKE6oEle https://t.co/oVGEUFqZYh",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 82
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1629899891211132929"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1630147359140364291"
+            ],
+            "id": "1630147359140364291",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/rhsKE6oEle",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1630147359140364291/photo/1",
+                              "display_url": "pic.twitter.com/rhsKE6oEle",
+                              "media_key": "3_1630147355134820353"
+                        },
+                        {
+                              "start": 24,
+                              "end": 47,
+                              "url": "https://t.co/oVGEUFqZYh",
+                              "expanded_url": "https://twitter.com/sapphicslike/status/1629899891211132929",
+                              "display_url": "twitter.com/sapphicslike/s\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-27T10:06:31.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "i accidentally bought AGUSTD concert ticket on d same day im supposed to get married &amp; they cost me $1,000 (plane &amp; con tix, hotel). if anyone wants to go take my place for FREE it\u2019s going to be at the st. marys church his name is John he\u2019s 6\u201910 super nice guy",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 124
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 27,
+                              "probability": 0.7471,
+                              "type": "Other",
+                              "normalized_text": "AGUSTD"
+                        },
+                        {
+                              "start": 210,
+                              "end": 218,
+                              "probability": 0.7087,
+                              "type": "Place",
+                              "normalized_text": "st. marys"
+                        },
+                        {
+                              "start": 239,
+                              "end": 242,
+                              "probability": 0.6992,
+                              "type": "Other",
+                              "normalized_text": "John"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1629550089390919681"
+            ],
+            "id": "1629550089390919681",
+            "created_at": "2023-02-25T18:33:11.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "whenever people criticize raiden, my eyes see red i start breathing gasoline fumes out my nose hands bawling into clenched fists like...thats my MOTHER,, speak nicely to ha",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 57
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 26,
+                              "end": 31,
+                              "probability": 0.4466,
+                              "type": "Person",
+                              "normalized_text": "raiden"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1629422870127575041"
+            ],
+            "id": "1629422870127575041",
+            "created_at": "2023-02-25T10:07:40.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "the fact that im at risk of seeing the opinions of some rando _\"mens rights activist\"_ at any point of my day on twt is a severe violation of my human rights",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 95
+            },
+            "edit_history_tweet_ids": [
+                  "1629362690778095616"
+            ],
+            "id": "1629362690778095616",
+            "created_at": "2023-02-25T06:08:32.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "ashoka shower system needs to be checked bc tf u mean you got hot water at 1pm while i was shivering and cold at 9 am???????",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 63
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.4602,
+                              "type": "Other",
+                              "normalized_text": "ashoka"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1629075751638286338"
+            ],
+            "id": "1629075751638286338",
+            "created_at": "2023-02-24T11:08:20.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "juggling 3 twt accounts is so annohiandndjdkd",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 47
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 11,
+                              "end": 13,
+                              "probability": 0.6349,
+                              "type": "Other",
+                              "normalized_text": "twt"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1629075366341115904"
+            ],
+            "id": "1629075366341115904",
+            "created_at": "2023-02-24T11:06:48.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "bbg!! https://t.co/ZBmiGExxvK",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 51
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628511933367308295"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1629072846524919816"
+            ],
+            "id": "1629072846524919816",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 6,
+                              "end": 29,
+                              "url": "https://t.co/ZBmiGExxvK",
+                              "expanded_url": "https://twitter.com/hasharakl/status/1628511933367308295",
+                              "display_url": "twitter.com/hasharakl/stat\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-24T10:56:47.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "soo pretty !!! https://t.co/yzSBrPvGYq",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 54
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628750248595144706"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1629072635035537408"
+            ],
+            "id": "1629072635035537408",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 15,
+                              "end": 38,
+                              "url": "https://t.co/yzSBrPvGYq",
+                              "expanded_url": "https://twitter.com/cqtlatte/status/1628750248595144706",
+                              "display_url": "twitter.com/cqtlatte/statu\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-24T10:55:57.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "violet line metros are the best ong",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 60
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 17,
+                              "probability": 0.8238,
+                              "type": "Other",
+                              "normalized_text": "violet line metros"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1629072172613513216"
+            ],
+            "id": "1629072172613513216",
+            "created_at": "2023-02-24T10:54:07.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "my tiny amritdhara med bottle broke in my laptop bag and i now smell like an ayurvedic store front",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 61
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 8,
+                              "end": 17,
+                              "probability": 0.5299,
+                              "type": "Other",
+                              "normalized_text": "amritdhara"
+                        },
+                        {
+                              "start": 77,
+                              "end": 85,
+                              "probability": 0.4915,
+                              "type": "Organization",
+                              "normalized_text": "ayurvedic"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1629072055542095872"
+            ],
+            "id": "1629072055542095872",
+            "created_at": "2023-02-24T10:53:39.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "what did i do to you, kpawp stan ? https://t.co/wTAOxzeitw",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 46
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 26,
+                              "probability": 0.535,
+                              "type": "Other",
+                              "normalized_text": "kpawp"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 35,
+                              "end": 58,
+                              "url": "https://t.co/wTAOxzeitw",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1629067690450227202/photo/1",
+                              "display_url": "pic.twitter.com/wTAOxzeitw",
+                              "media_key": "3_1629067685815529472"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1629067690450227202"
+            ],
+            "id": "1629067690450227202",
+            "created_at": "2023-02-24T10:36:18.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "unimportant average man on my tl, ew why https://t.co/XyxlrIgPsk",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 261
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628305422166925314"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1629053080527581184"
+            ],
+            "id": "1629053080527581184",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 41,
+                              "end": 64,
+                              "url": "https://t.co/XyxlrIgPsk",
+                              "expanded_url": "https://twitter.com/SahilBulla/status/1628305422166925314",
+                              "display_url": "twitter.com/SahilBulla/sta\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-24T09:38:15.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "just like kermie fr https://t.co/ELlHwnIViU",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 48
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 10,
+                              "end": 15,
+                              "probability": 0.6711,
+                              "type": "Other",
+                              "normalized_text": "kermie"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 20,
+                              "end": 43,
+                              "url": "https://t.co/ELlHwnIViU",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1628992201203273729/photo/1",
+                              "display_url": "pic.twitter.com/ELlHwnIViU",
+                              "media_key": "3_1628992197310971904"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1628992046584446977"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1628992201203273729"
+            ],
+            "id": "1628992201203273729",
+            "created_at": "2023-02-24T05:36:20.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "just put 123 in the vending machine instead of 20.\nstarted out wanting chips, ending up wanting to throw myself off a cliff dramatically.",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 59
+            },
+            "edit_history_tweet_ids": [
+                  "1628992046584446977"
+            ],
+            "id": "1628992046584446977",
+            "created_at": "2023-02-24T05:35:43.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "actually i overslept tomorrow and will miss the morning algos class",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 107
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 56,
+                              "end": 60,
+                              "probability": 0.7012,
+                              "type": "Other",
+                              "normalized_text": "algos"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1628659135515611136"
+            ],
+            "id": "1628659135515611136",
+            "created_at": "2023-02-23T07:32:51.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "its so clear this mf hasn't had any sun activity https://t.co/04oXjrsv6j",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 78
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628360317989228544"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1628515450366885888"
+            ],
+            "id": "1628515450366885888",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 49,
+                              "end": 72,
+                              "url": "https://t.co/04oXjrsv6j",
+                              "expanded_url": "https://twitter.com/musicstruggles1/status/1628360317989228544",
+                              "display_url": "twitter.com/musicstruggles\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-22T22:01:54.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "you use your pass/fail \ud83e\udd70 https://t.co/4KDeItKWug",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 77
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628497884856619009"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1628497961650110465"
+            ],
+            "id": "1628497961650110465",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 25,
+                              "end": 48,
+                              "url": "https://t.co/4KDeItKWug",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1628497884856619009",
+                              "display_url": "twitter.com/wdymaditi/stat\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-22T20:52:24.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "what happens when the academically challenging degree you chose challenges you academically?",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 1,
+                  "impression_count": 181
+            },
+            "edit_history_tweet_ids": [
+                  "1628497884856619009"
+            ],
+            "id": "1628497884856619009",
+            "created_at": "2023-02-22T20:52:06.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "im so glad im a currymuncher https://t.co/04oXjrsv6j",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 152
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 16,
+                              "end": 27,
+                              "probability": 0.5382,
+                              "type": "Organization",
+                              "normalized_text": "currymuncher"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 29,
+                              "end": 52,
+                              "url": "https://t.co/04oXjrsv6j",
+                              "expanded_url": "https://twitter.com/musicstruggles1/status/1628360317989228544",
+                              "display_url": "twitter.com/musicstruggles\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628360317989228544"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1628496017476964353"
+            ],
+            "id": "1628496017476964353",
+            "created_at": "2023-02-22T20:44:41.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "NO WAIT LET THEM SPEAK https://t.co/a07abikqE5 https://t.co/x98Ijw4tJh",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 13,
+                  "quote_count": 0,
+                  "impression_count": 1971
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628427668646420480"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1628495714744700928"
+            ],
+            "id": "1628495714744700928",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 23,
+                              "end": 46,
+                              "url": "https://t.co/a07abikqE5",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1628495714744700928/photo/1",
+                              "display_url": "pic.twitter.com/a07abikqE5",
+                              "media_key": "3_1628495711095640064"
+                        },
+                        {
+                              "start": 47,
+                              "end": 70,
+                              "url": "https://t.co/x98Ijw4tJh",
+                              "expanded_url": "https://twitter.com/wildtiktokss/status/1628427668646420480",
+                              "display_url": "twitter.com/wildtiktokss/s\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-22T20:43:29.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "nugu lovers ew https://t.co/kCZFeGPuZR",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 60
+            },
+            "edit_history_tweet_ids": [
+                  "1628491012221054976"
+            ],
+            "id": "1628491012221054976",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 15,
+                              "end": 38,
+                              "url": "https://t.co/kCZFeGPuZR",
+                              "expanded_url": "https://twitter.com/quartzlatte/status/1628307245980172288",
+                              "display_url": "twitter.com/quartzlatte/st\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-22T20:24:47.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "dY\u00a3 https://t.co/He6rj98inm",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 47
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628117788857405461"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1628489231848046593"
+            ],
+            "id": "1628489231848046593",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 4,
+                              "end": 27,
+                              "url": "https://t.co/He6rj98inm",
+                              "expanded_url": "https://twitter.com/elonmusk/status/1628117788857405461",
+                              "display_url": "twitter.com/elonmusk/statu\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-22T20:17:43.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "but but sometimes i want to start shit unprovoked and its sm fun to talk about in therapy and my friends have really funny (concerning) reactions and opinions and did i mention we need group therapy in this essay i will- https://t.co/vW5LIzW3oe",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 108
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628155779772735488"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1628412532452098049"
+            ],
+            "id": "1628412532452098049",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 221,
+                              "end": 244,
+                              "url": "https://t.co/vW5LIzW3oe",
+                              "expanded_url": "https://twitter.com/mazedaarmasala/status/1628155779772735488",
+                              "display_url": "twitter.com/mazedaarmasala\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-22T15:12:56.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "me w men, without being oversimulated or anxious \ud83e\uddcd\u200d\u2640\ufe0f https://t.co/h6tDaVrmqW",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 125
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1627721890662842396"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1628411715460431877"
+            ],
+            "id": "1628411715460431877",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 54,
+                              "end": 77,
+                              "url": "https://t.co/h6tDaVrmqW",
+                              "expanded_url": "https://twitter.com/northstardoll/status/1627721890662842396",
+                              "display_url": "twitter.com/northstardoll/\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-22T15:09:42.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "the sexual tension bt me and drop course button for iml looking real good rn \ud83d\ude29",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 206
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 52,
+                              "end": 54,
+                              "probability": 0.5863,
+                              "type": "Other",
+                              "normalized_text": "iml"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1628411426317701120"
+            ],
+            "id": "1628411426317701120",
+            "created_at": "2023-02-22T15:08:33.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "personally i dont believe men",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 52
+            },
+            "edit_history_tweet_ids": [
+                  "1628391009179815936"
+            ],
+            "id": "1628391009179815936",
+            "created_at": "2023-02-22T13:47:25.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "eigenvalues my little meowmeow \ud83e\udd7a https://t.co/vfD9fYqKkI",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 74
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628267465263435777"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1628292539425112064"
+            ],
+            "id": "1628292539425112064",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 33,
+                              "end": 56,
+                              "url": "https://t.co/vfD9fYqKkI",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1628267465263435777",
+                              "display_url": "twitter.com/wdymaditi/stat\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-22T07:16:08.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "calc enabler outsold intro to ml actually https://t.co/vfD9fYqKkI",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 63
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 3,
+                              "probability": 0.6191,
+                              "type": "Other",
+                              "normalized_text": "calc"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 42,
+                              "end": 65,
+                              "url": "https://t.co/vfD9fYqKkI",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1628267465263435777",
+                              "display_url": "twitter.com/wdymaditi/stat\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1628267465263435777"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1628281995947311106"
+            ],
+            "id": "1628281995947311106",
+            "created_at": "2023-02-22T06:34:14.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "tweeting about math like how kpop fans tweet about their faves",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 1,
+                  "impression_count": 196
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 29,
+                              "end": 32,
+                              "probability": 0.5417,
+                              "type": "Other",
+                              "normalized_text": "kpop"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1628267465263435777"
+            ],
+            "id": "1628267465263435777",
+            "created_at": "2023-02-22T05:36:30.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "slept at 7 am, woke up at 10 am.\n\nnobody is doing it like me fr \ud83d\ude29",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 73
+            },
+            "edit_history_tweet_ids": [
+                  "1627547524843311104"
+            ],
+            "id": "1627547524843311104",
+            "created_at": "2023-02-20T05:55:42.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "AND I PLAY BOTHNSNSNSNSNZNNZJSHSHSJSJ https://t.co/NfTLRMssLe",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 46
+            },
+            "edit_history_tweet_ids": [
+                  "1627546683889586179"
+            ],
+            "id": "1627546683889586179",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 38,
+                              "end": 61,
+                              "url": "https://t.co/NfTLRMssLe",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1627546683889586179/photo/1",
+                              "display_url": "pic.twitter.com/NfTLRMssLe",
+                              "media_key": "3_1627546680806735873"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-20T05:52:22.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "PAUSE- https://t.co/TjuPhMW2sE",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 40
+            },
+            "edit_history_tweet_ids": [
+                  "1627546232980918273"
+            ],
+            "id": "1627546232980918273",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 7,
+                              "end": 30,
+                              "url": "https://t.co/TjuPhMW2sE",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1627546232980918273/photo/1",
+                              "display_url": "pic.twitter.com/TjuPhMW2sE",
+                              "media_key": "3_1627546229784842240"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-20T05:50:34.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "https://t.co/O9ss7c85Wo",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 86
+            },
+            "edit_history_tweet_ids": [
+                  "1627545864532267008"
+            ],
+            "id": "1627545864532267008",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/O9ss7c85Wo",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1627545864532267008/photo/1",
+                              "display_url": "pic.twitter.com/O9ss7c85Wo",
+                              "media_key": "3_1627545859893366784"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-20T05:49:07.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "i love thenmmm https://t.co/SILwJQ0rfB",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 34
+            },
+            "edit_history_tweet_ids": [
+                  "1627344377243906053"
+            ],
+            "id": "1627344377243906053",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 15,
+                              "end": 38,
+                              "url": "https://t.co/SILwJQ0rfB",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1627344377243906053/photo/1",
+                              "display_url": "pic.twitter.com/SILwJQ0rfB",
+                              "media_key": "3_1627344291441049603"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-19T16:28:28.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "SXREAMS LAUGHS CRIES DIES https://t.co/0JMz0wKsl7",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 95
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 6,
+                              "probability": 0.5663,
+                              "type": "Other",
+                              "normalized_text": "SXREAMS"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 26,
+                              "end": 49,
+                              "url": "https://t.co/0JMz0wKsl7",
+                              "expanded_url": "https://twitter.com/rosieskjs/status/1627040112117940224",
+                              "display_url": "twitter.com/rosieskjs/stat\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1627040112117940224"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1627113543186415617"
+            ],
+            "id": "1627113543186415617",
+            "created_at": "2023-02-19T01:11:13.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "Hi @seokjinslyrics @pjmlyricbot @hopelyricbot @RMlyricsbot @tetelyricbot @jjklyricbot @myglyricbot",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 3,
+                              "end": 18,
+                              "username": "seokjinslyrics",
+                              "id": "1356881860677177347"
+                        },
+                        {
+                              "start": 19,
+                              "end": 31,
+                              "username": "pjmlyricbot",
+                              "id": "1343175902969126913"
+                        },
+                        {
+                              "start": 32,
+                              "end": 45,
+                              "username": "hopelyricbot",
+                              "id": "1340825019476271105"
+                        },
+                        {
+                              "start": 46,
+                              "end": 58,
+                              "username": "RMlyricsbot",
+                              "id": "1386976494858145796"
+                        },
+                        {
+                              "start": 59,
+                              "end": 72,
+                              "username": "tetelyricbot",
+                              "id": "1260243505617629184"
+                        },
+                        {
+                              "start": 73,
+                              "end": 85,
+                              "username": "jjklyricbot",
+                              "id": "1341034303682068484"
+                        },
+                        {
+                              "start": 86,
+                              "end": 98,
+                              "username": "myglyricbot",
+                              "id": "1332852421014429697"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 5,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 2292
+            },
+            "edit_history_tweet_ids": [
+                  "1627102933845426177"
+            ],
+            "id": "1627102933845426177",
+            "created_at": "2023-02-19T00:29:04.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "MOTHER \ud83d\udde3\ud83d\udde3\ud83d\udde3 https://t.co/IYjjtz26A7",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 102
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1627050323251539971"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1627063599469596675"
+            ],
+            "id": "1627063599469596675",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 11,
+                              "end": 34,
+                              "url": "https://t.co/IYjjtz26A7",
+                              "expanded_url": "https://twitter.com/kpopsapphic/status/1627050323251539971",
+                              "display_url": "twitter.com/kpopsapphic/st\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-18T21:52:46.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "at what point does buying choco lavas from fuel zone become toooo many choco lavas from the fuel zone \ud83e\udd14",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 39
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 26,
+                              "end": 36,
+                              "probability": 0.5192,
+                              "type": "Organization",
+                              "normalized_text": "choco lavas"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1626969667914059776"
+            ],
+            "id": "1626969667914059776",
+            "created_at": "2023-02-18T15:39:31.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "druturtle https://t.co/GPaJ4SemqW",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 33
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 8,
+                              "probability": 0.4893,
+                              "type": "Other",
+                              "normalized_text": "druturtle"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 10,
+                              "end": 33,
+                              "url": "https://t.co/GPaJ4SemqW",
+                              "expanded_url": "https://twitter.com/superonlida/status/1626881805755506689",
+                              "display_url": "twitter.com/superonlida/st\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1626881805755506689"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626882761234731009"
+            ],
+            "id": "1626882761234731009",
+            "created_at": "2023-02-18T09:54:10.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "drumeal so slow https://t.co/GPaJ4SemqW",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 31
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 6,
+                              "probability": 0.7558,
+                              "type": "Other",
+                              "normalized_text": "drumeal"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 16,
+                              "end": 39,
+                              "url": "https://t.co/GPaJ4SemqW",
+                              "expanded_url": "https://twitter.com/superonlida/status/1626881805755506689",
+                              "display_url": "twitter.com/superonlida/st\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1626881805755506689"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626882711377022977"
+            ],
+            "id": "1626882711377022977",
+            "created_at": "2023-02-18T09:53:59.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "druchew https://t.co/GPaJ4SemqW",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 36
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 6,
+                              "probability": 0.4525,
+                              "type": "Other",
+                              "normalized_text": "druchew"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 8,
+                              "end": 31,
+                              "url": "https://t.co/GPaJ4SemqW",
+                              "expanded_url": "https://twitter.com/superonlida/status/1626881805755506689",
+                              "display_url": "twitter.com/superonlida/st\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1626881805755506689"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626882641990656002"
+            ],
+            "id": "1626882641990656002",
+            "created_at": "2023-02-18T09:53:42.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "druslow https://t.co/GPaJ4SemqW",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 34
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 6,
+                              "probability": 0.8246,
+                              "type": "Person",
+                              "normalized_text": "druslow"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 8,
+                              "end": 31,
+                              "url": "https://t.co/GPaJ4SemqW",
+                              "expanded_url": "https://twitter.com/superonlida/status/1626881805755506689",
+                              "display_url": "twitter.com/superonlida/st\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1626881805755506689"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626882410905505795"
+            ],
+            "id": "1626882410905505795",
+            "created_at": "2023-02-18T09:52:47.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "velma canonically lesbian noone can convince me otherwise, i will die on this hill \ud83e\udd0c",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 78
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 4,
+                              "probability": 0.5585,
+                              "type": "Other",
+                              "normalized_text": "velma"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1626852981735063554"
+            ],
+            "id": "1626852981735063554",
+            "created_at": "2023-02-18T07:55:50.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "missing seokjin hours",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 30
+            },
+            "edit_history_tweet_ids": [
+                  "1626851750836838400"
+            ],
+            "id": "1626851750836838400",
+            "created_at": "2023-02-18T07:50:57.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "cause he left for milk(tary)",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 42
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 23,
+                              "end": 26,
+                              "probability": 0.4957,
+                              "type": "Other",
+                              "normalized_text": "tary"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1626851273529253888"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626851474851655680"
+            ],
+            "id": "1626851474851655680",
+            "created_at": "2023-02-18T07:49:51.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "not seokjin pulling a dad move on me",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 52
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 4,
+                              "end": 10,
+                              "probability": 0.9045,
+                              "type": "Person",
+                              "normalized_text": "seokjin"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1626851273529253888"
+            ],
+            "id": "1626851273529253888",
+            "created_at": "2023-02-18T07:49:03.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "SAUR CUTE https://t.co/k5jYswElvj",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 48
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1626673688522153990"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626834647874404352"
+            ],
+            "id": "1626834647874404352",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 10,
+                              "end": 33,
+                              "url": "https://t.co/k5jYswElvj",
+                              "expanded_url": "https://twitter.com/PokemonGems/status/1626673688522153990",
+                              "display_url": "twitter.com/PokemonGems/st\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-18T06:42:59.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "@notanisha @notbaiju @annihilapestan LOOK",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 0,
+                              "end": 10,
+                              "username": "notanisha",
+                              "id": "854906623059513344"
+                        },
+                        {
+                              "start": 21,
+                              "end": 36,
+                              "username": "annihilapestan",
+                              "id": "1400763520447258625"
+                        }
+                  ]
+            },
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 67
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1626833943080337408"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626834434736652289"
+            ],
+            "id": "1626834434736652289",
+            "created_at": "2023-02-18T06:42:09.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "THE ONE ON THE RIGHT, WHY IS THIS ADHYA 24/7 \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d https://t.co/KVNoiSvBvS https://t.co/LEIvR5OxLD",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 106
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 34,
+                              "end": 38,
+                              "probability": 0.5567,
+                              "type": "Other",
+                              "normalized_text": "ADHYA"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 49,
+                              "end": 72,
+                              "url": "https://t.co/KVNoiSvBvS",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1626833943080337408/photo/1",
+                              "display_url": "pic.twitter.com/KVNoiSvBvS",
+                              "media_key": "3_1626833940194660353"
+                        },
+                        {
+                              "start": 73,
+                              "end": 96,
+                              "url": "https://t.co/LEIvR5OxLD",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1626833703350730752",
+                              "display_url": "twitter.com/wdymaditi/stat\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1626833703350730752"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626833943080337408"
+            ],
+            "id": "1626833943080337408",
+            "created_at": "2023-02-18T06:40:11.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "i found something that reminds me of adhya, WHY IS SHE NOT ON TWT YET??",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 1,
+                  "impression_count": 154
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 37,
+                              "end": 41,
+                              "probability": 0.7642,
+                              "type": "Other",
+                              "normalized_text": "adhya"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1626833703350730752"
+            ],
+            "id": "1626833703350730752",
+            "created_at": "2023-02-18T06:39:14.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "nvm its agneepagh",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 32
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 8,
+                              "end": 16,
+                              "probability": 0.7363,
+                              "type": "Other",
+                              "normalized_text": "agneepagh"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1626833083839451137"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626833177359831040"
+            ],
+            "id": "1626833177359831040",
+            "created_at": "2023-02-18T06:37:09.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "\"im a top\"\n\"im a bottom\"\n\nAND IM AT MY LIMIT \ud83d\udde3\n\nWHY TF IS THERE SCREAMINGSKSJJSJSNS",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 41
+            },
+            "edit_history_tweet_ids": [
+                  "1626833083839451137"
+            ],
+            "id": "1626833083839451137",
+            "created_at": "2023-02-18T06:36:46.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "woke up to ashokans screaming. WHY??? ITS TOO EARLY I WILL\nT H R O W \ud83e\udd3e\u200d\u2640\ufe0f https://t.co/lu2L6PNgtU",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 62
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 11,
+                              "end": 18,
+                              "probability": 0.6287,
+                              "type": "Other",
+                              "normalized_text": "ashokans"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 74,
+                              "end": 97,
+                              "url": "https://t.co/lu2L6PNgtU",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1626832706272391168/photo/1",
+                              "display_url": "pic.twitter.com/lu2L6PNgtU",
+                              "media_key": "3_1626832700224208896"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1626832706272391168"
+            ],
+            "id": "1626832706272391168",
+            "created_at": "2023-02-18T06:35:16.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "mips was better than x86 \ud83e\udd71",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 120
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 3,
+                              "probability": 0.7977,
+                              "type": "Other",
+                              "normalized_text": "mips"
+                        },
+                        {
+                              "start": 21,
+                              "end": 23,
+                              "probability": 0.8514,
+                              "type": "Other",
+                              "normalized_text": "x86"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1626702614888067074"
+            ],
+            "id": "1626702614888067074",
+            "created_at": "2023-02-17T21:58:20.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "3 am. shleepy. figured out 1/5th of a question.",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 25
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 6,
+                              "end": 12,
+                              "probability": 0.5454,
+                              "type": "Other",
+                              "normalized_text": "shleepy"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1626610218389094401"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626702431844446214"
+            ],
+            "id": "1626702431844446214",
+            "created_at": "2023-02-17T21:57:37.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "why they fumigating my workplace at 2 am \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\nbroke my entire flow and now im in bd when i resolved to stay up till 6 am\ud83d\udc80",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 33
+            },
+            "edit_history_tweet_ids": [
+                  "1626701898295422980"
+            ],
+            "id": "1626701898295422980",
+            "created_at": "2023-02-17T21:55:29.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "the day i finish the iml book, organize my closet, start waking up at 6, regularly do joint yoga, get a haircut, change my hair color, flip my wardrobe, work on my issues instead of ignoring them, drink tea regularly, touch grass, get my eyes checked, it will be OVER for yall fr",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 58
+            },
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 21,
+                              "end": 23,
+                              "probability": 0.5954,
+                              "type": "Other",
+                              "normalized_text": "iml"
+                        }
+                  ]
+            },
+            "edit_history_tweet_ids": [
+                  "1626619414992027648"
+            ],
+            "id": "1626619414992027648",
+            "created_at": "2023-02-17T16:27:44.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "im people https://t.co/XAU2LTB5rE",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 62
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1626613873502736385"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626613936098541569"
+            ],
+            "id": "1626613936098541569",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 10,
+                              "end": 33,
+                              "url": "https://t.co/XAU2LTB5rE",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1626613873502736385",
+                              "display_url": "twitter.com/wdymaditi/stat\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-17T16:05:58.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "some people are chronically online AND gay, like pick a struggle fr",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 1,
+                  "impression_count": 145
+            },
+            "edit_history_tweet_ids": [
+                  "1626613873502736385"
+            ],
+            "id": "1626613873502736385",
+            "created_at": "2023-02-17T16:05:43.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "ITS NORMAL WHEN IN DECEMBER OKAY \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 36
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1626612963766603776"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626613192259674112"
+            ],
+            "id": "1626613192259674112",
+            "created_at": "2023-02-17T16:03:00.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "...happened to me end of last sem and i got people looking at me like https://t.co/3ZPeJjEfKP https://t.co/BFC2dxt0Dm",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 104
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1626277282687111168"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626612963766603776"
+            ],
+            "id": "1626612963766603776",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 70,
+                              "end": 93,
+                              "url": "https://t.co/3ZPeJjEfKP",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1626612963766603776/photo/1",
+                              "display_url": "pic.twitter.com/3ZPeJjEfKP",
+                              "media_key": "3_1626612958909587456"
+                        },
+                        {
+                              "start": 94,
+                              "end": 117,
+                              "url": "https://t.co/BFC2dxt0Dm",
+                              "expanded_url": "https://twitter.com/mastiicore/status/1626277282687111168",
+                              "display_url": "twitter.com/mastiicore/sta\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-17T16:02:06.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "https://t.co/NyPzrGlJqF",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 79
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1626608724189282305"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626610218389094401"
+            ],
+            "id": "1626610218389094401",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/NyPzrGlJqF",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1626610218389094401/photo/1",
+                              "display_url": "pic.twitter.com/NyPzrGlJqF",
+                              "media_key": "3_1626610205156085762"
+                        },
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/NyPzrGlJqF",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1626610218389094401/photo/1",
+                              "display_url": "pic.twitter.com/NyPzrGlJqF",
+                              "media_key": "3_1626610212915523585"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-17T15:51:11.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "i lied. that was yesterday.",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 58
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1626608343178694656"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626608724189282305"
+            ],
+            "id": "1626608724189282305",
+            "created_at": "2023-02-17T15:45:15.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "yay. https://t.co/F7n4yaOivH",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 31
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1626607408327057408"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626608343178694656"
+            ],
+            "id": "1626608343178694656",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 5,
+                              "end": 28,
+                              "url": "https://t.co/F7n4yaOivH",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1626608343178694656/photo/1",
+                              "display_url": "pic.twitter.com/F7n4yaOivH",
+                              "media_key": "3_1626608332479016962"
+                        },
+                        {
+                              "start": 5,
+                              "end": 28,
+                              "url": "https://t.co/F7n4yaOivH",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1626608343178694656/photo/1",
+                              "display_url": "pic.twitter.com/F7n4yaOivH",
+                              "media_key": "3_1626608338011308033"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-17T15:43:44.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "livetweeting my os assignment- a thread",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 102
+            },
+            "edit_history_tweet_ids": [
+                  "1626607408327057408"
+            ],
+            "id": "1626607408327057408",
+            "created_at": "2023-02-17T15:40:01.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "i got confused bt stack and frame pointer and where tf does stack setup during early boot, like IK I HAVE DONE THIS BEFORE IN COS, IK I HAVE THE ANSWER IN MY NOTEBOOK\n\n.\n.\n.\nbut the notebook is in my room and walk who will \ud83e\udd7a",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 74
+            },
+            "edit_history_tweet_ids": [
+                  "1626604752116273152"
+            ],
+            "id": "1626604752116273152",
+            "created_at": "2023-02-17T15:29:28.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "me walking into class knowing linear regression has something to do with points projecting onto a line and DL is drivers license https://t.co/RZ6pUKWc08 https://t.co/iTACTMM26R",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 89
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1626602980236759040"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626603479631536128"
+            ],
+            "id": "1626603479631536128",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 129,
+                              "end": 152,
+                              "url": "https://t.co/RZ6pUKWc08",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1626603479631536128/photo/1",
+                              "display_url": "pic.twitter.com/RZ6pUKWc08",
+                              "media_key": "3_1626603475584045057"
+                        },
+                        {
+                              "start": 153,
+                              "end": 176,
+                              "url": "https://t.co/iTACTMM26R",
+                              "expanded_url": "https://twitter.com/wdymaditi/status/1626602980236759040",
+                              "display_url": "twitter.com/wdymaditi/stat\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-17T15:24:25.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "shouldn't have taken iml w/o lin alg WHAT IS GOING AWN IDK IDK IDK",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 1,
+                  "impression_count": 184
+            },
+            "edit_history_tweet_ids": [
+                  "1626602980236759040"
+            ],
+            "id": "1626602980236759040",
+            "created_at": "2023-02-17T15:22:25.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "rasananda maggi &gt;&gt;&gt;&gt;&gt;&gt;",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 76
+            },
+            "edit_history_tweet_ids": [
+                  "1626588698153455619"
+            ],
+            "id": "1626588698153455619",
+            "created_at": "2023-02-17T14:25:40.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "denial https://t.co/41FGpMfLEf",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 37
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1626145087024664577"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626146289108021248"
+            ],
+            "id": "1626146289108021248",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 7,
+                              "end": 30,
+                              "url": "https://t.co/41FGpMfLEf",
+                              "expanded_url": "https://twitter.com/superonlida/status/1626145087024664577",
+                              "display_url": "twitter.com/superonlida/st\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-16T09:07:42.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "okay da https://t.co/krYlo4FOx8",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 115
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1626143760446001155"
+                  }
+            ],
+            "edit_history_tweet_ids": [
+                  "1626144050318561280"
+            ],
+            "id": "1626144050318561280",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 8,
+                              "end": 31,
+                              "url": "https://t.co/krYlo4FOx8",
+                              "expanded_url": "https://twitter.com/superonlida/status/1626143760446001155",
+                              "display_url": "twitter.com/superonlida/st\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-16T08:58:48.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "this one fren trying out twt for the first time is so funneh",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 2,
+                  "impression_count": 215
+            },
+            "edit_history_tweet_ids": [
+                  "1626143817262059520"
+            ],
+            "id": "1626143817262059520",
+            "created_at": "2023-02-16T08:57:52.000Z"
+      },
+      {
+            "author_id": "1526409221469679617",
+            "text": "operating systems is not operating the way i wanted it to, might take p/f \ud83d\ude2d",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 40
+            },
+            "edit_history_tweet_ids": [
+                  "1625089489143205889"
+            ],
+            "id": "1625089489143205889",
+            "created_at": "2023-02-13T11:08:21.000Z"
+      }
+]

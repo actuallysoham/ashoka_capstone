@@ -1,0 +1,1554 @@
+[
+      {
+            "created_at": "2023-04-07T13:56:26.000Z",
+            "text": "thank you @vistaar_ashoka for letting me know the existence of this banger. \n\nhttps://t.co/zV3c4s1Evf",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 78,
+                              "end": 101,
+                              "url": "https://t.co/zV3c4s1Evf",
+                              "expanded_url": "https://open.spotify.com/track/5UE0kl2navyYw282JOOUgr?si=ovQFKlELQbGzqSlhQv1sEQ&dd=1",
+                              "display_url": "open.spotify.com/track/5UE0kl2n\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1644338347094196225/bs71kncD?format=jpg&name=orig",
+                                          "width": 640,
+                                          "height": 640
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1644338347094196225/bs71kncD?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "The Paisa Song (shinchan paisa paisa)",
+                              "description": "cozea \u00b7 Song \u00b7 1990",
+                              "unwound_url": "https://open.spotify.com/track/5UE0kl2navyYw282JOOUgr?si=ovQFKlELQbGzqSlhQv1sEQ&dd=1"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 10,
+                              "end": 25,
+                              "username": "vistaar_ashoka",
+                              "id": "1330444526209490944"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 206
+            },
+            "edit_history_tweet_ids": [
+                  "1644338346645413889"
+            ],
+            "id": "1644338346645413889"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 21,
+                              "end": 24,
+                              "probability": 0.8348,
+                              "type": "Person",
+                              "normalized_text": "elon"
+                        }
+                  ]
+            },
+            "created_at": "2023-04-03T18:14:06.000Z",
+            "text": "i wanna get whatever elon sir is on",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 2,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 495
+            },
+            "edit_history_tweet_ids": [
+                  "1642953636505620480"
+            ],
+            "id": "1642953636505620480"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1642884733351624706"
+                  }
+            ],
+            "created_at": "2023-04-03T13:47:46.000Z",
+            "text": "DMs open! https://t.co/dgHtFK6gHp",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 10,
+                              "end": 33,
+                              "url": "https://t.co/dgHtFK6gHp",
+                              "expanded_url": "https://twitter.com/kunksed/status/1642884733351624706",
+                              "display_url": "twitter.com/kunksed/status\u2026"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 692
+            },
+            "edit_history_tweet_ids": [
+                  "1642886611426836497"
+            ],
+            "id": "1642886611426836497"
+      },
+      {
+            "created_at": "2023-03-30T07:08:17.000Z",
+            "text": "y'all today's my 2 year anniversary with @StoaHQ \n\nhbd to us fr fr",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 41,
+                              "end": 48,
+                              "username": "StoaHQ",
+                              "id": "1310578301119864833"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 28,
+                  "quote_count": 0,
+                  "impression_count": 1493
+            },
+            "edit_history_tweet_ids": [
+                  "1641336528516382720"
+            ],
+            "id": "1641336528516382720"
+      },
+      {
+            "created_at": "2023-03-29T17:48:19.000Z",
+            "text": "hot take of the day. https://t.co/dXG76dsjVC",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 21,
+                              "end": 44,
+                              "url": "https://t.co/dXG76dsjVC",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1641135211235639308/photo/1",
+                              "display_url": "pic.twitter.com/dXG76dsjVC",
+                              "media_key": "3_1641135207305871360"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 834
+            },
+            "edit_history_tweet_ids": [
+                  "1641135211235639308"
+            ],
+            "id": "1641135211235639308"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 41,
+                              "end": 47,
+                              "probability": 0.9731,
+                              "type": "Other",
+                              "normalized_text": "Twitter"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-27T16:34:23.000Z",
+            "text": "lafda between two people i look up to on Twitter. \n\nvery interesting lafda tho, both seem to make sense to me. \n\nlet's see.",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 6,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 1541
+            },
+            "edit_history_tweet_ids": [
+                  "1640391827802198016"
+            ],
+            "id": "1640391827802198016"
+      },
+      {
+            "created_at": "2023-03-24T07:36:00.000Z",
+            "text": "some of y'all need an exorcism.\ntherapy isn't cutting it for ya.",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 7,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 1312
+            },
+            "edit_history_tweet_ids": [
+                  "1639169175250956290"
+            ],
+            "id": "1639169175250956290"
+      },
+      {
+            "created_at": "2023-03-23T06:33:02.000Z",
+            "text": "you can't spell pain without ai.",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 568
+            },
+            "edit_history_tweet_ids": [
+                  "1638790940709068800"
+            ],
+            "id": "1638790940709068800"
+      },
+      {
+            "created_at": "2023-03-22T17:55:14.000Z",
+            "text": "i am not crying, you are https://t.co/lVfd8YoUOG",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 25,
+                              "end": 48,
+                              "url": "https://t.co/lVfd8YoUOG",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1638600236464750592/photo/1",
+                              "display_url": "pic.twitter.com/lVfd8YoUOG",
+                              "media_key": "3_1638600227320897536"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 446
+            },
+            "edit_history_tweet_ids": [
+                  "1638600236464750592"
+            ],
+            "id": "1638600236464750592"
+      },
+      {
+            "created_at": "2023-03-21T20:13:07.000Z",
+            "text": "bangers only.\n\nhttps://t.co/xwyWjgohZQ https://t.co/7mZ5hR7HtR",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 15,
+                              "end": 38,
+                              "url": "https://t.co/xwyWjgohZQ",
+                              "expanded_url": "https://open.spotify.com/track/44uCMdE6RWnkOFYTtbmUUc?si=PKMwzhPaTz2UKT6ODbsr0w",
+                              "display_url": "open.spotify.com/track/44uCMdE6\u2026",
+                              "images": [
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1638272550756306944/knBCeEzK?format=jpg&name=orig",
+                                          "width": 640,
+                                          "height": 640
+                                    },
+                                    {
+                                          "url": "https://pbs.twimg.com/news_img/1638272550756306944/knBCeEzK?format=jpg&name=150x150",
+                                          "width": 150,
+                                          "height": 150
+                                    }
+                              ],
+                              "status": 200,
+                              "title": "Cherry Cola",
+                              "description": "Kuwada \u00b7 Song \u00b7 2018",
+                              "unwound_url": "https://open.spotify.com/track/44uCMdE6RWnkOFYTtbmUUc?si=PKMwzhPaTz2UKT6ODbsr0w"
+                        },
+                        {
+                              "start": 39,
+                              "end": 62,
+                              "url": "https://t.co/7mZ5hR7HtR",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1638272548608802816/photo/1",
+                              "display_url": "pic.twitter.com/7mZ5hR7HtR",
+                              "media_key": "3_1638272539028750338"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 136
+            },
+            "edit_history_tweet_ids": [
+                  "1638272548608802816"
+            ],
+            "id": "1638272548608802816"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 41,
+                              "end": 43,
+                              "probability": 0.72,
+                              "type": "Other",
+                              "normalized_text": "APM"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-21T08:17:56.000Z",
+            "text": "went for an interview for a role titled \"APM (Growth)\". \n\nthe cos said with a straight face that your job is to grow and manage the community. \n\nthe economy is really bad.",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 28,
+                  "quote_count": 0,
+                  "impression_count": 2756
+            },
+            "edit_history_tweet_ids": [
+                  "1638092566850576386"
+            ],
+            "id": "1638092566850576386"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 10,
+                              "end": 17,
+                              "probability": 0.4245,
+                              "type": "Other",
+                              "normalized_text": "vada pav"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 20,
+                              "end": 43,
+                              "url": "https://t.co/odQuxX7LI7",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1637431893011333126/photo/1",
+                              "display_url": "pic.twitter.com/odQuxX7LI7",
+                              "media_key": "3_1637431890494861313"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-19T12:32:39.000Z",
+            "text": "is this a vada pav? https://t.co/odQuxX7LI7",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 627
+            },
+            "edit_history_tweet_ids": [
+                  "1637431893011333126"
+            ],
+            "id": "1637431893011333126"
+      },
+      {
+            "created_at": "2023-03-18T13:41:44.000Z",
+            "text": "https://t.co/Fe0X1RRSSj",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/Fe0X1RRSSj",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1637086888451293185/photo/1",
+                              "display_url": "pic.twitter.com/Fe0X1RRSSj",
+                              "media_key": "3_1637086884986773509"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 9,
+                  "quote_count": 0,
+                  "impression_count": 379
+            },
+            "edit_history_tweet_ids": [
+                  "1637086888451293185"
+            ],
+            "id": "1637086888451293185"
+      },
+      {
+            "created_at": "2023-03-16T18:26:16.000Z",
+            "text": "bestest founders. https://t.co/R919Qf1jgU",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 18,
+                              "end": 41,
+                              "url": "https://t.co/R919Qf1jgU",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1636433716770684951/photo/1",
+                              "display_url": "pic.twitter.com/R919Qf1jgU",
+                              "media_key": "3_1636433713486544909"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 885
+            },
+            "edit_history_tweet_ids": [
+                  "1636433716770684951"
+            ],
+            "id": "1636433716770684951"
+      },
+      {
+            "created_at": "2023-03-16T08:42:53.000Z",
+            "text": "it's been 974 days for me in this ecosystem. \n\ni still don't understand the concept of stealth startups.",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 790
+            },
+            "edit_history_tweet_ids": [
+                  "1636286903149547520"
+            ],
+            "id": "1636286903149547520"
+      },
+      {
+            "created_at": "2023-03-15T16:45:11.000Z",
+            "text": "genuinely asking why is somebody called a prompt engineer and not a prompt writer?\n\ntechnically, you are writing a prompt which outputs a response, not engineering a response.",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 779
+            },
+            "edit_history_tweet_ids": [
+                  "1636045891139252224"
+            ],
+            "id": "1636045891139252224"
+      },
+      {
+            "created_at": "2023-03-14T12:51:35.000Z",
+            "text": "simply outrageous. https://t.co/o7WKX7CTNb",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 19,
+                              "end": 42,
+                              "url": "https://t.co/o7WKX7CTNb",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1635624716072554497/photo/1",
+                              "display_url": "pic.twitter.com/o7WKX7CTNb",
+                              "media_key": "3_1635624695176261634"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 21,
+                  "quote_count": 1,
+                  "impression_count": 2136
+            },
+            "edit_history_tweet_ids": [
+                  "1635624716072554497"
+            ],
+            "id": "1635624716072554497"
+      },
+      {
+            "created_at": "2023-03-14T11:24:02.000Z",
+            "text": "your fav out of the three:",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 625
+            },
+            "edit_history_tweet_ids": [
+                  "1635602685868273665"
+            ],
+            "id": "1635602685868273665"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 33,
+                              "end": 37,
+                              "probability": 0.87,
+                              "type": "Place",
+                              "normalized_text": "India"
+                        },
+                        {
+                              "start": 39,
+                              "end": 44,
+                              "probability": 0.8619,
+                              "type": "Organization",
+                              "normalized_text": "google"
+                        },
+                        {
+                              "start": 55,
+                              "end": 57,
+                              "probability": 0.5344,
+                              "type": "Organization",
+                              "normalized_text": "MBA"
+                        },
+                        {
+                              "start": 79,
+                              "end": 84,
+                              "probability": 0.9028,
+                              "type": "Organization",
+                              "normalized_text": "Google"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 94,
+                              "end": 117,
+                              "url": "https://t.co/78quwkBhKZ",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1635269031371608064/photo/1",
+                              "display_url": "pic.twitter.com/78quwkBhKZ",
+                              "media_key": "3_1635268223372345347"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-13T13:18:13.000Z",
+            "text": "did a treemap on which places in India google the term MBA the most.\n\n(source: Google trends) https://t.co/78quwkBhKZ",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 1024
+            },
+            "edit_history_tweet_ids": [
+                  "1635269031371608064"
+            ],
+            "id": "1635269031371608064"
+      },
+      {
+            "created_at": "2023-03-13T12:43:51.000Z",
+            "text": "Mad stat by @Stats_of_India https://t.co/UPhSTZhs4C",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 28,
+                              "end": 51,
+                              "url": "https://t.co/UPhSTZhs4C",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1635260380808347649/photo/1",
+                              "display_url": "pic.twitter.com/UPhSTZhs4C",
+                              "media_key": "3_1635260348105125889"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 12,
+                              "end": 27,
+                              "username": "Stats_of_India",
+                              "id": "1392907431575838721"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 5,
+                  "reply_count": 1,
+                  "like_count": 40,
+                  "quote_count": 3,
+                  "impression_count": 8607
+            },
+            "edit_history_tweet_ids": [
+                  "1635260380808347649"
+            ],
+            "id": "1635260380808347649"
+      },
+      {
+            "created_at": "2023-03-12T09:05:49.000Z",
+            "text": "which is better?",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 4,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 539
+            },
+            "edit_history_tweet_ids": [
+                  "1634843124781686784"
+            ],
+            "id": "1634843124781686784"
+      },
+      {
+            "created_at": "2023-03-11T18:47:02.000Z",
+            "text": "https://t.co/7mmrxwEkHw",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/7mmrxwEkHw",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1634627006678863872/photo/1",
+                              "display_url": "pic.twitter.com/7mmrxwEkHw",
+                              "media_key": "3_1634626993487503360"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 2,
+                  "like_count": 23,
+                  "quote_count": 0,
+                  "impression_count": 1598
+            },
+            "edit_history_tweet_ids": [
+                  "1634627006678863872"
+            ],
+            "id": "1634627006678863872"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1634413961356656642"
+                  }
+            ],
+            "created_at": "2023-03-11T15:00:46.000Z",
+            "text": "SVB crisis in a tweet. https://t.co/wqcBAbEdGM",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 23,
+                              "end": 46,
+                              "url": "https://t.co/wqcBAbEdGM",
+                              "expanded_url": "https://twitter.com/soham_pablo/status/1634413961356656642",
+                              "display_url": "twitter.com/soham_pablo/st\u2026"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 312
+            },
+            "edit_history_tweet_ids": [
+                  "1634570060902592512"
+            ],
+            "id": "1634570060902592512"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1634545463138590722"
+                  }
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 67,
+                              "end": 76,
+                              "probability": 0.5746,
+                              "type": "Other",
+                              "normalized_text": "peri fries"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-11T13:27:54.000Z",
+            "text": "they did give a free meal tho. \n\nalso til that u can get mini peri peri fries???",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 203
+            },
+            "edit_history_tweet_ids": [
+                  "1634546692774133765"
+            ],
+            "id": "1634546692774133765"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 4,
+                              "end": 8,
+                              "probability": 0.3891,
+                              "type": "Other",
+                              "normalized_text": "dabur"
+                        },
+                        {
+                              "start": 20,
+                              "end": 25,
+                              "probability": 0.5519,
+                              "type": "Other",
+                              "normalized_text": "odomos"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 46,
+                              "end": 69,
+                              "url": "https://t.co/xpzgnezPfc",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1634546377874178049/photo/1",
+                              "display_url": "pic.twitter.com/xpzgnezPfc",
+                              "media_key": "3_1634546289483431936"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-11T13:26:39.000Z",
+            "text": "buy dabur share cuz odomos sales gonna stonk. https://t.co/xpzgnezPfc",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 417
+            },
+            "edit_history_tweet_ids": [
+                  "1634546377874178049"
+            ],
+            "id": "1634546377874178049"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 6,
+                              "end": 8,
+                              "probability": 0.654,
+                              "type": "Other",
+                              "normalized_text": "THC"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 57,
+                              "end": 80,
+                              "url": "https://t.co/HPI1gI7Xud",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1634545463138590722/photo/1",
+                              "display_url": "pic.twitter.com/HPI1gI7Xud",
+                              "media_key": "3_1634545459048972288"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-11T13:23:01.000Z",
+            "text": "asked THC for an internship, got rejected in their DMs \ud83d\ude29 https://t.co/HPI1gI7Xud",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 1195
+            },
+            "edit_history_tweet_ids": [
+                  "1634545463138590722"
+            ],
+            "id": "1634545463138590722"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1633334724931489792"
+                  }
+            ],
+            "created_at": "2023-03-08T08:24:59.000Z",
+            "text": "Build a business slowly. https://t.co/ygZTm4SKBg",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 25,
+                              "end": 48,
+                              "url": "https://t.co/ygZTm4SKBg",
+                              "expanded_url": "https://twitter.com/BehereBaba/status/1633334724931489792",
+                              "display_url": "twitter.com/BehereBaba/sta\u2026"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 431
+            },
+            "edit_history_tweet_ids": [
+                  "1633383296829648897"
+            ],
+            "id": "1633383296829648897"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 8,
+                              "end": 13,
+                              "probability": 0.5524,
+                              "type": "Other",
+                              "normalized_text": "purify"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 16,
+                              "end": 39,
+                              "url": "https://t.co/kuW7bvM7ad",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1632843137935888384/photo/1",
+                              "display_url": "pic.twitter.com/kuW7bvM7ad",
+                              "media_key": "3_1632843135167373318"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-06T20:38:35.000Z",
+            "text": "burn to purify. https://t.co/kuW7bvM7ad",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 646
+            },
+            "edit_history_tweet_ids": [
+                  "1632843137935888384"
+            ],
+            "id": "1632843137935888384"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1631063608632254465"
+                  }
+            ],
+            "created_at": "2023-03-01T23:58:46.000Z",
+            "text": "the copywriter you need but don't deserve \ud83d\udc4f https://t.co/dE240eEXYZ",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 44,
+                              "end": 67,
+                              "url": "https://t.co/dE240eEXYZ",
+                              "expanded_url": "https://twitter.com/kartikablenews/status/1631063608632254465",
+                              "display_url": "twitter.com/kartikablenews\u2026"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 397
+            },
+            "edit_history_tweet_ids": [
+                  "1631081578410676224"
+            ],
+            "id": "1631081578410676224"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 5,
+                              "probability": 0.4882,
+                              "type": "Other",
+                              "normalized_text": "true g"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 7,
+                              "end": 30,
+                              "url": "https://t.co/Fe7594XgVR",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1631015106757943296/photo/1",
+                              "display_url": "pic.twitter.com/Fe7594XgVR",
+                              "media_key": "3_1631015102815309824"
+                        }
+                  ]
+            },
+            "created_at": "2023-03-01T19:34:38.000Z",
+            "text": "true g https://t.co/Fe7594XgVR",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 336
+            },
+            "edit_history_tweet_ids": [
+                  "1631015106757943296"
+            ],
+            "id": "1631015106757943296"
+      },
+      {
+            "created_at": "2023-03-01T18:29:08.000Z",
+            "text": "can now drink in yellow and green states https://t.co/eSGSwPu818",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 41,
+                              "end": 64,
+                              "url": "https://t.co/eSGSwPu818",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1630998622694412288/photo/1",
+                              "display_url": "pic.twitter.com/eSGSwPu818",
+                              "media_key": "3_1630998616189067265"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 1042
+            },
+            "edit_history_tweet_ids": [
+                  "1630998622694412288"
+            ],
+            "id": "1630998622694412288"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1630936345119010817"
+                  }
+            ],
+            "created_at": "2023-03-01T15:05:56.000Z",
+            "text": "absolute king. https://t.co/fsz1mAEDOd",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 15,
+                              "end": 38,
+                              "url": "https://t.co/fsz1mAEDOd",
+                              "expanded_url": "https://twitter.com/KTRBRS/status/1630936345119010817",
+                              "display_url": "twitter.com/KTRBRS/status/\u2026"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 379
+            },
+            "edit_history_tweet_ids": [
+                  "1630947482661429248"
+            ],
+            "id": "1630947482661429248"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 52,
+                              "end": 59,
+                              "probability": 0.388,
+                              "type": "Other",
+                              "normalized_text": "Pitchers"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 76,
+                              "end": 99,
+                              "url": "https://t.co/112rzquhNo",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1625533124338909184/photo/1",
+                              "display_url": "pic.twitter.com/112rzquhNo",
+                              "media_key": "3_1625533120446627840"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-14T16:31:12.000Z",
+            "text": "why's my univ's entrepreneurship dept screening TVF Pitchers on valentine's https://t.co/112rzquhNo",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 993
+            },
+            "edit_history_tweet_ids": [
+                  "1625533124338909184"
+            ],
+            "id": "1625533124338909184"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1625102558061809664"
+                  }
+            ],
+            "created_at": "2023-02-13T13:42:29.000Z",
+            "text": "best sound ever. https://t.co/KmEe1h3PHT",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 17,
+                              "end": 40,
+                              "url": "https://t.co/KmEe1h3PHT",
+                              "expanded_url": "https://twitter.com/adityarao310/status/1625102558061809664",
+                              "display_url": "twitter.com/adityarao310/s\u2026"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 491
+            },
+            "edit_history_tweet_ids": [
+                  "1625128276967493633"
+            ],
+            "id": "1625128276967493633"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1625054788542156803"
+                  }
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 11,
+                              "end": 17,
+                              "probability": 0.8442,
+                              "type": "Place",
+                              "normalized_text": "Udaipur"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 71,
+                              "end": 94,
+                              "url": "https://t.co/0j8TkIOLl9",
+                              "expanded_url": "https://twitter.com/SwapAgarwal/status/1625054788542156803",
+                              "display_url": "twitter.com/SwapAgarwal/st\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-13T10:43:35.000Z",
+            "text": "pull up to Udaipur and watch me complete my college course in a week \ud83d\ude24 https://t.co/0j8TkIOLl9",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 1961
+            },
+            "edit_history_tweet_ids": [
+                  "1625083254872371200"
+            ],
+            "id": "1625083254872371200"
+      },
+      {
+            "created_at": "2023-02-12T19:33:46.000Z",
+            "text": "my most used emoji after starting to work with @adityarao310 \n\n\ud83d\ude07",
+            "entities": {
+                  "mentions": [
+                        {
+                              "start": 47,
+                              "end": 60,
+                              "username": "adityarao310",
+                              "id": "16922531"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 394
+            },
+            "edit_history_tweet_ids": [
+                  "1624854294880210945"
+            ],
+            "id": "1624854294880210945"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1624167988885852160"
+                  }
+            ],
+            "created_at": "2023-02-10T22:08:23.000Z",
+            "text": "https://t.co/HP18vsXkY2",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 0,
+                              "end": 23,
+                              "url": "https://t.co/HP18vsXkY2",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1624168427559723010/photo/1",
+                              "display_url": "pic.twitter.com/HP18vsXkY2",
+                              "media_key": "3_1624168424187510784"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 219
+            },
+            "edit_history_tweet_ids": [
+                  "1624168427559723010"
+            ],
+            "id": "1624168427559723010"
+      },
+      {
+            "created_at": "2023-02-10T22:06:38.000Z",
+            "text": "thread of underrated bars.\n\nthe music ones. not the ones where you drink. \ud83d\udc47",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 907
+            },
+            "edit_history_tweet_ids": [
+                  "1624167988885852160"
+            ],
+            "id": "1624167988885852160"
+      },
+      {
+            "created_at": "2023-02-08T08:56:27.000Z",
+            "text": "woke up and found out my fav seniors are all either placed or have gotten an admit. \n\nmajor W.",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 949
+            },
+            "edit_history_tweet_ids": [
+                  "1623244354453377024"
+            ],
+            "id": "1623244354453377024"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 52,
+                              "end": 59,
+                              "probability": 0.446,
+                              "type": "Other",
+                              "normalized_text": "sarkaari"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-07T14:40:54.000Z",
+            "text": "the worst insult i can think of is to call somebody sarkaari.",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 670
+            },
+            "edit_history_tweet_ids": [
+                  "1622968649605840897"
+            ],
+            "id": "1622968649605840897"
+      },
+      {
+            "created_at": "2023-02-06T08:24:58.000Z",
+            "text": "my biggest takeaway from this week is understanding how fkn underrated great customer support is. \n\nmassive empathy and patience required but my god what a boost to sales.",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 12,
+                  "quote_count": 0,
+                  "impression_count": 781
+            },
+            "edit_history_tweet_ids": [
+                  "1622511655828750336"
+            ],
+            "id": "1622511655828750336"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 72,
+                              "end": 77,
+                              "probability": 0.575,
+                              "type": "Other",
+                              "normalized_text": "dhanda"
+                        }
+                  ],
+                  "mentions": [
+                        {
+                              "start": 83,
+                              "end": 96,
+                              "username": "adityarao310",
+                              "id": "16922531"
+                        }
+                  ]
+            },
+            "created_at": "2023-02-01T21:01:19.000Z",
+            "text": "customer 1 is fluke.\ncustomer 3 is luck.\n5 customers is when you have a dhanda.\n\n- @adityarao310",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 259
+            },
+            "edit_history_tweet_ids": [
+                  "1620890058957139968"
+            ],
+            "id": "1620890058957139968"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1617540013817827330"
+                  }
+            ],
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 6,
+                              "probability": 0.8246,
+                              "type": "Other",
+                              "normalized_text": "ChatGPT"
+                        },
+                        {
+                              "start": 40,
+                              "end": 47,
+                              "probability": 0.7354,
+                              "type": "Person",
+                              "normalized_text": "Socrates"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 60,
+                              "end": 83,
+                              "url": "https://t.co/qvCiS1NCz9",
+                              "expanded_url": "https://twitter.com/asxna/status/1617540013817827330",
+                              "display_url": "twitter.com/asxna/status/1\u2026"
+                        }
+                  ]
+            },
+            "created_at": "2023-01-23T19:03:41.000Z",
+            "text": "ChatGPT wouldn't have thrived if it had Socrates as a user. https://t.co/qvCiS1NCz9",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 246
+            },
+            "edit_history_tweet_ids": [
+                  "1617598963494027266"
+            ],
+            "id": "1617598963494027266"
+      },
+      {
+            "created_at": "2023-01-23T06:04:34.000Z",
+            "text": "laut aao bisleri watercooler.",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 297
+            },
+            "edit_history_tweet_ids": [
+                  "1617402895871397888"
+            ],
+            "id": "1617402895871397888"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 14,
+                              "end": 18,
+                              "probability": 0.4435,
+                              "type": "Person",
+                              "normalized_text": "Kaapi"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 31,
+                              "end": 54,
+                              "url": "https://t.co/h2m3Gp3nLy",
+                              "expanded_url": "https://twitter.com/thevisahan/status/1614635765039767554/photo/1",
+                              "display_url": "pic.twitter.com/h2m3Gp3nLy",
+                              "media_key": "3_1614635636962594817"
+                        }
+                  ]
+            },
+            "created_at": "2023-01-15T14:48:59.000Z",
+            "text": "loved this on Kaapi's website. https://t.co/h2m3Gp3nLy",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 1405
+            },
+            "edit_history_tweet_ids": [
+                  "1614635765039767554"
+            ],
+            "id": "1614635765039767554"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1613232045970300928"
+                  }
+            ],
+            "created_at": "2023-01-11T19:51:42.000Z",
+            "text": "help this nice person na https://t.co/ncNpTKbDtw",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 25,
+                              "end": 48,
+                              "url": "https://t.co/ncNpTKbDtw",
+                              "expanded_url": "https://twitter.com/BehereBaba/status/1613232045970300928",
+                              "display_url": "twitter.com/BehereBaba/sta\u2026"
+                        }
+                  ]
+            },
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 0,
+                  "quote_count": 0,
+                  "impression_count": 232
+            },
+            "edit_history_tweet_ids": [
+                  "1613262396126011399"
+            ],
+            "id": "1613262396126011399"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 63,
+                              "end": 70,
+                              "probability": 0.9163,
+                              "type": "Other",
+                              "normalized_text": "LinkedIn"
+                        },
+                        {
+                              "start": 81,
+                              "end": 87,
+                              "probability": 0.9716,
+                              "type": "Other",
+                              "normalized_text": "Twitter"
+                        },
+                        {
+                              "start": 112,
+                              "end": 119,
+                              "probability": 0.8708,
+                              "type": "Other",
+                              "normalized_text": "LinkedIn"
+                        }
+                  ]
+            },
+            "created_at": "2023-01-11T19:17:40.000Z",
+            "text": "we have reached full full-cycle, now that we're posting cringe LinkedIn posts on Twitter and making a humourous LinkedIn post out of it. \n\nmeta-social.",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 335
+            },
+            "edit_history_tweet_ids": [
+                  "1613253828043743242"
+            ],
+            "id": "1613253828043743242"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 15,
+                              "end": 19,
+                              "probability": 0.9917,
+                              "type": "Place",
+                              "normalized_text": "Dubai"
+                        }
+                  ]
+            },
+            "created_at": "2023-01-09T18:21:51.000Z",
+            "text": "going to be in Dubai for the next 5 days \ud83c\udde6\ud83c\uddea\n\nanybody on my TL who's there, HMU!!!",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 2,
+                  "quote_count": 0,
+                  "impression_count": 563
+            },
+            "edit_history_tweet_ids": [
+                  "1612515009292034062"
+            ],
+            "id": "1612515009292034062"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 9,
+                              "end": 23,
+                              "probability": 0.6987,
+                              "type": "Organization",
+                              "normalized_text": "Kerala Blasters"
+                        },
+                        {
+                              "start": 71,
+                              "end": 79,
+                              "probability": 0.9447,
+                              "type": "Other",
+                              "normalized_text": "Instagram"
+                        },
+                        {
+                              "start": 87,
+                              "end": 93,
+                              "probability": 0.9596,
+                              "type": "Person",
+                              "normalized_text": "Ronaldo"
+                        },
+                        {
+                              "start": 109,
+                              "end": 116,
+                              "probability": 0.9045,
+                              "type": "Person",
+                              "normalized_text": "Al Nassr"
+                        }
+                  ]
+            },
+            "created_at": "2023-01-05T06:54:39.000Z",
+            "text": "TIL that Kerala Blasters were the most followed Asian football club on Instagram until Ronaldo's transfer to Al Nassr",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 602
+            },
+            "edit_history_tweet_ids": [
+                  "1610892517020504065"
+            ],
+            "id": "1610892517020504065"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 36,
+                              "end": 42,
+                              "probability": 0.6872,
+                              "type": "Other",
+                              "normalized_text": "Kannada"
+                        },
+                        {
+                              "start": 110,
+                              "end": 118,
+                              "probability": 0.5933,
+                              "type": "Other",
+                              "normalized_text": "Malayalam"
+                        }
+                  ]
+            },
+            "created_at": "2023-01-04T07:45:43.000Z",
+            "text": "folks, what's the best way to learn Kannada?\n\nlooking at online resources primarily. fluent in Tamil and know Malayalam &amp; Telugu so it's not entirely new ground to cover. \n\nplis help.",
+            "author_id": "3117347938",
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 1416
+            },
+            "edit_history_tweet_ids": [
+                  "1610542979722379265"
+            ],
+            "id": "1610542979722379265"
+      }
+]

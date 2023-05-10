@@ -1,0 +1,1084 @@
+[
+      {
+            "id": "1642825697747148801",
+            "text": "Bas yahi reh gaya tha https://t.co/58Tkus8DFx",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1642825697747148801"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 22,
+                  "quote_count": 0,
+                  "impression_count": 528
+            },
+            "created_at": "2023-04-03T09:45:43.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 22,
+                              "end": 45,
+                              "url": "https://t.co/58Tkus8DFx",
+                              "expanded_url": "https://twitter.com/manishxrajani/status/1642825697747148801/photo/1",
+                              "display_url": "pic.twitter.com/58Tkus8DFx",
+                              "media_key": "3_1642825668844036096"
+                        }
+                  ]
+            }
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 9,
+                              "probability": 0.7155,
+                              "type": "Person",
+                              "normalized_text": "ted muesli"
+                        }
+                  ]
+            },
+            "id": "1641943311866032129",
+            "text": "ted muesli",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1641943311866032129"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 104
+            },
+            "created_at": "2023-03-31T23:19:26.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 86,
+                              "end": 91,
+                              "probability": 0.3807,
+                              "type": "Organization",
+                              "normalized_text": "paneer"
+                        }
+                  ]
+            },
+            "id": "1640299864998158337",
+            "text": "remembering my childhood self who used to think cottage industry means people selling paneer",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1640299864998158337"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 232
+            },
+            "created_at": "2023-03-27T10:28:57.000Z"
+      },
+      {
+            "id": "1639906376322527232",
+            "text": "ashoka liberal arts college toh tha hi, ab metro station bhi bann Gaya hai. Apne hi college mei aane ke pehle bags/pockets check ho rahe",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1639906376322527232"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 16,
+                  "quote_count": 0,
+                  "impression_count": 579
+            },
+            "created_at": "2023-03-26T08:25:22.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 64,
+                              "end": 69,
+                              "probability": 0.6177,
+                              "type": "Other",
+                              "normalized_text": "Ashoka"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 86,
+                              "end": 109,
+                              "url": "https://t.co/oFZotE3bNF",
+                              "expanded_url": "https://twitter.com/Chaik0_00/status/1638796145077137408",
+                              "display_url": "twitter.com/Chaik0_00/stat\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1638796145077137408"
+                  }
+            ],
+            "id": "1639279688076996612",
+            "text": "for a second there i thought this is yet another joke about the Ashoka ENT department https://t.co/oFZotE3bNF",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1639279688076996612"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 202
+            },
+            "created_at": "2023-03-24T14:55:08.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 82,
+                              "end": 92,
+                              "probability": 0.8898,
+                              "type": "Place",
+                              "normalized_text": "Delhi metro"
+                        }
+                  ]
+            },
+            "id": "1639225766495027200",
+            "text": "playing musical chairs as a child prepares you for finding yourself a seat in the Delhi metro as soon as the door opens in front of you",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1639225766495027200"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 25,
+                  "quote_count": 0,
+                  "impression_count": 494
+            },
+            "created_at": "2023-03-24T11:20:52.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 64,
+                              "end": 69,
+                              "probability": 0.4956,
+                              "type": "Other",
+                              "normalized_text": "samosa"
+                        }
+                  ]
+            },
+            "id": "1638828937899053056",
+            "text": "you know you've grown up if you start liking the insides of the samosa more than the outside",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1638828937899053056"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 189
+            },
+            "created_at": "2023-03-23T09:04:01.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 28,
+                              "end": 33,
+                              "probability": 0.8654,
+                              "type": "Organization",
+                              "normalized_text": "KitKat"
+                        }
+                  ]
+            },
+            "id": "1638141863256379399",
+            "text": "has anyone tried biting the KitKat bench yet",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1638141863256379399"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 10,
+                  "quote_count": 0,
+                  "impression_count": 245
+            },
+            "created_at": "2023-03-21T11:33:50.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 29,
+                              "end": 34,
+                              "probability": 0.6167,
+                              "type": "Other",
+                              "normalized_text": "ghuiya"
+                        }
+                  ]
+            },
+            "id": "1638071522387709952",
+            "text": "I don't know why people use \"ghuiya\" as a replacement for \"bullsh*t\". I think it's a perfectly respectable vegetable and its good name should not be tainted like this",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1638071522387709952"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 6,
+                  "quote_count": 0,
+                  "impression_count": 268
+            },
+            "created_at": "2023-03-21T06:54:19.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 18,
+                              "probability": 0.5881,
+                              "type": "Person",
+                              "normalized_text": "peri peri pani puri"
+                        }
+                  ]
+            },
+            "id": "1633242494212378626",
+            "text": "peri peri pani puri sounds like something that just came out of a rap verse but I definitely wanna try it",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1633242494212378626"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 1,
+                  "quote_count": 0,
+                  "impression_count": 164
+            },
+            "created_at": "2023-03-07T23:05:29.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 50,
+                              "end": 57,
+                              "probability": 0.7821,
+                              "type": "Other",
+                              "normalized_text": "besharam"
+                        }
+                  ]
+            },
+            "id": "1632764928997171200",
+            "text": "apologies to my dorm neighbours who heard me sing besharam rang in my room in the name of practice",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1632764928997171200"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 757
+            },
+            "created_at": "2023-03-06T15:27:49.000Z"
+      },
+      {
+            "id": "1630621973511540736",
+            "text": "almost sent my default \"extension granted\" email to a person who emailed about their lost wallet",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1630621973511540736"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 16,
+                  "quote_count": 0,
+                  "impression_count": 503
+            },
+            "created_at": "2023-02-28T17:32:28.000Z"
+      },
+      {
+            "id": "1630159119964573698",
+            "text": "who called it infirmary and not doc center",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1630159119964573698"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 21,
+                  "quote_count": 0,
+                  "impression_count": 438
+            },
+            "created_at": "2023-02-27T10:53:15.000Z"
+      },
+      {
+            "id": "1630071686430334976",
+            "text": "I pray before I eat, every time I'm eating at the mess. I'm not religious or anything - I just pray that I don't get food poisoning",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1630071686430334976"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 34,
+                  "quote_count": 0,
+                  "impression_count": 1080
+            },
+            "created_at": "2023-02-27T05:05:49.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 26,
+                              "end": 28,
+                              "probability": 0.4789,
+                              "type": "Organization",
+                              "normalized_text": "MBA"
+                        }
+                  ]
+            },
+            "id": "1624677460385337345",
+            "text": "if the house ghost did an MBA, would you then call them booth uncle",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1624677460385337345"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 2,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 449
+            },
+            "created_at": "2023-02-12T07:51:06.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 6,
+                              "probability": 0.7913,
+                              "type": "Other",
+                              "normalized_text": "pathaan"
+                        },
+                        {
+                              "start": 59,
+                              "end": 79,
+                              "probability": 0.8423,
+                              "type": "Other",
+                              "normalized_text": "Ben 10 Ultimate Alien"
+                        }
+                  ]
+            },
+            "id": "1622252706860781569",
+            "text": "pathaan is a great movie but the first half reminded me of Ben 10 Ultimate Alien ngl",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1622252706860781569"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 479
+            },
+            "created_at": "2023-02-05T15:15:59.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 12,
+                              "end": 22,
+                              "probability": 0.6004,
+                              "type": "Other",
+                              "normalized_text": "Linkin Park"
+                        },
+                        {
+                              "start": 42,
+                              "end": 54,
+                              "probability": 0.8331,
+                              "type": "Other",
+                              "normalized_text": "LinkedIn Park"
+                        }
+                  ]
+            },
+            "id": "1619771023435632640",
+            "text": "was writing Linkin Park, ended up writing LinkedIn Park. What have I become",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1619771023435632640"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 309
+            },
+            "created_at": "2023-01-29T18:54:40.000Z"
+      },
+      {
+            "id": "1619641256308772865",
+            "text": "chholapalooza https://t.co/3Bw8EQa5Gq",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1619641256308772865"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 15,
+                  "quote_count": 0,
+                  "impression_count": 589
+            },
+            "created_at": "2023-01-29T10:19:01.000Z",
+            "entities": {
+                  "urls": [
+                        {
+                              "start": 14,
+                              "end": 37,
+                              "url": "https://t.co/3Bw8EQa5Gq",
+                              "expanded_url": "https://twitter.com/manishxrajani/status/1619641256308772865/photo/1",
+                              "display_url": "pic.twitter.com/3Bw8EQa5Gq",
+                              "media_key": "3_1619641251384655872"
+                        }
+                  ]
+            }
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 38,
+                              "end": 44,
+                              "probability": 0.5246,
+                              "type": "Other",
+                              "normalized_text": "warikoo"
+                        },
+                        {
+                              "start": 50,
+                              "end": 58,
+                              "probability": 0.4957,
+                              "type": "Person",
+                              "normalized_text": "Spiderman"
+                        }
+                  ]
+            },
+            "id": "1619426604282945536",
+            "text": "this one first year really used ankur warikoo and Spiderman in the same sentence - kya generation hai ye",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1619426604282945536"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 341
+            },
+            "created_at": "2023-01-28T20:06:04.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 30,
+                              "end": 32,
+                              "probability": 0.7446,
+                              "type": "Other",
+                              "normalized_text": "NFS"
+                        },
+                        {
+                              "start": 120,
+                              "end": 131,
+                              "probability": 0.4455,
+                              "type": "Place",
+                              "normalized_text": "jahangirpuri"
+                        }
+                  ]
+            },
+            "id": "1619030308296486913",
+            "text": "who needs a gaming PC to play NFS when I can just have an immersive car racing game experience on the 11pm shuttle from jahangirpuri to campus",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1619030308296486913"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 397
+            },
+            "created_at": "2023-01-27T17:51:20.000Z"
+      },
+      {
+            "id": "1618910364896464897",
+            "text": "Gurgaon ki shaadi mei Brazil bajaane ka kya point hai DJ bhai",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1618910364896464897"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 11,
+                  "quote_count": 0,
+                  "impression_count": 457
+            },
+            "created_at": "2023-01-27T09:54:43.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 22,
+                              "end": 27,
+                              "probability": 0.751,
+                              "type": "Person",
+                              "normalized_text": "Ashoka"
+                        }
+                  ]
+            },
+            "id": "1618260643215454209",
+            "text": "For a University like Ashoka, it's very hard to know whether aspiring PM means Prime Minister or Product Manager",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1618260643215454209"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 96,
+                  "quote_count": 0,
+                  "impression_count": 3392
+            },
+            "created_at": "2023-01-25T14:52:57.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 17,
+                              "end": 28,
+                              "probability": 0.7419,
+                              "type": "Other",
+                              "normalized_text": "lollapalooza"
+                        }
+                  ]
+            },
+            "id": "1617884464864178178",
+            "text": "gonna have \"sold lollapalooza ticket\" as an item on my resume to demonstrate my sales and negotiation experience",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1617884464864178178"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 35,
+                  "quote_count": 0,
+                  "impression_count": 1256
+            },
+            "created_at": "2023-01-24T13:58:09.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 34,
+                              "end": 42,
+                              "probability": 0.8947,
+                              "type": "Person",
+                              "normalized_text": "Chai Shai"
+                        },
+                        {
+                              "start": 99,
+                              "end": 105,
+                              "probability": 0.4943,
+                              "type": "Other",
+                              "normalized_text": "Nescafe"
+                        },
+                        {
+                              "start": 110,
+                              "end": 123,
+                              "probability": 0.5823,
+                              "type": "Person",
+                              "normalized_text": "Coffee Shoffee"
+                        }
+                  ]
+            },
+            "id": "1617407826829410304",
+            "text": "in solidarity with the concept of Chai Shai, I vote for changing the new coffee outlet's name from Nescafe to Coffee Shoffee",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1617407826829410304"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 33,
+                  "quote_count": 0,
+                  "impression_count": 846
+            },
+            "created_at": "2023-01-23T06:24:10.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 13,
+                              "end": 15,
+                              "probability": 0.6925,
+                              "type": "Place",
+                              "normalized_text": "Goa"
+                        },
+                        {
+                              "start": 84,
+                              "end": 89,
+                              "probability": 0.4619,
+                              "type": "Organization",
+                              "normalized_text": "Zomato"
+                        }
+                  ]
+            },
+            "id": "1616330944968794113",
+            "text": "I've been in Goa this week and today's my last day. I ordered myself breakfast from Zomato and the food packet said 2446 in a large font, which is also the course code for my only incomplete course from last sem. I don't know if I should take this as an insult or a wake-up call",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1616330944968794113"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 3,
+                  "like_count": 48,
+                  "quote_count": 0,
+                  "impression_count": 1856
+            },
+            "created_at": "2023-01-20T07:05:01.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 139,
+                              "end": 151,
+                              "probability": 0.8654,
+                              "type": "Other",
+                              "normalized_text": "Zomato bhaiya"
+                        }
+                  ]
+            },
+            "id": "1611609215872937986",
+            "text": "what happened to people? Back then, they used to talk about how you should never take food from a stranger - now you're taking it from the Zomato bhaiya almost daily",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1611609215872937986"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 538
+            },
+            "created_at": "2023-01-07T06:22:33.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 2,
+                              "probability": 0.3792,
+                              "type": "Other",
+                              "normalized_text": "ENT"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 38,
+                              "end": 61,
+                              "url": "https://t.co/ORs68mi2AM",
+                              "expanded_url": "https://twitter.com/bucctower/status/1610686211525414922",
+                              "display_url": "twitter.com/bucctower/stat\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1610686211525414922"
+                  }
+            ],
+            "id": "1611362444357828613",
+            "text": "ENT dudes took this one too seriously https://t.co/ORs68mi2AM",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1611362444357828613"
+            ],
+            "public_metrics": {
+                  "retweet_count": 1,
+                  "reply_count": 0,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 920
+            },
+            "created_at": "2023-01-06T14:01:59.000Z"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1611297106333171718"
+                  }
+            ],
+            "id": "1611297110154170368",
+            "text": "Grading is overall a nice experience during your first TAship. As I end my third, I understand that it's probably one of the worst nightmares a person can wish upon themselves. \nI like teaching, I hate grading. But yes, that's it. Others, feel free to add.",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1611297110154170368"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 583
+            },
+            "created_at": "2023-01-06T09:42:22.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 4,
+                              "probability": 0.6533,
+                              "type": "Other",
+                              "normalized_text": "Vivas"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1611297102625394690"
+                  }
+            ],
+            "id": "1611297106333171718",
+            "text": "Vivas, the student's biggest enemy. The worst thing you can do to your graders is schedule a slot and not come for your slot. We're left waiting because of you and we can't do our own stuff. The same is the case for office hours - barely anyone shows up.",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1611297106333171718"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 526
+            },
+            "created_at": "2023-01-06T09:42:21.000Z"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1611297099244793856"
+                  }
+            ],
+            "id": "1611297102625394690",
+            "text": "grading on classroom comments then adding everything up and uploading it on classroom assignment and then uploading it on sheets too. Next time I have to do this, I will automate it. I can't tolerate the process",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1611297102625394690"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 0,
+                  "impression_count": 396
+            },
+            "created_at": "2023-01-06T09:42:20.000Z"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1611297095629275136"
+                  }
+            ],
+            "id": "1611297099244793856",
+            "text": "why are you unnecessarily arrogant with us if we gave you one mark less on an assignment which won't do anything to your final grade at all? Please understand that we're also people and if you care about nothing else then at least for societal standards, you should be nicer to us",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1611297099244793856"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 1,
+                  "impression_count": 619
+            },
+            "created_at": "2023-01-06T09:42:19.000Z"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1611297092173201408"
+                  }
+            ],
+            "id": "1611297095629275136",
+            "text": "Going through the same thing written in 70 different ways (not always though, people copy paste also), for several different questions, that too in one sitting, I will not wish that upon my worst enemies. My brain cells feel like exploding sometimes",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1611297095629275136"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 3,
+                  "quote_count": 1,
+                  "impression_count": 490
+            },
+            "created_at": "2023-01-06T09:42:18.000Z"
+      },
+      {
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1611297088608030722"
+                  }
+            ],
+            "id": "1611297092173201408",
+            "text": "people will write anything to fetch \"step marks\". Arey bhai, kuch likh rahe ho toh soch ke likho and agar bina soche likha hai toh argument kyu karna hai??",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1611297092173201408"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 4,
+                  "quote_count": 0,
+                  "impression_count": 375
+            },
+            "created_at": "2023-01-06T09:42:17.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 0,
+                              "end": 7,
+                              "probability": 0.6425,
+                              "type": "Other",
+                              "normalized_text": "Bhai kyu"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "replied_to",
+                        "id": "1611297086796075008"
+                  }
+            ],
+            "id": "1611297088608030722",
+            "text": "Bhai kyu plagiarise karte ho itna blatantly? It's not like we don't understand what you're doing. If we're letting it go, don't assume you fooled us. We just let it go.\nYou made AI write your assignment? wow, it wasn't obvious at all.",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1611297088608030722"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 8,
+                  "quote_count": 0,
+                  "impression_count": 426
+            },
+            "created_at": "2023-01-06T09:42:17.000Z"
+      },
+      {
+            "id": "1611297086796075008",
+            "text": "Grading undergraduates, a thread:\nOther TAs and Profs, feel free to add things.",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1611297086796075008"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 1332
+            },
+            "created_at": "2023-01-06T09:42:16.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 48,
+                              "end": 54,
+                              "probability": 0.9796,
+                              "type": "Other",
+                              "normalized_text": "Twitter"
+                        }
+                  ]
+            },
+            "id": "1611040679723143168",
+            "text": "why is everyone dissing the ENT dept so much on Twitter?? Guys they're fine...",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1611040679723143168"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 7,
+                  "quote_count": 0,
+                  "impression_count": 593
+            },
+            "created_at": "2023-01-05T16:43:24.000Z"
+      },
+      {
+            "id": "1611029163804327939",
+            "text": "kaun hai ye stealth startup founder\nJo meri LinkedIn profile roz dekhta hai",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1611029163804327939"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 0,
+                  "like_count": 5,
+                  "quote_count": 0,
+                  "impression_count": 185
+            },
+            "created_at": "2023-01-05T15:57:38.000Z"
+      },
+      {
+            "id": "1610541107032752128",
+            "text": "Went to the passport office today and saw them asking a 2 yo for his high school pass certificate",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1610541107032752128"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 2,
+                  "like_count": 22,
+                  "quote_count": 0,
+                  "impression_count": 896
+            },
+            "created_at": "2023-01-04T07:38:16.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 23,
+                              "end": 37,
+                              "probability": 0.846,
+                              "type": "Other",
+                              "normalized_text": "Scholastic Book"
+                        }
+                  ],
+                  "urls": [
+                        {
+                              "start": 79,
+                              "end": 102,
+                              "url": "https://t.co/mEIOZ4e90L",
+                              "expanded_url": "https://twitter.com/ErinBlaskie/status/1609677399653769222",
+                              "display_url": "twitter.com/ErinBlaskie/st\u2026"
+                        }
+                  ]
+            },
+            "referenced_tweets": [
+                  {
+                        "type": "quoted",
+                        "id": "1609677399653769222"
+                  }
+            ],
+            "id": "1609775874118942722",
+            "text": "getting books from the Scholastic Book fair - ultimate demonstration of wealth https://t.co/mEIOZ4e90L",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1609775874118942722"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 14,
+                  "quote_count": 0,
+                  "impression_count": 672
+            },
+            "created_at": "2023-01-02T04:57:31.000Z"
+      },
+      {
+            "entities": {
+                  "annotations": [
+                        {
+                              "start": 101,
+                              "end": 107,
+                              "probability": 0.5939,
+                              "type": "Other",
+                              "normalized_text": "Baingan"
+                        },
+                        {
+                              "start": 125,
+                              "end": 128,
+                              "probability": 0.5498,
+                              "type": "Other",
+                              "normalized_text": "Bain"
+                        }
+                  ]
+            },
+            "id": "1609605194786144256",
+            "text": "if consulting comedy pages had an Indian version, I'm sure it would have jokes like \"you can't spell Baingan without saying 'Bain' hahahahah\"",
+            "author_id": "1321784679616278530",
+            "edit_history_tweet_ids": [
+                  "1609605194786144256"
+            ],
+            "public_metrics": {
+                  "retweet_count": 0,
+                  "reply_count": 1,
+                  "like_count": 20,
+                  "quote_count": 0,
+                  "impression_count": 863
+            },
+            "created_at": "2023-01-01T17:39:18.000Z"
+      }
+]
